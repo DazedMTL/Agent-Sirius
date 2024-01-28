@@ -1,0 +1,175 @@
+[
+    null,
+    {
+        "id": 1,
+        "battlerName": "Actor1_1",
+        "characterIndex": 0,
+        "characterName": "歩行紅",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "紅顔ぐら",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 5,
+        "name": "朱雀　紅",
+        "nickname": "",
+        "note": "<SBI画像:紅笑み>\n<PE拡張:\\}危険性を持っている。最近、自慰行為のヴァリエーションを求め\n\\}大人の玩具おもちゃに手を出そうと考えている>",
+        "profile": "\\}性癖は現在はノーマルだが、少しアブノーマルな性的概念にも強い\n\\}憧れを抱いている為、踏み外すととんでもない方向へ目覚めてしまう"
+    },
+    {
+        "id": 2,
+        "battlerName": "Actor1_1",
+        "characterIndex": 4,
+        "characterName": "歩行紅",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "紅顔ぐら",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 5,
+        "name": "朱雀　紅",
+        "nickname": "",
+        "note": "<SBI画像:紅堕仮面笑み2>\n<PE拡張:\\}危険性を持っている。最近、自慰行為のヴァリエーションを求め\n\\}大人の玩具おもちゃに手を出そうと考えている>",
+        "profile": "\\}性癖は現在はノーマルだが、少しアブノーマルな性的概念にも強い\n\\}憧れを抱いている為、踏み外すととんでもない方向へ目覚めてしまう"
+    },
+    {
+        "id": 3,
+        "battlerName": "Actor3_8",
+        "characterIndex": 1,
+        "characterName": "歩行紅",
+        "classId": 1,
+        "equips": [
+            3,
+            0,
+            2
+        ],
+        "faceIndex": 0,
+        "faceName": "紅顔ぐら",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 5,
+        "name": "エージェントシリウス",
+        "nickname": "",
+        "note": "<SBI画像:シリウス笑み>\n<PE拡張:\\}危険性を持っている。最近、自慰行為のヴァリエーションを求め\n\\}大人の玩具おもちゃに手を出そうと考えている>",
+        "profile": ""
+    },
+    {
+        "id": 4,
+        "battlerName": "Actor1_1",
+        "characterIndex": 2,
+        "characterName": "歩行紅",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "紅顔ぐら",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 5,
+        "name": "朱雀　紅",
+        "nickname": "",
+        "note": "<SBI画像:紅クローズ笑み1>\n<PE拡張:\\}危険性を持っている。最近、自慰行為のヴァリエーションを求め\n\\}大人の玩具おもちゃに手を出そうと考えている>",
+        "profile": "\\}性癖は現在はノーマルだが、少しアブノーマルな性的概念にも強い\n\\}憧れを抱いている為、踏み外すととんでもない方向へ目覚めてしまう"
+    },
+    {
+        "id": 5,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "!$フリーダム",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "フリーダム",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 6,
+        "battlerName": "Actor1_1",
+        "characterIndex": 6,
+        "characterName": "歩行撫子",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 5,
+        "name": "白虎　撫子",
+        "nickname": "",
+        "note": "<SBI画像:撫子エージェント笑み>\n<PE拡張:\\}>",
+        "profile": ""
+    },
+    {
+        "id": 7,
+        "battlerName": "Actor1_1",
+        "characterIndex": 0,
+        "characterName": "歩行紅",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "紅顔ぐら",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 5,
+        "name": "朱雀　紅",
+        "nickname": "",
+        "note": "<SBI画像:紅リバース笑み>\n<PE拡張:\\}危険性を持っている。最近、自慰行為のヴァリエーションを求め\n\\}大人の玩具おもちゃに手を出そうと考えている>",
+        "profile": "\\}性癖は現在はノーマルだが、少しアブノーマルな性的概念にも強い\n\\}憧れを抱いている為、踏み外すととんでもない方向へ目覚めてしまう"
+    },
+    {
+        "id": 8,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    }
+]

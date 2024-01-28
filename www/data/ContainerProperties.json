@@ -1,0 +1,118 @@
+{
+    "Scene_Title": {
+        "WindowLayer": {
+            "0,Window_TitleCommand": {
+                "x": 102,
+                "y": 280,
+                "width": 240,
+                "height": 220,
+                "opacity": 255,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": "装甲明朝"
+            }
+        }
+    },
+    "Scene_Menu": {
+        "WindowLayer": {
+            "2,Window_MenuStatus": {
+                "x": 766,
+                "y": 22,
+                "width": 128,
+                "height": 624,
+                "opacity": 0,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            },
+            "0,Window_MenuCommand": {
+                "x": 47,
+                "y": 107,
+                "width": 240,
+                "height": 324,
+                "opacity": 255,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": "装甲明朝"
+            },
+            "1,Window_Gold": {
+                "x": 0,
+                "y": 443,
+                "width": 1,
+                "height": 72,
+                "opacity": 255,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            }
+        }
+    },
+    "Scene_Map": {
+        "Scene_Map": {
+            "3,Window_MapHpGauge": {
+                "x": 0,
+                "y": 0,
+                "width": 200,
+                "height": 140,
+                "opacity": 128,
+                "hidden": false,
+                "_customFontSize": "48",
+                "_customPadding": "130",
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": "装甲明朝"
+            }
+        },
+        "WindowLayer": {
+            "6,Window_VariableInfo": {
+                "x": 566,
+                "y": 0,
+                "width": 250,
+                "height": 72,
+                "opacity": 255,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": "装甲明朝"
+            }
+        }
+    },
+    "Scene_Status": {
+        "WindowLayer": {
+            "0,Window_Status": {
+                "x": 0,
+                "y": 0,
+                "width": 816,
+                "height": 624,
+                "opacity": 255,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": "装甲明朝"
+            }
+        }
+    }
+}

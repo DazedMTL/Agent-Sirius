@@ -1,0 +1,1848 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "テストマップ",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 2,
+        "expanded": false,
+        "name": "１話・ブラインド校門",
+        "order": 3,
+        "parentId": 0,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 3,
+        "expanded": false,
+        "name": "OP",
+        "order": 35,
+        "parentId": 2,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 4,
+        "expanded": false,
+        "name": "学校玄関",
+        "order": 36,
+        "parentId": 3,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "西１階",
+        "order": 37,
+        "parentId": 3,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "西２階",
+        "order": 38,
+        "parentId": 5,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 7,
+        "expanded": false,
+        "name": "西３階",
+        "order": 40,
+        "parentId": 5,
+        "scrollX": 880.5,
+        "scrollY": 470
+    },
+    {
+        "id": 8,
+        "expanded": false,
+        "name": "2B",
+        "order": 39,
+        "parentId": 6,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 9,
+        "expanded": true,
+        "name": "東１階",
+        "order": 41,
+        "parentId": 3,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 10,
+        "expanded": false,
+        "name": "東２階",
+        "order": 42,
+        "parentId": 9,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 11,
+        "expanded": true,
+        "name": "東３階",
+        "order": 43,
+        "parentId": 9,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 12,
+        "expanded": false,
+        "name": "部室",
+        "order": 44,
+        "parentId": 11,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "王国１",
+        "order": 45,
+        "parentId": 3,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 14,
+        "expanded": false,
+        "name": "王国２",
+        "order": 46,
+        "parentId": 13,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 15,
+        "expanded": true,
+        "name": "学校玄関/1話",
+        "order": 4,
+        "parentId": 2,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 16,
+        "expanded": true,
+        "name": "西１階/1話",
+        "order": 22,
+        "parentId": 2,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 17,
+        "expanded": true,
+        "name": "西２階/1話",
+        "order": 26,
+        "parentId": 2,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "2B/1話",
+        "order": 28,
+        "parentId": 17,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 19,
+        "expanded": true,
+        "name": "西３階/1話",
+        "order": 30,
+        "parentId": 2,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 20,
+        "expanded": true,
+        "name": "東１階/1話",
+        "order": 8,
+        "parentId": 2,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 21,
+        "expanded": true,
+        "name": "東２階/1話",
+        "order": 12,
+        "parentId": 2,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 22,
+        "expanded": true,
+        "name": "東３階/1話",
+        "order": 17,
+        "parentId": 2,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 23,
+        "expanded": true,
+        "name": "部室/1話",
+        "order": 18,
+        "parentId": 22,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 24,
+        "expanded": false,
+        "name": "暗空間",
+        "order": 5,
+        "parentId": 2,
+        "scrollX": 1708.5,
+        "scrollY": 961.5
+    },
+    {
+        "id": 25,
+        "expanded": false,
+        "name": "渡り廊下/1話",
+        "order": 6,
+        "parentId": 2,
+        "scrollX": 1708.5,
+        "scrollY": 961.5
+    },
+    {
+        "id": 26,
+        "expanded": false,
+        "name": "２F中庭/1話",
+        "order": 7,
+        "parentId": 2,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 27,
+        "expanded": true,
+        "name": "視聴覚室",
+        "order": 13,
+        "parentId": 21,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 28,
+        "expanded": false,
+        "name": "化学室",
+        "order": 21,
+        "parentId": 22,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 29,
+        "expanded": false,
+        "name": "音楽室",
+        "order": 20,
+        "parentId": 22,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "テストマップ2",
+        "order": 2,
+        "parentId": 1,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 31,
+        "expanded": true,
+        "name": "1A/１話",
+        "order": 23,
+        "parentId": 16,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 32,
+        "expanded": true,
+        "name": "1B",
+        "order": 24,
+        "parentId": 16,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 33,
+        "expanded": false,
+        "name": "1C",
+        "order": 25,
+        "parentId": 16,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 34,
+        "expanded": true,
+        "name": "2A",
+        "order": 27,
+        "parentId": 17,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 35,
+        "expanded": true,
+        "name": "2C/1話",
+        "order": 29,
+        "parentId": 17,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 36,
+        "expanded": false,
+        "name": "視聴覚室ブラインド戦ダンジョン",
+        "order": 14,
+        "parentId": 27,
+        "scrollX": 2692,
+        "scrollY": 5950.666666666667
+    },
+    {
+        "id": 37,
+        "expanded": true,
+        "name": "3A",
+        "order": 31,
+        "parentId": 19,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 38,
+        "expanded": true,
+        "name": "3B",
+        "order": 32,
+        "parentId": 19,
+        "scrollX": 674.4,
+        "scrollY": 555.6
+    },
+    {
+        "id": 39,
+        "expanded": true,
+        "name": "3C/１話",
+        "order": 33,
+        "parentId": 19,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 40,
+        "expanded": true,
+        "name": "校長室",
+        "order": 9,
+        "parentId": 20,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 41,
+        "expanded": false,
+        "name": "保健室",
+        "order": 10,
+        "parentId": 20,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 42,
+        "expanded": true,
+        "name": "図書室",
+        "order": 48,
+        "parentId": 0,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 43,
+        "expanded": false,
+        "name": "生徒会室",
+        "order": 16,
+        "parentId": 21,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 44,
+        "expanded": true,
+        "name": "職員室",
+        "order": 11,
+        "parentId": 20,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 45,
+        "expanded": false,
+        "name": "屋上",
+        "order": 34,
+        "parentId": 2,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 46,
+        "expanded": false,
+        "name": "敗北イベント用マップ",
+        "order": 47,
+        "parentId": 0,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 47,
+        "expanded": false,
+        "name": "部室/堕ち後探索",
+        "order": 19,
+        "parentId": 23,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 48,
+        "expanded": true,
+        "name": "視聴覚室堕ち後２",
+        "order": 15,
+        "parentId": 27,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 49,
+        "expanded": false,
+        "name": "王国（回想用）",
+        "order": 49,
+        "parentId": 42,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 50,
+        "expanded": true,
+        "name": "敗北ブラインド",
+        "order": 50,
+        "parentId": 42,
+        "scrollX": 1708.5,
+        "scrollY": 961.5
+    },
+    {
+        "id": 51,
+        "expanded": false,
+        "name": "病院",
+        "order": 84,
+        "parentId": 52,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 52,
+        "expanded": false,
+        "name": "2話・クローズ校門",
+        "order": 53,
+        "parentId": 0,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 53,
+        "expanded": true,
+        "name": "学校玄関/２話",
+        "order": 54,
+        "parentId": 52,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 54,
+        "expanded": false,
+        "name": "渡り廊下/2話",
+        "order": 55,
+        "parentId": 52,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 55,
+        "expanded": false,
+        "name": "２F中庭/2話",
+        "order": 56,
+        "parentId": 52,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 56,
+        "expanded": true,
+        "name": "東１階/2話",
+        "order": 57,
+        "parentId": 52,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 57,
+        "expanded": true,
+        "name": "校長室/２話",
+        "order": 58,
+        "parentId": 56,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 58,
+        "expanded": true,
+        "name": "保健室/２話",
+        "order": 59,
+        "parentId": 56,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 59,
+        "expanded": true,
+        "name": "職員室/２話",
+        "order": 61,
+        "parentId": 56,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 60,
+        "expanded": true,
+        "name": "東２階/２話",
+        "order": 62,
+        "parentId": 52,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 61,
+        "expanded": true,
+        "name": "視聴覚室/２話",
+        "order": 63,
+        "parentId": 60,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 62,
+        "expanded": false,
+        "name": "生徒会室/２話",
+        "order": 64,
+        "parentId": 60,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 63,
+        "expanded": true,
+        "name": "東３階/２話",
+        "order": 65,
+        "parentId": 52,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 64,
+        "expanded": true,
+        "name": "部室/２話",
+        "order": 66,
+        "parentId": 63,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 65,
+        "expanded": false,
+        "name": "音楽室/２話",
+        "order": 67,
+        "parentId": 63,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 66,
+        "expanded": false,
+        "name": "化学室/２話",
+        "order": 68,
+        "parentId": 63,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 67,
+        "expanded": true,
+        "name": "西１階/２話",
+        "order": 69,
+        "parentId": 52,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 68,
+        "expanded": true,
+        "name": "1A/２話",
+        "order": 70,
+        "parentId": 67,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 69,
+        "expanded": true,
+        "name": "1B/２話",
+        "order": 71,
+        "parentId": 67,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 70,
+        "expanded": false,
+        "name": "1C",
+        "order": 72,
+        "parentId": 67,
+        "scrollX": 674.4,
+        "scrollY": 555.6
+    },
+    {
+        "id": 71,
+        "expanded": true,
+        "name": "西２階/２話",
+        "order": 73,
+        "parentId": 52,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 72,
+        "expanded": true,
+        "name": "2A",
+        "order": 74,
+        "parentId": 71,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 73,
+        "expanded": true,
+        "name": "2B/２話",
+        "order": 75,
+        "parentId": 71,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 74,
+        "expanded": true,
+        "name": "2C/２話",
+        "order": 77,
+        "parentId": 71,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 75,
+        "expanded": true,
+        "name": "西３階/２話",
+        "order": 78,
+        "parentId": 52,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 76,
+        "expanded": true,
+        "name": "3A",
+        "order": 79,
+        "parentId": 75,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 77,
+        "expanded": true,
+        "name": "3B/２話",
+        "order": 80,
+        "parentId": 75,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 78,
+        "expanded": true,
+        "name": "3C/２話",
+        "order": 81,
+        "parentId": 75,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 79,
+        "expanded": true,
+        "name": "屋上/２話",
+        "order": 82,
+        "parentId": 75,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 80,
+        "expanded": true,
+        "name": "水泳部",
+        "order": 85,
+        "parentId": 52,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 81,
+        "expanded": false,
+        "name": "MAP081",
+        "order": 86,
+        "parentId": 80,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 82,
+        "expanded": false,
+        "name": "MAP082",
+        "order": 87,
+        "parentId": 80,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 83,
+        "expanded": false,
+        "name": "MAP083",
+        "order": 88,
+        "parentId": 80,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 84,
+        "expanded": false,
+        "name": "MAP084",
+        "order": 89,
+        "parentId": 80,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 85,
+        "expanded": false,
+        "name": "MAP085",
+        "order": 90,
+        "parentId": 80,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 86,
+        "expanded": false,
+        "name": "MAP086",
+        "order": 91,
+        "parentId": 80,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 87,
+        "expanded": false,
+        "name": "MAP087",
+        "order": 92,
+        "parentId": 80,
+        "scrollX": 1242.5454545454545,
+        "scrollY": 699.2727272727273
+    },
+    {
+        "id": 88,
+        "expanded": false,
+        "name": "MAP088",
+        "order": 93,
+        "parentId": 80,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 89,
+        "expanded": false,
+        "name": "保健室/クローズ撃破",
+        "order": 60,
+        "parentId": 58,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 90,
+        "expanded": true,
+        "name": "水泳部(堕ち後",
+        "order": 94,
+        "parentId": 80,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 91,
+        "expanded": true,
+        "name": "水泳部(堕ち後２",
+        "order": 95,
+        "parentId": 80,
+        "scrollX": 1708.5,
+        "scrollY": 961.5
+    },
+    {
+        "id": 92,
+        "expanded": false,
+        "name": "2B/堕ち後",
+        "order": 76,
+        "parentId": 73,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 93,
+        "expanded": false,
+        "name": "屋上/２話堕ち後",
+        "order": 83,
+        "parentId": 79,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 94,
+        "expanded": true,
+        "name": "水泳部（撫子堕ち用",
+        "order": 96,
+        "parentId": 80,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 95,
+        "expanded": false,
+        "name": "３話・リバース校門",
+        "order": 98,
+        "parentId": 0,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 96,
+        "expanded": true,
+        "name": "学校玄関/３話",
+        "order": 99,
+        "parentId": 95,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 97,
+        "expanded": false,
+        "name": "渡り廊下/３話",
+        "order": 100,
+        "parentId": 95,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 98,
+        "expanded": false,
+        "name": "２F中庭/３話",
+        "order": 101,
+        "parentId": 95,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 99,
+        "expanded": true,
+        "name": "東１階/３話",
+        "order": 102,
+        "parentId": 95,
+        "scrollX": 992,
+        "scrollY": 624
+    },
+    {
+        "id": 100,
+        "expanded": true,
+        "name": "校長室/３話",
+        "order": 103,
+        "parentId": 99,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 101,
+        "expanded": true,
+        "name": "保健室/３話",
+        "order": 104,
+        "parentId": 99,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 102,
+        "expanded": true,
+        "name": "職員室/３話",
+        "order": 105,
+        "parentId": 99,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 103,
+        "expanded": true,
+        "name": "東２階/３話",
+        "order": 107,
+        "parentId": 95,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 104,
+        "expanded": true,
+        "name": "視聴覚室/３話",
+        "order": 108,
+        "parentId": 103,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 105,
+        "expanded": true,
+        "name": "生徒会室/３話",
+        "order": 109,
+        "parentId": 103,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 106,
+        "expanded": false,
+        "name": "東３階/３話",
+        "order": 111,
+        "parentId": 95,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 107,
+        "expanded": true,
+        "name": "部室/OP",
+        "order": 112,
+        "parentId": 106,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 108,
+        "expanded": false,
+        "name": "音楽室/３話",
+        "order": 115,
+        "parentId": 106,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 109,
+        "expanded": false,
+        "name": "化学室/３話",
+        "order": 116,
+        "parentId": 106,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 110,
+        "expanded": true,
+        "name": "西１階/３話",
+        "order": 117,
+        "parentId": 95,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 111,
+        "expanded": true,
+        "name": "1A/３話",
+        "order": 118,
+        "parentId": 110,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 112,
+        "expanded": true,
+        "name": "1B/３話",
+        "order": 119,
+        "parentId": 110,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 113,
+        "expanded": false,
+        "name": "1C",
+        "order": 120,
+        "parentId": 110,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 114,
+        "expanded": true,
+        "name": "西２階/３話",
+        "order": 121,
+        "parentId": 95,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 115,
+        "expanded": true,
+        "name": "2A",
+        "order": 122,
+        "parentId": 114,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 116,
+        "expanded": true,
+        "name": "2B/３話",
+        "order": 123,
+        "parentId": 114,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 117,
+        "expanded": true,
+        "name": "2C/３話",
+        "order": 124,
+        "parentId": 114,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 118,
+        "expanded": true,
+        "name": "西３階/３話",
+        "order": 125,
+        "parentId": 95,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 119,
+        "expanded": true,
+        "name": "3A",
+        "order": 126,
+        "parentId": 118,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 120,
+        "expanded": true,
+        "name": "3B/３話",
+        "order": 127,
+        "parentId": 118,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 121,
+        "expanded": true,
+        "name": "3C/３話",
+        "order": 128,
+        "parentId": 118,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 122,
+        "expanded": true,
+        "name": "屋上/３話",
+        "order": 130,
+        "parentId": 95,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 123,
+        "expanded": true,
+        "name": "病院廊下",
+        "order": 133,
+        "parentId": 125,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 124,
+        "expanded": false,
+        "name": "王国/３話",
+        "order": 131,
+        "parentId": 95,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 125,
+        "expanded": true,
+        "name": "病院",
+        "order": 132,
+        "parentId": 95,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 126,
+        "expanded": false,
+        "name": "暗空間",
+        "order": 97,
+        "parentId": 52,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 127,
+        "expanded": false,
+        "name": "生徒会室/回想",
+        "order": 110,
+        "parentId": 105,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 128,
+        "expanded": true,
+        "name": "部室/３話",
+        "order": 113,
+        "parentId": 107,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 129,
+        "expanded": false,
+        "name": "図書室/３話用",
+        "order": 106,
+        "parentId": 99,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 130,
+        "expanded": true,
+        "name": "部室/３話・２",
+        "order": 114,
+        "parentId": 128,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 131,
+        "expanded": false,
+        "name": "キングダムバトル",
+        "order": 139,
+        "parentId": 0,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 132,
+        "expanded": false,
+        "name": "MAP132",
+        "order": 140,
+        "parentId": 131,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 133,
+        "expanded": false,
+        "name": "MAP133",
+        "order": 141,
+        "parentId": 131,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 134,
+        "expanded": false,
+        "name": "MAP134",
+        "order": 142,
+        "parentId": 131,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 135,
+        "expanded": false,
+        "name": "MAP135",
+        "order": 143,
+        "parentId": 131,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 136,
+        "expanded": false,
+        "name": "MAP136",
+        "order": 144,
+        "parentId": 131,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 137,
+        "expanded": false,
+        "name": "MAP137",
+        "order": 145,
+        "parentId": 131,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 138,
+        "expanded": true,
+        "name": "MAP138",
+        "order": 146,
+        "parentId": 131,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 139,
+        "expanded": false,
+        "name": "暗空間・４話",
+        "order": 136,
+        "parentId": 140,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 140,
+        "expanded": false,
+        "name": "４話・キングダム部室",
+        "order": 135,
+        "parentId": 0,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 141,
+        "expanded": false,
+        "name": "暗空間・３話",
+        "order": 134,
+        "parentId": 95,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 142,
+        "expanded": true,
+        "name": "MAP142",
+        "order": 147,
+        "parentId": 131,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 143,
+        "expanded": true,
+        "name": "キングダム部室２",
+        "order": 137,
+        "parentId": 140,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 144,
+        "expanded": false,
+        "name": "MAP144",
+        "order": 148,
+        "parentId": 131,
+        "scrollX": 1508,
+        "scrollY": 921.3333333333334
+    },
+    {
+        "id": 145,
+        "expanded": false,
+        "name": "MAP145",
+        "order": 149,
+        "parentId": 131,
+        "scrollX": 1508,
+        "scrollY": 873.3333333333334
+    },
+    {
+        "id": 146,
+        "expanded": true,
+        "name": "2B/話",
+        "order": 138,
+        "parentId": 140,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 147,
+        "expanded": false,
+        "name": "MAP147",
+        "order": 150,
+        "parentId": 131,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 148,
+        "expanded": false,
+        "name": "MAP148",
+        "order": 151,
+        "parentId": 131,
+        "scrollX": 1508,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 149,
+        "expanded": false,
+        "name": "MAP149",
+        "order": 152,
+        "parentId": 131,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 150,
+        "expanded": false,
+        "name": "MAP150",
+        "order": 153,
+        "parentId": 131,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 151,
+        "expanded": false,
+        "name": "MAP151",
+        "order": 154,
+        "parentId": 131,
+        "scrollX": 1508,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 152,
+        "expanded": true,
+        "name": "MAP152",
+        "order": 155,
+        "parentId": 131,
+        "scrollX": 1508,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 153,
+        "expanded": false,
+        "name": "MAP153",
+        "order": 156,
+        "parentId": 152,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 154,
+        "expanded": true,
+        "name": "MAP154",
+        "order": 157,
+        "parentId": 152,
+        "scrollX": 1508,
+        "scrollY": 961.3333333333334
+    },
+    {
+        "id": 155,
+        "expanded": true,
+        "name": "2B/その２",
+        "order": 158,
+        "parentId": 131,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 156,
+        "expanded": false,
+        "name": "エピローグ",
+        "order": 159,
+        "parentId": 0,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 157,
+        "expanded": true,
+        "name": "校長室",
+        "order": 160,
+        "parentId": 156,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 158,
+        "expanded": true,
+        "name": "屋上",
+        "order": 161,
+        "parentId": 156,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 159,
+        "expanded": true,
+        "name": "1B",
+        "order": 162,
+        "parentId": 156,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 160,
+        "expanded": true,
+        "name": "生徒会室",
+        "order": 163,
+        "parentId": 156,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 161,
+        "expanded": true,
+        "name": "学校玄関",
+        "order": 164,
+        "parentId": 156,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 162,
+        "expanded": true,
+        "name": "職員室",
+        "order": 165,
+        "parentId": 156,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 163,
+        "expanded": true,
+        "name": "水泳部",
+        "order": 166,
+        "parentId": 156,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 164,
+        "expanded": true,
+        "name": "部室",
+        "order": 167,
+        "parentId": 156,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 165,
+        "expanded": false,
+        "name": "２F中庭",
+        "order": 168,
+        "parentId": 156,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 166,
+        "expanded": false,
+        "name": "DARK３話・リバース校門",
+        "order": 169,
+        "parentId": 0,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 167,
+        "expanded": false,
+        "name": "トイレ",
+        "order": 170,
+        "parentId": 166,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 168,
+        "expanded": true,
+        "name": "学校玄関/３話裏",
+        "order": 171,
+        "parentId": 166,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 169,
+        "expanded": false,
+        "name": "渡り廊下/３話裏",
+        "order": 172,
+        "parentId": 166,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 170,
+        "expanded": true,
+        "name": "２F中庭/３話裏",
+        "order": 173,
+        "parentId": 166,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 171,
+        "expanded": true,
+        "name": "東１階/３話裏",
+        "order": 175,
+        "parentId": 166,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 172,
+        "expanded": true,
+        "name": "校長室/３話裏",
+        "order": 176,
+        "parentId": 171,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 173,
+        "expanded": true,
+        "name": "保健室/３話裏",
+        "order": 177,
+        "parentId": 171,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 174,
+        "expanded": true,
+        "name": "職員室/３話裏",
+        "order": 178,
+        "parentId": 171,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 175,
+        "expanded": false,
+        "name": "図書室/３話用裏",
+        "order": 179,
+        "parentId": 171,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 176,
+        "expanded": true,
+        "name": "東２階/３話裏",
+        "order": 180,
+        "parentId": 166,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 177,
+        "expanded": true,
+        "name": "視聴覚室/３話裏",
+        "order": 181,
+        "parentId": 176,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 178,
+        "expanded": true,
+        "name": "生徒会室/３話裏",
+        "order": 182,
+        "parentId": 176,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 179,
+        "expanded": true,
+        "name": "東３階/３話裏",
+        "order": 183,
+        "parentId": 166,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 180,
+        "expanded": true,
+        "name": "部室/３話裏",
+        "order": 184,
+        "parentId": 179,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 181,
+        "expanded": false,
+        "name": "音楽室/３話裏",
+        "order": 186,
+        "parentId": 179,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 182,
+        "expanded": false,
+        "name": "化学室/３話裏",
+        "order": 187,
+        "parentId": 179,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 183,
+        "expanded": true,
+        "name": "西１階/３話裏",
+        "order": 189,
+        "parentId": 166,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 184,
+        "expanded": true,
+        "name": "1A/３話裏",
+        "order": 190,
+        "parentId": 183,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 185,
+        "expanded": true,
+        "name": "1B/３話裏",
+        "order": 191,
+        "parentId": 183,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 186,
+        "expanded": false,
+        "name": "1C",
+        "order": 192,
+        "parentId": 183,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 187,
+        "expanded": true,
+        "name": "西２階/３話裏",
+        "order": 193,
+        "parentId": 166,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 188,
+        "expanded": true,
+        "name": "2A",
+        "order": 194,
+        "parentId": 187,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 189,
+        "expanded": true,
+        "name": "2B/３話裏",
+        "order": 195,
+        "parentId": 187,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 190,
+        "expanded": true,
+        "name": "2C/３話裏",
+        "order": 196,
+        "parentId": 187,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 191,
+        "expanded": true,
+        "name": "西３階/３話裏",
+        "order": 197,
+        "parentId": 166,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 192,
+        "expanded": true,
+        "name": "3A",
+        "order": 198,
+        "parentId": 191,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 193,
+        "expanded": true,
+        "name": "3B/３話裏",
+        "order": 199,
+        "parentId": 191,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 194,
+        "expanded": true,
+        "name": "3C/３話裏",
+        "order": 200,
+        "parentId": 191,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 195,
+        "expanded": true,
+        "name": "屋上/３話裏",
+        "order": 201,
+        "parentId": 166,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 196,
+        "expanded": true,
+        "name": "部室/OP裏",
+        "order": 188,
+        "parentId": 179,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 197,
+        "expanded": true,
+        "name": "部室/３話・２裏",
+        "order": 185,
+        "parentId": 180,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 198,
+        "expanded": false,
+        "name": "２F中庭/３話裏ラスト",
+        "order": 174,
+        "parentId": 170,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 199,
+        "expanded": true,
+        "name": "3C/ヒプノバッドエンド",
+        "order": 129,
+        "parentId": 121,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 200,
+        "expanded": true,
+        "name": "フリーダム敗北後マップ",
+        "order": 202,
+        "parentId": 0,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 201,
+        "expanded": true,
+        "name": "フリーダム敗北マップ２",
+        "order": 203,
+        "parentId": 200,
+        "scrollX": 1508,
+        "scrollY": 2478.6666666666665
+    },
+    {
+        "id": 202,
+        "expanded": true,
+        "name": "フリーダム敗北後マップ３",
+        "order": 204,
+        "parentId": 200,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 203,
+        "expanded": false,
+        "name": "キングダム敗北マップ",
+        "order": 205,
+        "parentId": 0,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 204,
+        "expanded": true,
+        "name": "フリーダム敗北後１（回想）",
+        "order": 51,
+        "parentId": 42,
+        "scrollX": 1708.5,
+        "scrollY": 961.5
+    },
+    {
+        "id": 205,
+        "expanded": true,
+        "name": "フリーダム敗北２（回想",
+        "order": 52,
+        "parentId": 42,
+        "scrollX": 1357.2,
+        "scrollY": 1869.6
+    }
+]
