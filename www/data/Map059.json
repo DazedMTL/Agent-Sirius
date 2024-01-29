@@ -6411,7 +6411,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_term_\\C[0]Municipal_Ansei_Residence_High_School\\C[5]!"
+                                "ShowInfo the_term_\\C[0]Municipal_Ansei_Residence_High_School\\C[5]!"
                             ]
                         },
                         {
@@ -6570,7 +6570,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "Registered_the_monster_Touch_Poison!"
+                                "ShowInfo the_monster_Touch_Poison!"
                             ]
                         },
                         {

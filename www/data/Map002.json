@@ -3807,7 +3807,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_term_\\C[0]Satsuki_Ama\\C[5]_in_the_info_display!"
+                                "ShowInfo the_term_\\C[0]Satsuki_Ama\\C[5]_in_the_info_display!"
                             ]
                         },
                         {
@@ -4600,7 +4600,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_monster_\\C[0]Seiryu_Momoha\\C[5]_in_the_info_display!"
+                                "ShowInfo the_monster_\\C[0]Seiryu_Momoha\\C[5]_in_the_info_display!"
                             ]
                         },
                         {
@@ -4684,7 +4684,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_\\C[0]Terminology_\\C[5]Shinagawa_Police_Station\\C[0]!"
+                                "ShowInfo \\C[0]Terminology_\\C[5]Shinagawa_Police_Station\\C[0]!"
                             ]
                         },
                         {

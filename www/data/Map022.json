@@ -3131,7 +3131,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_term_\\C[0]_for_Info_Display_\\C[5]_Number_\\C[0]!"
+                                "ShowInfo the_term_\\C[0]_for_Info_Display_\\C[5]_Number_\\C[0]!"
                             ]
                         },
                         {

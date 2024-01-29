@@ -4272,7 +4272,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_term_\\C[0]Sogaie_Shikai\\C[5]_in_the_glossary!"
+                                "ShowInfo the_term_\\C[0]Sogaie_Shikai\\C[5]_in_the_glossary!"
                             ]
                         },
                         {
@@ -7326,7 +7326,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_monster_Blind_Poison!"
+                                "ShowInfo the_monster_Blind_Poison!"
                             ]
                         },
                         {

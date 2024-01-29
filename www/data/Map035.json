@@ -4381,7 +4381,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_monster_Smell_Poison!"
+                                "ShowInfo the_monster_Smell_Poison!"
                             ]
                         },
                         {
@@ -5302,7 +5302,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_term_\"Agent_Suit\"_in_the_info_display!"
+                                "ShowInfo the_term_\"Agent_Suit\"_in_the_info_display!"
                             ]
                         },
                         {
@@ -6169,7 +6169,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_monster_Smell_Poison!"
+                                "ShowInfo the_monster_Smell_Poison!"
                             ]
                         },
                         {

@@ -4895,7 +4895,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_monster_SpeakPoison!"
+                                "ShowInfo the_monster_SpeakPoison!"
                             ]
                         },
                         {

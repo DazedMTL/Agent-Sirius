@@ -6719,7 +6719,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_term_\\C[0]Yui_Anzai\\C[5]!"
+                                "ShowInfo the_term_\\C[0]Yui_Anzai\\C[5]!"
                             ]
                         },
                         {
@@ -7453,7 +7453,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_monster_Touch_Poison!"
+                                "ShowInfo the_monster_Touch_Poison!"
                             ]
                         },
                         {
@@ -7962,7 +7962,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_character_Shion_Yamauchi!"
+                                "ShowInfo the_character_Shion_Yamauchi!"
                             ]
                         },
                         {
@@ -8662,7 +8662,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_character_\\C[0]Takamoto_Tsubaki\\C[5]!"
+                                "ShowInfo the_character_\\C[0]Takamoto_Tsubaki\\C[5]!"
                             ]
                         },
                         {

@@ -2843,14 +2843,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_character_\\C[0]Amagitsune_Toji\\C[5]_in_the_info_display!"
+                                "ShowInfo the_character_\\C[0]Amagitsune_Toji\\C[5]_in_the_info_display!"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_character_\\C[0]Amagitsune_Mikan\\C[5]!"
+                                "ShowInfo the_character_\\C[0]Amagitsune_Mikan\\C[5]!"
                             ]
                         },
                         {

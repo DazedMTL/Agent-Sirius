@@ -3363,7 +3363,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_term_\\C[0]Yamakado_Midori\\C[5]_in_the_info_display!"
+                                "ShowInfo the_term_\\C[0]Yamakado_Midori\\C[5]_in_the_info_display!"
                             ]
                         },
                         {
@@ -5561,7 +5561,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_term_\\C[0]_for_Info_Display_\\C[5]_number_reference_\\C[0]!"
+                                "ShowInfo the_term_\\C[0]_for_Info_Display_\\C[5]_number_reference_\\C[0]!"
                             ]
                         },
                         {

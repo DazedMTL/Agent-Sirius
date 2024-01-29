@@ -2967,7 +2967,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_character_Onizuka_Yurika!"
+                                "ShowInfo the_character_Onizuka_Yurika!"
                             ]
                         },
                         {
@@ -3878,7 +3878,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_\\C[0]Character_\\C[5]Shiromine_Yanagi\\C[0]!"
+                                "ShowInfo \\C[0]Character_\\C[5]Shiromine_Yanagi\\C[0]!"
                             ]
                         },
                         {
@@ -4430,7 +4430,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "Registered_the_character_Nozawa_Ringo!"
+                                "ShowInfo the_character_Nozawa_Ringo!"
                             ]
                         },
                         {

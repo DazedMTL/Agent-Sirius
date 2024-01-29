@@ -426,7 +426,7 @@ if (!Imported.CommonPopupCore) {
   Game_Interpreter.prototype.pluginCommand = function (command, args) {
     _gInfo_GInterpreter_pluginCommand.call(this, command, args);
     if (command === "ShowInfo" || command === "インフォ表示") {
-      CommonPopupManager.showInfo({}, args[0], null);
+      CommonPopupManager.showInfo({}, '\\C[3]Registered\\C[0] ' + args[0].replace(/_/g, ' '), null);
     }
   };
 
