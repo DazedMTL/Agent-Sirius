@@ -8819,10 +8819,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Maple, whose location do you want to know about?",
-                                    "Maple, whose location do you want to know about?",
-                                    "Maple, whose location do you want to know about?",
-                                    "Maple, whose location do you want to know about?"
+                                    "Torii Ayaka",
+                                    "Seiryu Kikyo",
+                                    "Kamegami Shu",
+                                    "Sogai Shikai"
                                 ],
                                 -1,
                                 0,
@@ -10053,10 +10053,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Maple, whose location do you want to know about?",
-                                    "Maple, whose location do you want to know about? Seiryu Kikyo's?",
-                                    "Maple, whose location do you want to know about?",
-                                    "Maple, whose location do you want to know about?"
+                                    "Torii Ayaka",
+                                    "Seiryu Kikyo",
+                                    "Kamegami Shu",
+                                    "Soga Ikuhai"
                                 ],
                                 -1,
                                 0,
@@ -10588,7 +10588,7 @@
                                     "Shirakura Wata",
                                     "Amamiya Satsuki",
                                     "Kikuichi Washio",
-                                    "Onizuka Yurika, do you also think so?",
+                                    "Onizuka Yurika",
                                     "Stop it"
                                 ],
                                 4,
@@ -11850,11 +11850,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Iruka: I might not look the part, but I'd rather not get too close to you, Shikura Wata",
-                                    "Amamiya Asa",
-                                    "Kikuichi Washio",
-                                    "Yurika Onizuka",
-                                    "I'll pass"
+                                    "Shirakura Wata-san",
+                                    "Asami Satsuki",
+                                    "Washio Kikuiti",
+                                    "Onizuka Yurika",
+                                    "Stop it"
                                 ],
                                 4,
                                 -1,
@@ -12987,11 +12987,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Iruka: I might not look the part, but I'd rather not get too close to you",
-                                    "Amamiya Asa",
-                                    "Kikuichi Washio, huh? I might not look it, but I'd rather not get too close",
-                                    "Yurika Onizuka",
-                                    "I'll pass"
+                                    "Shirakura Wata-san",
+                                    "Amamay Satsuki",
+                                    "Washio Kikuiti",
+                                    "Onizuka Yurika",
+                                    "Stop it"
                                 ],
                                 4,
                                 -1,
