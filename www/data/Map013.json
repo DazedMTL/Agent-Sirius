@@ -1829,14 +1829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_laugh]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わぁ～！夢みたい・・・」"
+                                "\\F[sora_laugh]Sora: \"Wow! It's like a dream...\""
                             ]
                         },
                         {
@@ -1879,21 +1872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おめでとう。私との約束通り金貨”スピントリア”を集めて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くれたね。それは信頼の証だ。君は私の信頼を勝ち取った」"
+                                "????: \"Congratulations. As promised, you've collected the\ngold coins 'Spintriae'. This is a proof of trust. You have\nearned my trust.\""
                             ]
                         },
                         {
@@ -1910,14 +1889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？王国・・・？」"
+                                "\\F[sora_trouble]Sora: \"Eh? A kingdom...?\""
                             ]
                         },
                         {
@@ -1934,21 +1906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだよ。君の様に選ばれし者だけが入る事の許される"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽園。それが”王国”だ」"
+                                "????: \"That's right. A paradise only for the chosen ones\nlike you to enter. That is the 'Kingdom'.\""
                             ]
                         },
                         {
@@ -1965,21 +1923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君も存分に羽根を伸ばすといい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現実のしがらみから解き放たれてね・・・」"
+                                "????: \"You should spread your wings to your heart's content.\nBe freed from the shackles of reality...\""
                             ]
                         },
                         {
@@ -1996,14 +1940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど、どう言うことですか？」"
+                                "\\F[sora_trouble]Sora: \"What do you mean?\""
                             ]
                         },
                         {
@@ -2020,21 +1957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「進めば分かるさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここの素晴らしさが、ね」"
+                                "????: \"You'll understand once you proceed. The splendor of\nthis place, that is.\""
                             ]
                         },
                         {
@@ -2112,28 +2035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの、そうじゃなくて・・・チケット・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チケットが欲しくてゲームに参加したんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!向日葵ちゃんとアイドルのライブに行きたくて・・・」"
+                                "\\F[sora_trouble]Sora: \"No, I mean... the ticket...! I joined the game\nbecause I wanted a ticket. I wanted to go to an idol concert\nwith Himawari-chan...\""
                             ]
                         },
                         {
@@ -2150,21 +2052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もしかして私・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "騙されたんですか？」"
+                                "\\F[sora_trouble]Sora: \"Could it be that I've been... deceived?\""
                             ]
                         },
                         {
@@ -2181,21 +2069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「騙してなんていないさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君が望むものを用意すると・・・私は言った筈だ」"
+                                "????: \"I haven't deceived you. I said I would prepare what\nyou desire...\""
                             ]
                         },
                         {
@@ -2212,21 +2086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の望みは向日葵ちゃんと一緒にライブに・・・」"
+                                "\\F[sora_trouble]Sora: \"But... my wish was to go to the concert with\nHimawari-chan...\""
                             ]
                         },
                         {
@@ -2243,21 +2103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君が望むものはここにある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに来るまで・・・君が知らなかっただけだよ」"
+                                "????: \"What you desire is here. You just didn't know it\nuntil you came here.\""
                             ]
                         },
                         {
@@ -2274,14 +2120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さあ進みたまえ」"
+                                "????: \"Now, go forth.\""
                             ]
                         },
                         {

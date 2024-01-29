@@ -1639,7 +1639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "立ち絵比較用イベント"
+                                "Character Sprite Comparison Event"
                             ]
                         },
                         {
@@ -1702,7 +1702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キャラ表示確認中"
+                                "Confirming Character Display"
                             ]
                         },
                         {
@@ -1814,14 +1814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[sikai_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「???」"
+                                "\\F[beni_smile]\\FF[sikai_smile]\\AA[1]Akane: \"???\""
                             ]
                         },
                         {
@@ -1838,14 +1831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[sikai_smile]\\AA[2]四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふ」"
+                                "\\F[beni_smile]\\FF[sikai_smile]\\AA[2]Sora: \"Hehehe\""
                             ]
                         },
                         {
@@ -1862,14 +1848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[yuri_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「???」"
+                                "\\F[sirius_smile]\\FF[yuri_smile]\\AA[1]Akane: \"???\""
                             ]
                         },
                         {
@@ -1886,14 +1865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[yuri_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ」"
+                                "\\F[beni_smile]\\FF[yuri_smile]\\AA[2]Yurika: \"Fufu\""
                             ]
                         },
                         {
@@ -1978,28 +1950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sion_kamen]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら、朱雀さん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素敵なコウモリマスク。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見惚れてしまうわ・・・どんなお化粧よりも素敵ぃ♪」"
+                                "\\FF[sion_kamen]Shion: \"Oh, Akane-san♪ What a lovely bat mask. I'm utterly\nenchanted... It's even more fabulous than any makeup♪\""
                             ]
                         },
                         {
@@ -2016,28 +1967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sion_kamen]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生も同じものを着けてるじゃないですか♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "似合ってますよ。ご主人様への"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちが溢れてくるでしょう？」"
+                                "\\F[beni_kamenoti]\\FF[sion_kamen]\\AA[1]Akane: \"You're wearing the same thing, aren't you, Sensei♪\nIt suits you well. It must make your feelings for Master\noverflow, right?\""
                             ]
                         },
                         {
@@ -2054,28 +1984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sion_kamen]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ、そうね！目隠ししたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全身が気持ちよくなるなんてぇ・・・教えて貰わなかったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気付けないことよ♪目からウロコだわ」"
+                                "\\F[beni_kamenoti]\\FF[sion_kamen]\\AA[2]Shion: \"Yes, that's right! Who knew that being blindfolded\ncould make your whole body feel so good... I wouldn't have\nrealized it if you hadn't told me♪ It's a revelation!\""
                             ]
                         },
                         {
@@ -2093,21 +2002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sion_kamen]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふっ♪でも・・・以前はご主人様のことを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毛嫌いしていたのでは？」"
+                                "\\F[beni_kamenoti]\\FF[sion_kamen]\\AA[1]Akane: \"Fufufu♪ But... didn't you used to despise Master?\""
                             ]
                         },
                         {
@@ -2124,28 +2019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sion_kamen]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなことないわ・・・ど、同僚として尊敬していたし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと胸元とか見てくるなぁ・・・ハゲオヤジ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とかは思っていたけど・・・」"
+                                "\\F[beni_kamenoti]\\FF[sion_kamen]\\AA[2]Shion: \"That's not true... I respected him as a colleague...\nand maybe I thought he was a bit of a lecherous old\nbaldie... but...\""
                             ]
                         },
                         {
@@ -2163,21 +2037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sion_kamen]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはははっ！ハゲオヤジなんて！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "蔑称じゃなきゃ使わないでしょう？やっぱり・・・！！」"
+                                "\\F[beni_kamenoti]\\FF[sion_kamen]\\AA[1]Akane: \"Ahahaha! 'Old baldie'?! That's not something you'd\nuse unless it's derogatory, right? I knew it...!!\""
                             ]
                         },
                         {
@@ -2195,28 +2055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sion_kamen]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「も、もういいのよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の私はあのツルツルの頭でさえ魅力的なのぉ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "撫でさせてもらえたら・・・どんな快感なんだろぉ♪」"
+                                "\\F[beni_kamenoti]\\FF[sion_kamen]\\AA[2]Shion: \"Enough already! Now, even his shiny bald head seems\nattractive to me♪ If he let me stroke it... I wonder what\nkind of pleasure that would be♪\""
                             ]
                         },
                         {
@@ -2234,28 +2073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sion_kamen]\\AA[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それは私も気になりますね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いすれば撫でさせて・・・くれるかな・・・？」"
+                                "\\F[beni_kamenoti]\\FF[sion_kamen]\\AA[1]Akane: \"Th-that's something I'm curious about too... Maybe\nif we ask nicely, he'll let us stroke it...?\""
                             ]
                         },
                         {
@@ -2427,14 +2245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_true]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「別に私はそう言うつもりで言ったんじゃ・・・」"
+                                "\\F[beni_trouble]\\FF[nako_true]\\AA[1]Akane: \"It's not like I meant to say it that way...\""
                             ]
                         },
                         {
@@ -2451,14 +2262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_true]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これで文句は無いでしょ？」"
+                                "\\FF[nako_true]Nadeshiko: \"You shouldn't have any complaints now, right?\""
                             ]
                         },
                         {
@@ -2475,14 +2279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子と・・・一緒に？」"
+                                "\\F[beni_smile]Akane: \"With Nadeshiko... together?\""
                             ]
                         },
                         {
@@ -2499,14 +2296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_smile]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵、聞きたいことがあるんだけど・・・？」"
+                                "\\FF[nako_smile]Nadeshiko: \"Himawari, there's something I want to ask\nyou...?\""
                             ]
                         },
                         {
@@ -2523,14 +2313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_smile]\\FF[himawari_trouble]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・・」"
+                                "\\F[nako_smile]\\FF[himawari_trouble]\\AA[2]Himawari: \"...\""
                             ]
                         },
                         {
@@ -2607,7 +2390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アイテム取得ポップアップテスト！"
+                                "Item Acquisition Popup Test!"
                             ]
                         },
                         {
@@ -2882,7 +2665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴシップ変数増えたよ！"
+                                "Gossip variable increased!"
                             ]
                         },
                         {
@@ -2930,7 +2713,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴシップ登録５０％達成"
+                                "Gossip registration 50% complete"
                             ]
                         },
                         {
@@ -2967,7 +2750,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゴシップ登録１００％達成"
+                                "Gossip registration 100% complete"
                             ]
                         },
                         {
@@ -3029,14 +2812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴシップ変数現在の値"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\V[60]"
+                                "\\V[60]Current value of gossip variable"
                             ]
                         },
                         {
@@ -3209,7 +2985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実績を全て解放しますか？"
+                                "Would you like to unlock all achievements?"
                             ]
                         },
                         {
@@ -3217,8 +2993,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3651,14 +3427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "   \\{エージェントシリウス・ダークサイド"
+                                "   Agent Sirius: Darkside"
                             ]
                         },
                         {
@@ -3675,14 +3444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "              \\{to be continued・・・"
+                                "              to be continued..."
                             ]
                         },
                         {
@@ -3699,14 +3461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "                 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "            \\{THANK YOU FOR PLAYING"
+                                "                             THANK YOU FOR PLAYING"
                             ]
                         },
                         {
@@ -3974,7 +3729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カットイン確認用"
+                                "Cut-in Check"
                             ]
                         },
                         {
@@ -4125,7 +3880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オナニーエロシーンを再生しますか？"
+                                "Would you like to replay the masturbation scene?"
                             ]
                         },
                         {
@@ -4133,8 +3888,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4263,28 +4018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テストプレイ用のキャラです"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おなにーシーンを一度見ている場合の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イベントが見たい場合は１を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オナニーエロ用のイベントが見たい場合は２を選択"
+                                "If you want to see an event for a character used for test\nplay that you have already seen the masturbation scene,\npress 1. If you want to see an event for masturbation\nerotica, press 2."
                             ]
                         },
                         {
@@ -4292,8 +4026,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１",
-                                    "２"
+                                    "If you want to see the event after witnessing the masturbation scene, select 1",
+                                    "Select 2 for the masturbation erotic event"
                                 ],
                                 1,
                                 0,
@@ -4424,14 +4158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから本編を開始できます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開始するお話を選んでください！"
+                                "You can start the main story from here! Please select the\nstory you want to begin!"
                             ]
                         },
                         {
@@ -4439,12 +4166,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "オープニングから",
-                                    "第一話から",
-                                    "堕ち後探索ブラインド",
-                                    "ブラインド戦終了後",
-                                    "２話オープンニングから",
-                                    "やめる"
+                                    "Start from the opening",
+                                    "Start from Episode One",
+                                    "Post-Fall Exploration Blind",
+                                    "After the Blind Battle Ends",
+                                    "Start from Episode 2 Opening",
+                                    "Cancel"
                                 ],
                                 5,
                                 0,
@@ -4763,7 +4490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "触られました"
+                                "I've been touched."
                             ]
                         },
                         {
@@ -4838,7 +4565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タッチ"
+                                "Touch"
                             ]
                         },
                         {
@@ -4968,9 +4695,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "キングダム１",
-                                    "キングダム２",
-                                    "フリーダム敗北"
+                                    "Kingdom 1",
+                                    "Kingdom 2",
+                                    "Freedom Defeat"
                                 ],
                                 1,
                                 0,
@@ -5163,7 +4890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "触られました"
+                                "I've been touched."
                             ]
                         },
                         {
@@ -5302,7 +5029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タッチ"
+                                "Touch"
                             ]
                         },
                         {
@@ -5437,7 +5164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "敗北エロシーンを選んで見れます"
+                                "You can choose to view the defeat H-scene."
                             ]
                         },
                         {
@@ -5445,12 +5172,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ブラインド",
-                                    "クローズ",
-                                    "クローズ２",
+                                    "Blindfold",
+                                    "Close",
+                                    "Close 2",
                                     "",
                                     "",
-                                    "やめる"
+                                    "Quit"
                                 ],
                                 5,
                                 0,
@@ -6063,14 +5790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから本編を開始できます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開始するお話を選んでください！"
+                                "You can start the main story from here! Please select the\nstory you want to begin!"
                             ]
                         },
                         {
@@ -6078,12 +5798,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "第２話探索から",
-                                    "第２話堕ち探索冒頭",
-                                    "第３話冒頭から",
+                                    "Episode 2: From the Exploration",
+                                    "Chapter 2: The Beginning of the Fallen Exploration",
+                                    "Start from the beginning of Episode 3",
                                     "",
                                     "",
-                                    "やめる"
+                                    "Cancel"
                                 ],
                                 5,
                                 0,
@@ -6695,7 +6415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "用語全取得しますか？"
+                                "Would you like to acquire all the terms?"
                             ]
                         },
                         {
@@ -6703,8 +6423,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6824,7 +6544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "用語全破棄しますか？"
+                                "Do you want to discard all terms?"
                             ]
                         },
                         {
@@ -6832,8 +6552,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

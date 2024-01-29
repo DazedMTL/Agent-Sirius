@@ -5000,14 +5000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ・・・はぁ・・・ここは・・・」"
+                                "\\F[nakosu_trouble]Nadeshiko: \"Haa... haa... Where is this...?\""
                             ]
                         },
                         {
@@ -5025,21 +5018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]\\FF[yurisu_trouble]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「危ないところだったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかもう先生たちや先輩が敵に回るとは・・・」"
+                                "\\F[nakosu_trouble]\\FF[yurisu_trouble]\\AA[2]Yurika: \"That was close. I never expected that our teachers\nand seniors would turn against us...\""
                             ]
                         },
                         {
@@ -5057,21 +5036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_smile]\\FF[yurisu_trouble]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「助けてもらって・・・ありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私一人じゃ・・・捕まってました・・・」"
+                                "\\F[nakosu_smile]\\FF[yurisu_trouble]\\AA[1]Nadeshiko: \"Thank you for saving me... If I were alone... I\nwould have been captured...\""
                             ]
                         },
                         {
@@ -5089,21 +5054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_smile]\\FF[yurisu_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここにあった仕掛けは起動した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼らはしばらく近づけないだろう」"
+                                "\\F[nakosu_smile]\\FF[yurisu_smile]\\AA[2]Yurika: \"The trap here has been activated. They won't be\nable to approach us for a while.\""
                             ]
                         },
                         {
@@ -5121,14 +5072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]\\FF[yurisu_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うう・・・ジリ貧ですね・・・」"
+                                "\\F[nakosu_trouble]\\FF[yurisu_smile]\\AA[1]Nadeshiko: \"Ugh... This is a desperate situation, isn't\nit...\""
                             ]
                         },
                         {
@@ -5146,21 +5090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]\\FF[yurisu_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「弱気になるな。まだ私と君がいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅に対する想いじゃ、誰にも負けない」"
+                                "\\F[nakosu_trouble]\\FF[yurisu_smile]\\AA[2]Yurika: \"Don't be so pessimistic. You and I are still here.\nWhen it comes to our feelings for Akane, we won't lose to\nanyone.\""
                             ]
                         },
                         {
@@ -5178,21 +5108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_smile]\\FF[yurisu_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「会長が紅のことをそんなに好きなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いがみ合ってると思ってました・・・」"
+                                "\\F[nakosu_smile]\\FF[yurisu_smile]\\AA[1]Nadeshiko: \"The president loves Akane that much... I thought\nyou were at odds with each other...\""
                             ]
                         },
                         {
@@ -5210,28 +5126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_smile]\\FF[yurisu_trouble]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気付かないうちに意識していたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからそれが態度に出てしまっていた・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の浅はかさを笑ってくれ」"
+                                "\\F[nakosu_smile]\\FF[yurisu_trouble]\\AA[2]Yurika: \"I was unconsciously aware of it. That's why it\nshowed in my attitude... Laugh at my foolishness.\""
                             ]
                         },
                         {
@@ -5249,14 +5144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]\\FF[yurisu_trouble]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや・・・そんなことは・・・」"
+                                "\\F[nakosu_trouble]\\FF[yurisu_trouble]\\AA[1]Nadeshiko: \"No... It's not like that...\""
                             ]
                         },
                         {
@@ -5274,21 +5162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]\\FF[yurisu_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君はしばらくここで休め。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が残りの仕掛けを起動してくる」"
+                                "\\F[nakosu_trouble]\\FF[yurisu_angry]\\AA[2]Yurika: \"You rest here for a while. I'll go activate the\nremaining traps.\""
                             ]
                         },
                         {
@@ -5306,14 +5180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]\\FF[yurisu_angry]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一緒に行きます！一人より・・・二人の方が！」"
+                                "\\F[nakosu_angry]\\FF[yurisu_angry]\\AA[1]Nadeshiko: \"I'll go with you! It's better to be together...\nthan alone!\""
                             ]
                         },
                         {
@@ -5331,28 +5198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]\\FF[yurisu_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私を心配してくれるのか？優しいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも大丈夫。私は君をもう裏切ったりしない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達は同じ人を愛しているのだから」"
+                                "\\F[nakosu_angry]\\FF[yurisu_smile]\\AA[2]Yurika: \"Are you worried about me? You're kind. But don't\nworry. I won't betray you again. After all, we love the same\nperson.\""
                             ]
                         },
                         {
@@ -5370,14 +5216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]\\FF[yurisu_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ・・・！？はぅっ・・・！！」"
+                                "\\F[nakosu_trouble]\\FF[yurisu_smile]\\AA[1]Nadeshiko: \"Wha...!? Hauu...!!\""
                             ]
                         },
                         {
@@ -5394,21 +5233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]\\FF[yurisu_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ行くよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達の紅を取り戻そう」"
+                                "\\F[nakosu_trouble]\\FF[yurisu_angry]\\AA[2]Yurika: \"Then let's go. Let's take back our Akane.\""
                             ]
                         },
                         {
@@ -5762,21 +5587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子・・・見つけたっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう逃さないっ！！」"
+                                "\\F[furi_smile]Akane: \"Nadeshiko... I've found you!! I won't let you\nescape!!\""
                             ]
                         },
                         {
@@ -6958,21 +6769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nakosu_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っ！！私がやられても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・会長さえいればっ！」"
+                                "\\FF[nakosu_trouble]Nadeshiko: \"!! Even if I fall... as long as the president is\nhere...!\""
                             ]
                         },
                         {
@@ -6990,21 +6787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[nakosu_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子っ！！撫子を縛るものから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今、解き放ってあげるからっ・・・！！」"
+                                "\\F[furi_smile]\\FF[nakosu_angry]\\AA[1]Akane: \"Nadeshiko!! I will now free you from the chains that\nbind you...!!\""
                             ]
                         },
                         {
@@ -7192,14 +6975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nakosu_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「べ、紅っ！！目を覚ましてっ・・・！！」"
+                                "\\FF[nakosu_trouble]Nadeshiko: \"A-Akane!! Wake up...!!\""
                             ]
                         },
                         {
@@ -7569,28 +7345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yurisu_angry]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やはり油断したなっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "撫子の側で隠れていれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このチャンスが巡ってくると思っていた！！」"
+                                "\\FF[yurisu_angry]Yurika: \"I was careless after all!! I thought if I stayed by\nNadeshiko's side, this chance would come!!\""
                             ]
                         },
                         {
@@ -7608,14 +7363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_angry]\\FF[yurisu_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な・・・にっ・・・！！」"
+                                "\\F[furi_angry]\\FF[yurisu_angry]\\AA[1]Akane: \"Wha... what...!!\""
                             ]
                         },
                         {
@@ -7633,14 +7381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_angry]\\FF[yurisu_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「至近距離なら・・・外さないっ！！」"
+                                "\\F[furi_angry]\\FF[yurisu_angry]\\AA[2]Yurika: \"At point-blank range... I won't miss!!\""
                             ]
                         },
                         {
@@ -7679,14 +7420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yurisu_angry]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポイゾンバーストっ！！」"
+                                "\\FF[yurisu_angry]Yurika: \"Poison Burst!!\""
                             ]
                         },
                         {
@@ -7826,14 +7560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_angry]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐぅぅぅっ・・・！こんなものぐらいっ！！」"
+                                "\\F[furi_angry]Akane: \"Guhhh...! Such a thing won't stop me!!\""
                             ]
                         },
                         {
@@ -7927,21 +7654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yurisu_trouble]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか・・・私を倒したこの力がっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くっ・・・！！逃げろっ！！白虎さんっ！！」"
+                                "\\FF[yurisu_trouble]Yurika: \"No way... The power that defeated me...! Gah...!!\nRun away!! Nadeshiko-san!!\""
                             ]
                         },
                         {
@@ -7959,14 +7672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]\\FF[yurisu_trouble]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「で、でも・・・！」"
+                                "\\F[nakosu_trouble]\\FF[yurisu_trouble]\\AA[1]Nadeshiko: \"But...!\""
                             ]
                         },
                         {
@@ -7984,21 +7690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]\\FF[yurisu_trouble]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君が最後の希望だっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは私が食い止めるっ・・・！」"
+                                "\\F[nakosu_trouble]\\FF[yurisu_trouble]\\AA[2]Yurika: \"You are our last hope!! I'll hold them off\nhere...!\""
                             ]
                         },
                         {
@@ -8016,14 +7708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]\\FF[yurisu_trouble]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、わかりましたっ・・・！」"
+                                "\\F[nakosu_angry]\\FF[yurisu_trouble]\\AA[1]Nadeshiko: \"Understood...!\""
                             ]
                         },
                         {
@@ -8400,14 +8085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yurisu_angry]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・・っ」"
+                                "\\FF[yurisu_angry]Yurika: \"...\""
                             ]
                         },
                         {
@@ -8424,21 +8102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[yurisu_angry]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・ふっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小賢しいね♪」"
+                                "\\F[furi_smile]\\FF[yurisu_angry]Akane: \"...Heh, how cunning♪\""
                             ]
                         },
                         {
@@ -8752,28 +8416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱり会長は賢いなっ・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして自分の経験からよく勉強している・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他の誰よりも私に近づいた！」"
+                                "\\F[furi_smile]Akane: \"As expected, the president is smart..! And she\nlearns well from her own experiences... She's gotten closer\nto me than anyone else!\""
                             ]
                         },
                         {
@@ -8791,28 +8434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そして・・・ポイゾンバーストまで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから！貴女がいれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう撫子を逃がすことなんてない！！」"
+                                "\\F[furi_smile]Akane: \"And... even a Poison Burst! That's why! With you\nhere, there's no way Nadeshiko can escape anymore!!\""
                             ]
                         },
                         {
@@ -8830,28 +8452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[yurisu_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が・・・軍門に下るとでも？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が愛しているのは今の君じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだ。もっと自由な・・・」"
+                                "\\F[furi_smile]\\FF[yurisu_angry]\\AA[2]Yurika: \"Me... surrender? The one I love isn't the you of\nnow. That's right. Someone more free...\""
                             ]
                         },
                         {
@@ -8878,14 +8479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰にも縛られない？」"
+                                "\\F[furi_smile]Akane: \"Unbound by anyone?\""
                             ]
                         },
                         {
@@ -8902,28 +8496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[yurisu_shadow]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ・・・廊下を走ったって・・・かまわない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな奔放で・・・自由・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "憧れるよ・・・自由は素晴らしい」"
+                                "\\F[furi_smile]\\FF[yurisu_shadow]\\AA[2]Yurika: \"Yes... Even if it means running through the\nhallways... I don't mind... Such unrestrained freedom... I\nadmire it... Freedom is wonderful\""
                             ]
                         },
                         {
@@ -8940,28 +8513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[yurisu_shadow]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「会長もそうなればいいんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意地を張る必要はない。私が好きなんじゃないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私と一緒になれるなんて・・・ご褒美でしかないだろ♪」"
+                                "\\F[furi_smile]\\FF[yurisu_shadow]\\AA[1]Akane: \"Why doesn't the president become like that too?\nThere's no need to be stubborn. Don't you like me? Being\nwith me would be nothing but a reward♪\""
                             ]
                         },
                         {
@@ -8979,28 +8531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[yurisu_shadow]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅と一緒に・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そんなこと・・・許されるのかっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "た、たしかにご褒美だっ！何より嬉しいプレゼントだっ♪」"
+                                "\\F[furi_smile]\\FF[yurisu_shadow]\\AA[2]Yurika: \"With Akane...? Is, is that even allowed?! It, it\ncertainly is a reward! The happiest gift of all♪\""
                             ]
                         },
                         {
@@ -9018,14 +8549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[yurisu_shadow]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なる・・・私も自由に・・・なるっ♪」"
+                                "\\F[furi_smile]\\FF[yurisu_shadow]\\AA[2]Yurika: \"Become... I will also become free♪\""
                             ]
                         },
                         {
@@ -9091,14 +8615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_free]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはぁ❤」"
+                                "\\FF[yuri_free]Yurika: \"Ahaha❤\""
                             ]
                         },
                         {
@@ -9116,21 +8633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[yuri_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さあ、これで撫子を一人残すだけ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手伝ってくれるね」"
+                                "\\F[furi_smile]\\FF[yuri_free]\\AA[1]Akane: \"Now, all that's left is to leave Nadeshiko alone...\nYou'll help me, right?\""
                             ]
                         },
                         {
@@ -9148,21 +8651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[yuri_free]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・当然だ。彼女を堕とせばもう何もかもから解き放たれる♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当の自由になれる！そんなご褒美を私が見逃すはずがないっ♪」"
+                                "\\F[furi_smile]\\FF[yuri_free]\\AA[2]Yurika: \"...Of course. If we can bring her down, then I'll\nbe released from everything♪ To become truly free! I\nwouldn't miss such a reward for the world♪\""
                             ]
                         },
                         {
@@ -9180,14 +8669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[yuri_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ、迎えに行こう♪」"
+                                "\\F[furi_smile]\\FF[yuri_free]\\AA[1]Akane: \"Then, let's go to meet her♪\""
                             ]
                         },
                         {
@@ -9205,28 +8687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[yuri_free]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ。だけどこうした方がいいと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ起動していない仕掛けは一つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこに撫子が行くなら・・・・」"
+                                "\\F[furi_smile]\\FF[yuri_free]\\AA[2]Yurika: \"Yes. But I think this would be better. There's one\ntrap that hasn't been activated yet. If Nadeshiko goes\nthere...\""
                             ]
                         },
                         {
@@ -9244,14 +8705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[yuri_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほど♪やはり会長は役に立つ♪」"
+                                "\\F[furi_smile]\\FF[yuri_free]\\AA[1]Akane: \"I see♪ As expected, the president is useful♪\""
                             ]
                         },
                         {
@@ -9269,28 +8723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[yuri_free]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう会長ではないけれど、ね♪ありがとう！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああんっ♪ご主人様に褒めて貰う為なら・・・何でも出来るっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんな汚いことだってっ♪」"
+                                "\\F[furi_smile]\\FF[yuri_free]\\AA[2]Yurika: \"I'm not the president anymore, though, am I?♪ Thank\nyou!! Ahhnn♪ For my master's praise... I can do anything♪\nAny dirty thing at all♪\""
                             ]
                         },
                         {
@@ -9308,14 +8741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[yuri_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう逃げられない・・・♪撫子♪」"
+                                "\\F[furi_smile]\\FF[yuri_free]\\AA[1]Akane: \"You can't escape anymore...♪ Nadeshiko♪\""
                             ]
                         },
                         {

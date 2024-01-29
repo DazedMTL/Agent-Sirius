@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "３Ｂ教室",
+    "displayName": "Classroom 3B",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4169,21 +4169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日も部活休みだって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大会近いのにあせっちゃうよね～！あははは」"
+                                "Female Student: \"They said club activities are canceled\nagain today! It's making me nervous with the tournament\ncoming up soon! Ahahaha!\""
                             ]
                         },
                         {

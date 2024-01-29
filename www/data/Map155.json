@@ -3879,14 +3879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_damage]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んん・・・どうなってるの・・・？」"
+                                "\\F[nakosu_damage]Nadeshiko: \"Mmm... What's happening...?\""
                             ]
                         },
                         {
@@ -4880,14 +4873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・こ、これって・・・」"
+                                "\\F[nakosu_trouble]Nadeshiko: \"...Is this...?\""
                             ]
                         },
                         {
@@ -4905,14 +4891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]\\FF[iruka_trouble]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「元に戻ってる？世界も・・・私達も？」"
+                                "\\F[nakosu_trouble]\\FF[iruka_trouble]\\AA[2]Iruka: \"Are we back to normal? The world... and us?\""
                             ]
                         },
                         {
@@ -4930,28 +4909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ajiri_trouble2]\\FF[iruka_trouble]\\AA[1]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど、どういうこと・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フリーダムポイゾンは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エージェントシリウスは自分から人間に！？」"
+                                "\\F[ajiri_trouble2]\\FF[iruka_trouble]\\AA[1]Yui: \"What... what does this mean...!? Freedom Poison is...\nAgent Sirius turned into a human by themselves!?\""
                             ]
                         },
                         {
@@ -4969,21 +4927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ajiri_trouble2]\\FF[ayaka_smile]\\AA[2]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怪人になった・・・紅さんが倒されたってこと・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大元のポイゾンがいなくなったら、全部元通りに・・・？」"
+                                "\\F[ajiri_trouble2]\\FF[ayaka_smile]\\AA[2]Ayaka: \"The monster... Akane-san was defeated? If the\noriginal Poison is gone, does everything go back to\nnormal...?\""
                             ]
                         },
                         {
@@ -5001,21 +4945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yurisu_trouble]\\FF[ayaka_smile]\\AA[1]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「解せない。ポイゾンバーストが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "利かなかったのに・・・どうして？」"
+                                "\\F[yurisu_trouble]\\FF[ayaka_smile]\\AA[1]Yurika: \"I don't understand. Poison Burst didn't work... so\nwhy?\""
                             ]
                         },
                         {
@@ -5059,14 +4989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それは・・・その・・・」"
+                                "Akane: \"Th-that's... well...\""
                             ]
                         },
                         {
@@ -5231,21 +5154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、私が・・・撫子のこと好きすぎちゃったみたいで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自由じゃなくても・・・よくなったっていうか・・・」"
+                                "\\F[beni_nadeshy]Akane: \"I-I guess I just fell too much in love with\nNadeshiko, and even without freedom... it became okay...\""
                             ]
                         },
                         {
@@ -5263,14 +5172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[nakosu_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "\\F[beni_nadeshy]\\FF[nakosu_trouble]\\AA[2]Nadeshiko: \"...\""
                             ]
                         },
                         {
@@ -5287,14 +5189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[nakosu_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うう・・・そんな目で見ないで・・・撫子」"
+                                "\\F[beni_nadeshy]\\FF[nakosu_trouble]\\AA[1]Akane: \"Ugh... don't look at me with those eyes...\nNadeshiko\""
                             ]
                         },
                         {
@@ -5311,21 +5206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[nakosu_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子になりたいとかじゃなくて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その・・・想いが形になるっていうか」"
+                                "\\F[beni_nadeshy]\\FF[nakosu_trouble]\\AA[1]Akane: \"It's not that I want to become Nadeshiko or\nanything... it's just... my feelings took shape, sort of.\""
                             ]
                         },
                         {
@@ -5343,28 +5224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[yurisu_trouble]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「せ、性癖が変わったことで、怪人の姿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "も変わったってことなのか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "べ、紅・・・！それほどまでに撫子のことを・・・」"
+                                "\\F[beni_nadeshy]\\FF[yurisu_trouble]\\AA[2]Yurika: \"So, you're saying your kink changed and that\nchanged the monster's form too! Akane...! To think you feel\nthat strongly about Nadeshiko...\""
                             ]
                         },
                         {
@@ -5382,28 +5242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[himawari_smile]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子の事を愛する性癖ってこと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとドン引きするけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと羨ましいかな・・・？」"
+                                "\\F[beni_nadeshy]\\FF[himawari_smile]\\AA[2]Himawari: \"A kink for loving Nadeshiko? It's a bit off-\nputting but also kind of enviable...?\""
                             ]
                         },
                         {
@@ -5421,21 +5260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[himawari_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だ、だから！撫子もいるんだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうちょっとお手柔らかに・・・」"
+                                "\\F[beni_nadeshy]\\FF[himawari_smile]\\AA[1]Akane: \"That's why! Nadeshiko is here, so be a little more\ngentle...\""
                             ]
                         },
                         {
@@ -5453,28 +5278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[sumire_smile]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなことって・・・あるんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "告白されたことで・・・愛を確かめあったことで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "秘めていた想いが溢れて・・・」"
+                                "\\F[beni_nadeshy]\\FF[sumire_smile]\\AA[2]Sumire: \"To think such a thing could happen... Being\nconfessed to... confirming love for each other, and the\nhidden feelings overflowing...\""
                             ]
                         },
                         {
@@ -5492,28 +5296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[kikyou_smile]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「自由なんかでいられなくなったんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪人になれたから分かりあえるなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかしな話しだけど・・・」"
+                                "\\F[beni_nadeshy]\\FF[kikyou_smile]\\AA[2]Kikyo: \"You couldn't stay free anymore. It's a strange story\nthat you could understand each other because you became\nmonsters...\""
                             ]
                         },
                         {
@@ -5531,21 +5314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[syuu_laugh]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもこんなにハッピーな展開ないって思うけど♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいよね～♪純愛ってのも♪」"
+                                "\\F[beni_nadeshy]\\FF[syuu_laugh]\\AA[2]Hiiragi: \"But I never thought it would turn out this happy♪\nIt's nice, right? Pure love and all♪\""
                             ]
                         },
                         {
@@ -5563,21 +5332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[ayaka_laugh]\\AA[2]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良かった！お互いに両想いって分かるって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すっごいです！お幸せに・・・二人とも！」"
+                                "\\F[beni_nadeshy]\\FF[ayaka_laugh]\\AA[2]Ayaka: \"That's great! Knowing that you both have mutual\nfeelings is amazing! I wish you happiness... both of you!\""
                             ]
                         },
                         {
@@ -5635,21 +5390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な、なんていうか・・・こんなの・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう嫌になったろ。冷静になるとさ・・・」"
+                                "\\F[beni_nadesmile]Akane: \"What can I say... something like this... you must be\nsick of it by now. When you think about it calmly...\""
                             ]
                         },
                         {
@@ -5667,21 +5408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「好きすぎて、この姿の怪人になっちゃう私なんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "百年の恋も冷めるぐらいに引いちゃうだろ・・・」"
+                                "\\F[beni_nadesmile]Akane: \"Loving too much and becoming a monster like this...\nit's enough to cool down a hundred-year love...\""
                             ]
                         },
                         {
@@ -5699,14 +5426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]\\FF[nakosu_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・」"
+                                "\\F[beni_nadesmile]\\FF[nakosu_trouble]\\AA[2]Nadeshiko: \"...\""
                             ]
                         },
                         {
@@ -5724,28 +5444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]\\FF[nakosu_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「で、でも・・・嘘も隠し事もない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の私の気持ちがこの姿。撫子を全身で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感じていたい・・・って思ってる・・・」"
+                                "\\F[beni_nadesmile]\\FF[nakosu_trouble]\\AA[1]Akane: \"But... there are no lies or secrets... My current\nfeelings are this form. I want to feel Nadeshiko with my\nwhole body...\""
                             ]
                         },
                         {
@@ -5763,14 +5462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]\\FF[nakosu_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・」"
+                                "\\F[beni_nadesmile]\\FF[nakosu_trouble]\\AA[2]Nadeshiko: \"...\""
                             ]
                         },
                         {
@@ -5788,14 +5480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]\\FF[nakosu_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何で・・・胸が・・・その・・・ないの？」"
+                                "\\F[beni_nadesmile]\\FF[nakosu_trouble]\\AA[2]Nadeshiko: \"Why... is my chest... not there?\""
                             ]
                         },
                         {
@@ -5813,14 +5498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[nakosu_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？・・・ええっ！！ホントだっ・・・！」"
+                                "\\F[beni_nadeshy]\\FF[nakosu_trouble]\\AA[1]Akane: \"Eh!? ...Oh!! Really...!\""
                             ]
                         },
                         {
@@ -5838,21 +5516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[nakosu_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ストンッ！ってなってる！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで撫子みたいに・・・！」"
+                                "\\F[beni_nadeshy]\\FF[nakosu_trouble]\\AA[1]Akane: \"It's flat! Just like Nadeshiko...!\""
                             ]
                         },
                         {
@@ -5870,14 +5534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[nakosu_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ・・・」"
+                                "\\F[beni_nadeshy]\\FF[nakosu_trouble]\\AA[1]Akane: \"Ah...\""
                             ]
                         },
                         {
@@ -5895,14 +5552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[nakosu_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・（ジトォ・・・）」"
+                                "\\F[beni_nadeshy]\\FF[nakosu_angry]\\AA[2]Nadeshiko: \"...(Glare...)\""
                             ]
                         },
                         {
@@ -5920,14 +5570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[nakosu_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほんとにゴメン・・・」"
+                                "\\F[beni_nadeshy]\\FF[nakosu_angry]\\AA[1]Akane: \"I'm really sorry...\""
                             ]
                         },
                         {
@@ -5945,14 +5588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[nakosu_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まだキス・・・してない」"
+                                "\\F[beni_nadeshy]\\FF[nakosu_angry]\\AA[2]Nadeshiko: \"We still haven't kissed...\""
                             ]
                         },
                         {
@@ -5970,14 +5606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[nakosu_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・？」"
+                                "\\F[beni_nadeshy]\\FF[nakosu_angry]\\AA[1]Akane: \"Eh...?\""
                             ]
                         },
                         {
@@ -5995,21 +5624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[nakosu_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私・・・さっき怪人になった時の後遺症が残ってるから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと発想が自由っていうか、素直っていうか・・・」"
+                                "\\F[beni_nadeshy]\\FF[nakosu_smile]\\AA[2]Nadeshiko: \"I still have some aftereffects from when I\nturned into a monster. My thoughts are a bit too free, or\nrather, honest...\""
                             ]
                         },
                         {
@@ -6027,14 +5642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[nakosu_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから、キスしたい」"
+                                "\\F[beni_nadeshy]\\FF[nakosu_smile]\\AA[2]Nadeshiko: \"That's why, I want to kiss.\""
                             ]
                         },
                         {
@@ -6052,14 +5660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[nakosu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・いいの？」"
+                                "\\F[beni_nadeshy]\\FF[nakosu_smile]\\AA[1]Akane: \"...Is that okay?\""
                             ]
                         },
                         {
@@ -6077,21 +5678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[nakosu_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二度も聞かないでよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう・・・いつまでたっても・・・」"
+                                "\\F[beni_nadeshy]\\FF[nakosu_smile]\\AA[2]Nadeshiko: \"Don't ask twice. It's always... taking\nforever...\""
                             ]
                         },
                         {
@@ -6109,14 +5696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadeshy]\\FF[nakosu_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅は紅なんだから・・・」"
+                                "\\F[beni_nadeshy]\\FF[nakosu_smile]\\AA[2]Nadeshiko: \"Akane is Akane after all...\""
                             ]
                         },
                         {
@@ -6204,7 +5784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チュっ・・・"
+                                "*Kiss*"
                             ]
                         },
                         {
@@ -6231,14 +5811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「このまま・・・抱きしめてもいい？」"
+                                "\\F[beni_nadesmile]Akane: \"Can I hold you like this?\""
                             ]
                         },
                         {
@@ -6256,14 +5829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い、いいよ・・・今日だけ特別・・・」"
+                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[2]Nadeshiko: \"Y-yeah, it's okay... Just for today, it's\nspecial...\""
                             ]
                         },
                         {
@@ -6281,21 +5847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん。一生分抱きしめる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう離さない」"
+                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[1]Akane: \"Yeah. I'll hold you for a lifetime. I won't let go\nanymore.\""
                             ]
                         },
                         {
@@ -6313,21 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日を一生続けるって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プロポーズみたいなこと言って・・・」"
+                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[2]Nadeshiko: \"Continuing today for a lifetime... It's like\nyou're proposing...\""
                             ]
                         },
                         {
@@ -6345,14 +5883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「プロポーズだったら受けてくれるの？」"
+                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[1]Akane: \"If it was a proposal, would you accept it?\""
                             ]
                         },
                         {
@@ -6370,14 +5901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「グイグイきすぎだから！もう・・・」"
+                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[2]Nadeshiko: \"You're too pushy! Geez...\""
                             ]
                         },
                         {
@@ -6395,14 +5919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「好きだよ・・・撫子」"
+                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[1]Akane: \"I love you... Nadeshiko.\""
                             ]
                         },
                         {
@@ -6420,14 +5937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[2]Nadeshiko: \"...\""
                             ]
                         },
                         {
@@ -6444,14 +5954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・わ、私も・・・」"
+                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[2]Nadeshiko: \"...I, I also...\""
                             ]
                         },
                         {
@@ -6468,14 +5971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・好き・・・」"
+                                "\\F[beni_nadesmile]\\FF[nakosu_shy]\\AA[2]Nadeshiko: \"...love you...\""
                             ]
                         },
                         {
@@ -6497,14 +5993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えへへへっ・・・」"
+                                "Akane: \"Ehehehe...\""
                             ]
                         },
                         {
@@ -6521,14 +6010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・う～っ・・・」"
+                                "Nadeshiko: \"...Uuu...\""
                             ]
                         },
                         {

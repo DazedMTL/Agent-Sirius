@@ -5685,21 +5685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sion_trouble]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当に・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの志倉さんから相談を受けたの・・・？」\\|\\|\\^"
+                                "\\F[sion_trouble]Shion: \"Really...? You received a consultation from that\nShikura-san...?\""
                             ]
                         },
                         {
@@ -5716,21 +5702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sion_trouble]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鷲尾先生がセクハラしてくるって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大嫌いだ・・・なんて？」\\|\\|\\^"
+                                "\\F[sion_trouble]Shion: \"Washio-sensei is coming on to you sexually? You hate\nhim... what?\""
                             ]
                         },
                         {
@@ -5747,28 +5719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sion_trouble]\\FF[tubaki_trouble]\\AA[2]椿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は、はい・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも取り留めのない子なのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はっきりと・・・」\\|\\|\\^"
+                                "\\F[sion_trouble]\\FF[tubaki_trouble]\\AA[2]Tsubaki: \"Ye-yes... Even though she's always so\nincoherent... she was very clear...\""
                             ]
                         },
                         {
@@ -5785,21 +5736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sion_trouble]\\FF[tubaki_trouble]\\AA[1]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「事件の匂いがするわね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "放ってはおけないけど・・・」\\|\\|\\^"
+                                "\\F[sion_trouble]\\FF[tubaki_trouble]\\AA[1]Shion: \"This smells like a case... We can't just ignore\nit...\""
                             ]
                         },
                         {
@@ -5816,21 +5753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sion_smile]\\FF[tubaki_trouble]\\AA[1]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな深刻な相談をするぐらい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲が良かったんですね、鷹本先生」\\|\\|\\^"
+                                "\\F[sion_smile]\\FF[tubaki_trouble]\\AA[1]Shion: \"To have such a serious consultation, you must have\nbeen close, Takamoto-sensei.\""
                             ]
                         },
                         {
@@ -5847,14 +5770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sion_smile]\\FF[tubaki_trouble]\\AA[2]椿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ・・・何故か懐いてくれていて・・・」\\|\\|\\^"
+                                "\\F[sion_smile]\\FF[tubaki_trouble]\\AA[2]Tsubaki: \"No... For some reason, she's taken a liking to\nme...\""
                             ]
                         },
                         {
@@ -5871,14 +5787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sion_smile]\\FF[tubaki_trouble]\\AA[1]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（似たところを感じ取っていたのかな・・・？）\\|\\|\\^"
+                                "\\F[sion_smile]\\FF[tubaki_trouble]\\AA[1]Shion: (Maybe she sensed something similar...?)"
                             ]
                         },
                         {
@@ -5895,21 +5804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sion_smile]\\FF[tubaki_trouble]\\AA[1]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあとりあえず一緒に鷲尾先生に事実関係を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確認に行きましょう。誤解の可能性もありますし」\\|\\|\\^"
+                                "\\F[sion_smile]\\FF[tubaki_trouble]\\AA[1]Shion: \"Well then, let's go together and confirm the facts\nwith Washio-sensei. There could be a misunderstanding after\nall.\""
                             ]
                         },
                         {
@@ -5926,21 +5821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sion_smile]\\FF[tubaki_trouble]\\AA[2]椿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、お願いします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鷲尾先生・・・怖くって・・・」\\|\\|\\^"
+                                "\\F[sion_smile]\\FF[tubaki_trouble]\\AA[2]Tsubaki: \"Please do. I'm... scared of Washio-sensei...\""
                             ]
                         },
                         {
@@ -5957,28 +5838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sion_smile]\\FF[tubaki_trouble]\\AA[1]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰でもそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクハラしたって言われて、誰も疑わない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな人よ。あの男は」\\|\\|\\^"
+                                "\\F[sion_smile]\\FF[tubaki_trouble]\\AA[1]Shion: \"Anyone would be. To be accused of sexual harassment,\nand no one doubts it... That's the kind of person he is.\""
                             ]
                         },
                         {
@@ -6009,21 +5869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "★マップ製作"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さなつき"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "日高　久志\\|\\^"
+                                "★Map Creation by Sanatsuki Hidatakakushi"
                             ]
                         },
                         {

@@ -765,14 +765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "リバースダークサイドルート"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "探索開始までスキップしますか？"
+                                "Would you like to skip to the start of the Reverse Darkside\nIdol search?"
                             ]
                         },
                         {
@@ -780,8 +773,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -938,14 +931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んんっ♪んくぅ・・・♪あうぅんっ・・・♪」"
+                                "Akane: \"Mmm♪ Ngh...♪ Ahhnn...♪\""
                             ]
                         },
                         {
@@ -963,21 +949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な、撫子ぉ♪撫子のチュー♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うくぅぅっ・・・♪」"
+                                "Akane: \"Na, Nadeshiko♪ Your kiss♪ Ughh...♪\""
                             ]
                         },
                         {
@@ -995,21 +967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「イクっ！撫子ぉ・・・イちゃうよぉ・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くぅぅんっ・・・♪」"
+                                "Akane: \"I'm coming! Nadeshiko... I'm gonna cum...♪\nUhhnn...♪\""
                             ]
                         },
                         {
@@ -1027,14 +985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おおぉぉ・・・♪あくぅぅ・・・♪」"
+                                "Akane: \"Ahh...♪ Ohh...♪\""
                             ]
                         },
                         {
@@ -1069,21 +1020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_shy]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はうぅ・・・♪良かった・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スッキリした・・・」"
+                                "\\F[beni_shy]Akane: \"Hauu...♪ That was good... I feel refreshed...\""
                             ]
                         },
                         {
@@ -1270,21 +1207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「って早く戻らないと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を皆が待っているんだから！」"
+                                "\\F[beni_angry2]Akane: \"But I have to hurry back! Everyone is waiting for\nme!\""
                             ]
                         },
                         {
@@ -1301,14 +1224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「手を洗って・・・」"
+                                "\\F[beni_smile]Akane: \"Washing my hands...\""
                             ]
                         },
                         {
@@ -1341,28 +1257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ、さて急がないと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの先生が来る前にビッチ仲間にしておかないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後々めんどくせーからなぁ～っ♪」"
+                                "\\F[beni_reverse1]Akane: \"Phew, I need to hurry... I have to turn her into a\nbitch buddy before that teacher comes, or it'll be a pain\nlater on~♪\""
                             ]
                         },
                         {
@@ -1379,14 +1274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃははっ・・・！」"
+                                "\\F[beni_reverse1]Akane: \"Kyahaha...!\""
                             ]
                         },
                         {

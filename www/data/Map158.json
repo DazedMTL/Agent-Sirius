@@ -1419,21 +1419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_smile]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今回の事件も危ないところだったね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆、やられちゃってどうなることかと・・・」\\|\\|\\^"
+                                "\\F[ayaka_smile]Ayaka: \"That was a close call with this case... I was\nworried about what would happen after everyone got taken\ndown...\""
                             ]
                         },
                         {
@@ -1450,21 +1436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_smile]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「白虎さんに助けられたからいいものの・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "完全敗北だった・・・面目ない・・・」\\|\\|\\^"
+                                "\\F[ayaka_smile]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"It's good that Shiratora-san saved us, but... it was\na complete defeat. I'm ashamed...\""
                             ]
                         },
                         {
@@ -1481,21 +1453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_trouble]\\FF[kikyou_trouble]\\AA[1]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえいえ。桔梗さんだけの責任では・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も大してお役に立てませんでした」\\|\\|\\^"
+                                "\\F[sumire_trouble]\\FF[kikyou_trouble]\\AA[1]Sumire: \"No, no, it's not just Kikyo-san's fault... I wasn't\nmuch help either.\""
                             ]
                         },
                         {
@@ -1512,28 +1470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_trouble]\\FF[himawari_angry]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもバーストが利かなかったのは由々しき事態じゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達がソロスーツで戦っていても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝てなかったかも知れないのよ！」\\|\\|\\^"
+                                "\\F[sumire_trouble]\\FF[himawari_angry]\\AA[2]Himawari: \"But isn't it a serious problem that our burst\ndidn't work? Even if we had fought in our solo suits, we\nmight not have won!\""
                             ]
                         },
                         {
@@ -1550,28 +1487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_angry]\\FF[himawari_angry]\\AA[1]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅さんだけが特別なんだとしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいのですが・・・」\\|\\|\\^"
+                                "\\F[sumire_angry]\\FF[himawari_angry]\\AA[1]Sumire: \"That's true... It would be fine if only Akane-san\nwas special...\""
                             ]
                         },
                         {
@@ -1588,21 +1504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_angry]\\FF[kikyou_angry]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃないなら・・・他に必殺技を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "編み出さないとだな」\\|\\|\\^"
+                                "\\F[sumire_angry]\\FF[kikyou_angry]\\AA[2]Kikyo: \"If not, then... we'll have to come up with another\nfinishing move.\""
                             ]
                         },
                         {
@@ -1619,14 +1521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_laugh]\\FF[kikyou_angry]\\AA[1]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「別にいいんじゃない？今回も気持ちよかったし♪」\\|\\|\\^"
+                                "\\F[syuu_laugh]\\FF[kikyou_angry]\\AA[1]Hiiragi: \"Does it really matter? It felt good this time\ntoo♪\""
                             ]
                         },
                         {
@@ -1643,14 +1538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_laugh]\\FF[himawari_angry]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういう問題じゃないのっ！この色ボケ女っ！！」\\|\\|\\^"
+                                "\\F[syuu_laugh]\\FF[himawari_angry]\\AA[2]Himawari: \"That's not the point! You lustful woman!!\""
                             ]
                         },
                         {
@@ -1667,14 +1555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_smile]\\FF[himawari_angry]\\AA[1]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういえばハナサクさんは？」\\|\\|\\^"
+                                "\\F[ayaka_smile]\\FF[himawari_angry]\\AA[1]Ayaka: \"By the way, where's Hanasaku-san?\""
                             ]
                         },
                         {
@@ -1691,21 +1572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_smile]\\FF[sumire_smile]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お呼びしたのですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用事があるとのことで・・・」\\|\\|\\^"
+                                "\\F[ayaka_smile]\\FF[sumire_smile]\\AA[2]Sumire: \"I called for her, but she said she had some\nerrands...\""
                             ]
                         },
                         {
@@ -1722,28 +1589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_smile]\\FF[sumire_smile]\\AA[1]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの子も謎なトコあるわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "栗山くんとデートでもしてんじゃないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人で一緒にいるところ、よく見かけるし」\\|\\|\\^"
+                                "\\F[himawari_smile]\\FF[sumire_smile]\\AA[1]Himawari: \"That girl is mysterious, isn't she? Maybe she's\non a date with Kurayama-kun? I often see them together.\""
                             ]
                         },
                         {
@@ -1760,14 +1606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_smile]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの二人ってそうなのか！？」\\|\\|\\^"
+                                "\\F[himawari_smile]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"Are those two like that?!?\""
                             ]
                         },
                         {
@@ -1784,21 +1623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_laugh]\\FF[kikyou_trouble]\\AA[1]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど～なんだろうね～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気になる、気になる～♪」\\|\\|\\^"
+                                "\\F[syuu_laugh]\\FF[kikyou_trouble]\\AA[1]Hiiragi: \"I wonder~♪ It's intriguing, very intriguing~♪\""
                             ]
                         },
                         {
@@ -1829,28 +1654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "★フォント"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "装甲明朝"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "★マップチップ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コミュ将　様\\|\\^"
+                                ""
                             ]
                         },
                         {

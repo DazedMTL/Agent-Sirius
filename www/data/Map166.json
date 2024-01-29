@@ -1436,21 +1436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっと待ってください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ貴女・・・信心を持っていないでしょ？」"
+                                "Student: \"Wait a minute! You still don't have faith, do\nyou?\""
                             ]
                         },
                         {
@@ -1468,21 +1454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「信じてるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲間とか自分・・・とか！」"
+                                "\\F[beni_trouble]Akane: \"I do believe! In my friends... and myself... and\nstuff!\""
                             ]
                         },
                         {
@@ -1500,14 +1472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その仲間・・・信じられるんですか？」"
+                                "Student: \"Can you really trust those friends?\""
                             ]
                         },
                         {
@@ -1525,14 +1490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もしかして・・・本当は・・・」"
+                                "Student: \"Maybe... actually...\""
                             ]
                         },
                         {
@@ -1642,21 +1600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃはははっ！あーしみたいにビッチになってるかも～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神様なんかよりパコハメじゃん❤常識っ～！」"
+                                "Student: \"Kyahaha! You might be turning into a bitch just\nlike Asami~♪ Screw gods, it's all about getting laid❤ That's\ncommon sense~!\""
                             ]
                         },
                         {
@@ -1674,14 +1618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゆ、歪んでる・・・」"
+                                "\\F[beni_trouble]Akane: \"That's... twisted...\""
                             ]
                         },
                         {
@@ -1699,28 +1636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「けど・・・前よりいい顔してんじゃん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カビの生えた祭壇拝むより、チャラ男に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パコハメせがむ方がいいってそりゃそ～だよ！」"
+                                "\\F[beni_reverse1]Akane: \"But... you're making a better face than before,\naren't you?♪ It's better to beg a playboy for a good time\nthan to worship at a moldy altar, that's for sure!\""
                             ]
                         },
                         {
@@ -1738,28 +1654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あったりまえ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんで今までわかんね～の？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バカなの？きゃはははっ～❤」"
+                                "\\F[beni_reverse1]Akane: \"Of course~♪ Why didn't you get it until now? Are you\nstupid? Kyahahaha~❤\""
                             ]
                         },
                         {
@@ -1835,21 +1730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃはははっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神様なんかよりパコハメじゃん❤常識っ～！」"
+                                "Student: \"Kyahaha! Screw gods, it's all about banging,\nright?❤ That's common sense~!\""
                             ]
                         },
                         {

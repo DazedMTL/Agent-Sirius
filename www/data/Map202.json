@@ -1752,28 +1752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_free]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昨日は凄かったよね～❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "街中至るところで、ハメハメしててっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に”自由”って感じがしたし」"
+                                "\\F[ayaka_free]Ayaka: \"Yesterday was crazy, right~❤ Everywhere in town,\npeople were hooking up♪ It really felt like 'freedom'.\""
                             ]
                         },
                         {
@@ -1791,21 +1770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_free]\\FF[kikyou_free]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一体、何本咥えこんだんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くくくっ！誰よりもはっちゃけてたじゃないか♪」"
+                                "\\F[ayaka_free]\\FF[kikyou_free]\\AA[2]Kikyo: \"How many did you take in your mouth? Kukuku! You\nwere the wildest one there♪\""
                             ]
                         },
                         {
@@ -1823,28 +1788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_free]\\FF[kikyou_free]\\AA[1]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そーだよ。私より男囲ってたじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫉妬しちゃうよね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさにビッチって感じ❤」"
+                                "\\F[syuu_free]\\FF[kikyou_free]\\AA[1]Hiiragi: \"That's right. You had more guys around you than\nme. It makes me jealous♪ You're the epitome of a bitch❤\""
                             ]
                         },
                         {
@@ -1862,21 +1806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_free]\\FF[inu_free]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもあれぐらいに見境いない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感じの方が”自由”って思うけど♪」"
+                                "\\F[syuu_free]\\FF[inu_free]\\AA[2]Maple: \"But that kind of indiscriminate feeling is what I\nthink 'freedom' is all about♪\""
                             ]
                         },
                         {
@@ -1893,21 +1823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[iruka_free]\\FF[inu_free]\\AA[1]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはははっ♪貴女が一番、男子生徒を囲い込んでたくせに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分のことを棚にあげて～♪」"
+                                "\\F[iruka_free]\\FF[inu_free]\\AA[1]Iruka: \"Ahahaha! You were the one who had the most male\nstudents around you, and now you're playing innocent～♪\""
                             ]
                         },
                         {
@@ -1925,21 +1841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[iruka_free]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んん～！？ちょっと待って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その話・・・初耳かも」"
+                                "\\F[iruka_free]\\FF[nako_free]\\AA[2]Nadeshiko: \"Hmm~!? Wait a minute. I haven't heard this story\nbefore...\""
                             ]
                         },
                         {
@@ -1957,14 +1859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私達のこと・・・誘ってくれた？」"
+                                "\\F[furi_smile]\\FF[nako_free]\\AA[1]Akane: \"Did you invite us...?\""
                             ]
                         },
                         {
@@ -1982,28 +1877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[himawari_free]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い、いや・・・ちょっとした手違いが・・・あったの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様達が学園で取りこぼしがないか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "漁ってた時だったから・・・」"
+                                "\\F[furi_smile]\\FF[himawari_free]\\AA[2]Himawari: \"No, well... there was a little mix-up. It\nhappened when the masters were scouring the academy to make\nsure there were no leftovers...\""
                             ]
                         },
                         {
@@ -2020,21 +1894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[himawari_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シレッっと学校抜け出してヤリまくってたって事だろ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言い訳してもヤッてんのは一緒じゃないか！」"
+                                "\\F[furi_smile]\\FF[himawari_free]\\AA[1]Akane: \"So you're saying you snuck out of school and had a\nwild time! Making excuses doesn't change the fact that you\ndid it!\""
                             ]
                         },
                         {
@@ -2052,28 +1912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[himawari_free]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そうだけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも！二人はチンポ生やして楽しそうにしてたから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、私達はハメる方がいいかな～って」"
+                                "\\F[furi_smile]\\FF[himawari_free]\\AA[2]Himawari: \"That's true, but... But! The two of you were\nhappily sporting dicks! So, we thought maybe we should be on\nthe receiving end～\""
                             ]
                         },
                         {
@@ -2090,28 +1929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[syuu_free]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そーそー♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男漁るなら、学生より夜の街に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "繰り出した方がいいっしょ❤」"
+                                "\\F[furi_smile]\\FF[syuu_free]\\AA[2]Hiiragi: \"That's right♪ If you're going to hunt for men,\nit's better to hit the streets at night than students❤\""
                             ]
                         },
                         {
@@ -2128,21 +1946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[inu_free]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「保護者として生徒だけを行かせる訳にはいかなかったし♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕方ないわ～❤」"
+                                "\\F[furi_smile]\\FF[inu_free]\\AA[2]Maple: \"As guardians, we couldn't just let the students go\nby themselves♪ It couldn't be helped～❤\""
                             ]
                         },
                         {
@@ -2160,14 +1964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[iruka_free]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私も先輩として・・・」"
+                                "\\F[furi_smile]\\FF[iruka_free]\\AA[2]Iruka: \"I also, as a senior...\""
                             ]
                         },
                         {
@@ -2185,28 +1982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_free]\\FF[iruka_free]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もぉ～！先輩とか、保護者とか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういうのから”自由”になったでしょ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "都合のいい時だけ！」"
+                                "\\F[nako_free]\\FF[iruka_free]\\AA[1]Nadeshiko: \"Geez! Seniors, guardians! We're supposed to be\n'free' from all that! Only when it suits you!\""
                             ]
                         },
                         {
@@ -2224,28 +2000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[iruka_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そーだ！美味しいチンポは私の為に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残しておくべきなんだからな♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あはははっ！！私だけだ！”ご主人様”はっ❤」"
+                                "\\F[furi_smile]\\FF[iruka_free]\\AA[1]Akane: \"Exactly! The tasty dicks should be reserved for me♪\nAhahaha!! Just for me! 'Master'❤\""
                             ]
                         },
                         {
@@ -2263,21 +2018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[ayaka_free]\\AA[2]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこ！ちょっと前から気になってたんだけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達って、自分の名前からも解き放たれたでしょ？」"
+                                "\\F[furi_smile]\\FF[ayaka_free]\\AA[2]Ayaka: \"There! I've been wondering about this for a while...\nWe've been freed from our own names, right?\""
                             ]
                         },
                         {
@@ -2295,21 +2036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[ayaka_free]\\AA[2]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先輩とか先生とかの肩書きまでなくなったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんて呼んだらいいか・・・」"
+                                "\\F[furi_smile]\\FF[ayaka_free]\\AA[2]Ayaka: \"If we lose titles like senior or teacher, what\nshould we call each other...?\""
                             ]
                         },
                         {
@@ -2327,21 +2054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[ayaka_free]\\AA[2]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかんなくなりません？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ～いうの、”不自由”な気がする～！」"
+                                "\\F[furi_smile]\\FF[ayaka_free]\\AA[2]Ayaka: \"Doesn't it become confusing? That kind of thing\nfeels 'restrictive'～!\""
                             ]
                         },
                         {
@@ -2359,28 +2072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[iruka_free]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしかに♪援護射撃ありだと～❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから私は先輩。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様にとっても先輩だから、尊敬して男回してねっ❤」"
+                                "\\F[furi_smile]\\FF[iruka_free]\\AA[2]Iruka: \"Certainly♪ Fire support is available～❤ So I'm a\nsenior. To our master, I'm also a senior, so show some\nrespect and pass the men around, okay❤\""
                             ]
                         },
                         {
@@ -2398,28 +2090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[inu_free]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ、もっと偉い先生の私はもっともっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハメ甲斐のある男を回してもらえるってこと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やったわっ❤嬉しい～！♪」"
+                                "\\F[furi_smile]\\FF[inu_free]\\AA[2]Maple: \"Then, as a teacher who's even more important, does\nthat mean I get to have even more worthwhile men to play\nwith? Yay❤ I'm so happy～!♪\""
                             ]
                         },
                         {
@@ -2437,21 +2108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_free]\\FF[inu_free]\\AA[1]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「待って！待って！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そんなの・・・何の肩書もない私達が不利じゃない！」"
+                                "\\F[himawari_free]\\FF[inu_free]\\AA[1]Himawari: \"Wait! Wait!! That's... We who have no titles are\nat a disadvantage!\""
                             ]
                         },
                         {
@@ -2469,28 +2126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_free]\\FF[ayaka_free]\\AA[2]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うんうんっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この場でちゃんと肩書があるのって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先生と先輩、ご主人様だけでしょ？」"
+                                "\\F[himawari_free]\\FF[ayaka_free]\\AA[2]Ayaka: \"Right right! The only ones with proper titles here\nare teachers, seniors, and masters, right?\""
                             ]
                         },
                         {
@@ -2508,14 +2144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_free]\\FF[ayaka_free]\\AA[1]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ビッチとかじゃ駄目？」"
+                                "\\F[syuu_free]\\FF[ayaka_free]\\AA[1]Hiiragi: \"Is 'bitch' not good enough?\""
                             ]
                         },
                         {
@@ -2533,21 +2162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_free]\\FF[kikyou_free]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、私も・・・出オチって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言われてたりするんだが・・・それでも？」"
+                                "\\F[syuu_free]\\FF[kikyou_free]\\AA[2]Kikyo: \"I... I've been called an 'opening act' before... Is\nthat still okay?\""
                             ]
                         },
                         {
@@ -2565,14 +2180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_free]\\FF[kikyou_free]\\AA[1]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ツ、ツンデレってもう・・・死語なの・・・？」"
+                                "\\F[himawari_free]\\FF[kikyou_free]\\AA[1]Himawari: \"Is 'tsundere' already... a dead word...?\""
                             ]
                         },
                         {
@@ -2590,21 +2198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_free]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それなら・・・メ、メガネとか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、この中なら掛けてるの私だけだし♪」"
+                                "\\F[himawari_free]\\FF[nako_free]\\AA[2]Nadeshiko: \"Then... how about 'glasses'? Look, I'm the only\none wearing them here♪\""
                             ]
                         },
                         {
@@ -2622,21 +2216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはははっ～！みんな、必死すぎっ❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでもいいのにっ！”自由”なんだから、さっ！！」"
+                                "\\F[furi_smile]\\FF[nako_free]\\AA[1]Akane: \"Ahahaha! You're all trying too hard❤ Anything\ngoes!\"'Freedom' is what it's all about, so let's go!!\""
                             ]
                         },
                         {
@@ -2715,28 +2295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_free]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふっ♪皆さん、よく聞いてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は大発見をしてしまいました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで全て解決します♪」"
+                                "\\FF[sumire_free]Sumire: \"Fufufu♪ Everyone, please listen carefully. I've\nmade a great discovery. This will solve everything♪\""
                             ]
                         },
                         {
@@ -2763,21 +2322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_free]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁんっ❤淫語、気持ち良い❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ち・・・チンポ♪・・・ま・・・マンコ♪・・・」"
+                                "\\FF[sumire_free]Sumire: \"Ahhn❤ Dirty talk feels so good❤ Di... Dick♪...\nPu... Pussy♪...\""
                             ]
                         },
                         {
@@ -2795,21 +2340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_free]\\FF[sumire_free]\\AA[1]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い、いきなりどうしたの・・・って・・・あひぃっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これってぇ・・・❤おおおっ・・・♪」"
+                                "\\F[himawari_free]\\FF[sumire_free]\\AA[1]Himawari: \"What's gotten into you all of a sudden... Ahhii♪\nIs this...❤ Ooohh...♪\""
                             ]
                         },
                         {
@@ -2827,28 +2358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_free]\\FF[sumire_free]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうです♪実は私達。ご主人様のお力で、”自由”に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きなポイゾンになれるようなのです♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はお気に入りのスピークになってみました♪」"
+                                "\\F[himawari_free]\\FF[sumire_free]\\AA[2]Sumire: \"That's right♪ Actually, thanks to our master's\npower, we can freely become our favorite poison♪ I've tried\nbecoming my favorite speaker♪\""
                             ]
                         },
                         {
@@ -2866,28 +2376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_free]\\FF[sumire_free]\\AA[1]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほどね～♪おおっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしも裏表ひっくり返った。リバースってことだね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱりしっくり来るわ～❤」"
+                                "\\F[syuu_free]\\FF[sumire_free]\\AA[1]Hiiragi: \"I see～♪ Ohh! Ahh, I've also turned inside out. A\nreverse, that's it♪ It really suits me❤\""
                             ]
                         },
                         {
@@ -2905,28 +2394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_free]\\FF[kikyou_free]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ということは・・・くくくっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "デカチンポ・・・・❤ご主人様のわからせチンポとはまた違う・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このむせ返るような匂いっ❤」"
+                                "\\F[syuu_free]\\FF[kikyou_free]\\AA[2]Kikyo: \"So that means... Kukuku! Big dick...❤ A different\nkind of dick from master's teaching dick... This\nintoxicating smell❤\""
                             ]
                         },
                         {
@@ -2944,14 +2412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_free]\\FF[kikyou_free]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「スピーシーズのフタナリチンポのオス臭♪」"
+                                "\\F[syuu_free]\\FF[kikyou_free]\\AA[2]Kikyo: \"The musky scent of a spicy futanari dick♪\""
                             ]
                         },
                         {
@@ -2969,28 +2430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_free]\\FF[kikyou_free]\\AA[1]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ♪それだったら先生とか先輩とか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かより断然いいじゃないっ❤私も星羅ちゃんみたいな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お触りアイドルになりたいから、タッチと♪」"
+                                "\\F[himawari_free]\\FF[kikyou_free]\\AA[1]Himawari: \"Fufu♪ If that's the case, it's way better than\nbeing called a teacher or senior❤ I want to be a touchable\nidol like Seira-chan too, so touch me♪\""
                             ]
                         },
                         {
@@ -3008,21 +2448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_free]\\FF[inu_free]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んもぉっ！先生の威厳が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったら、隠し持ったコウモリマスクを出してくるんだから！」"
+                                "\\F[himawari_free]\\FF[inu_free]\\AA[2]Maple: \"Oh come on! There goes my dignity as a teacher...\nThen I'll bring out my hidden bat mask!\""
                             ]
                         },
                         {
@@ -3039,21 +2465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[iruka_free]\\FF[inu_free]\\AA[1]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私だって、一人H用に閉まってた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ニュルニュルうなぎを持ってきます！」"
+                                "\\F[iruka_free]\\FF[inu_free]\\AA[1]Iruka: \"I'm not going to be left out either, I'll bring my\nslippery eel that I kept for solo H!\""
                             ]
                         },
                         {
@@ -3132,21 +2544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_free]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すっごいね♪もう収拾がつかないね～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもこれも”自由”ってことだよね～❤」"
+                                "\\F[ayaka_free]Ayaka: \"It's amazing♪ Things are getting out of hand～♪ But\nthis is also 'freedom', right～❤\""
                             ]
                         },
                         {
@@ -3164,28 +2562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_free]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「貴女は・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女はどんな怪人になるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女の好きなものは・・・何？」"
+                                "\\F[ayaka_free]Ayaka: \"What about you...? What kind of monster will you\nbecome? What do you like...?\""
                             ]
                         },
                         {
@@ -3203,21 +2580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_free]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の好きなもの・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その怪人に・・・”自由”になれる・・・？」"
+                                "\\F[ayaka_free]\\FF[nako_free]\\AA[2]Nadeshiko: \"What I like...? To become that monster...\n'freely'...?\""
                             ]
                         },
                         {
@@ -3235,14 +2598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_free]\\FF[nako_free]\\AA[1]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うんっ♪皆みたいに・・・愉しんじゃお♪」"
+                                "\\F[ayaka_free]\\FF[nako_free]\\AA[1]Ayaka: \"Yeah♪ Just like everyone... I'm going to enjoy\nthis♪\""
                             ]
                         },
                         {
@@ -3276,14 +2632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_free]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「好きな怪人・・・ポイゾン・・・」"
+                                "\\FF[nako_free]Nadeshiko: \"My favorite monster... Poison...\""
                             ]
                         },
                         {
@@ -3355,14 +2704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_free]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ベニ・・・ポイゾン・・・？」"
+                                "\\FF[nako_free]Nadeshiko: \"Red... Poison...?\""
                             ]
                         },
                         {
@@ -3411,14 +2753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・？」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]Akane: \"Eh...?\""
                             ]
                         },
                         {
@@ -3436,21 +2771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ、あれ？わたし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”自由”になったはずなのに・・・」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]Nadeshiko: \"Ah, what? I was supposed to be 'free'...\""
                             ]
                         },
                         {
@@ -3480,7 +2801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクン・・・ドクン・・・"
+                                "Thump... Thump..."
                             ]
                         },
                         {

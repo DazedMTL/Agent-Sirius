@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "２階中庭",
+    "displayName": "Second Floor Courtyard",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -2065,14 +2065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_smile]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵、聞きたいことがあるんだけど・・・？」"
+                                "\\F[nako_smile]Nadeshiko: \"Himawari, there's something I want to ask\nyou...?\""
                             ]
                         },
                         {
@@ -2089,14 +2082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_smile]\\FF[himawari_trouble2]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・・」"
+                                "\\F[nako_smile]\\FF[himawari_trouble2]\\AA[2]Himawari: \"...\""
                             ]
                         },
                         {
@@ -2113,14 +2099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[himawari_trouble2]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵・・・？」"
+                                "\\F[nako_trouble]\\FF[himawari_trouble2]\\AA[1]Nadeshiko: \"Himawari...?\""
                             ]
                         },
                         {
@@ -2137,28 +2116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[himawari_trouble2]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（何かを考え込んでいて、上の空だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  よっぽど重要なことなのか・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  情報はもらえなさそうだな・・・）"
+                                "\\F[beni_trouble]\\FF[himawari_trouble2]\\AA[1]Akane: (She seems lost in thought, staring into space. It\nmust be something important...? It doesn't look like I'll\nget any information out of her...)"
                             ]
                         },
                         {
@@ -2175,14 +2133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[himawari_trouble2]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子、行こう」"
+                                "\\F[beni_smile]\\FF[himawari_trouble2]\\AA[1]Akane: \"Nadeshiko, let's go.\""
                             ]
                         },
                         {
@@ -2199,14 +2150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「で、でも・・・」"
+                                "\\F[beni_smile]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"But, but...\""
                             ]
                         },
                         {
@@ -2223,28 +2167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_trouble2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（宇宙に何があったの！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 私にあんな態度・・・絶対におかしいっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " それに放課後まで待てなんて・・・！）"
+                                "\\FF[himawari_trouble2]Himawari: (What happened to Sora!? That attitude towards\nme... It's definitely not right!! And telling me to wait\nuntil after school...!)"
                             ]
                         },
                         {
@@ -2536,14 +2459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「捕まえた！さあ、目隠しの快楽に溺れよ♪」"
+                                "\\F[beni_kamenoti]Akane: \"Caught you! Now, drown in the pleasure of being\nblindfolded♪\""
                             ]
                         },
                         {
@@ -2560,14 +2476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え、遠慮しておきます・・・！」"
+                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[2]Shiratora: \"Eh, I'll pass...!\""
                             ]
                         },
                         {
@@ -2584,21 +2493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「賢い菫なら、分かるよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  もう逃れられないって♪」"
+                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[1]Akane: \"You're smart, Shiratora. You understand, right?\nThere's no escaping now♪\""
                             ]
                         },
                         {
@@ -2615,28 +2510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「このマスクを被せられたら、最後・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  怪人に堕ちてしまうということですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  分かっています・・・」"
+                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[2]Shiratora: \"If I'm forced to wear this mask, it's over...\nI'll fall into the hands of the fiend, right? I\nunderstand...\""
                             ]
                         },
                         {
@@ -2653,21 +2527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なら・・・さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  もう抵抗なんてせずに受け入れて・・・」"
+                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[1]Akane: \"Then... just accept it without resisting...\""
                             ]
                         },
                         {
@@ -2684,28 +2544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういう訳にはいきません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  皆さんを守るのが私達の役目っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  こんな洗脳に屈する訳にはいきませんっ！」"
+                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[2]Shiratora: \"I can't do that! It's our duty to protect\neveryone! I won't succumb to such brainwashing!\""
                             ]
                         },
                         {
@@ -2722,28 +2561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守る？邪魔さえしなければ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  皆も目隠しの素晴らしさに気付けて仲良く出来るのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  どうしてそれが分からないの？」"
+                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[1]Akane: \"Protect? If you didn't interfere, everyone could\nrealize the wonderfulness of being blindfolded and get\nalong... Why can't you see that?\""
                             ]
                         },
                         {
@@ -2760,21 +2578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう思うのは、紅さんが怪人に洗脳されているからです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  この私が・・・目を覚ましてあげますっ！」"
+                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[2]Shiratora: \"That's because you've been brainwashed by the\nfiend, Akane! I... will awaken you!\""
                             ]
                         },
                         {
@@ -2791,21 +2595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふ～ん、今から乳首弄り倒すけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  目を覚ますのは・・・どっちかなぁ～？」"
+                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[1]Akane: \"Hmm, I'm going to play with your nipples now... I\nwonder who will be the one to awaken...?\""
                             ]
                         },
                         {
@@ -2822,21 +2612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなのは・・・決まっています！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  みくびらないで下さい！」"
+                                "\\F[beni_kamenoti]\\FF[sumire_kamentr]\\AA[2]Shiratora: \"That's already decided!! Don't underestimate\nme!\""
                             ]
                         },
                         {
@@ -2875,7 +2651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "３分後・・・"
+                                "3 minutes later..."
                             ]
                         },
                         {
@@ -2969,14 +2745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_kamenahe]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「もちろん私の方でしたぁぁっ♪」"
+                                "\\F[sumire_kamenahe]Shiratora: \"Of course, it was me who did♪\""
                             ]
                         },
                         {
@@ -2993,21 +2762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_kamenahe]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「くひぃっ♪目が覚めましたぁぁっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  目隠し洗脳最高ぉぉっ♪」"
+                                "\\F[sumire_kamenahe]Shiratora: \"Kuhihi♪ I've awakened♪ The brainwashing of the\nblindfold is the best♪\""
                             ]
                         },
                         {
@@ -3024,28 +2779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_kamenahe]\\FF[beni_kamenoti]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ！口ほどにもないよね！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  賢い菫さんなら、これからどうすればいいか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  分かるよね？」"
+                                "\\F[sumire_kamenahe]\\FF[beni_kamenoti]\\AA[2]Akane: \"Haha! You didn't really mean what you said!! Smart\nShiratora, you know what to do now, right?\""
                             ]
                         },
                         {
@@ -3062,21 +2796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_kamenahe]\\FF[beni_kamenoti]\\AA[1]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くふぅぅっ♪まだこの快楽を知らない馬鹿がいたら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  すぐにマスクを被せて教えてあげますぅっ♪」"
+                                "\\F[sumire_kamenahe]\\FF[beni_kamenoti]\\AA[1]Shiratora: \"Kufuuu♪ If there's still an idiot who doesn't\nknow this pleasure... I'll put a mask on them right away and\nteach them♪\""
                             ]
                         },
                         {
@@ -3093,21 +2813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_kamenahe]\\FF[beni_kamenoti]\\AA[1]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんな気持いい事知らないなんてぇ、馬鹿すぎるぅぅ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  あひゃはぁぁぁっ♪」"
+                                "\\F[sumire_kamenahe]\\FF[beni_kamenoti]\\AA[1]Shiratora: \"Not knowing something this good is just too\nstupid♪ Ahyahaaa♪\""
                             ]
                         },
                         {
@@ -3124,28 +2830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_kamenahe]\\FF[beni_kamenoti]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだね♪そんな菫もさっきまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  お馬鹿さんの一人だったんだけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  私が教えてあげて助かったでしょ？」"
+                                "\\F[sumire_kamenahe]\\FF[beni_kamenoti]\\AA[2]Akane: \"Right♪ Such a Shiratora was also one of the silly\nones until just now. But I taught you and saved you, right?\""
                             ]
                         },
                         {
@@ -3162,28 +2847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_kamenahe]\\FF[beni_kamenoti]\\AA[1]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございますぅぅ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ご迷惑をおかけしましたぁぁっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  これからは・・・目隠し奴隷として皆を洗脳しますぅ♪」"
+                                "\\F[sumire_kamenahe]\\FF[beni_kamenoti]\\AA[1]Shiratora: \"Thank you so much♪ I apologize for the trouble I\ncaused♪ From now on... I'll brainwash everyone as a\nblindfold slave♪\""
                             ]
                         },
                         {
@@ -3200,14 +2864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_kamenahe]\\FF[beni_kamenoti]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ、よくできましたぁ♪」"
+                                "\\F[sumire_kamenahe]\\FF[beni_kamenoti]\\AA[2]Akane: \"Fufu, well done♪\""
                             ]
                         },
                         {
@@ -3333,28 +2990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_kamenahe]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございます♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ご迷惑をおかけしましたぁ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  これからは・・・目隠し奴隷として皆を洗脳しますぅ♪」"
+                                "\\F[sumire_kamenahe]Sumire: \"Thank you very much♪ I apologize for any\ninconvenience♪ From now on... I will brainwash everyone as a\nblindfolded slave♪\""
                             ]
                         },
                         {

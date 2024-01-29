@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "２Ｃ教室",
+    "displayName": "Classroom 2C",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4159,21 +4159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "茉莉花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「秋菜ってさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本当に良い匂いがするよね？」"
+                                "Matsurika: \"Akina really smells nice, doesn't she?\""
                             ]
                         },
                         {
@@ -4229,21 +4215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "秋菜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そ、そうかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "茉莉花だって、気持ちいい匂いがするんだから」"
+                                "Akina: \"Do I? Matsurika, you smell pleasant too.\""
                             ]
                         },
                         {
@@ -4260,28 +4232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "茉莉花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「も～、ありがとう♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くぅん、くぅんっ♪ああんっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ずっとずっと、いつまでも秋菜の匂いを嗅いでいたいわ～♪」"
+                                "Matsurika: \"Aww, thank you♪ Sniff, sniff♪ Ahh♪ I want to\nkeep smelling Akina's scent forever and ever～♪\""
                             ]
                         },
                         {
@@ -4298,21 +4249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（な、何か付け入る隙がないな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  この二人から話を聞き出すのは無理そうだ）"
+                                "\\F[beni_trouble]Akane: \"(There's no opening to interject... It seems\nimpossible to get any information from these two.)\""
                             ]
                         },
                         {
@@ -4329,14 +4266,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_true]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「クンクン・・・クンクン・・・」"
+                                "\\F[beni_trouble]\\FF[nako_true]\\AA[2]Nadeshiko: \"Sniff... Sniff...\""
                             ]
                         },
                         {
@@ -4353,14 +4283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[nako_true]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ん？撫子、自分の腕の匂いが気になる？」"
+                                "\\F[beni_smile]\\FF[nako_true]\\AA[1]Akane: \"Hm? Nadeshiko, are you concerned about the smell of\nyour own arm?\""
                             ]
                         },
                         {
@@ -4377,14 +4300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[nako_shy2]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「っ！？」"
+                                "\\F[beni_smile]\\FF[nako_shy2]\\AA[2]Nadeshiko: \"Ah!?\""
                             ]
                         },
                         {
@@ -4401,14 +4317,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_shy]\\FF[nako_shy2]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（は、恥ずかしそうに顔を赤らめる撫子・・・可愛い）"
+                                "\\F[beni_shy]\\FF[nako_shy2]\\AA[1]Akane: \"(She's blushing with embarrassment... So cute.)\""
                             ]
                         },
                         {
@@ -4425,14 +4334,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_shy]\\FF[nako_shy2]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（いつもいい匂いだよ・・・って私も言いたい・・・）"
+                                "\\F[beni_shy]\\FF[nako_shy2]\\AA[1]Akane: \"(I want to tell her she always smells good too...)\""
                             ]
                         },
                         {
@@ -4633,21 +4535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茉莉花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「秋菜～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 本当、すごく良い匂い～♪」"
+                                "Matsurika: \"Akina~♪ It really smells so good~♪\""
                             ]
                         },
                         {
@@ -4673,28 +4561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "秋菜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ♪ありがとう、茉莉花。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " このマスクのおかげで私もすごく匂いに敏感になってぇ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 茉莉花の匂いがするだけでイッちゃうのぉ♪」"
+                                "Akina: \"Fufu♪ Thank you, Matsurika. Thanks to this mask,\nI've become super sensitive to smells too♪ Just the scent of\nMatsurika makes me cum♪\""
                             ]
                         },
                         {
@@ -4711,28 +4578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茉莉花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「も～、ありがとうっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " くぅん、くぅんっ♪ああんっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 私だって秋菜の匂いでイッちゃうっ♪」"
+                                "Matsurika: \"Moo~ Thank you♪ Sniff, sniff♪ Ahhnn♪ I can cum\njust from Akina's scent too♪\""
                             ]
                         },
                         {
@@ -4749,21 +4595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "秋菜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一緒にイこっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " スンスン・・・うひぃぃぃんっ♪」"
+                                "Akina: \"Let's cum together♪ Sniff sniff... uhiinnn♪\""
                             ]
                         },
                         {
@@ -4819,21 +4651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茉莉花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、一緒にぃ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " クンクン・・・あはぁっ♪」"
+                                "Matsurika: \"Yeah, together♪ Sniff sniff... ahhaa♪\""
                             ]
                         },
                         {
@@ -4850,28 +4668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ご主人様の目隠し奴隷になれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 匂いを嗅いでるだけでイケるんだ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 今度、撫子と試してみよう。きっと私も・・・）"
+                                "\\F[beni_kamenoti2]Akane: \"(If I become Master's blindfolded slave, I could cum\njust from smelling♪ I should try it with Nadeshiko next\ntime. I'm sure I will...)\""
                             ]
                         },
                         {
@@ -4888,28 +4685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（うんうん、絶対にイケる♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 撫子の体臭嗅いでるだけで、きっとぉ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " だぁって・・・いつもいい匂いなんだもの・・・♪）"
+                                "\\F[beni_kamenoti2]Akane: \"(Yeah, yeah, I'll definitely cum♪ Just from smelling\nNadeshiko's body odor, for sure♪ Because... she always\nsmells so good...♪)\""
                             ]
                         },
                         {
@@ -4986,14 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「スキありです！先輩っ！！」"
+                                "???: \"You've let your guard down, Senpai!!\""
                             ]
                         },
                         {
@@ -5010,14 +4779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？」"
+                                "\\F[beni_trouble]Akane: \"Eh!? What?\""
                             ]
                         },
                         {
@@ -5104,28 +4866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さすが、先輩ッスね！どんな時でも準備を怠らない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " いつ襲われてもいいように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 制服の下に着込んで備えてるッスね！」"
+                                "???: \"As expected of you, Senpai! You're always prepared,\naren't you? Always ready to be attacked at any time, wearing\nlayers under your uniform!\""
                             ]
                         },
                         {
@@ -5151,21 +4892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、何してんの・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 普通に危ないよ。撫子もいるのに・・・！」"
+                                "\\F[beni_trouble]Akane: \"No, what are you doing... It's really dangerous. And\nNadeshiko is here too...!\""
                             ]
                         },
                         {
@@ -5182,28 +4909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ、すいません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 彼女さんの前で・・・ヤンチャしすぎましたね！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 先輩と同じ任務につけるのが、嬉しくって！」"
+                                "???: \"Ah, my apologies! I got too carried away in front of\nyour girlfriend!! I'm just so happy to be on the same\nmission as you, Senpai!\""
                             ]
                         },
                         {
@@ -5220,14 +4926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_true]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「彼女？・・・任務？」"
+                                "\\F[nako_true]Nadeshiko: \"Girlfriend?... Mission?\""
                             ]
                         },
                         {
@@ -5244,21 +4943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あわわっ！！彼女じゃないっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 何てこと言うんだ！！」"
+                                "\\F[beni_trouble]Akane: \"Awawa!! She's not my girlfriend!! Why would you say\nthat!!\""
                             ]
                         },
                         {
@@ -5520,21 +5205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さすが先輩っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " いいパンチッスね・・・！しびれるッス！！」"
+                                "???: \"That's our Senpai! What a punch...! It's\nelectrifying!!\""
                             ]
                         },
                         {
@@ -5560,21 +5231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「満面の笑みを浮かべて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " い、行こう！撫子。コイツと関わると碌なことない・・・」"
+                                "\\F[beni_trouble]Akane: \"With a full smile on your face... Let's go,\nNadeshiko. Nothing good comes from dealing with this guy...\""
                             ]
                         },
                         {
@@ -5591,14 +5248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_true]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「か、彼女じゃない？」"
+                                "\\F[nako_true]Nadeshiko: \"So, she's not your girlfriend?\""
                             ]
                         },
                         {
@@ -5615,21 +5265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（アルタイル・・・！目立ちすぎだし、迂闊だし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " も～！新人は問題児ばっかりじゃないか！！）"
+                                "\\F[beni_trouble]Akane: (Altair...! You stand out too much and you're so\ncareless! Ugh! All the newbies are such troublemakers!!)"
                             ]
                         },
                         {
@@ -5882,21 +5518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（教室で延々とシャドーボクシングしてる・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　任務中なんだけど・・・このエージェント・・・）"
+                                "\\F[beni_trouble]Akane Suzaku: \"She's endlessly shadow-boxing in the\nclassroom... Even though she's on a mission... This\nagent...\""
                             ]
                         },
                         {
@@ -5964,21 +5586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルタイル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ！先輩♪待ってたッスよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒にスパーリングしましょう！！」"
+                                "Altair: \"Ah! Senpai♪ I've been waiting for you♪ Let's spar\ntogether!!\""
                             ]
                         },
                         {
@@ -5995,28 +5603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう、アルタイル。目隠し奴隷になっても、変わらないな♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " もっとこう・・・マンズリし合ったりとか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 乳首弄り合ったりとか♪」"
+                                "\\F[beni_kamenoti]Akane: \"Geez, Altair. Even as a blindfolded slave, you never\nchange♪ Maybe we should do more... mutual masturbation or\nnipple play♪\""
                             ]
                         },
                         {
@@ -6033,28 +5620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルタイル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえいえ！やっぱ拳で語り合うのが、一番感じるッス♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 先輩に殴られたら・・・即イキッスよ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " だ、だから思いっきりぶって欲しいッス！」"
+                                "Altair: \"No, no! The best feeling is still exchanging blows\nwith fists♪ If Senpai hits me... I'll come instantly... So,\nI want you to hit me with all your might!\""
                             ]
                         },
                         {
@@ -6071,14 +5637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamentr]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？アルタイルって・・・そっちの趣味？」"
+                                "\\F[beni_kamentr]Akane: \"Eh? Altair... you're into that kind of stuff?\""
                             ]
                         },
                         {
@@ -6095,21 +5654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルタイル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっちってなんすか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " とにかくボコボコにして欲しいんですぅ♪」"
+                                "Altair: \"What kind of stuff? Anyway, I just want you to beat\nme up♪\""
                             ]
                         },
                         {
@@ -6126,21 +5671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルタイル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「目隠しでどっちから打ってくるか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　わかんないんすよ・・・ゾクゾクするぅ♪」"
+                                "Altair: \"With a blindfold on, I can't tell where the next\nhit is coming from... It's so thrilling♪\""
                             ]
                         },
                         {
@@ -6157,21 +5688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamentr]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（思った以上にヤバいヤツだった・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  私にそういう趣味はないけど・・・）"
+                                "\\F[beni_kamentr]Akane: \"(She's even more of a freak than I thought... Not\nthat I'm into that sort of thing...)\""
                             ]
                         },
                         {
@@ -6188,28 +5705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（撫子はちょっとSっ気あるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　サンドバッグに使いたくなったりするかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ふふっ♪そしたら紹介してあげよ♪）"
+                                "\\F[beni_kamenoti]Akane: \"(Nadeshiko has a bit of an S streak, so maybe she'd\nlike to use her as a punching bag? Hehe♪ If so, I'll\nintroduce them♪)\""
                             ]
                         },
                         {
@@ -6347,21 +5843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルタイル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ！先輩♪スパーリングしましょう！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " ボコボコにして欲しいっす♪」"
+                                "Altair: \"Ah! Senpai♪ Let's spar!! I want you to beat me up♪\""
                             ]
                         },
                         {
@@ -6465,21 +5947,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "茉莉花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「秋菜ってさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本当に良い匂いがするよね？」"
+                                "Matsurika: \"Akina really smells nice, doesn't she?\""
                             ]
                         },
                         {
@@ -6535,21 +6003,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "秋菜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そ、そうかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "茉莉花だって、気持ちいい匂いがするんだから」"
+                                "Akina: \"Do I? Matsurika, you smell pleasant too.\""
                             ]
                         },
                         {
@@ -6566,28 +6020,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "茉莉花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「も～、ありがとう♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くぅん、くぅんっ♪ああんっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ずっとずっと、いつまでも秋菜の匂いを嗅いでいたいわ～♪」"
+                                "Matsurika: \"Aww, thank you♪ Sniff, sniff♪ Ahh♪ I want to\nkeep smelling Akina's scent forever and ever～♪\""
                             ]
                         },
                         {
@@ -6604,21 +6037,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（な、何か付け入る隙がないな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  この二人から話を聞き出すのは無理そうだ）"
+                                "\\F[beni_trouble]Akane: \"(No, there's no opening to interject... It seems\nimpossible to get any information from these two.)\""
                             ]
                         },
                         {
@@ -6635,14 +6054,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_true]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「クンクン・・・クンクン・・・」"
+                                "\\F[beni_trouble]\\FF[nako_true]\\AA[2]Nadeshiko: \"Sniff... Sniff...\""
                             ]
                         },
                         {
@@ -6659,14 +6071,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[nako_true]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ん？撫子、自分の腕の匂いが気になる？」"
+                                "\\F[beni_smile]\\FF[nako_true]\\AA[1]Akane: \"Hm? Nadeshiko, are you concerned about the smell of\nyour own arm?\""
                             ]
                         },
                         {
@@ -6683,14 +6088,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[nako_shy2]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「っ！？」"
+                                "\\F[beni_smile]\\FF[nako_shy2]\\AA[2]Nadeshiko: \"Ah!?\""
                             ]
                         },
                         {
@@ -6707,14 +6105,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_shy]\\FF[nako_shy2]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（は、恥ずかしそうに顔を赤らめる撫子・・・可愛い）"
+                                "\\F[beni_shy]\\FF[nako_shy2]\\AA[1]Akane: \"(Ah, Nadeshiko's face is turning red with\nembarrassment... She's so cute.)\""
                             ]
                         },
                         {
@@ -6731,14 +6122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_shy]\\FF[nako_shy2]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（いつもいい匂いだよ・・・って私も言いたい・・・）"
+                                "\\F[beni_shy]\\FF[nako_shy2]\\AA[1]Akane: \"(I want to tell her she always smells good too...)\""
                             ]
                         },
                         {
@@ -6939,21 +6323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茉莉花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「秋菜～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 本当、すごく良い匂い～♪」"
+                                "Matsurika: \"Akina~♪ It really smells so good~♪\""
                             ]
                         },
                         {
@@ -6979,28 +6349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "秋菜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ♪ありがとう、茉莉花。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " このマスクのおかげで私もすごく匂いに敏感になってぇ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 茉莉花の匂いがするだけでイッちゃうのぉ♪」"
+                                "Akina: \"Fufu♪ Thank you, Matsurika. Thanks to this mask,\nI've become super sensitive to smells too♪ Just the scent of\nMatsurika makes me cum♪\""
                             ]
                         },
                         {
@@ -7017,28 +6366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茉莉花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「も～、ありがとうっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " くぅん、くぅんっ♪ああんっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 私だって秋菜の匂いでイッちゃうっ♪」"
+                                "Matsurika: \"Moo~ Thank you♪ Sniff, sniff♪ Aaahn♪ I can cum\njust from the smell of Akina too♪\""
                             ]
                         },
                         {
@@ -7055,21 +6383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "秋菜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一緒にイこっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " スンスン・・・うひぃぃぃんっ♪」"
+                                "Akina: \"Let's cum together♪ Sniff sniff... uhihihiin♪\""
                             ]
                         },
                         {
@@ -7125,21 +6439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茉莉花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、一緒にぃ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " クンクン・・・あはぁっ♪」"
+                                "Matsurika: \"Yeah, together♪ Sniff sniff... ahhaa♪\""
                             ]
                         },
                         {
@@ -7156,28 +6456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ご主人様の目隠し奴隷になれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 匂いを嗅いでるだけでイケるんだ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 今度、撫子と試してみよう。きっと私も・・・）"
+                                "\\F[beni_kamenoti2]Akane: \"(If I become Master's blindfolded slave, I can cum\njust from smelling♪ I should try it with Nadeshiko next\ntime. I'm sure I will...)\""
                             ]
                         },
                         {
@@ -7194,28 +6473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（うんうん、絶対にイケる♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 撫子の体臭嗅いでるだけで、きっとぉ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " だぁって・・・いつもいい匂いなんだもの・・・♪）"
+                                "\\F[beni_kamenoti2]Akane: \"(Yeah yeah, I'll definitely cum♪ Just from smelling\nNadeshiko's body odor, for sure♪ Because... it always smells\nso good...♪)\""
                             ]
                         },
                         {
@@ -7292,21 +6550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんか最近、流行ってる変な宗教に妹がハマっちゃてさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本当にまいったよ」"
+                                "Male Student: \"Somehow my little sister got hooked on this\nweird religion that's been trending lately. It's really\ndriving me crazy.\""
                             ]
                         },
                         {

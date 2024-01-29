@@ -7193,21 +7193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生や先輩まで私を追いかけてる・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままじゃ捕まるのも時間の問題・・・」"
+                                "\\F[nakosu_angry]Nadeshiko: \"Even the teacher and my seniors are chasing\nafter me... At this rate, it's only a matter of time before\nI'm caught...\""
                             ]
                         },
                         {
@@ -7225,28 +7211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅を助けるために戦っているのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ逃げてるだけじゃ駄目なのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなの！」"
+                                "\\F[nakosu_angry]Nadeshiko: \"I'm fighting to save Akane... It's no good just\nrunning away... This is so frustrating!\""
                             ]
                         },
                         {
@@ -7292,28 +7257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ajiri_free]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、残念～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの二人だけじゃないわよ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もご主人様に改心させられちゃったわ♪」"
+                                "\\FF[ajiri_free]Yui: \"Yes, too bad~♪ It's not just those two... I've been\nreformed by our master as well♪\""
                             ]
                         },
                         {
@@ -7330,28 +7274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ajiri_free]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「フリーダム！私達はフリーダムポイゾンよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "名前は重要でしょ？元の名前からは解き放たれたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分が何になるか分かりにくいでしょうから♪」"
+                                "\\FF[ajiri_free]Yui: \"Freedom! We are Freedom Poison!! Names are important,\nright? Once you're released from your original name, it's\nhard to know what you'll become♪\""
                             ]
                         },
                         {
@@ -7369,21 +7292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ajiri_free]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そして、貴女を捕まえてご主人様に献上するの♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元エージェントの全員でね♪」"
+                                "\\FF[ajiri_free]Yui: \"And then, we'll capture you and present you to our\nmaster♪ All of us former agents together♪\""
                             ]
                         },
                         {
@@ -7505,28 +7414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お迎えにきましたよ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "青春しすぎて無駄な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抵抗してる馬鹿娘は捕まえて・・・ふふっ♪」"
+                                "Vega: \"I've come to pick you up~♪ Silly girl who's resisting\ntoo much in her youth, I'll catch you... hehe♪\""
                             ]
                         },
                         {
@@ -7649,28 +7537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルタイル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ボコボコにして後悔させてやるッス♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ってそんなことしたら私がご主人様にボコボコにされちゃう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おほぉっ♪最高～っ♪」"
+                                "Altair: \"I'm gonna beat you up and make you regret it♪ But\nif I do that, I'll be the one getting beaten up by our\nmaster, ohoho♪ The best~♪\""
                             ]
                         },
                         {
@@ -7793,21 +7660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逃げも隠れもしないのが、我々のモットー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全て曝け出すんだ！貴女も♪」"
+                                "Deneb: \"Our motto is not to run or hide! Expose everything!\nYou too♪\""
                             ]
                         },
                         {
@@ -7850,21 +7703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなことって・・・無理ゲーってこと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、弱気になってる場合じゃない！」"
+                                "\\F[nakosu_trouble]Nadeshiko: \"This is just... an impossible game... No, this\nis no time to be discouraged!\""
                             ]
                         },
                         {
@@ -7882,14 +7721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんとかなるっ！」"
+                                "\\F[nakosu_angry]Nadeshiko: \"Somehow I'll make it!\""
                             ]
                         },
                         {
@@ -8232,14 +8064,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[nakosu_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「きゃっ！！」"
+                                "\\F[nakosu_trouble]Nadeshiko: \"Kyaa!!\""
                             ]
                         },
                         {
@@ -8296,14 +8121,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[nakosu_angry]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「くっ！！まだ」"
+                                "\\F[nakosu_angry]Nadeshiko: \"Ugh!! Not yet\""
                             ]
                         },
                         {
@@ -9447,14 +9265,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[nakosu_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「きゃっ！！」"
+                                "\\F[nakosu_trouble]Nadeshiko: \"Kyaa!!\""
                             ]
                         },
                         {
@@ -9511,14 +9322,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[nakosu_angry]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「くっ！！まだ」"
+                                "\\F[nakosu_angry]Nadeshiko: \"Ugh!! Not yet\""
                             ]
                         },
                         {
@@ -10777,14 +10581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[nakosu_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「きゃっ！！」"
+                                "\\F[nakosu_trouble]Nadeshiko: \"Kyaa!!\""
                             ]
                         },
                         {
@@ -10841,14 +10638,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[nakosu_angry]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「くっ！！まだ」"
+                                "\\F[nakosu_angry]Nadeshiko: \"Ugh!! Not yet\""
                             ]
                         },
                         {
@@ -12107,14 +11897,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[nakosu_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「きゃっ！！」"
+                                "\\F[nakosu_trouble]Nadeshiko: \"Kyaa!!\""
                             ]
                         },
                         {
@@ -12171,14 +11954,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[nakosu_angry]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「くっ！！まだ」"
+                                "\\F[nakosu_angry]Nadeshiko: \"Ugh!! Not yet\""
                             ]
                         },
                         {

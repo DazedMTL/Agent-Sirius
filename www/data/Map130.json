@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "探偵部",
+    "displayName": "Detective Club",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -2637,21 +2637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここにいる皆はおかしくなってない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心して」"
+                                "\\F[beni_smile]Akane: \"Everyone here is not going crazy. Don't worry.\""
                             ]
                         },
                         {
@@ -2708,21 +2694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございます・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助かりました」"
+                                "Mei: \"Thank you... I'm saved.\""
                             ]
                         },
                         {
@@ -2740,21 +2712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも備えなきゃ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに亜麻さんは襲いかかってくるだろうから」"
+                                "\\F[beni_angry2]Akane: \"But we have to be prepared... Asama-san will\nprobably attack us soon.\""
                             ]
                         },
                         {
@@ -2865,21 +2823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[yuri_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「予定通りというわけだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ・・・決戦の時だ」"
+                                "\\F[beni_angry2]\\FF[yuri_smile]\\AA[2]Yurika: \"Just as planned. Now... it's time for the decisive\nbattle.\""
                             ]
                         },
                         {
@@ -2897,21 +2841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_angry]\\FF[yuri_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おびき出してからどう戦うか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・決まってるんですか？」"
+                                "\\F[nako_angry]\\FF[yuri_smile]\\AA[1]Nadeshiko: \"Do we have a plan for how to fight after luring\nher out?\""
                             ]
                         },
                         {
@@ -2929,21 +2859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_angry]\\FF[syuu_smile]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さあ？出たトコ勝負なんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、何とかなるっしょ♪」"
+                                "\\F[nako_angry]\\FF[syuu_smile]\\AA[2]Hiiragi: \"Who knows? Maybe it'll be a spur-of-the-moment\nshowdown? Well, we'll manage somehow♪\""
                             ]
                         },
                         {
@@ -2961,14 +2877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_angry]\\FF[sumire_angry]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（いざとなれば私達が変身して・・・ですね）"
+                                "\\F[nako_angry]\\FF[sumire_angry]\\AA[2]Sumire: (If it comes down to it, we'll transform... right?)"
                             ]
                         },
                         {
@@ -3025,21 +2934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうか・・・どうか亜麻を助けて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなことをしないように止めてほしいのっ！」"
+                                "Mei: \"Please... please save Asama. I want you to stop her\nfrom doing this kind of thing!\""
                             ]
                         },
                         {
@@ -3057,21 +2952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_angry]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は皐月さんとは昔なじみのようだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女がこうなった理由を何か知っているのか？」"
+                                "\\FF[yuri_angry]Yurika: \"You seem to be an old friend of Satsuki-san. Do you\nknow why she became like this?\""
                             ]
                         },
                         {
@@ -3097,21 +2978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「原因は・・・前にあったギャル騒ぎだと思います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれから・・・亜麻はおかしくなってしまいました・・・」"
+                                "Mei: \"The cause... I think it was the gal fuss before. Since\nthen... Asama has become strange...\""
                             ]
                         },
                         {
@@ -3129,14 +2996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[syuu_smile]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あちゃちゃ・・・これは罪深いね・・・私♪」"
+                                "\\FF[syuu_smile]Hiiragi: \"Oh dear... This is a grave sin... me♪\""
                             ]
                         },
                         {
@@ -3154,14 +3014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_angry]\\FF[syuu_smile]\\AA[1]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、本当にな。大いに反省しろ」"
+                                "\\F[kikyou_angry]\\FF[syuu_smile]\\AA[1]Kikyo: \"Yes, really. Reflect on this a lot.\""
                             ]
                         },
                         {
@@ -3179,14 +3032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_angry]\\FF[hanasaku_smile]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怪人と同じ性癖に目覚めたって・・・こと？」"
+                                "\\F[kikyou_angry]\\FF[hanasaku_smile]\\AA[2]Sakuya: \"So she woke up to the same kinks as the\nmonster...?\""
                             ]
                         },
                         {
@@ -3242,28 +3088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「性癖？そういうのじゃなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "亜麻って昔から引っ込み思案で・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自己表現が苦手で、いつも自分を変えたがってました」"
+                                "Mei: \"Kinks? It's not like that. Asama has always been\nshy... She's bad at expressing herself and always wanted to\nchange.\""
                             ]
                         },
                         {
@@ -3281,28 +3106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなときにあの事件が起きて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分だって皆と同じように出来るんだって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自信をつけちゃったんです」"
+                                "Mei: \"Then that incident happened... and she gained\nconfidence that she could do the same as everyone else.\""
                             ]
                         },
                         {
@@ -3320,28 +3124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなこと出来るはずもないのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって好きな男の人が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来たこともないんですよ」"
+                                "Mei: \"Even though she shouldn't be able to... After all,\nshe's never even had a boyfriend.\""
                             ]
                         },
                         {
@@ -3359,21 +3142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なのに乱交パーティーに行ったり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "街で男を引っ掛けたりして・・・」"
+                                "Mei: \"Yet she went to orgies and picked up men in town...\""
                             ]
                         },
                         {
@@ -3390,21 +3159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_angry]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「典型的な不良ルートだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知らない世界に触れてはっちゃけてしまう・・・」"
+                                "\\FF[yuri_angry]Yurika: \"A typical bad girl route. She got carried away\nafter touching a world she didn't know...\""
                             ]
                         },
                         {
@@ -3453,14 +3208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[yuri_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それでこんなことをしてしまったと・・・」"
+                                "\\F[beni_trouble]\\FF[yuri_angry]\\AA[1]Akane: \"And that's why she ended up doing such things...\""
                             ]
                         },
                         {
@@ -3477,21 +3225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はいっ！きっと亜麻はもう引き返せないだけなんです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "説得すれば元に戻ってくれるはずなんです！」"
+                                "Mei: \"Yes! I'm sure Asama just can't turn back anymore! If\nwe persuade her, she should return to her former self!\""
                             ]
                         },
                         {
@@ -3509,21 +3243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから・・・助けたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ。その気持ち・・・すごく分かる」"
+                                "\\F[beni_smile]Akane: \"That's why... I want to help her. Ah, I really\nunderstand that feeling.\""
                             ]
                         },
                         {
@@ -3642,28 +3362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_angry]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや・・・厳しいことを言うようだが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女の過去がどうであれ、自分の欲望の為に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学園を侵略していることには変わりない」"
+                                "\\FF[yuri_angry]Yurika: \"No... As harsh as it may sound... Regardless of her\npast, she is invading the school for her own desires.\""
                             ]
                         },
                         {
@@ -3680,28 +3379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_angry]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「皐月さんを救うよりも、他の生徒や"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先生を助ける方が先決だ。彼女には学園を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メチャクチャにした責任をとってもらう」"
+                                "\\FF[yuri_angry]Yurika: \"Saving Satsuki-san is less urgent than helping the\nother students and teachers. She must take responsibility\nfor wreaking havoc on the school.\""
                             ]
                         },
                         {
@@ -3804,14 +3482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから・・・亜麻はそんな気は・・・」"
+                                "Mei: \"But... Asama didn't mean to...\""
                             ]
                         },
                         {
@@ -3828,28 +3499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_angry]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なかったと？もし仲良くしたいなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆が大切にしている日常を守るべきなのではないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが出来ないのは自分勝手でしかない」"
+                                "\\FF[yuri_angry]Yurika: \"She didn't mean to? If she wanted to get along,\nshouldn't she protect the everyday life that everyone\ncherishes? Anything less is just selfish.\""
                             ]
                         },
                         {
@@ -3867,14 +3517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[yuri_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・！」"
+                                "\\F[beni_trouble]\\FF[yuri_angry]\\AA[1]Akane: \"...!\""
                             ]
                         },
                         {
@@ -3892,21 +3535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[yuri_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そうだ・・・守るつもりなら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ側にいればよかったんだ・・・）"
+                                "\\F[beni_trouble]\\FF[yuri_angry]\\AA[1]Akane: (That's right... If I intended to protect... I should\nhave just stayed by her side...)"
                             ]
                         },
                         {
@@ -3924,21 +3553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[yuri_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（それなのに私は・・・エージェントになって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でも出来る気がしていた・・・）"
+                                "\\F[beni_trouble]\\FF[yuri_angry]\\AA[1]Akane: (And yet I became an agent... feeling like I could do\nanything...)"
                             ]
                         },
                         {
@@ -3956,21 +3571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[yuri_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そんなことをして日常を守れない私だから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "撫子を心配させたんだ・・・）"
+                                "\\F[beni_trouble]\\FF[yuri_angry]\\AA[1]Akane: (Because I can't protect the everyday life doing such\nthings... that's why I made Nadeshiko worry...)"
                             ]
                         },
                         {
@@ -3988,14 +3589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[yuri_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そうか・・・そうだったんだ・・・）"
+                                "\\F[beni_trouble]\\FF[yuri_angry]\\AA[1]Akane: (I see... That was it...)"
                             ]
                         },
                         {
@@ -4044,14 +3638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・？」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"...?\""
                             ]
                         },
                         {
@@ -4069,14 +3656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅・・・どうしたの？」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"Akane... What's wrong?\""
                             ]
                         },
                         {
@@ -4281,21 +3861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_reverse1]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「迎えにきたっての！芽衣～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ・・・仲良くパコパコしようぜっ～！！」"
+                                "\\FF[ama_reverse1]Asama: \"I've come to pick you up! Mei~♪ Come on... let's\nhave a good time together~!!\""
                             ]
                         },
                         {
@@ -4313,14 +3879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_angry]\\FF[ama_reverse1]\\AA[1]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「来たか・・・」"
+                                "\\F[yuri_angry]\\FF[ama_reverse1]\\AA[1]Yurika: \"She's here...\""
                             ]
                         },
                         {
@@ -4377,14 +3936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「亜麻っ！もうやめてっ！！」"
+                                "Mei: \"Asama! Stop it!!\""
                             ]
                         },
                         {
@@ -4402,14 +3954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしてこんなことを・・・するんだ？」"
+                                "\\F[beni_angry2]Akane: \"Why are you doing such a thing?\""
                             ]
                         },
                         {
@@ -4427,14 +3972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ama_reverse1]\\AA[2]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああん？・・・気持ちいいからに決まってんだろ？」"
+                                "\\F[beni_angry2]\\FF[ama_reverse1]\\AA[2]Asama: \"Huh? Because it feels good, obviously?\""
                             ]
                         },
                         {
@@ -4452,28 +3990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ama_reverse1]\\AA[2]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかんねーのかよっ！いつでもどこでもチンポハメて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハッパ吸ってよぉ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ以上に楽しいことなんてねぇんだよっ！」"
+                                "\\F[beni_angry2]\\FF[ama_reverse1]\\AA[2]Asama: \"Don't you get it?! Anytime, anywhere, just stick a\ndick in and smoke some weed~♪ There's nothing more fun than\nthat, you know?!\""
                             ]
                         },
                         {
@@ -4491,14 +4008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ama_reverse1]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「瓜川さんを・・・悲しませてもか？」"
+                                "\\F[beni_trouble]\\FF[ama_reverse1]\\AA[1]Akane: \"Even if it makes Urikawa-san sad?\""
                             ]
                         },
                         {
@@ -4516,14 +4026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ama_reverse2]\\AA[2]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っ！！」"
+                                "\\F[beni_trouble]\\FF[ama_reverse2]\\AA[2]Asama: \"!!\""
                             ]
                         },
                         {
@@ -4553,21 +4056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[ama_reverse2]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうっ・・・！芽衣は貴女のことを心配して・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女に元に戻ってほしくて・・・！！」"
+                                "\\F[nako_trouble]\\FF[ama_reverse2]\\AA[1]Nadeshiko: \"That's right...! Mei, you were worried about\nher...!! You wanted her to return to her former self...!!\""
                             ]
                         },
                         {
@@ -4584,28 +4073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[ama_reverse1]\\AA[2]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぎゃはははっ！元に戻るぅ？冴えない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何も出来ないカスみたいなメスガキに今更ぁ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バッカじゃないのっ～！！」"
+                                "\\F[nako_trouble]\\FF[ama_reverse1]\\AA[2]Asama: \"Gyahahaha! Return to my former self? To that dull...\nuseless little bitch I used to be? No way~! Are you\nstupid~?!\""
                             ]
                         },
                         {
@@ -4662,21 +4130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなことないっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "す、素敵だったよ・・・前の亜麻っ・・・」"
+                                "Mei: \"That's not true! You were, you were wonderful... the\nold Asama...\""
                             ]
                         },
                         {
@@ -4694,14 +4148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_reverse1]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は・・・？」"
+                                "\\FF[ama_reverse1]Asama: \"Huh...?\""
                             ]
                         },
                         {
@@ -4719,28 +4166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ずっと目で追ってた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "図書室でページをめくるたびにワクワクしてたあの瞳を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面白い本を見つけた時にはしゃぐ亜麻を・・・」"
+                                "Mei: \"I was always watching you. Those eyes that sparkled\nwith excitement every time you turned a page in the library.\nThe Asama who would get so excited when she found an\ninteresting book...\""
                             ]
                         },
                         {
@@ -4758,14 +4184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_reverse2]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あーしを・・・見てた・・・？」"
+                                "\\FF[ama_reverse2]Asama: \"You were... watching me...?\""
                             ]
                         },
                         {
@@ -4783,28 +4202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うんっ！だって憧れだったから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私って何も出来なくて・・・ドジで運動も勉強も駄目。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからせめて本でも読もうって・・・」"
+                                "Mei: \"Yes! Because I admired you! I couldn't do anything...\nI was clumsy, bad at sports and studies. So I thought at\nleast I should try reading books...\""
                             ]
                         },
                         {
@@ -4821,28 +4219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それもお母さんに強制されてだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当は本を読むのも苦手。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・誰よりも図書室を楽しんでた貴女に興味津々だったの」"
+                                "Mei: \"That too was forced upon me by my mother. Actually,\nI'm not good at reading books either... I was really curious\nabout you, who seemed to enjoy the library more than anyone\nelse.\""
                             ]
                         },
                         {
@@ -4860,28 +4237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「貴女のようになりたいと思った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっぱい、本を読んだよ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっぱい、いっぱいっ・・・！！」"
+                                "Mei: \"I wanted to be like you. I read a lot of books... so\nmany, so many...!!\""
                             ]
                         },
                         {
@@ -4899,14 +4255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_reverse3]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どーいうこと・・・！？訳わかんないじゃんっ！！」"
+                                "\\FF[ama_reverse3]Asama: \"What are you talking about...?! That makes no\nsense!!\""
                             ]
                         },
                         {
@@ -4963,28 +4312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「亜麻のおかげで本が大好きになったんだから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幼馴染ってだけじゃない。亜麻は私の恩人なのっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面白い本、いっぱい見つけたよ」"
+                                "Mei: \"Thanks to Asama, I came to love books! It's not just\nbecause we're childhood friends. Asama, you're my\nbenefactor!! I found so many interesting books.\""
                             ]
                         },
                         {
@@ -5002,21 +4330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「亜麻にも勧めたい本が沢山！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからもう・・・帰ってきてよっ！亜麻っ！！」"
+                                "Mei: \"There are so many books I want to recommend to Asama!\nSo please... come back! Asama!!\""
                             ]
                         },
                         {
@@ -5095,14 +4409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_reverse3]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんなんだよっ！！テメー！！」"
+                                "\\FF[ama_reverse3]Asama: \"What the hell!! You little--!!\""
                             ]
                         },
                         {
@@ -5232,14 +4539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_smile]\\FF[ama_reverse3]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか・・・！」"
+                                "\\F[yuri_smile]\\FF[ama_reverse3]Yurika: \"I see...!\""
                             ]
                         },
                         {
@@ -5256,14 +4556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_smile]\\FF[ama_reverse3]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだったのかっ！皐月亜麻っ！！」"
+                                "\\F[yuri_smile]\\FF[ama_reverse3]Yurika: \"That's how it was! Asama Satsuki!!\""
                             ]
                         },
                         {
@@ -5280,28 +4573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_smile]\\FF[ama_reverse3]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君が望んでいたのは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰とでもハメれるビッチギャルに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なることじゃなかったんだなっ！！」"
+                                "\\F[yuri_smile]\\FF[ama_reverse3]Yurika: \"What you really wanted wasn't to become a bitchy\ngal who could sleep with anyone!!\""
                             ]
                         },
                         {
@@ -5358,14 +4630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！？・・・それってどういう・・・？」"
+                                "\\F[beni_trouble]Akane: \"!?... What does that mean...?\""
                             ]
                         },
                         {
@@ -5382,14 +4647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[yuri_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「感情移入だよ。皐月さんは本を誰よりも楽しく読んでいた」"
+                                "\\F[beni_trouble]\\FF[yuri_smile]\\AA[2]Yurika: \"It's empathy. Satsuki-san enjoyed reading books\nmore than anyone else.\""
                             ]
                         },
                         {
@@ -5406,28 +4664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[yuri_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは物語や登場人物に深く入り込むことが出来たからだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうでなければ、なかなか人から見ても楽しそうなぐらいに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はしゃぐことは出来ない」"
+                                "\\F[beni_trouble]\\FF[yuri_smile]\\AA[2]Yurika: \"It was because she could immerse herself deeply\ninto the stories and characters. Otherwise, it wouldn't be\neasy to look so excited and joyful from someone else's\nperspective.\""
                             ]
                         },
                         {
@@ -5444,28 +4681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[yuri_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とても純粋だったんだ。だからリバースポイゾンに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "襲われて、ビッチギャルにされた時・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皐月さんは初めての快楽に、のめり込んでしまった！」"
+                                "\\F[beni_trouble]\\FF[yuri_smile]\\AA[2]Yurika: \"She was very pure. So when she was attacked by\nReverse Poison and turned into a bitchy gal... Satsuki-san\ngot deeply engrossed in the new pleasure she experienced for\nthe first time!\""
                             ]
                         },
                         {
@@ -5482,21 +4698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[yuri_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怪人になることで、一体感を得たんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで本の中の登場人物を同じになれたような感覚をっ！！」"
+                                "\\F[beni_trouble]\\FF[yuri_smile]\\AA[2]Yurika: \"By becoming a monster, she gained a sense of unity.\nIt was like she could become one with the characters in the\nbooks!!\""
                             ]
                         },
                         {
@@ -5544,21 +4746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[yuri_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！・・・だから真面目な文学少女がビッチギャルに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なろうとした？」"
+                                "\\F[beni_trouble]\\FF[yuri_smile]\\AA[1]Akane: \"!!... So the serious literary girl wanted to become\na bitchy gal?\""
                             ]
                         },
                         {
@@ -5575,28 +4763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[yuri_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気づかなかった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君は堕落した訳じゃないっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろ・・・変わらず純粋なままだったんだね」"
+                                "\\F[beni_trouble]\\FF[yuri_smile]\\AA[2]Yurika: \"I didn't realize it! You weren't corrupted!!\nRather... you remained pure all along.\""
                             ]
                         },
                         {
@@ -5674,21 +4841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_reverse3]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何をごちゃごちゃと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしのことを分かったよーな口聞いてんじゃねぇよっ！！」"
+                                "\\FF[ama_reverse3]Asama: \"Stop spouting nonsense... Don't talk like you\nunderstand me!!\""
                             ]
                         },
                         {
@@ -5705,28 +4858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_smile]\\FF[ama_reverse3]\\AA[1]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「”同調”することは快楽なんだっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが気持ちよくなること分け与える"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポイゾンのものであるなら！」"
+                                "\\F[yuri_smile]\\FF[ama_reverse3]\\AA[1]Yurika: \"Sympathizing is a pleasure! Even if it's a poison\nthat shares that good feeling!\""
                             ]
                         },
                         {
@@ -5743,21 +4875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_smile]\\FF[ama_reverse3]\\AA[2]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\\{うっせぇっよっ！！\\}テメーも仲間になって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしと同じになれってんだよっ！！」"
+                                "\\F[yuri_smile]\\FF[ama_reverse3]\\AA[2]Asama: \"Shut up!! Why don't you join us and become the same\nas me!!\""
                             ]
                         },
                         {
@@ -5825,14 +4943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_reverse3]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「うああぁぁぁっ・・・！！」"
+                                "\\FF[ama_reverse3]Asama: \"Uaaaahhh...!!\""
                             ]
                         },
                         {
@@ -6051,14 +5162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[ama_reverse3]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「させないっ・・・！！」"
+                                "\\F[sirius_angry2]\\FF[ama_reverse3]\\AA[1]Akane: \"I won't let you...!!\""
                             ]
                         },
                         {
@@ -6108,14 +5212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポイゾンバーストっ・・・！！」"
+                                "\\F[sirius_angry2]Akane: \"Poison Burst...!!\""
                             ]
                         },
                         {
@@ -6151,14 +5248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_reverse2]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「くっ！！くそがぁぁぁっ・・！！」"
+                                "\\FF[ama_reverse2]Asama: \"Gahh!! Damn it all..!!\""
                             ]
                         },
                         {
@@ -6336,14 +5426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良かった・・・亜麻・・・」"
+                                "Mei: \"I'm glad... Asama...\""
                             ]
                         },
                         {
@@ -6361,21 +5444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_trouble]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんにも良くない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで・・・また・・・何もなくなって・・・」"
+                                "\\FF[ama_trouble]Asama: \"There's nothing good about this... Now... I'll lose\neverything again...\""
                             ]
                         },
                         {
@@ -6393,21 +5462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の言ったこと聞いてなかったの・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "亜麻は特別な人だよ。他の誰がなんて言っても・・・私には・・・」"
+                                "Mei: \"Didn't you listen to what I said? Asama is special. No\nmatter what anyone else says... to me...\""
                             ]
                         },
                         {
@@ -6425,14 +5480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_trouble]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「芽衣・・・」"
+                                "\\FF[ama_trouble]Asama: \"Mei...\""
                             ]
                         },
                         {
@@ -6450,21 +5498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[ama_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・亜麻さんにとっても・・・そうだと思うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪人になっても芽衣さんを捜して必死だったし」"
+                                "\\F[sirius_smile]\\FF[ama_trouble]\\AA[1]Akane: \"...I think for Asama-san too... that's true. Even\nafter becoming a monster, she was desperately searching for\nMei-san.\""
                             ]
                         },
                         {
@@ -6491,14 +5525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そうなのっ！？」"
+                                "Mei: \"Is, is that true?!?\""
                             ]
                         },
                         {
@@ -6516,14 +5543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_trouble]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "\\FF[ama_trouble]Asama: \"...\""
                             ]
                         },
                         {
@@ -6549,28 +5569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_smile]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「感動的だ・・・美しい友情だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "浅ましい欲望に溺れた者の中に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな高潔な心があるなんて」"
+                                "\\FF[yuri_smile]Yurika: \"It's touching... Such beautiful friendship. To\nthink that such a noble heart exists within someone drowned\nin base desires.\""
                             ]
                         },
                         {
@@ -6711,21 +5710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_smile]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が愚かだったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだ・・・そういうことだったんだ・・・」"
+                                "\\FF[yuri_smile]Yurika: \"I was foolish. Yes... that's what it was all\nabout...\""
                             ]
                         },
                         {
@@ -6830,14 +5815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sirius_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・待ってください、会長」"
+                                "\\FF[sirius_angry2]Akane: \"...Wait, President.\""
                             ]
                         },
                         {
@@ -6866,14 +5844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sirius_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「綿の時と同じ様に・・・亜麻を拐うつもりなんですか？」"
+                                "\\FF[sirius_angry2]Akane: \"Just like with the cotton... do you intend to kidnap\nAsama too?\""
                             ]
                         },
                         {
@@ -6899,14 +5870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・？」"
+                                "\\FF[nako_trouble]Nadeshiko: \"Eh...?\""
                             ]
                         },
                         {
@@ -6923,14 +5887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sirius_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この学園を脅かす誘拐事件の犯人は・・・貴方だ！」"
+                                "\\FF[sirius_angry2]Akane: \"The culprit behind the kidnapping incidents\nthreatening this academy is... you!\""
                             ]
                         },
                         {
@@ -6947,14 +5904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_smile]\\FF[sirius_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「生徒会長・・・鬼塚百合花っ！！」"
+                                "\\F[yuri_smile]\\FF[sirius_angry2]Akane: \"Student Council President... Onizuka Yurika!!\""
                             ]
                         },
                         {

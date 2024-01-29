@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "音楽室",
+    "displayName": "Music Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -3994,14 +3994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ・・・❤なんだろうこの気持ち」"
+                                "Female Student: \"Haa...❤ What is this feeling?\""
                             ]
                         },
                         {
@@ -4018,21 +4011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昨日のあれを思い出すとギターとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうでも良くなってくる❤」"
+                                "Female Student: \"When I remember what happened yesterday,\nthings like guitar start to seem so trivial❤\""
                             ]
                         },
                         {
@@ -4181,14 +4160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつ昨日の騒ぎでコウモリに襲われてさ・・・」"
+                                "Male Student: \"He got attacked by a bat during the commotion\nyesterday...\""
                             ]
                         },
                         {
@@ -4205,14 +4177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ・・・ほんとあれ何だったんだよ」"
+                                "Male Student: \"Haa... Seriously, what was that all about?\""
                             ]
                         },
                         {
@@ -4301,14 +4266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれ？部長に香奈のやつもどこ行ったんだ・・・」"
+                                "Male Student: \"Huh? Where did the president and Kana go...?\""
                             ]
                         },
                         {
@@ -4415,28 +4373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "吹奏楽部・部長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昨日の事件で今日も練習は中止・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは本格的に学外での練習も考えなくちゃいけないかも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しれないな」"
+                                "Band Club President: \"Due to yesterday's incident, today's\npractice is also canceled... We might have to seriously\nconsider practicing outside of school.\""
                             ]
                         },
                         {
@@ -4595,21 +4532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ❤すごっ❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "部長すごいぃ❤んぉっ♪」"
+                                "????: \"Ah❤ Amazing❤ Boss, you're incredible❤ Nnh❤♪\""
                             ]
                         },
                         {

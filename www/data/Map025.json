@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "渡り廊下",
+    "displayName": "Corridor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 10,
@@ -1732,14 +1732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「視聴覚室はこっちじゃない！急がないと」"
+                                "\\F[beni_angry]Akane Suzaku: \"The AV room is not this way! We need to\nhurry!\""
                             ]
                         },
                         {
@@ -1966,14 +1959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「視聴覚室はこっちじゃない！急がないと」"
+                                "\\F[beni_angry]Akane: \"The AV room is not this way! We need to hurry!\""
                             ]
                         },
                         {
@@ -2134,21 +2120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "百合花ファンクラブ３号"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今回の生徒会広報のこの写真・・・百合花様♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やっぱり凛々しくて素敵♡」"
+                                "Yurika Fan Club Member #3: \"This photo in the student\ncouncil newsletter... Lady Yurika♡ As always, so gallant and\nlovely♡\""
                             ]
                         },
                         {
@@ -2225,14 +2197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "百合花ファンクラブ３号"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ～百合花様♡」"
+                                "Yurika Fan Club Member #3: \"Ahh~ Yurika-sama♡\""
                             ]
                         },
                         {
@@ -2309,21 +2274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "百合花ファンクラブ３号"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ四海様・・・なんて素敵なの♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　知ってる？あの逞しいおちんぽ・・・♥」"
+                                "Yurika Fan Club Member #3: \"Oh, Sora-sama... how splendid♡\nDo you know? That robust cock...♥\""
                             ]
                         },
                         {
@@ -2340,21 +2291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "百合花ファンクラブ３号"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く私もハメてもらいたい・・・♥」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　（出来れば百合花様といっしょに・・・なんて）"
+                                "Yurika Fan Club Member #3: \"I want to be fucked soon\ntoo...♥\" (If possible, together with Yurika-sama... just\nthinking about it)"
                             ]
                         },
                         {
@@ -2443,21 +2380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_laugh]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ！ドクターペッガー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　撫子飲む？」"
+                                "\\F[beni_laugh]Akane: \"Ah! Doctor Peggah! Want some, Nadeshiko?\""
                             ]
                         },
                         {
@@ -2474,14 +2397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_laugh]\\FF[nako_true]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつも言ってるけど、飲まないから」"
+                                "\\F[beni_laugh]\\FF[nako_true]\\AA[2]Nadeshiko: \"I always say this, but I don't drink it.\""
                             ]
                         },
                         {
@@ -2498,14 +2414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_true]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・美味しいと思うんだけどな」"
+                                "\\F[beni_trouble]\\FF[nako_true]\\AA[1]Akane: \"...I think it's tasty though.\""
                             ]
                         },
                         {
@@ -2593,14 +2502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_laugh]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ドクターペッガー・・・」"
+                                "\\F[beni_laugh]Akane: \"Doctor Peggaa...\""
                             ]
                         },
                         {
@@ -2617,14 +2519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「飲まない！」"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]Nadeshiko: \"I won't drink it!\""
                             ]
                         },
                         {
@@ -2704,21 +2599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_smile]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あの１シーズンだけ発売されていた、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  幻のジョジアのメープルシロップ風味・・・）"
+                                "\\FF[nako_smile]Nadeshiko: \"That limited edition Georgia maple syrup flavor\nthat was only sold for one season...\""
                             ]
                         },
                         {
@@ -2735,14 +2616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_smile]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（また飲みたいな・・・）"
+                                "\\FF[nako_smile]Nadeshiko: \"I want to drink it again...\""
                             ]
                         },
                         {
@@ -2759,14 +2633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・？」"
+                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]Akane: \"...?\""
                             ]
                         },
                         {
@@ -2946,21 +2813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ、宇宙！その様子だと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 　向日葵とちゃんと会えたんだね♪」"
+                                "\\F[beni_kamenoti]Akane: \"Ah, Sora! From the looks of it... you were able to\nmeet with Himawari, weren't you?♪\""
                             ]
                         },
                         {
@@ -2977,28 +2830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう触り合いっこ、した？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  やっぱり乳首がいいよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  お互いの乳首をコリコリするとさ♪」"
+                                "\\F[beni_kamenoti]Akane: \"Have you already started touching each other?\nNipples are the best, right?♪ When you rub each other's\nnipples like this♪\""
                             ]
                         },
                         {
@@ -3015,28 +2847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「乳首・・・うん・・・良さそうっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  私・・・お尻を触ってもらってたんだけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  それでも何回も立ちイキしちゃってたから♪」"
+                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[2]Sora: \"Nipples... yeah... that sounds nice♪ I... was having\nmy butt touched... and even then, I came standing up\nmultiple times♪\""
                             ]
                         },
                         {
@@ -3053,21 +2864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマンコとか乳首とかだったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  もう立ってられないかも♪」"
+                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[2]Sora: \"If it had been my pussy or nipples, I might not have\nbeen able to stand at all♪\""
                             ]
                         },
                         {
@@ -3084,21 +2881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へぇ～♪ああ見えて向日葵ってお尻フェチなんだ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　意外だね～♪」"
+                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[1]Akane: \"Heh～♪ To think Himawari is into butts, that's\nsurprising～♪\""
                             ]
                         },
                         {
@@ -3115,21 +2898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵ちゃんがお尻好き？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  そんなことないと思うよ？」"
+                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[2]Sora: \"Himawari-chan likes butts? I don't think that's the\ncase?\""
                             ]
                         },
                         {
@@ -3146,21 +2915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？向日葵にコウモリマスクをもらって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お尻の快楽で堕とされたんじゃないの？」"
+                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[1]Akane: \"Eh? Didn't Himawari give you a bat mask and corrupt\nyou with the pleasure of your ass?\""
                             ]
                         },
                         {
@@ -3177,28 +2932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「違うよ～。いきなり後ろから羽交い締めにされたの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ハナサクさんに♪そして乱暴にお尻を揉まれてぇ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　・・・・イッちゃったのぉ♪」"
+                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[2]Sora: \"No way～. I was suddenly grabbed from behind. By\nHanasaku-san♪ And then she roughly kneaded my butt... and I\ncame♪\""
                             ]
                         },
                         {
@@ -3215,28 +2949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そっか♪ハナサクって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつもお尻サワサワセクハラまがいの事してくるもんね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なるほど～♪」"
+                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[1]Akane: \"So, that's it♪ Hanasaku is always kind of sexually\nharassing by touching butts, huh♪ I see～♪\""
                             ]
                         },
                         {
@@ -3253,21 +2966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamentr]\\FF[sora_kamen]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こ、これは嵐の予感・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　向日葵・・・怒るぞ・・・）"
+                                "\\F[beni_kamentr]\\FF[sora_kamen]\\AA[1]Akane: \"(Th-this is a sign of a storm... Himawari... she's\ngoing to be angry...)\""
                             ]
                         },
                         {
@@ -3284,21 +2983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（大好きな人は自分で堕としたいから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私も撫子を自分で堕としたかった・・・）"
+                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[1]Akane: \"(The person you love, you want to corrupt them\nyourself... I wanted to corrupt Nadeshiko myself...)\""
                             ]
                         },
                         {
@@ -3315,28 +3000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（で、でも私達は二人共、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご主人様に直々に堕としてもらえた仲間なんだから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　贅沢は言えない・・・♪）"
+                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[1]Akane: \"(But, both of us were directly corrupted by our\nmaster... we can't be too greedy...♪)\""
                             ]
                         },
                         {
@@ -3353,28 +3017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（どんな形であれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご主人様の目隠し奴隷になれたことが幸せだから♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うんうん♪）"
+                                "\\F[beni_kamenoti]\\FF[sora_kamen]\\AA[1]Akane: \"(No matter how it happened, being able to become our\nmaster's blindfolded slave is happiness itself♪ Yeah yeah♪)\""
                             ]
                         },
                         {
@@ -3451,14 +3094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_kamen]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵ちゃんとも早くしたいなぁ～♥」"
+                                "\\F[sora_kamen]Sora: \"I want to do it with Himawari-chan soon too~♥\""
                             ]
                         },
                         {

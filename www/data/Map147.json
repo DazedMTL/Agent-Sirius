@@ -5999,21 +5999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_shadow]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっと変なことしないで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私にこんなことしても無駄なんだからっ！！」"
+                                "\\FF[himawari_shadow]Himawari: \"Stop doing weird things! It's pointless to do\nthis to me!!\""
                             ]
                         },
                         {
@@ -6031,21 +6017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_shadow]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だって・・・私は！・・・え・・・？私って・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え・・・え・・・？」"
+                                "\\FF[himawari_shadow]Himawari: \"Because... I am!... Eh...? Who am I...?\nEh...eh...?\""
                             ]
                         },
                         {
@@ -6063,28 +6035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_shadow]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰だっけ？ううん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰でもいいっていうか・・・ふぅぅっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうでも良くなってきちゃってるぅ♪」"
+                                "\\FF[himawari_shadow]Himawari: \"Who was it again? No, it doesn't matter who...\nFuuuh♪ I'm starting not to care anymore♪\""
                             ]
                         },
                         {
@@ -6102,28 +6053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_shadow]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう誰でもいいわっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちよくなれるんだったら♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だってそれが一番大事なんだしぃ・・・♪」"
+                                "\\FF[himawari_shadow]Himawari: \"Anyone will do♪ If it feels good, that's all that\nmatters...♪\""
                             ]
                         },
                         {
@@ -6189,21 +6119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_free]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「宇宙とか、アイリスブレイドとか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなのにこだわってたの馬鹿みたい！」"
+                                "\\FF[himawari_free]Himawari: \"Sora and the Iris Blade and all that... I was\nsilly to be so fixated on them!\""
                             ]
                         },
                         {
@@ -6221,21 +6137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_free]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああっ～！時間の無駄ぁ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人生損したわ～♪これからは何も考えないバカになります～♪」"
+                                "\\FF[himawari_free]Himawari: \"Aahh~! What a waste of time♪ I've lost out in\nlife~♪ From now on, I'll be a fool who thinks of nothing~♪\""
                             ]
                         },
                         {
@@ -6253,14 +6155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_free]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うへへへっ～♪」"
+                                "\\FF[himawari_free]Himawari: \"Uhehehehe~♪\""
                             ]
                         },
                         {
@@ -6719,21 +6614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_shadow]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！触れずに攻撃できるなんて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "卑怯なっ・・！！」"
+                                "\\FF[kikyou_shadow]Kikyo: \"Gah! To attack without touching... That's so\nunderhanded..!!\""
                             ]
                         },
                         {
@@ -6751,21 +6632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_shadow]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう手遅れだと思っているだろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "甘いなっ！私がどれだけの数の変態怪人と戦ってきたと思っている！」"
+                                "\\FF[kikyou_shadow]Kikyo: \"You must think it's too late for me! How naive! Do\nyou have any idea how many perverted monsters I've fought?!\""
                             ]
                         },
                         {
@@ -6783,28 +6650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_shadow]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「青龍桔梗の経験を持ってすれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな洗脳の力に抗うことぐらい！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・って桔梗？」"
+                                "\\FF[kikyou_shadow]Kikyo: \"With the experience of Seiryu Kikyo, I can resist\nsuch brainwashing powers!! ...wait, Kikyo?\""
                             ]
                         },
                         {
@@ -6822,21 +6668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_shadow]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええっと・・・誰だ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えひぃぃ・・・♪身体の感度が上がってぇっ♪」"
+                                "\\FF[kikyou_shadow]Kikyo: \"Umm... who's there...? Eheehee...♪ My sensitivity is\nincreasing♪\""
                             ]
                         },
                         {
@@ -6854,21 +6686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_shadow]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「思い出せないけどぉ・・・もういいっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この快楽にぃ・・・あふぅぅっ♪勝てないからぁっ♪」"
+                                "\\FF[kikyou_shadow]Kikyo: \"I can't remember but... it doesn't matter anymore♪ I\ncan't... ahhhh♪ beat this pleasure♪\""
                             ]
                         },
                         {
@@ -6886,21 +6704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_shadow]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「快楽に激弱なザコ牝な私が私ぃぃっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああんっ♪気持ちいいぃぃぃ・・・♪」"
+                                "\\FF[kikyou_shadow]Kikyo: \"I'm such a weakling to pleasure, a pathetic female♪\nAhhhn♪ It feels so good...♪\""
                             ]
                         },
                         {
@@ -6966,28 +6770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_free]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くふぅ・・・♪ザコで良かったぁ・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強すぎて・・・ご主人様を倒してたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに気持ちいい開放感、味わえないぃぃっ♪」"
+                                "\\FF[kikyou_free]Kikyo: \"Kufuu...♪ It's good to be weak...♪ If I were too\nstrong... I wouldn't be able to experience this wonderful\nfeeling of release♪\""
                             ]
                         },
                         {
@@ -7005,21 +6788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_free]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご主人様ぁ、一生ついていきますぅ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰でもどこでもぉ・・・ハメハメしたいのぉ～♪」"
+                                "\\FF[kikyou_free]Kikyo: \"Master, I will follow you for life～♪ Anywhere and\nwith anyone... I want to make love～♪\""
                             ]
                         },
                         {
@@ -7582,28 +7351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[iruka_trouble]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「道のりのシュミレーションなんて何の役にも立たない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐらいに異世界になってる・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここってどこなの・・・？」"
+                                "\\F[iruka_trouble]Iruka: \"This world has become so different, it's like no\nsimulation could have prepared us... Where are we...?\""
                             ]
                         },
                         {
@@ -7621,21 +7369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[iruka_trouble]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「朱雀さんがいきなり目の前に・・・って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にありそう」"
+                                "\\F[iruka_trouble]Iruka: \"To suddenly have Akane Suzaku appear right in front\nof me... It almost seems possible.\""
                             ]
                         },
                         {
@@ -8188,14 +7922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_trouble]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「せ、先輩！！」"
+                                "\\FF[kikyou_trouble]Kikyo: \"Se, Senpai!!\""
                             ]
                         },
                         {
@@ -8212,28 +7939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_trouble]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鈴懸先輩、無事だったんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆がどうなってるか・・・わかります？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宇宙ともはぐれちゃって・・・」"
+                                "\\FF[himawari_trouble]Himawari: \"Suzukake Senpai, you're safe. Do you know what\nhappened to everyone? I got separated from Sora...\""
                             ]
                         },
                         {
@@ -8260,14 +7966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_trouble]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「せめて・・・変身できれば・・・」"
+                                "\\FF[kikyou_trouble]Kikyo: \"If only... I could transform...\""
                             ]
                         },
                         {
@@ -8316,21 +8015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_angry]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヤルときは全部外さないとって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言ってたの・・・桔梗でしょ？」"
+                                "\\FF[himawari_angry]Himawari: \"You said that when it's time to do it, you have\nto take everything off... That was you, Kikyo, right?\""
                             ]
                         },
                         {
@@ -8379,21 +8064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_trouble]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それはそうだけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれはポイゾンに洗脳されていたからで・・・」"
+                                "\\FF[kikyou_trouble]Kikyo: \"Th-that's true, but... that was because I was\nbrainwashed by Poison...\""
                             ]
                         },
                         {
@@ -8472,14 +8143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[iruka_trouble]\\FF[kikyou_trouble]\\AA[1]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、お二人も・・・エージェントさんなんですか？」"
+                                "\\F[iruka_trouble]\\FF[kikyou_trouble]\\AA[1]Iruka: \"Oh, are you two... agents as well?\""
                             ]
                         },
                         {
@@ -8497,14 +8161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[iruka_trouble]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？エージェント・・・？」"
+                                "\\F[iruka_trouble]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"Eh? Agents...?\""
                             ]
                         },
                         {
@@ -8522,14 +8179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[iruka_trouble]\\FF[himawari_trouble]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ち、違うわよ。ただの一般人！」"
+                                "\\F[iruka_trouble]\\FF[himawari_trouble]\\AA[2]Himawari: \"No, that's not it. We're just ordinary people!\""
                             ]
                         },
                         {
@@ -8547,14 +8197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[iruka_trouble]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一般人は・・・ちょっと違うような・・・」"
+                                "\\F[iruka_trouble]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"Ordinary people is... not quite right either...\""
                             ]
                         },
                         {
@@ -8581,14 +8224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[iruka_angry]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ、あれっ！！」"
+                                "\\F[iruka_angry]Iruka: \"Ah, what's that!!\""
                             ]
                         },
                         {
@@ -8679,28 +8315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先輩～！見つけました♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆で何をしているんです？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も仲間に入れてくださいよ～♪」"
+                                "\\F[furi_smile]Akane: \"Senpai~! I found you♪ What is everyone doing? Please\nlet me join in too~♪\""
                             ]
                         },
                         {
@@ -8718,21 +8333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、仲間になるのは先輩たちの方か♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふふっ♪もう逃げられない！」"
+                                "\\F[furi_smile]Akane: \"No, maybe it's you seniors who will be joining us♪\nHehehe♪ There's no escape now!\""
                             ]
                         },
                         {
@@ -8994,21 +8595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[iruka_erod]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、私知っているよ、朱雀さんが探偵部に入った理由。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔、白虎さんを襲った犯人を捕まえるためなんだよね・・・」"
+                                "\\FF[iruka_erod]Iruka: \"Ah, I know why you joined the detective club, Akane\nSuzaku-san. It was to catch the criminal who attacked\nShiratora-san in the past, right...?\""
                             ]
                         },
                         {
@@ -9026,28 +8613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[iruka_erod]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「遊び半分じゃないって・・・私・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから貴女を応援して・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な・・・なのに・・・あうぅぅ・・・」"
+                                "\\FF[iruka_erod]Iruka: \"It's not just a game... I... that's why I support\nyou... but... but still... ahhhh...\""
                             ]
                         },
                         {
@@ -9065,21 +8631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[iruka_erod]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「応援・・・？誰が・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなのいらないのに・・・」"
+                                "\\FF[iruka_erod]Iruka: \"Support...? Who needs it...? I don't need anything\nlike that...\""
                             ]
                         },
                         {
@@ -9096,28 +8648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[iruka_erod]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「自分の思うままにしていればいいのにぃ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あはぁっ♪そうそうっ♪・・・理由なんてなくていいのぉ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただただ気持ちよかったらいいんだから♪」"
+                                "\\FF[iruka_erod]Iruka: \"You should just do as you please♪ Ahaha♪ That's\nright♪... There's no need for a reason♪ If it feels good,\nthat's all that matters♪\""
                             ]
                         },
                         {
@@ -9183,28 +8714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[iruka_free]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「動機とか、故意か、偶然かとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に～どうでもいい～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探偵って一番、くだらないことに拘ってる仕事だよね～♪」"
+                                "\\FF[iruka_free]Iruka: \"Motives, whether it's intentional or accidental,\nreally～ it doesn't matter～♪ Detectives are the ones who fuss\nover the most trivial things, aren't they～♪\""
                             ]
                         },
                         {
@@ -9222,14 +8732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[iruka_free]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご主人様だってぇ・・・そう思ってるんでしょ～？」"
+                                "\\FF[iruka_free]Iruka: \"Even Master thinks so, right～?\""
                             ]
                         },
                         {
@@ -9247,21 +8750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[iruka_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ。最初に何があったかなんてどうでもいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "根拠も証拠もなくたっていい」"
+                                "\\F[furi_smile]\\FF[iruka_free]\\AA[1]Akane: \"Yeah. It doesn't matter what happened at the\nbeginning. It's fine even without any basis or evidence.\""
                             ]
                         },
                         {
@@ -9279,28 +8768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[iruka_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなしがらみから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達は全て解き放たれたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ・・・”今”が気持ち良ければいいっ♪」"
+                                "\\F[furi_smile]\\FF[iruka_free]\\AA[1]Akane: \"We've been freed from all those entanglements.\nJust... if 'now' feels good, that's enough♪\""
                             ]
                         },
                         {
@@ -9318,28 +8786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[iruka_free]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうよね♪わかる～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くだらない過去に拘ってる白虎さんにも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教えてあげなきゃ・・・♪」"
+                                "\\F[furi_smile]\\FF[iruka_free]\\AA[2]Iruka: \"That's right♪ I understand～♪ We have to teach\nShiratora-san who is stuck in the worthless past...♪\""
                             ]
                         },
                         {
@@ -9357,28 +8804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[iruka_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう・・・そうだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "撫子を過去から解き放つんだ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんて素晴らしいっ！！」"
+                                "\\F[furi_smile]\\FF[iruka_free]\\AA[1]Akane: \"Yes... That's it! We'll free Nadeshiko from her\npast♪ How wonderful！！\""
                             ]
                         },
                         {

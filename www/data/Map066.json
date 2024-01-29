@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "化学室",
+    "displayName": "Chemistry Lab",
     "encounterList": [],
     "encounterStep": 30,
     "height": 24,
@@ -4161,21 +4161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おおっ！さすが先輩。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこにいても見つけてしまう・・・さすがですっ！！」"
+                                "Deneve: \"Wow! As expected of my senior. You can find me\nanywhere... Truly impressive!!\""
                             ]
                         },
                         {
@@ -4332,21 +4318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはいいんだけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隠れる必要、ある？」"
+                                "\\F[beni_trouble]Akane: \"That's fine and all... but is there a need to hide?\""
                             ]
                         },
                         {
@@ -4363,28 +4335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろんでございますっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エージェントたる者、世を忍んでこそ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "浮かぶ瀬もあれでありますから！」"
+                                "Deneve: \"Of course, there is! As an agent, one must skulk in\nthe shadows—that's when opportunities arise!\""
                             ]
                         },
                         {
@@ -4401,14 +4352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_true]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「エージェント・・・？」"
+                                "\\F[nako_true]Nadeshiko: \"Agent...?\""
                             ]
                         },
                         {
@@ -4425,28 +4369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_laugh]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、わあっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "や、やっぱり変なところにいるヤツは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・変なこと言い出すな～（棒読み）」"
+                                "\\F[beni_laugh]Akane: \"Whoa, whoa! I knew it, someone hiding in weird\nplaces... starts saying weird things too～(monotone)\""
                             ]
                         },
                         {
@@ -4463,28 +4386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「むむっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後輩を褒めれないようでは静丸（しずまる）は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "渡せませんよっ！」"
+                                "Deneve: \"Hmm...! If you can't praise your junior, then I\ncannot hand over Shizumaru to you!\""
                             ]
                         },
                         {
@@ -4501,14 +4403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな無茶な・・・」"
+                                "\\F[beni_trouble]Akane: \"That's just unreasonable...\""
                             ]
                         },
                         {
@@ -4525,21 +4420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_true]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「渡すって何？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅この子とどういう関係？」"
+                                "\\F[nako_true]Nadeshiko: \"Hand over? What are you talking about? Akane,\nwhat's your relationship with this child?\""
                             ]
                         },
                         {
@@ -4556,14 +4437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "\\F[beni_trouble]Akane: \"...\""
                             ]
                         },
                         {
@@ -4580,14 +4454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「エーマジェンシースリープ！」"
+                                "Deneve: \"Emergency Sleep!\""
                             ]
                         },
                         {
@@ -4753,21 +4620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バカ！！やめろっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ・・・もう！！」"
+                                "\\F[beni_trouble]Akane: \"Idiot!! Stop it!! Ahh... geez!!\""
                             ]
                         },
                         {
@@ -4784,21 +4637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まったく・・・世話の焼ける先輩ですねっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一般の生徒に見られたら困るのでしょう？」"
+                                "Deneve: \"Really... such a handful, senior! You'd be in\ntrouble if a regular student saw you, right?\""
                             ]
                         },
                         {
@@ -4815,21 +4654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そのつもりなら、最初からエージェントとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言わなきゃいいのに・・・）"
+                                "\\F[beni_trouble]Akane: \"(If that's the case, you shouldn't have mentioned\nbeing an agent from the start...)\""
                             ]
                         },
                         {
@@ -5226,21 +5051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[hanasaku_close]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クローズイール様も、あまり陸上での動きは得意じゃないみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから私達の膣でお守りして運ばないと・・・ね♪」"
+                                "\\FF[hanasaku_close]Sakuya: \"It seems that Lord Closile isn't very good at\nmoving on land either. That's why we have to protect and\ncarry him in our pussies... right?♪\""
                             ]
                         },
                         {
@@ -5349,21 +5160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ハナサク、発見・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも・・・隣によりにもよって菫さんか・・・）"
+                                "\\F[beni_mizugi1]Akane Suzaku: (Hanasaki, spotted...♪ But of all people to be\nnext to, it's Sumire-san...)"
                             ]
                         },
                         {
@@ -5381,14 +5178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi4]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（どうにか・・・引き離さないと・・・ん？）"
+                                "\\F[beni_mizugi4]Akane Suzaku: (Somehow... I have to separate them... Hm?)"
                             ]
                         },
                         {
@@ -5505,14 +5295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二人とも・・・何してるの？」"
+                                "\\F[beni_mizugi3]Akane Suzaku: \"What are you two doing?\""
                             ]
                         },
                         {
@@ -5592,21 +5375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[hanasaku_smile]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おお・・・探偵部部長としては気になるよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これだよ、これ」"
+                                "\\F[beni_mizugi3]\\FF[hanasaku_smile]\\AA[2]Sakuya: \"Oh... As the head of the detective club, it's\nconcerning, isn't it? This is it, this thing here.\""
                             ]
                         },
                         {
@@ -5624,14 +5393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[sumire_angry]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何だと思います？紅さん」"
+                                "\\F[beni_mizugi3]\\FF[sumire_angry]\\AA[2]Sumire: \"What do you think it is, Akane-san?\""
                             ]
                         },
                         {
@@ -5657,28 +5419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こ、これって！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クローズイール様じゃないかっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捕まって藻掻いているっ・・！！）"
+                                "\\F[beni_mizugi2]Akane Suzaku: (Th-this is...!? Isn't that Lord Clozeal!!\nStruggling and caught..!!)"
                             ]
                         },
                         {
@@ -5695,21 +5436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（た、助けないと・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、でも正体を見せる訳には・・・！！）"
+                                "\\F[beni_mizugi2]Akane Suzaku: (I-I have to save him...! But I can't reveal\nmy true identity...!!)"
                             ]
                         },
                         {
@@ -5726,14 +5453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な、なんだろ・・・ウナギみたいな・・・？」"
+                                "\\F[beni_mizugi2]Akane Suzaku: \"What could it be... It's like an eel...?\""
                             ]
                         },
                         {
@@ -5751,28 +5471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[sumire_trouble]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなんです。まるでウナギのようなのですが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "陸を這い回っていたのです。ウナギは淡水と海水を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行き来する魚ですが、エラ呼吸をするため陸上では・・・」"
+                                "\\F[beni_mizugi2]\\FF[sumire_trouble]\\AA[2]Sumire: \"Exactly. It's like an eel, but it was crawling on\nland. Eels are fish that move between freshwater and\nseawater, but they breathe through gills, so on land...\""
                             ]
                         },
                         {
@@ -5852,28 +5551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[hanasaku_smile]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一応、身体さえ濡れていれば皮膚呼吸も出来るらしいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもこんな場所までは・・・河川からだいぶ距離があるし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生簀でもあるのかな？」"
+                                "\\F[beni_mizugi2]\\FF[hanasaku_smile]\\AA[2]Sakuya: \"Apparently, as long as their body is wet, they can\nbreathe through their skin. But for a place like this...\nIt's quite a distance from any river... Could there be a\nfish farm around here?\""
                             ]
                         },
                         {
@@ -5891,21 +5569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[hanasaku_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逃げたがって・・・ない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可哀想だから逃してあげようよ・・・」"
+                                "\\F[beni_mizugi2]\\FF[hanasaku_smile]\\AA[1]Akane Suzaku: \"It seems to want to escape... It's pitiful,\nso let's let it go...\""
                             ]
                         },
                         {
@@ -5954,21 +5618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[sumire_trouble]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウナギなら・・・そうなのですが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この生き物は、私のスカートに潜り込んできたのです」"
+                                "\\F[beni_mizugi2]\\FF[sumire_trouble]\\AA[2]Sumire: \"If it were an eel... that would be the case, but...\nthis creature crawled into my skirt.\""
                             ]
                         },
                         {
@@ -6017,28 +5667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[hanasaku_smile]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「びっくりしたよね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目の前でヌルっときたから、思わず菫さんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スカートに顔突っ込んじゃった」"
+                                "\\F[beni_mizugi2]\\FF[hanasaku_smile]\\AA[2]Sakuya: \"It was a surprise! It came slithering up suddenly,\nand before I knew it, I had plunged my face into Sumire-\nsan's skirt.\""
                             ]
                         },
                         {
@@ -6056,28 +5685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[sumire_angry]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「偶然ならいいのですが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしわざとスカートの中に入り込もうとしていた・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが習性なら・・・」"
+                                "\\F[beni_mizugi2]\\FF[sumire_angry]\\AA[2]Sumire: \"If it were by accident, that would be fine... But\nif it deliberately tried to crawl into my skirt... If that's\nits natural behavior...\""
                             ]
                         },
                         {
@@ -6095,14 +5703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi4]\\FF[sumire_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウナギじゃなくて・・・”別の何か”？」"
+                                "\\F[beni_mizugi4]\\FF[sumire_angry]\\AA[1]Akane Suzaku: \"So it's not an eel... but 'something else'?\""
                             ]
                         },
                         {
@@ -6120,28 +5721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi4]\\FF[sumire_angry]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ。私の推理が正しければ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨日のコウモリ騒ぎと同じではないかと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このウナギに捕まった人はきっと怪人に・・・」"
+                                "\\F[beni_mizugi4]\\FF[sumire_angry]\\AA[2]Sumire: \"Yes. If my deduction is correct, it might be the\nsame as yesterday's bat incident. The person caught by this\neel must surely be a phantom thief...\""
                             ]
                         },
                         {
@@ -6159,21 +5739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi4]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え！？そういうことっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ間一髪だったよね・・・」"
+                                "\\F[beni_mizugi4]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"Eh!? Is that what you mean!? Then that was a close\ncall...\""
                             ]
                         },
                         {
@@ -6190,28 +5756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[hanasaku_trouble]\\AA[1]]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（くっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大正解じゃないか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずい・・・全部、バレてる・・・）"
+                                "\\F[beni_mizugi2]\\FF[hanasaku_trouble]\\AA[1]]Akane Suzaku: (Damn...! She's absolutely right... This is\nbad... Everything's been exposed...)"
                             ]
                         },
                         {
@@ -6260,28 +5805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[sumire_angry]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうです。新たな怪人が動き始めている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その証拠に違いありません。一刻の猶予もないかも・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朱雀さん・・・周りで変わったことはなかったですか？」"
+                                "\\F[beni_mizugi2]\\FF[sumire_angry]\\AA[2]Sumire: \"That's right. It's undeniable evidence that a new\nphantom thief has started to move. There might not be a\nmoment to spare... Akane-san... Have you noticed anything\nunusual around here?\""
                             ]
                         },
                         {
@@ -6299,14 +5823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[sumire_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「き、昨日の騒動以来は・・・静かなものだけど・・・」"
+                                "\\F[beni_mizugi2]\\FF[sumire_angry]\\AA[1]Akane Suzaku: \"Since the commotion yesterday... it's been\nquiet...\""
                             ]
                         },
                         {
@@ -6324,21 +5841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅ちゃんに話しをふるってことは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に切羽詰まってるかもってこと・・・？」"
+                                "\\F[beni_mizugi2]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"The fact that you're bringing this up to Akane-chan\nmeans... things must really be urgent, right...?\""
                             ]
                         },
                         {
@@ -6401,21 +5904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[sumire_angry]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい。なりふりかまっていられないと思います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朱雀さんにも協力してほしいんです」"
+                                "\\F[beni_mizugi2]\\FF[sumire_angry]\\AA[2]Sumire: \"Yes. We can't afford to be choosy now. We need\nAkane-san's cooperation.\""
                             ]
                         },
                         {
@@ -6433,28 +5922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi4]\\FF[sumire_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ニュルルッ～！そんなこと・・・するもんかっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様の邪魔になんて・・・なりたくないっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何とかして・・・この二人を・・・）"
+                                "\\F[beni_mizugi4]\\FF[sumire_angry]\\AA[1]Akane Suzaku: (Slither~! As if I'd do such a thing...! I\ndon't want to get in the way of my master... I have to do\nsomething about these two...)"
                             ]
                         },
                         {
@@ -6503,28 +5971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi4]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういえば・・・さ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅ちゃんで思い出したけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "撫子の様子・・・おかしくなかった？」"
+                                "\\F[beni_mizugi4]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"Speaking of which... Oh! Now that I think about it\nbecause of Akane-chan... Nadeshiko has been acting strange,\nhasn't she?\""
                             ]
                         },
                         {
@@ -6542,21 +5989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi4]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「普段そんなことしないのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "友達をトイレに誘ったり・・・して、さ」"
+                                "\\F[beni_mizugi4]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"She doesn't usually do this, but she was inviting\nfriends to the restroom and...\""
                             ]
                         },
                         {
@@ -6574,14 +6007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi4]\\FF[hanasaku_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[beni_mizugi4]\\FF[hanasaku_trouble]\\AA[1]Akane Suzaku: \"!!\""
                             ]
                         },
                         {
@@ -6599,28 +6025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi4]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつも澄まし顔なのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すっごく嬉しそうに笑ってた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トイレに行くだけなのにっ・・・！！」"
+                                "\\F[beni_mizugi4]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"Even though she usually has such a composed face...\nshe was smiling so happily! Just for going to the\nrestroom...!!\""
                             ]
                         },
                         {
@@ -6638,14 +6043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi4]\\FF[hanasaku_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "\\F[beni_mizugi4]\\FF[hanasaku_trouble]\\AA[1]Akane Suzaku: \"...\""
                             ]
                         },
                         {
@@ -6663,21 +6061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[hanasaku_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「菫さん・・・手を離してしまったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのウナギは逃げて襲いかかってしまうと思うよ」"
+                                "\\F[beni_mizugi3]\\FF[hanasaku_trouble]\\AA[1]Akane Suzaku: \"Sumire-san... If you let go of your hand,\nthat eel might escape and attack.\""
                             ]
                         },
                         {
@@ -6695,21 +6079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[sumire_angry]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ。ですからしっかりと持っています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "袋から何かに入れて・・・縛っておかないと危険ですね」"
+                                "\\F[beni_mizugi3]\\FF[sumire_angry]\\AA[2]Sumire: \"Yes. That's why I'm holding on tightly. We need to\nput it into something from the bag and tie it up or it could\nbe dangerous.\""
                             ]
                         },
                         {
@@ -6727,14 +6097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi4]\\FF[sumire_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなこと・・・させないけどっ！」"
+                                "\\F[beni_mizugi4]\\FF[sumire_angry]\\AA[1]Akane Suzaku: \"I won't let you do that though!\""
                             ]
                         },
                         {
@@ -6853,14 +6216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_angry]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っ！！」"
+                                "\\FF[sumire_angry]Sumire: \"!!\""
                             ]
                         },
                         {
@@ -6917,28 +6273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪手を離すと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持ってるクローズイール様はハナサクを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "襲っちゃうよっ！！」"
+                                "\\F[beni_close1]Akane Suzaku: \"Slither~♪ If you let go, the Clozeal you're\nholding will attack Hanasaki!\""
                             ]
                         },
                         {
@@ -6956,21 +6291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sumire_trouble]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ま、まさかっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朱雀さんはすでに怪人にっ・・！！」"
+                                "\\F[beni_close1]\\FF[sumire_trouble]\\AA[2]Sumire: \"No way!! Akane-san, you've already been turned by\nthe phantom thief..!!\""
                             ]
                         },
                         {
@@ -7054,21 +6375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[hanasaku_trouble]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「き、気付かなかったっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "菫さんから離れてっ！！」"
+                                "\\FF[hanasaku_trouble]Sakuya: \"I-I didn't notice!! Get away from Sumire-san!!\""
                             ]
                         },
                         {
@@ -7086,28 +6393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[hanasaku_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クローズイール様が一匹だけだと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "常に私達と一緒にいてくれるのにっ♪」"
+                                "\\F[beni_close1]\\FF[hanasaku_trouble]\\AA[1]Akane Suzaku: \"Heheh...♪ Did you think there was only one\nClozeal? They're always with us♪\""
                             ]
                         },
                         {
@@ -7125,21 +6411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sumire_trouble]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひ、卑怯ですっ！！手が離せないと変身が・・・っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うくぅっ・・・！！あくぅぅんっ・・！！」"
+                                "\\F[beni_close1]\\FF[sumire_trouble]\\AA[2]Sumire: \"That's unfair!! If I let go, I can't transform...\nUghh...!! Ackk..!!\""
                             ]
                         },
                         {
@@ -7157,14 +6429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「菫さんっ！！どうしたのっ！！」"
+                                "\\F[beni_close1]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"Sumire-san!! What's wrong!!\""
                             ]
                         },
                         {
@@ -7182,21 +6447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sumire_trouble2]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ま、まずいですっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ・・・わ、わたしの中に・・・入って・・・」"
+                                "\\F[beni_close1]\\FF[sumire_trouble2]\\AA[2]Sumire: \"This is bad...!! It's entering me...\""
                             ]
                         },
                         {
@@ -7214,21 +6465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sumire_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幸せのお裾分けぇ～♪」"
+                                "\\F[beni_close1]\\FF[sumire_trouble]\\AA[1]Akane Suzaku: \"Slither~♪ Sharing the happiness~♪\""
                             ]
                         },
                         {
@@ -7246,21 +6483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sumire_trouble2]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああっ・・・あああっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う、うごいてぇ・・・いふぅぅぅっ♪」"
+                                "\\F[beni_close1]\\FF[sumire_trouble2]\\AA[2]Sumire: \"Aah... Aaah!! It's moving... inside meee♪\""
                             ]
                         },
                         {
@@ -7278,21 +6501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だ、駄目っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅ちゃん、もう止めてっ・・！！」"
+                                "\\F[beni_close1]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"No, stop it!! Akane-chan, please stop...!!\""
                             ]
                         },
                         {
@@ -7310,21 +6519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sumire_trouble2]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あふぅぅっ♪お腹の中からぁ・・・作り変えられてぇぇぇ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ニュルニュルが肌から溢れてぇ・・・堕ちるぅぅ」"
+                                "\\F[beni_close1]\\FF[sumire_trouble2]\\AA[2]Sumire: \"Ahfuuh♪ From inside my stomach... I'm being\nremadeee♪ The slimy feeling is overflowing from my skin...\nI'm fallinggg\""
                             ]
                         },
                         {
@@ -7342,14 +6537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああっ！！菫さんっ・・！！」"
+                                "\\F[beni_close1]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"Aah!! Sumire-san..!!\""
                             ]
                         },
                         {
@@ -7367,21 +6555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[hanasaku_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハナサクさ・・・人の心配ばかりしてる・・・場合なの？」"
+                                "\\F[beni_close1]\\FF[hanasaku_trouble]\\AA[1]Akane Suzaku: \"Slither~♪ Hanasaku... Is it really the time\nto worry about others?\""
                             ]
                         },
                         {
@@ -7399,14 +6573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？」"
+                                "\\F[beni_close1]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"Eh?\""
                             ]
                         },
                         {
@@ -7424,14 +6591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[hanasaku_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とっくに手を離しちゃってるよ♪菫さん」"
+                                "\\F[beni_close1]\\FF[hanasaku_trouble]\\AA[1]Akane Suzaku: \"You've already let go♪ Sumire-san\""
                             ]
                         },
                         {
@@ -7524,28 +6684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あひゃぁぁぁっ！！あくぅぅぅ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、私にもぉぉぉっ♪」"
+                                "Sakuya: \"Ah... Ahhyaaah!! Ahkuu...!! It's happening to me\ntoooo♪\""
                             ]
                         },
                         {
@@ -7563,14 +6702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二人で仲良く仲間になろうね・・・♪」"
+                                "Akane Suzaku: \"Let's become friends together, nicely...♪\""
                             ]
                         },
                         {
@@ -7587,21 +6719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「ニュルニュルぅ・・・あはぁぁんっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちいいぃぃぃっ♪」"
+                                "Sumire: \"The sliminess... Ahhaaahn♪ It feels so goood♪\""
                             ]
                         },
                         {
@@ -7618,21 +6736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「変えられてるぅ♪ウナギさんに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なっちゃうぅぅぅっ・・・♪」"
+                                "Sakuya: \"I'm being changed♪ I'm turning into an eel-like\ncreatureee...♪\""
                             ]
                         },
                         {
@@ -7984,21 +7088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪二人とも可愛くなったね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クローズイール様が大好きになったでしょ？」"
+                                "\\F[beni_close1]Akane Suzaku: \"Slither~♪ You both look so cute now♪ You've\ncome to love Clozeal-sama, haven't you?\""
                             ]
                         },
                         {
@@ -8034,28 +7124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sumire_close]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ、このニュルニュルがたまらないわ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捕まえていたのが、申し訳ないぐらいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうして・・・ただ身を任せればよかったのに♪」"
+                                "\\F[beni_close1]\\FF[sumire_close]\\AA[2]Sumire: \"Yes, this sliminess is irresistible♪ I feel almost\nsorry for having tried to capture it. I should have just\nsurrendered like this from the start♪\""
                             ]
                         },
                         {
@@ -8073,14 +7142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[hanasaku_close]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだね。菫さん・・・さっきは邪魔してごめんね」"
+                                "\\F[beni_close1]\\FF[hanasaku_close]\\AA[2]Sakuya: \"That's right. Sumire-san... I'm sorry for\ninterfering earlier.\""
                             ]
                         },
                         {
@@ -8098,28 +7160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sumire_close]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "咲夜さんも、仲間になれたんだもの♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結果オーライです」"
+                                "\\F[beni_close1]\\FF[sumire_close]\\AA[2]Sumire: \"Slither~♪ It's okay. Sakuya-san, you've become one\nof us too♪ All's well that ends well.\""
                             ]
                         },
                         {
@@ -8137,21 +7178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sumire_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだね、結果オーライ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これでアイリスブレイドのメンバーを襲う時に、背後からも襲えるね♪」"
+                                "\\F[beni_close1]\\FF[sumire_close]\\AA[1]Akane Suzaku: \"That's right, all's well that ends well. Now\nwe can attack the members of Iris Blade from behind when we\nassault them♪\""
                             ]
                         },
                         {
@@ -8169,14 +7196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sumire_close]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ、皆と同じに戦うフリをして・・・ですね」"
+                                "\\F[beni_close1]\\FF[sumire_close]\\AA[2]Sumire: \"Yes, we'll pretend to fight alongside everyone...\nright?\""
                             ]
                         },
                         {
@@ -8194,21 +7214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[hanasaku_close]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「悪い考えだけど・・・ナイスだね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だってぇ・・・綾香ちゃん達もすぐに仲間に出来ちゃうってことだから♪」"
+                                "\\F[beni_close1]\\FF[hanasaku_close]\\AA[2]Sakuya: \"It's a bad idea but... nice one♪ Because... it\nmeans we can quickly make Ayaka-chan and the others join us\ntoo♪\""
                             ]
                         },
                         {
@@ -8226,14 +7232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sumire_close]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふふっ・・・楽しみ♪」"
+                                "\\F[beni_close1]\\FF[sumire_close]\\AA[2]Sumire: \"Fufufufu... I'm looking forward to it♪\""
                             ]
                         },
                         {
@@ -8251,14 +7250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sumire_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふっ♪私も・・・♪」"
+                                "\\F[beni_close1]\\FF[sumire_close]\\AA[1]Akane Suzaku: \"Fufufu... So am I...♪\""
                             ]
                         },
                         {
@@ -8347,28 +7339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_close]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クローズイール様を寄生させるなら、やはりトイレなどの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "密室に連れ込むのがベストですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身動きが取れなくしてから・・・一気に・・・」"
+                                "\\FF[sumire_close]Sumire: \"If we're going to let Lord Clozeil parasitize\nsomeone, it's best to lure them into a secluded place like a\nbathroom. Once they can't move... we strike all at once...\""
                             ]
                         },
                         {
@@ -8386,14 +7357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_close]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪仲間にしてあげますっ♪」"
+                                "\\FF[sumire_close]Sumire: \"Nyururu~♪ I'll make them one of us♪\""
                             ]
                         },
                         {
@@ -8411,14 +7375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sumire_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さすが菫さん、頼もしい♪」"
+                                "\\F[beni_close1]\\FF[sumire_close]\\AA[1]Akane: \"As expected of Sumire-san, you're so reliable♪\""
                             ]
                         },
                         {

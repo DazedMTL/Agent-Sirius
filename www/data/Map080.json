@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "水泳部部室",
+    "displayName": "Swimming Club Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4290,21 +4290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何かあったんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何で探偵部の二人が？」"
+                                "Female Student: \"Did something happen? Why are the two from\nthe Detective Club here?\""
                             ]
                         },
                         {
@@ -4360,21 +4346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鷲尾先生は・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無視するとしつこいから、急いで来たのに」"
+                                "Female Student: \"Is it Mr. Washio...? He's persistent if you\nignore him, so I came in a hurry.\""
                             ]
                         },
                         {
@@ -4430,21 +4402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いきなり呼び出すって緊急事態！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だれか怪我でもしたの？大会出れないとか・・・？」"
+                                "Female Student: \"An emergency call out of the blue!? Did\nsomeone get hurt? Something like not being able to\nparticipate in the tournament...?\""
                             ]
                         },
                         {
@@ -4470,14 +4428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「み 皆、落ち着いて！！」"
+                                "\\F[beni_trouble]Akane: \"Everyone, calm down!!\""
                             ]
                         },
                         {
@@ -4494,14 +4445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（というかなんで全員水着なんだよ・・・）"
+                                "\\F[beni_trouble]Akane: (But why is everyone in swimsuits...)"
                             ]
                         },
                         {
@@ -4618,21 +4562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっき牧瀬さんが襲われて、保健室に運ばれた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "犯人は・・・似鳥さんに似ていたんだ」"
+                                "\\F[beni_angry2]Akane: \"Earlier, Makise-san was attacked and taken to the\ninfirmary. The culprit looked... like Nitori-san.\""
                             ]
                         },
                         {
@@ -4649,28 +4579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それでもう一人、水泳部の生徒も襲われたの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "犯人の目的は水泳部の皆を襲うことだと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから・・・こうして皆を集めたの」"
+                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]Nadeshiko: \"And there was another person, a student from the\nswim club who was attacked. I think the culprit's aim is to\nattack everyone in the swim club. That's why... we gathered\neveryone here.\""
                             ]
                         },
                         {
@@ -4687,14 +4596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二人と似鳥さん以外・・・全員いる？」"
+                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[1]Akane: \"Aside from the two and Nitori-san... is everyone\nhere?\""
                             ]
                         },
                         {
@@ -4810,14 +4712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「志倉さんがいないような・・・」"
+                                "Female Student: \"It seems like Shikura-san is missing...\""
                             ]
                         },
                         {
@@ -4887,21 +4782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「似鳥さんって志倉さんに辛く当たってたから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真っ先にターゲットになったとか・・・？」"
+                                "Female Student: \"Nitori-san was harsh on Shikura-san...\nMaybe she became the first target...?\""
                             ]
                         },
                         {
@@ -4949,14 +4830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱり・・・」"
+                                "\\F[beni_angry2]Akane: \"I thought so...\""
                             ]
                         },
                         {
@@ -4973,14 +4847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰か志倉さんの連絡先知らない？」"
+                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]Nadeshiko: \"Does anyone know Shikura-san's contact\ninformation?\""
                             ]
                         },
                         {
@@ -5068,14 +4935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私、知ってます」"
+                                "Female Student: \"I know it.\""
                             ]
                         },
                         {
@@ -5092,21 +4952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「携帯を鳴らしてくれる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く、ここに来てもらおう」"
+                                "\\F[beni_angry2]Akane: \"Can you call her cell? Let's get her here quickly.\""
                             ]
                         },
                         {
@@ -5162,14 +5008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はいっ！すぐに呼び出しますねっ！」"
+                                "Female Student: \"Yes! I'll call her right away!\""
                             ]
                         },
                         {
@@ -5322,14 +5161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ・・・！！」"
+                                "\\F[nako_trouble]Nadeshiko: \"Eh...!!\""
                             ]
                         },
                         {
@@ -6109,14 +5941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここに・・・いる・・・？」"
+                                "\\F[beni_trouble]Akane: \"She's here...?\""
                             ]
                         },
                         {
@@ -6133,14 +5958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「し・・・志倉さん・・・？」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"Shi... Shikura-san...?\""
                             ]
                         },
                         {
@@ -6457,28 +6275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "似鳥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルゥ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっとご主人様と一緒に入っていたかったのにぃ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "邪魔をした貴方達を許さないわよぉ～」"
+                                "Nitori: \"Nyururu~♪ I wanted to be with my master all the\ntime, but you guys interfered... I won't forgive you~\""
                             ]
                         },
                         {
@@ -6495,21 +6292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪人・・・やっぱり似鳥さんがっ！！」"
+                                "\\F[beni_angry2]Akane: \"Gah!? A monster... It really is Nitori-san!!\""
                             ]
                         },
                         {
@@ -6526,28 +6309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ち、違うわ！紅っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”ご主人様”って言った・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪人にされたのよ、似鳥さんはっ！」"
+                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"No, it's different! Akane! She said 'master'...\nNitori-san has been turned into a monster!\""
                             ]
                         },
                         {
@@ -6564,21 +6326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ってことは・・・」"
+                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[1]Akane: \"!! So that means...\""
                             ]
                         },
                         {
@@ -6595,28 +6343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱり・・・紅と撫子だぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふふっ♪ようこそ・・・私達の愛の巣に♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大歓迎だよ♪」"
+                                "????: \"As I thought... it's Akane and Nadeshiko... hehehe♪\nWelcome... to our love nest♪ You're warmly welcomed♪\""
                             ]
                         },
                         {
@@ -6803,14 +6530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[close_smile]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふ♪」"
+                                "\\FF[close_smile]Cotton: \"Hehe♪\""
                             ]
                         },
                         {
@@ -6827,14 +6547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[close_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（コットンも怪人に・・・ってこの明るさは・・・）"
+                                "\\F[beni_angry2]\\FF[close_smile]\\AA[1]Akane: (Cotton has become a monster too... but this\nbrightness is...)"
                             ]
                         },
                         {
@@ -6851,14 +6564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[close_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「コットンも怪人にされちゃったの！？」"
+                                "\\F[nako_trouble]\\FF[close_smile]\\AA[1]Nadeshiko: \"Cotton has been turned into a monster too!? \""
                             ]
                         },
                         {
@@ -6875,28 +6581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[close_smile]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「されちゃった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ううん・・・違うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が・・・似鳥ちゃん達を染めちゃったの♪」"
+                                "\\F[nako_trouble]\\FF[close_smile]\\AA[2]Cotton: \"Turned into? No, no... that's not it. I'm the one\nwho... dyed Nitori-chan and the others♪\""
                             ]
                         },
                         {
@@ -6913,28 +6598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[close_smile]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だってぇ・・・ロッカーの中って心地よくって♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狭いところで身体を小さくしてするオナニーは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちいいんだぁ♪」"
+                                "\\F[nako_trouble]\\FF[close_smile]\\AA[2]Cotton: \"Because, you see... it's so comfy inside a locker♪\nMasturbating while curled up in a tight space feels so\ngood♪\""
                             ]
                         },
                         {
@@ -6951,14 +6615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[close_smile]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最初は怖かったけど、今は一番落ち着くの♪」"
+                                "\\F[nako_trouble]\\FF[close_smile]\\AA[2]Cotton: \"I was scared at first, but now it's the most\nrelaxing place for me♪\""
                             ]
                         },
                         {
@@ -6975,21 +6632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[close_smile]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここが私達の居場所なんだって♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ニュルニュルのイールさんがサポートしてくれるし♪」"
+                                "\\F[nako_trouble]\\FF[close_smile]\\AA[2]Cotton: \"This is our place to be♪ The slippery Mr. Eel\nsupports us too♪\""
                             ]
                         },
                         {
@@ -7022,21 +6665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[close_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その鰻みたいなの・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お股から・・・出てて・・・き、気持ち悪い！」"
+                                "\\F[nako_trouble]\\FF[close_smile]\\AA[1]Nadeshiko: \"That eel-like thing...!? It's coming out from\nyour crotch... it's, it's disgusting!\""
                             ]
                         },
                         {
@@ -7053,21 +6682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[close_smile]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気持ち悪いことなんてないよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "受け入れれば、幸せになれる・・・撫子もどう？」"
+                                "\\F[nako_trouble]\\FF[close_smile]\\AA[2]Cotton: \"There's nothing disgusting about it♪ If you accept\nit, you can be happy... How about it, Nadeshiko?\""
                             ]
                         },
                         {
@@ -7091,28 +6706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[close_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか・・・似鳥さん達がコットンを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "虐めていたのは本当だったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも意地悪でやっていたロッカーに閉じ込めることが・・・」"
+                                "\\F[beni_angry2]\\FF[close_smile]\\AA[1]Akane: \"So it's true... Nitori-san and the others were\nbullying Cotton. But being locked up in a locker out of\nspite...\""
                             ]
                         },
                         {
@@ -7129,14 +6723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[close_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「コットンの性癖を開花させて・・・怪人を生み出した！」"
+                                "\\F[beni_angry2]\\FF[close_smile]\\AA[1]Akane: \"It awakened Cotton's sexual preferences... and\ncreated a monster!\""
                             ]
                         },
                         {
@@ -7153,28 +6740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[close_smile]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういうこと・・・なのかな♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でもいいよ。紅も一緒にロッカーの中で愛し合おう♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "煩わしいことなんて全部、忘れて」"
+                                "\\F[beni_angry2]\\FF[close_smile]\\AA[2]Cotton: \"Something like that... maybe♪ It doesn't matter.\nLet's love each other inside a locker, Akane♪ Forget all the\nbothersome things\""
                             ]
                         },
                         {
@@ -7191,14 +6757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[close_smile]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうしたら、似鳥ちゃん達みたいに素直になれるよ♪」"
+                                "\\F[beni_angry2]\\FF[close_smile]\\AA[2]Cotton: \"Then you can become honest like Nitori-chan and the\nothers♪\""
                             ]
                         },
                         {
@@ -7215,14 +6774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[close_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰が・・・！元に戻してあげる！コットンっ！！」"
+                                "\\F[beni_angry2]\\FF[close_smile]\\AA[1]Akane: \"Who would...! I'll return you back to normal!\nCotton!!\""
                             ]
                         },
                         {
@@ -7251,14 +6803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[close_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[nako_trouble]\\FF[close_smile]\\AA[1]Nadeshiko: \"!!\""
                             ]
                         },
                         {
@@ -7275,21 +6820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[close_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「待って・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コットンはずっと・・・”達”って言ってる・・・」"
+                                "\\F[nako_trouble]\\FF[close_smile]\\AA[1]Nadeshiko: \"Wait... Cotton has been saying 'us' all\nalong...\""
                             ]
                         },
                         {
@@ -7306,14 +6837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[close_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それが・・・どうしたって・・・あっ！」"
+                                "\\F[beni_trouble]\\FF[close_smile]\\AA[1]Akane: \"What does that have to do with anything... Ah!\""
                             ]
                         },
                         {
@@ -7692,21 +7216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒（怪人）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルゥ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒に私のロッカーに入りましょ♪」"
+                                "Female Student (Monster): \"Nyyurulu~♪ Let's enter my locker\ntogether♪\""
                             ]
                         },
                         {
@@ -7762,21 +7272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒（怪人）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早いもの勝ちって、ご主人様は言ってたわ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝つのは私よ♪」"
+                                "Female Student (Monster): \"First come, first served, as the\nmaster said♪ I'll be the one to win♪\""
                             ]
                         },
                         {
@@ -7832,28 +7328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒（怪人）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルゥ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "背泳ぎのタイムじゃ私に勝ったことがないくせに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後で泣いても知らないんだからぁ♪」"
+                                "Female Student (Monster): \"Nyyurulu~♪ You've never beaten me\nin backstroke times! Don't cry about it later♪\""
                             ]
                         },
                         {
@@ -7870,14 +7345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すでに水泳部の皆は・・・怪人に！？」"
+                                "\\F[beni_angry2]Akane: \"The members of the swim club have already... turned\ninto monsters!? \""
                             ]
                         },
                         {
@@ -7894,14 +7362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私達は自分から・・・罠に飛び込んだ！？」"
+                                "\\F[nako_trouble]Nadeshiko: \"We jumped into the trap ourselves!? \""
                             ]
                         },
                         {
@@ -7949,28 +7410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[close_smile]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そーだね。残念～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲームオーバーだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "諦めて、仲間に・・・なろぉ♪」"
+                                "\\F[nako_trouble]\\FF[close_smile]\\AA[2]Cotton: \"That's right. Too bad~♪ It's game over. Give up\nand... become one of us♪\""
                             ]
                         },
                         {
@@ -7987,14 +7427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[close_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや・・・ゲームならまだ終わっていないっ！」"
+                                "\\F[beni_angry2]\\FF[close_smile]\\AA[1]Akane: \"No... The game isn't over yet!\""
                             ]
                         },
                         {
@@ -8130,14 +7563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子来て！！」"
+                                "\\F[beni_angry2]Akane: \"Nadeshiko, come on!!\""
                             ]
                         },
                         {
@@ -8766,14 +8192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど、どういうことっ！？」"
+                                "Nadeshiko: \"What do you mean!? \""
                             ]
                         },
                         {
@@ -8799,14 +8218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "似鳥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「取っ手を壊して閉じ込めた？」"
+                                "Nitori: \"Did they break the handle and trap us in?\""
                             ]
                         },
                         {
@@ -8823,21 +8235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[close_smile]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「閉じ込めても・・・何も変わらないよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "撫子も暗くて狭いところが大好きになっちゃうかも♪」"
+                                "\\FF[close_smile]Cotton: \"Even if you're trapped... nothing will change♪\nNadeshiko might come to love dark and cramped places too♪\""
                             ]
                         },
                         {
@@ -8854,28 +8252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[close_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいや・・・ゲームをしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追いかけっこだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前達が私を捕まえたらお前達の勝ち」"
+                                "\\F[beni_angry2]\\FF[close_smile]\\AA[1]Akane: \"No... Let's play a game. It's tag. If you catch me,\nyou win\""
                             ]
                         },
                         {
@@ -8892,14 +8269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[close_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私がコットンを捕まえたら・・・私の勝ちだっ！！」"
+                                "\\F[beni_angry2]\\FF[close_smile]\\AA[1]Akane: \"If I catch Cotton... I win!!\""
                             ]
                         },
                         {
@@ -8964,21 +8334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[close_smile]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やる気満々だね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふっ・・・！じゃあ捕まえて・・・」"
+                                "\\FF[close_smile]Cotton: \"You're full of spirit♪ Hehe...! Then I'll catch you\nand...\""
                             ]
                         },
                         {
@@ -9021,14 +8377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「みてっ！！」"
+                                "Cotton: \"Watch out!!\""
                             ]
                         },
                         {
@@ -9111,7 +8460,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "体力無敵モードを使用しますか？"
+                                "Would you like to use Invincible Mode?"
                             ]
                         },
                         {
@@ -9119,8 +8468,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -9204,14 +8553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　堕ちた女生徒達に捕まらないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　クローズポイゾンを捜しだせ！！"
+                                "Find the Close Poison without getting caught by the fallen\nfemale students!!"
                             ]
                         },
                         {

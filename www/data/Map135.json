@@ -2577,28 +2577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「突然で信じられないかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが・・・本当に愛しているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "片時も君のことを忘れたことはない」"
+                                "Yurika: \"It might be hard to believe since it's so sudden...\nbut I truly love you. I've never forgotten about you for a\nmoment.\""
                             ]
                         },
                         {
@@ -2615,21 +2594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「突然って分かってるなら反省して、出直せばいいっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部、やり直しだ！！」"
+                                "\\F[sirius_angry2]Akane: \"If you know it's sudden, you should reflect on it\nand start over!! Let's redo everything!!\""
                             ]
                         },
                         {
@@ -2646,21 +2611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「手厳しいな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だがそこが君らしい」"
+                                "Yurika: \"That's harsh... but that's so like you.\""
                             ]
                         },
                         {
@@ -2885,14 +2836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[syuu_king]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「花嫁になった方が幸せだと思うけどな～♪」"
+                                "\\FF[syuu_king]Hiiragi: \"I think you'd be happier as a bride though~♪\""
                             ]
                         },
                         {
@@ -3220,14 +3164,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -3284,14 +3221,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {
@@ -4486,14 +4416,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -4550,14 +4473,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {
@@ -5752,14 +5668,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -5816,14 +5725,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {

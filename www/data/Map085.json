@@ -4027,21 +4027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「見つけたっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう逃さないっ！！」"
+                                "\\F[sirius_angry]Sirius: \"Found you!! I won't let you escape anymore!!\""
                             ]
                         },
                         {
@@ -4058,21 +4044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]\\FF[close_trouble]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もぉ・・・しつこいっ・・・！！」"
+                                "\\F[sirius_angry]\\FF[close_trouble]\\AA[2]Wata: \"Why?! Ugh... you're so persistent...!!\""
                             ]
                         },
                         {
@@ -4089,21 +4061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]\\FF[close_trouble]\\AA[1]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかってる。人間に戻ってくれたら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロッカーにいたって文句は言わないっ！」"
+                                "\\F[sirius_angry]\\FF[close_trouble]\\AA[1]Sirius: \"I know. If you just come back to being human... I\nwon't complain even if you're in the locker!\""
                             ]
                         },
                         {
@@ -4120,21 +4078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]\\FF[close_trouble]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはヤダッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆と一緒にヌルヌルお触りしてたいのっ！！」"
+                                "\\F[sirius_angry]\\FF[close_trouble]\\AA[2]Wata: \"I don't wanna! I want to be all slippery and touchy\nwith everyone!!\""
                             ]
                         },
                         {
@@ -4151,14 +4095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]\\FF[close_trouble]\\AA[1]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ワガママはもう終わりっ！」"
+                                "\\F[sirius_angry]\\FF[close_trouble]\\AA[1]Sirius: \"Your selfishness ends now!\""
                             ]
                         },
                         {
@@ -4196,28 +4133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[close_trouble]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「し、しまったっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロッカーにいたらぁっ・・・逃げられないっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後ろに下がれないからっ・・・！！」"
+                                "\\FF[close_trouble]Wata: \"Oh no!! If I'm in the locker... I can't escape!! I\ncan't move back...!!\""
                             ]
                         },
                         {
@@ -4234,14 +4150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]\\FF[close_trouble]\\AA[1]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポイゾンバーストっ・・・！！」"
+                                "\\F[sirius_angry]\\FF[close_trouble]\\AA[1]Sirius: \"Poison Burst...!!\""
                             ]
                         },
                         {
@@ -4258,14 +4167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]\\FF[close_trouble]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わあぁぁぁぁっ・・・！！」"
+                                "\\F[sirius_angry]\\FF[close_trouble]\\AA[2]Wata: \"Aaaaahhh...!!\""
                             ]
                         },
                         {
@@ -4834,14 +4736,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -4898,14 +4793,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！離れろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Get off!!\""
                             ]
                         },
                         {
@@ -5980,14 +5868,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -6044,14 +5925,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！離れろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Get away!!\""
                             ]
                         },
                         {
@@ -7314,14 +7188,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -7378,14 +7245,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！離れろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Get away!!\""
                             ]
                         },
                         {

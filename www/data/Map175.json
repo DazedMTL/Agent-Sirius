@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "図書室",
+    "displayName": "Library",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -2730,14 +2730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_reverse1]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ！！来やがったかっ・・・！！」"
+                                "\\FF[ama_reverse1]Amma: \"Tch!! They've come...!!\""
                             ]
                         },
                         {
@@ -2829,21 +2822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_reverse1]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「芽衣っ！！なんで分かんねーんだよっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしを見ろっ！！」"
+                                "\\FF[ama_reverse1]Amma: \"Mei!! Why don't you understand! Look at me!!\""
                             ]
                         },
                         {
@@ -2861,14 +2840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_reverse1]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あーしのことだけ・・・ずっとずっと見てろよっ・・！！」"
+                                "\\FF[ama_reverse1]Amma: \"Just look at me... always, always keep your eyes on\nme..!!\""
                             ]
                         },
                         {
@@ -2925,21 +2897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い、嫌っ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女は亜麻なんかじゃない・・・！」"
+                                "Mei: \"No...! You're not my Amma...!\""
                             ]
                         },
                         {
@@ -2957,21 +2915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良かったっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ無事みたいだ！！」"
+                                "\\F[beni_angry2]Akane: \"Good...! She seems to be safe!!\""
                             ]
                         },
                         {
@@ -2988,14 +2932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ama_reverse1]\\AA[2]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそっ・・・じゃあ・・・これならどう？」"
+                                "\\F[beni_angry2]\\FF[ama_reverse1]\\AA[2]Amma: \"Damn it... then... how about this?\""
                             ]
                         },
                         {
@@ -3096,21 +3033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_smile]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あーしに心を開いてよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "芽衣と一緒になりてーんだよ・・・」"
+                                "\\FF[ama_smile]Amma: \"Open your heart to me. I want to be with Mei...\""
                             ]
                         },
                         {
@@ -3137,21 +3060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なら・・・もうそんなメイクもやめてよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を避けたいから・・・そんなことしてるんでしょ？」"
+                                "Mei: \"Then... stop with that makeup already. You're doing\nthat because you want to avoid me, right?\""
                             ]
                         },
                         {
@@ -3169,14 +3078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_trouble]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っ！！？」"
+                                "\\FF[ama_trouble]Amma: \"!!?\""
                             ]
                         },
                         {
@@ -3194,21 +3096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ama_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんか・・・複雑な事情がありそうだけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チャンスは逃さないっ！！」"
+                                "\\F[beni_angry2]\\FF[ama_trouble]\\AA[1]Akane: \"It seems like there's some complicated situation...\nbut I won't miss this chance!!\""
                             ]
                         },
                         {
@@ -3226,14 +3114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ama_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\"メガライト\"にはこういう使い方もあるっ！！」"
+                                "\\F[beni_angry2]\\FF[ama_trouble]\\AA[1]Akane: \"The 'Megalight' can also be used like this!!\""
                             ]
                         },
                         {
@@ -3316,21 +3197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_trouble]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんなんだよっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くそっ！！みえねぇっーーーっ！！」"
+                                "\\FF[ama_trouble]Amma: \"What the hell!! Damn it!! I can't see---!!\""
                             ]
                         },
                         {
@@ -3520,14 +3387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「行こうっ！！」"
+                                "\\F[beni_smile]Akane: \"Let's go!!\""
                             ]
                         },
                         {
@@ -3545,14 +3405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う・・・うんっ！！」"
+                                "Mei: \"Uh... okay!!\""
                             ]
                         },
                         {
@@ -3595,28 +3448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_trouble]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんで・・・なんでだよっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "芽衣っ・・・！！あーしじゃなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなヤツについていくなんてよっ！！」"
+                                "\\FF[ama_trouble]Amma: \"Why... why the hell!! Mei...!! Why would you follow\nsomeone like that instead of me!!\""
                             ]
                         },
                         {

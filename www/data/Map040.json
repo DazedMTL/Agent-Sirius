@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "校長室",
+    "displayName": "Principal's Office",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -2425,28 +2425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（お飾りの無能校長で、よく生徒会長に窘められている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それでいて、生徒のことは厭らしい目で見ている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　話しかけても良いことはないと思うけど・・・）"
+                                "\\F[beni_trouble]Akane: \"He's just a figurehead principal, often scolded by\nthe student council president. And yet, he looks at the\nstudents with lecherous eyes. I don't think anything good\ncan come from talking to him...\""
                             ]
                         },
                         {
@@ -2463,14 +2442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（それでも話しかける？）"
+                                "\\F[beni_trouble]Akane: \"Even so, you're going to talk to him?\""
                             ]
                         },
                         {
@@ -2478,8 +2450,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2509,28 +2481,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐふふふ・・・珍しいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　女生徒がこの私に話しかけてくるなど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　いつも敬遠していると思っていたのだが」"
+                                "Okajima: \"Gufufufu... How unusual. A female student coming\nto talk to me. I thought you all kept your distance.\""
                             ]
                         },
                         {
@@ -2547,14 +2498,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（じ、自覚はあるんだ・・・）"
+                                "\\F[beni_trouble]Akane: \"(So, he's aware of it...)\""
                             ]
                         },
                         {
@@ -2571,21 +2515,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「最近、校内で変わったことがないか・・・調べてるんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  校長先生も何か気になったこととかありませんか？」"
+                                "\\F[beni_smile]Akane: \"I've been investigating if anything unusual has\nhappened at school recently... Principal, have you noticed\nanything?\""
                             ]
                         },
                         {
@@ -2602,14 +2532,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「気になったことだと？いや・・・ないなっ！」"
+                                "Okajima: \"Noticed anything? No... nothing!\""
                             ]
                         },
                         {
@@ -2626,14 +2549,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_laugh]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうですか。じゃあ失礼します」"
+                                "\\F[beni_laugh]Akane: \"Is that so? Then, excuse me.\""
                             ]
                         },
                         {
@@ -2791,14 +2707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ま、待て！俺は君に聞きたいことがある」"
+                                "Okajima: \"Wait! I have something I want to ask you.\""
                             ]
                         },
                         {
@@ -2855,14 +2764,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「聞きたいこと？」"
+                                "\\F[beni_trouble]Akane: \"What do you want to ask?\""
                             ]
                         },
                         {
@@ -2879,21 +2781,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「君のとこの・・・探偵部の先輩、鈴懸くんの進路だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  どうも解せない」"
+                                "Okajima: \"It's about your senior in the detective club,\nSuzukake-kun's career path. It's quite puzzling to me.\""
                             ]
                         },
                         {
@@ -2910,14 +2798,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いるか先輩の進路？プライベートな話は・・・」"
+                                "\\F[beni_trouble]Akane: \"Iruka-senpai's career path? That's a private\nmatter...\""
                             ]
                         },
                         {
@@ -2995,14 +2876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「好奇心で聞くのではない。ちゃんとしたリサーチだ！」"
+                                "Okajima: \"I'm not asking out of curiosity. It's for proper\nresearch!\""
                             ]
                         },
                         {
@@ -3019,14 +2893,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\FF[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（何のリサーチだろ・・・？怪しい・・・）"
+                                "\\FF[nako_trouble]Nadeshiko: \"(What kind of research...? Suspicious...)\""
                             ]
                         },
                         {
@@ -3043,28 +2910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「・・・聞かれても、何も知らないですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  大学の法学科に行こうって言ってたぐらいで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  先生のトコにも願書とかあるんじゃないですか？」"
+                                "\\F[beni_trouble]Akane: \"...Even if you ask, I don't know anything. He said\nhe was planning to go to the law faculty at university.\nDon't you have his application or something?\""
                             ]
                         },
                         {
@@ -3142,28 +2988,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうじゃないっ！この学校に教師として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  帰ってくる気があるか？を知りたいのだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  法学科に行くなら、俺の思っているのと違う！」"
+                                "Okajima: \"That's not it! I want to know if he has any\nintention of returning here as a teacher! If he's going to\nlaw school, it's different from what I was thinking!\""
                             ]
                         },
                         {
@@ -3180,21 +3005,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（い、いるか先輩って、先生になりたかったの！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  知らなかった・・・）"
+                                "\\F[beni_trouble]Akane: \"(Iruka-senpai wanted to become a teacher!? I had no\nidea...)\""
                             ]
                         },
                         {
@@ -3211,14 +3022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いるか先輩が教師に？」"
+                                "\\F[beni_trouble]Akane: \"Iruka-senpai as a teacher?\""
                             ]
                         },
                         {
@@ -3235,21 +3039,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あれほどの逸材だからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  帰ってきてくれなければ・・・困るのだ！」"
+                                "Okajima: \"Such a talented individual. It would be troubling\nif he doesn't return!\""
                             ]
                         },
                         {
@@ -3266,28 +3056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\FF[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「も、もしかして・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  校長先生がいるか先輩にお願いしたんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  教師になってほしいって」"
+                                "\\FF[nako_trouble]Nadeshiko: \"Could it be... Principal, did you ask Iruka-\nsenpai to become a teacher?\""
                             ]
                         },
                         {
@@ -3304,14 +3073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そ、そういうこと！？」"
+                                "\\F[beni_trouble]Akane: \"Is that what this is about!?\""
                             ]
                         },
                         {
@@ -3367,21 +3129,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それでいて何の返事もよこさん！困ったヤツだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  それどころかこの俺を避けておるようなのだ！」"
+                                "Okajima: \"And yet he gives no reply! What a troublesome guy.\nIt seems like he's even avoiding me!\""
                             ]
                         },
                         {
@@ -3398,21 +3146,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（ま、まあ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  この校長先生に言い寄られたら、逃げるよな・・・）"
+                                "\\F[beni_trouble]Akane: \"(Well... anyone would run away if approached by the\nprincipal...)\""
                             ]
                         },
                         {
@@ -3429,28 +3163,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「別に愛人にしようと言う訳でもない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  身体をベタベタ触ってセクハラした事もない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  なのに何故、俺を避けるっ！？」"
+                                "Okajima: \"I'm not trying to make him my lover! I've never\ntouched him inappropriately or harassed him! So why does he\navoid me!?\""
                             ]
                         },
                         {
@@ -3467,21 +3180,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\FF[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（口では何て言ってても、愛人にしそうだし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  ベタベタ触って、セクハラしそうだからじゃ・・・）"
+                                "\\FF[nako_trouble]Nadeshiko: \"(No matter what he says, it sounds like he'd\nmake him his lover... and touch him inappropriately...)\""
                             ]
                         },
                         {
@@ -3498,14 +3197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（日頃の行いかな・・・）"
+                                "\\F[beni_trouble]Akane: \"(It must be his usual behavior...)\""
                             ]
                         },
                         {
@@ -3522,14 +3214,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「信じられん！だから本心を聞き出してもらいたい！」"
+                                "Okajima: \"Unbelievable! That's why I want you to find out\nhis true intentions!\""
                             ]
                         },
                         {
@@ -3546,14 +3231,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（いや・・・絶対に嫌がってるんだって・・・）"
+                                "\\F[beni_trouble]Akane: \"(No... he definitely doesn't like it...)\""
                             ]
                         },
                         {
@@ -3570,21 +3248,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\FF[nako_true]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「分かりました。校長先生が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  教師にならないか？と言っていたことは伝えます」"
+                                "\\FF[nako_true]Nadeshiko: \"Understood. I'll convey to the principal that\nyou asked if he doesn't want to become a teacher.\""
                             ]
                         },
                         {
@@ -3601,21 +3265,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\FF[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（そうでも言わないと粘着されそう・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  いるか先輩も校長先生に目をつけられてるなんて・・・）"
+                                "\\FF[nako_trouble]Nadeshiko: \"(I have to say something or he'll keep pestering\nus... Iruka-senpai is being targeted by the principal\ntoo...)\""
                             ]
                         },
                         {
@@ -3632,14 +3282,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「頼んだぞ！色よい返事を待っている！」"
+                                "Okajima: \"I'm counting on you! I'll be waiting for a\nfavorable response!\""
                             ]
                         },
                         {
@@ -3656,14 +3299,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「期待しない方が、いいと思うけど・・・」"
+                                "\\F[beni_trouble]Akane: \"I think it's better not to expect too much...\""
                             ]
                         },
                         {
@@ -3680,28 +3316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それはそうと、お前たちは進路を決めているのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　お前らも・・・ぐふふふっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　いい素質を持っていると思うぞ！」"
+                                "Okajima: \"By the way, have you girls decided on your career\npaths? You too... gufufufu! I think you have good\npotential!\""
                             ]
                         },
                         {
@@ -3718,21 +3333,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\FF[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（手元の資料をめくって見てる・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　私達のことが書かれてるの？）"
+                                "\\FF[nako_trouble]Nadeshiko: \"(He's flipping through some documents... Are\nthey about us?)\""
                             ]
                         },
                         {
@@ -3749,14 +3350,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「素質って・・・？」"
+                                "\\F[beni_trouble]Akane: \"Potential for what...?\""
                             ]
                         },
                         {
@@ -3773,28 +3367,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「この俺の片腕となって、学園を支える教師になる素質だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　常に俺に従い、俺の教えを生徒達に広める・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　崇高な役割を担うのだ！」"
+                                "Okajima: \"The potential to become my right hand and support\nthe academy as teachers! Always obeying me and spreading my\nteachings to the students... a noble role indeed!\""
                             ]
                         },
                         {
@@ -3811,14 +3384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_shy]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ははは・・・それは無理かも」"
+                                "\\F[beni_shy]Akane: \"Hahaha... That might be impossible.\""
                             ]
                         },
                         {
@@ -3835,21 +3401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「謙遜しなくてもいい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  鈴懸くんと一緒に、君たちも・・・」"
+                                "Okajima: \"No need for modesty! Along with Suzukake-kun, you\ngirls too...\""
                             ]
                         },
                         {
@@ -3866,28 +3418,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐふふふっ！何ならあの小生意気な生徒会長を蹴落として、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  今から君たちが学校を牛耳ればいい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  どうだ？悪い話しではないだろ？」"
+                                "Okajima: \"Gufufufu! Why not overthrow that cheeky student\ncouncil president and take control of the school now? How\nabout it? It's not a bad deal, right?\""
                             ]
                         },
                         {
@@ -3904,14 +3435,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いやいや・・・勝手に盛り上がらないで・・・」"
+                                "\\F[beni_trouble]Akane: \"No, no... don't get carried away on your own...\""
                             ]
                         },
                         {
@@ -3928,14 +3452,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\FF[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（あの紅がドン引きしてる・・・き、気持ちは分かるけど）"
+                                "\\FF[nako_trouble]Nadeshiko: \"(Even Akane is totally put off... I, I\nunderstand how she feels though)\""
                             ]
                         },
                         {
@@ -3952,21 +3469,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「考えておいてくれたまえっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  きっと君たちの為にもなるっ！」"
+                                "Okajima: \"Please consider it! It will surely be for your own\ngood as well!\""
                             ]
                         },
                         {
@@ -3983,21 +3486,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぜ、絶対ないと思います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  失礼しました・・・・」"
+                                "\\F[beni_trouble]Akane: \"I, I definitely think that's not going to happen.\nExcuse me...\""
                             ]
                         },
                         {
@@ -4070,14 +3559,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\FF[nako_true]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（あ・・・逃げた・・・）"
+                                "\\FF[nako_true]Nadeshiko: \"(Ah... she escaped...)\""
                             ]
                         },
                         {
@@ -4132,14 +3614,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（・・・やめておこう。触らぬ神に祟りなしって言うしね）"
+                                "\\F[beni_trouble]Akane: \"(...I should stop. 'Don't poke the deity' as they\nsay.)\""
                             ]
                         },
                         {
@@ -4217,14 +3692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「進路のこと考えておいてくれたまえっ！ぐふふっ♪」"
+                                "Okajima: \"Make sure to think about your future path!\nGufufu♪\""
                             ]
                         },
                         {

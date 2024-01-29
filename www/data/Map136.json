@@ -2599,21 +2599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君も感じているのだろう・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人の距離が縮まってきているのを」"
+                                "Yurika: \"You must be feeling it too. The distance between us\nis getting closer.\""
                             ]
                         },
                         {
@@ -2630,21 +2616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もうすぐそこだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を感じてくれ」"
+                                "Yurika: \"It's almost there. Feel me.\""
                             ]
                         },
                         {
@@ -2661,21 +2633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気持ち悪い言い回しを・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなロマンチストだとは思わなかった！」"
+                                "\\F[sirius_angry2]Akane: \"What a creepy way to put it... I never thought you\nwere such a romanticist!\""
                             ]
                         },
                         {
@@ -2692,21 +2650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも感じるよっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私にも・・・撫子が近づいていることがっ！！」"
+                                "\\F[sirius_smile]Akane: \"But I do feel it!! Nadeshiko is getting closer to me\ntoo!!\""
                             ]
                         },
                         {
@@ -2973,14 +2917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ringo_king]林檎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご主人様のお気持ち、私からもお伝えしたくって♪」"
+                                "\\FF[ringo_king]Ringo: \"I wanted to convey Master's feelings as well♪\""
                             ]
                         },
                         {
@@ -2997,14 +2934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yanagi_king]柳"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご主人様は大事に想ってくれるよ。心配しなくていい♪」"
+                                "\\FF[yanagi_king]Yanagi: \"Master cherishes you. You don't have to worry♪\""
                             ]
                         },
                         {
@@ -3332,14 +3262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -3396,14 +3319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {
@@ -4598,14 +4514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -4662,14 +4571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {
@@ -5864,14 +5766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -5928,14 +5823,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {

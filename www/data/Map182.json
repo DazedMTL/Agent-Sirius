@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "化学室",
+    "displayName": "Chemistry Lab",
     "encounterList": [],
     "encounterStep": 30,
     "height": 24,
@@ -4137,14 +4137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "南"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だ～れだ？」"
+                                "Minami: \"Guess who?\""
                             ]
                         },
                         {
@@ -4162,14 +4155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「南先輩！目隠しなんて・・・また・・・！！」"
+                                "\\F[beni_trouble]Akane: \"Minami-senpai! A blindfold... again...!!\""
                             ]
                         },
                         {
@@ -4257,14 +4243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "南"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだと思う？」"
+                                "Minami: \"What do you think it is?\""
                             ]
                         },
                         {
@@ -4282,14 +4261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは・・・」"
+                                "\\F[beni_trouble]Akane: \"That is...\""
                             ]
                         },
                         {
@@ -4307,28 +4279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「また新しい男ひっかけたビッチっしょ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃははは～！あんなハゲ男の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ことなんて忘れてチンポ漁ってるって！」"
+                                "\\F[beni_reverse1]Akane: \"You've hooked up with a new guy again, you slut♪\nKyahaha~! You've forgotten all about that bald guy and are\nout hunting for dick!\""
                             ]
                         },
                         {
@@ -4346,28 +4297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "南"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったりめ～じゃん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "駅前で拾ってきてやったぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ツルピカの４０おっさんをなぁ～！」"
+                                "Minami: \"Exactly~♪ I picked him up in front of the station!\nA shiny bald 40-year-old guy, you know~!\""
                             ]
                         },
                         {
@@ -4385,14 +4315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっちの趣味は・・・そのままかよ・・・」"
+                                "\\F[beni_reverse1]Akane: \"So your tastes are... still the same, huh...\""
                             ]
                         },
                         {
@@ -4468,14 +4391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "南"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱ、ツルピカのおっさんっ最強っしょ♪」"
+                                "Minami: \"As expected, the bald old man is the strongest,\nright?♪\""
                             ]
                         },
                         {

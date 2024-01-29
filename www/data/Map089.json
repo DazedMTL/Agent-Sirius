@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "保健室",
+    "displayName": "Infirmary",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -2968,7 +2968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "２話エピローグをスキップしますか？"
+                                "Would you like to skip the epilogue of Episode 2?"
                             ]
                         },
                         {
@@ -2976,8 +2976,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3056,7 +3056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・・・・・・・・・"
+                                "..."
                             ]
                         },
                         {
@@ -3078,14 +3078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_trouble]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは・・・？」"
+                                "\\FF[wata_trouble]Wata: \"Where is this...?\""
                             ]
                         },
                         {
@@ -3102,14 +3095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_smile]\\FF[wata_trouble]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気がついた？」"
+                                "\\F[nako_smile]\\FF[wata_trouble]\\AA[1]Nadeshiko: \"You're awake?\""
                             ]
                         },
                         {
@@ -3138,14 +3124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[wata_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここまで運ぶの・・・大変だったよ」"
+                                "\\F[beni_smile]\\FF[wata_trouble]\\AA[1]Akane: \"It was tough... carrying you all the way here.\""
                             ]
                         },
                         {
@@ -3162,14 +3141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_smile]\\FF[wata_trouble]\\AA[1]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「保健室に担架があるのを思いついて、良かったよ」"
+                                "\\F[yuri_smile]\\FF[wata_trouble]\\AA[1]Yurika: \"Good thing I remembered there was a stretcher in\nthe infirmary.\""
                             ]
                         },
                         {
@@ -3186,14 +3158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_smile]\\FF[wata_trouble]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう・・・あの力・・・なくなっちゃったんだ・・・」"
+                                "\\F[yuri_smile]\\FF[wata_trouble]\\AA[2]Wata: \"So... that power... it's gone...\""
                             ]
                         },
                         {
@@ -3210,28 +3175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[wata_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだね。でも怪人になったままだったら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆を巻き込んでたかも知れない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "被害が拡大するのは、コットンも望まないだろう？」"
+                                "\\F[beni_smile]\\FF[wata_trouble]\\AA[1]Akane: \"Yeah. But if you had remained a monster... you might\nhave involved everyone else. That's not what you would have\nwanted, right, Cotton?\""
                             ]
                         },
                         {
@@ -3248,14 +3192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[wata_trouble]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな・・・ことない・・・」"
+                                "\\F[beni_smile]\\FF[wata_trouble]\\AA[2]Wata: \"That's not... true...\""
                             ]
                         },
                         {
@@ -3272,28 +3209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[wata_trouble]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「皆・・・私みたいに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狭い場所でイチャイチャするの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きになって欲しかった」"
+                                "\\F[beni_smile]\\FF[wata_trouble]\\AA[2]Wata: \"I wanted everyone... to enjoy being close together in\ntight spaces... just like me.\""
                             ]
                         },
                         {
@@ -3310,14 +3226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_trouble]\\FF[wata_trouble]\\AA[1]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "\\F[yuri_trouble]\\FF[wata_trouble]\\AA[1]Yurika: \"...\""
                             ]
                         },
                         {
@@ -3334,14 +3243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[wata_trouble]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど、どういうこと・・・？」"
+                                "\\F[nako_trouble]\\FF[wata_trouble]\\AA[1]Nadeshiko: \"What do you mean...?\""
                             ]
                         },
                         {
@@ -3358,28 +3260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[wata_trouble]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうでしょ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって・・・気持ちいいの・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落ち着くの・・・ロッカーの中にいると・・・」"
+                                "\\F[nako_trouble]\\FF[wata_trouble]\\AA[2]Wata: \"Right...? Because... it feels good... it's calming...\nbeing inside a locker...\""
                             ]
                         },
                         {
@@ -3396,21 +3277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[wata_trouble]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもそんなのは私だけなのかな・・・って・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ってたの・・・」"
+                                "\\F[nako_trouble]\\FF[wata_trouble]\\AA[2]Wata: \"But maybe that's just me... I thought...\""
                             ]
                         },
                         {
@@ -3427,21 +3294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[wata_trouble]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だけど・・・仲間が出来て・・・嬉しかった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間じゃなくたって・・・私・・・それでもいいって・・・」"
+                                "\\F[nako_trouble]\\FF[wata_trouble]\\AA[2]Wata: \"But then... I made friends... and I was happy. Even\nif I'm not human... that's okay with me...\""
                             ]
                         },
                         {
@@ -3458,14 +3311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは怪人化の影響で・・・」"
+                                "\\F[beni_trouble]\\FF[wata_trouble]\\AA[1]Akane: \"That's because of the monster's influence...\""
                             ]
                         },
                         {
@@ -3482,21 +3328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_trouble]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ううん・・・だってロッカーの中に潜んでいるのは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妖怪ぐらいだって・・・似鳥先輩は言ってた・・・」"
+                                "\\F[beni_trouble]\\FF[wata_trouble]\\AA[2]Wata: \"No... because the only things that hide in lockers\nare... spirits, as Senpai Nitori said...\""
                             ]
                         },
                         {
@@ -3513,21 +3345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_trouble]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私・・・妖怪と同じだから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪人は・・・私だったんだ・・・」"
+                                "\\F[beni_trouble]\\FF[wata_trouble]\\AA[2]Wata: \"I'm the same as a spirit... so the monster was...\nme...\""
                             ]
                         },
                         {
@@ -3544,14 +3362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_trouble]\\FF[wata_trouble]\\AA[1]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・彼女の心のケアは・・・かなり根が深そうだね」"
+                                "\\F[yuri_trouble]\\FF[wata_trouble]\\AA[1]Yurika: \"...Her mental care seems to be a deep-rooted\nissue.\""
                             ]
                         },
                         {
@@ -3568,14 +3379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・・」"
+                                "\\F[beni_trouble]\\FF[wata_trouble]\\AA[1]Akane: \"...\""
                             ]
                         },
                         {
@@ -3592,14 +3396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[wata_trouble]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「また・・・怪人化しちゃったりするの？」"
+                                "\\F[nako_trouble]\\FF[wata_trouble]\\AA[1]Nadeshiko: \"Is she going to turn into a monster again?\""
                             ]
                         },
                         {
@@ -3616,14 +3413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは・・・ないと思うけど・・・」"
+                                "\\F[beni_trouble]\\FF[wata_trouble]\\AA[1]Akane: \"I don't think so, but...\""
                             ]
                         },
                         {
@@ -3640,14 +3430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_trouble]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ない・・・んだ・・・」"
+                                "\\F[beni_trouble]\\FF[wata_trouble]\\AA[2]Wata: \"It's gone...\""
                             ]
                         },
                         {
@@ -3664,28 +3447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_trouble]\\FF[wata_trouble]\\AA[1]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すまない。でも自分を偽らずに済む・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな時がくると思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君の想いはとても・・・純粋だから」"
+                                "\\F[yuri_trouble]\\FF[wata_trouble]\\AA[1]Yurika: \"I'm sorry. But I believe there will come a time\nwhen you can be true to yourself without any pretense. Your\nfeelings are very... pure.\""
                             ]
                         },
                         {
@@ -3702,14 +3464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_trouble]\\FF[wata_trouble]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "\\F[yuri_trouble]\\FF[wata_trouble]\\AA[2]Wata: \"...\""
                             ]
                         },
                         {
@@ -3726,14 +3481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あの会長が慰めることしか出来ないなんて・・・）"
+                                "\\F[beni_trouble]\\FF[wata_trouble]\\AA[1]Akane: (The fact that the president can only offer\ncomfort...)"
                             ]
                         },
                         {
@@ -3750,14 +3498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[wata_trouble]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ちょっと意外・・・）"
+                                "\\F[nako_trouble]\\FF[wata_trouble]\\AA[1]Nadeshiko: (That's a bit surprising...)"
                             ]
                         },
                         {
@@ -3774,21 +3515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_smile]\\FF[wata_trouble]\\AA[1]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「困ったことがあったら、いつでも生徒会室に来るといい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでも待っている」"
+                                "\\F[yuri_smile]\\FF[wata_trouble]\\AA[1]Yurika: \"If you ever have any troubles, feel free to come to\nthe student council room. We'll always be waiting.\""
                             ]
                         },
                         {
@@ -3870,21 +3597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_smile]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それでは失礼する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後は頼むよ・・・朱雀さん、白虎さん」"
+                                "\\F[yuri_smile]Yurika: \"Now, if you'll excuse me. I'll leave the rest to\nyou... Suzaku-san, Byakko-san.\""
                             ]
                         },
                         {
@@ -4125,21 +3838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逃げ・・・た・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、これ以上出来ることは・・・ないか・・・」"
+                                "\\F[beni_trouble]Akane: \"She ran away...? Well, there's nothing more we can\ndo...\""
                             ]
                         },
                         {
@@ -4187,28 +3886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_smile]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コットン、生徒会長さんと同じことしか言えないけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悩んだら私達を頼ってね」"
+                                "\\F[nako_smile]Nadeshiko: \"Yeah... Cotton, I can only say the same thing as\nthe student council president, but if you're troubled, rely\non us.\""
                             ]
                         },
                         {
@@ -4225,14 +3903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_smile]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつでも力になるから・・・ホントだよ」"
+                                "\\F[nako_smile]Nadeshiko: \"We'll always be there to support you... Really.\""
                             ]
                         },
                         {
@@ -4261,14 +3932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「残念だが君は・・・その子の力にはなれない」"
+                                "???: \"Unfortunately, you cannot be of help to her.\""
                             ]
                         },
                         {
@@ -5029,14 +4693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]\\FF[king_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「コットンをどうするつもりだっ！！」"
+                                "\\F[beni_angry]\\FF[king_smile]\\AA[1]Akane: \"What are you planning to do with Cotton!!\""
                             ]
                         },
                         {
@@ -5053,14 +4710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]\\FF[king_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（撫子の前で・・・変身できないっ！！）"
+                                "\\F[beni_angry]\\FF[king_smile]\\AA[1]Akane: (I can't transform in front of Nadeshiko!!)"
                             ]
                         },
                         {
@@ -5077,21 +4727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]\\FF[king_smile]\\AA[2]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「純粋な心で願う事は・・・叶わなければならない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君だってそう思うだろう？」"
+                                "\\F[beni_angry]\\FF[king_smile]\\AA[2]???: \"A wish made with a pure heart... must come true. You\nthink so too, don't you?\""
                             ]
                         },
                         {
@@ -5108,14 +4744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]\\FF[king_smile]\\AA[2]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この子の願いは・・・”王国”でこそ叶えられる」"
+                                "\\F[beni_angry]\\FF[king_smile]\\AA[2]???: \"Her wish can only be fulfilled in the 'Kingdom'.\""
                             ]
                         },
                         {
@@ -5132,21 +4761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[king_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「”王国”っ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前が・・・この学園を支配しようと企む怪人だなっ！！」"
+                                "\\F[beni_angry2]\\FF[king_smile]\\AA[1]Akane: \"'Kingdom'...!! You're the monster plotting to take\nover this school, aren't you!!\""
                             ]
                         },
                         {
@@ -5163,21 +4778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[king_smile]\\AA[2]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君には分からない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "邪な秘密を持つ・・・君には」"
+                                "\\F[beni_angry2]\\FF[king_smile]\\AA[2]???: \"You wouldn't understand. You who harbor a wicked\nsecret.\""
                             ]
                         },
                         {
@@ -5194,14 +4795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[king_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「邪な・・・秘密？」"
+                                "\\F[nako_trouble]\\FF[king_smile]\\AA[1]Nadeshiko: \"A wicked... secret?\""
                             ]
                         },
                         {
@@ -5218,14 +4812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[king_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私はお前みたいな悪党じゃないっ！！」"
+                                "\\F[beni_angry2]\\FF[king_smile]\\AA[1]Akane: \"I'm not a villain like you!!\""
                             ]
                         },
                         {
@@ -5242,21 +4829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[king_smile]\\AA[2]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「自分のことが一番見えていないぞ、朱雀紅。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからこそ、君は私の元に辿り着けない」"
+                                "\\F[beni_angry2]\\FF[king_smile]\\AA[2]???: \"You are the one who is most blind to yourself, Akane\nSuzaku. That's why you cannot reach me.\""
                             ]
                         },
                         {
@@ -5273,14 +4846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[king_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうでもいいっ！！コットンを離せっ・・・！！」"
+                                "\\F[beni_angry2]\\FF[king_smile]\\AA[1]Akane: \"I don't care!! Let Cotton go...!!\""
                             ]
                         },
                         {
@@ -5563,28 +5129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_smile]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さあ、一緒に行こう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君の望む・・・君のことを誰もが否定しない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・楽園に」"
+                                "\\FF[king_smile]???: \"Come, let's go together. To the paradise you desire...\nwhere no one will deny you.\""
                             ]
                         },
                         {
@@ -5601,14 +5146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[wata_smile]\\FF[king_smile]\\AA[1]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなところ・・・あるの？」"
+                                "\\F[wata_smile]\\FF[king_smile]\\AA[1]Cotton: \"Is there such a place...?\""
                             ]
                         },
                         {
@@ -5625,21 +5163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[wata_smile]\\FF[king_smile]\\AA[2]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああっ！全てが思い通りさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この金貨は君のために」"
+                                "\\F[wata_smile]\\FF[king_smile]\\AA[2]???: \"Yes! Everything will be as you wish. This gold coin is\nfor you.\""
                             ]
                         },
                         {
@@ -5689,14 +5213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[wata_smile]\\FF[king_smile]\\AA[1]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きれい・・・」"
+                                "\\F[wata_smile]\\FF[king_smile]\\AA[1]Cotton: \"It's beautiful...\""
                             ]
                         },
                         {
@@ -5800,14 +5317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い、今のって・・・何っ！？」"
+                                "\\FF[nako_trouble]Nadeshiko: \"W-What was that just now...?!\""
                             ]
                         },
                         {
@@ -5855,14 +5365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「コットンは・・・どうなっちゃったの！？」"
+                                "\\FF[nako_trouble]Nadeshiko: \"What happened to Cotton...?!\""
                             ]
                         },
                         {
@@ -5910,21 +5413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「連れて・・・いかれた・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くそっ！私の目の前でっ！！」"
+                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[1]Akane: \"She was taken away... damn it! Right before my\neyes!!\""
                             ]
                         },
                         {
@@ -5972,21 +5461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「安心して。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "撫子・・・絶対に救い出すからっ！！」"
+                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[1]Akane: \"Don't worry, Nadeshiko... I'll definitely save\nher!!\""
                             ]
                         },
                         {
@@ -6003,21 +5478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あんな化物相手に・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅が何が出来るって・・・」"
+                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"Against such a monster... what can you do,\nAkane...?\""
                             ]
                         },
                         {
@@ -6034,21 +5495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「信じてほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対にコットンを諦めない」"
+                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[1]Akane: \"I want you to believe me. I will never give up on\nCotton.\""
                             ]
                         },
                         {
@@ -6065,14 +5512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が・・・アイツを倒すっ！！」"
+                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[1]Akane: \"I will... defeat that guy!!\""
                             ]
                         },
                         {

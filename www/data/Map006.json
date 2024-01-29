@@ -1870,14 +1870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヌルヌルしてる・・・？何で・・・？」"
+                                "\\F[sora_trouble]Sora: \"It's all slippery...? Why...?\""
                             ]
                         },
                         {
@@ -1894,14 +1887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・変なの」"
+                                "\\F[sora_trouble]Sora: \"...Weird.\""
                             ]
                         },
                         {

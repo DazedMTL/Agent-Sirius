@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "視聴覚室",
+    "displayName": "Audio-Visual Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -3974,14 +3974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ハナサクっ！助けに来たよ！」"
+                                "\\F[beni_angry2]Akane: \"Hanasaku! I've come to rescue you!\""
                             ]
                         },
                         {
@@ -3999,21 +3992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・ええ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "み、見つかっちゃったっ！！」"
+                                "\\F[beni_angry2]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"Eh... Yes...!! I-I've been found!!\""
                             ]
                         },
                         {
@@ -4031,21 +4010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あわわわ・・・わ、私まだ生娘で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しょ、初夜は大事な人って決めてて・・・」"
+                                "\\F[beni_angry2]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"Awawawa... I-I'm still a virgin, you know, I've\ndecided my first time should be with someone special...\""
                             ]
                         },
                         {
@@ -4063,14 +4028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[hanasaku_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い、いや・・・襲おうとしてる訳じゃないから・・・」"
+                                "\\F[beni_trouble]\\FF[hanasaku_trouble]\\AA[1]Akane: \"N-no... I'm not here to attack you...\""
                             ]
                         },
                         {
@@ -4088,21 +4046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「助けに来たって言ったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ビッチギャル怪人になっていないのを知っているから」"
+                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[1]Akane: \"I told you I came to help. I know you haven't turned\ninto one of those bitchy gal monsters.\""
                             ]
                         },
                         {
@@ -4120,14 +4064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リバースポイゾンのこと・・・知っているの！？」"
+                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"You know about the Reverse Poison...!?\""
                             ]
                         },
                         {
@@ -4145,14 +4082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なら安心？」"
+                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"Then, can I feel safe?\""
                             ]
                         },
                         {
@@ -4170,21 +4100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ずっと隠れておく訳にもいかないだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうして見つかったんだから、着いてきた方がいい」"
+                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[1]Akane: \"You can't hide forever, right? Now that you've been\nfound, it's better if you come with me.\""
                             ]
                         },
                         {
@@ -4202,21 +4118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もし私が怪人ならもう手遅れなんだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうでしょ？」"
+                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[1]Akane: \"If I were a monster, it would already be too late\nanyway. Right?\""
                             ]
                         },
                         {
@@ -4234,14 +4136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_smile]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほど・・・それもそうか」"
+                                "\\F[beni_smile]\\FF[hanasaku_smile]\\AA[2]Sakuya: \"I see... That makes sense.\""
                             ]
                         },
                         {
@@ -4258,14 +4153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_smile]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう。連れてって」"
+                                "\\F[beni_smile]\\FF[hanasaku_smile]\\AA[2]Sakuya: \"Thank you. Take me with you.\""
                             ]
                         },
                         {
@@ -4289,14 +4177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ、ちょっとその前に・・・これを見て」"
+                                "\\F[beni_smile]\\FF[hanasaku_smile]\\AA[1]Akane: \"Ah, but before that... take a look at this.\""
                             ]
                         },
                         {
@@ -4314,14 +4195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・鏡？私が映って・・え・・・ええっ！？」"
+                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"Eh... A mirror? I'm reflected in it.. eh... WHAT!?\""
                             ]
                         },
                         {
@@ -4348,14 +4222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_oti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何が見えた？当ててあげようか？」"
+                                "\\F[beni_oti]Akane: \"What do you see? Should I guess for you?\""
                             ]
                         },
                         {
@@ -4412,14 +4279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「手遅れになってるテメェ～の悪～い笑顔とかじゃねぇ？」"
+                                "\\F[beni_reverse1]Akane: \"Maybe it's your evil smile because it's too late for\nyou~?\""
                             ]
                         },
                         {
@@ -4437,14 +4297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃはははっ！！どうよ？正解？」"
+                                "\\F[beni_reverse1]Akane: \"Kyahaha!! How about that? Am I right?\""
                             ]
                         },
                         {
@@ -4462,21 +4315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[hanasaku_silhouette]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな・・・違う・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいえ・・・ちげー・・・」"
+                                "\\F[beni_reverse1]\\FF[hanasaku_silhouette]\\AA[2]Sakuya: \"That's not it... No... I mean... wrong...\""
                             ]
                         },
                         {
@@ -4566,28 +4405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[hanasaku_reverse]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「悪いとかじゃねぇ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すっげ！カッコいいじゃんっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この肌の色とか！乳首ピアスとかよっ～！！」"
+                                "\\FF[hanasaku_reverse]Sakuya: \"It's not bad... it's freaking cool! This skin color\nand the nipple piercings and all~!!\""
                             ]
                         },
                         {
@@ -4604,21 +4422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[hanasaku_reverse]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「めっちゃマブいってっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヤベェよ！こんなんサイコーじゃねぇかっ♪」"
+                                "\\FF[hanasaku_reverse]Sakuya: \"It's totally rad♪ Damn, isn't this just psycho♪\""
                             ]
                         },
                         {
@@ -4636,28 +4440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぎゃはははっ！テンション高ぇって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "即堕ちじゃねえかっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鏡ガン見しすぎなんだっての♪」"
+                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[1]Akane: \"Gyahahaha! You're so hyped up! You fell for it\ninstantly! You're staring too much at the mirror♪\""
                             ]
                         },
                         {
@@ -4675,28 +4458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だってすごくねっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしってこういう格好に疎ぇからさ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "憧れんだよね～っ♪」"
+                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[2]Sakuya: \"But isn't it amazing? I mean, I'm not familiar with\nthis kind of style!! It's something to aspire to, right~♪\""
                             ]
                         },
                         {
@@ -4714,21 +4476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ探偵部に戻ったら、テメーと同じようなダセェやつがいるから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そいつらも一緒にしてやろうぜっ♪」"
+                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[1]Akane: \"Then when we get back to the detective club, there\nare some lame-os just like you. Let's make them match us♪\""
                             ]
                         },
                         {
@@ -4746,14 +4494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぃぃ～すっ♪ぜってぇ～お揃いにしてやんよ♪」"
+                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[2]Sakuya: \"Yesss♪ We'll definitely make them match♪\""
                             ]
                         },
                         {

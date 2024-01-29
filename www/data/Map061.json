@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "視聴覚室",
+    "displayName": "Audio-Visual Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -3996,21 +3996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_toruble]\\FF[syuu_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こ、この子には出来る限り話しかけたくないが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "容疑者の一人だし仕方がない・・・）"
+                                "\\F[beni_toruble]\\FF[syuu_smile]Akane: \"I really don't want to talk to this girl if I can\nhelp it... but she's one of the suspects, so I have no\nchoice...\""
                             ]
                         },
                         {
@@ -4027,21 +4013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（快楽汚染があがれば、カイゾン人間は行動できなくなる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子との会話は危険すぎる・・・）"
+                                "\\F[beni_trouble]\\FF[syuu_smile]Akane: \"If the pleasure contamination rises, a Kaizon human\nbecomes unable to act... Talking to this girl is just too\ndangerous...\""
                             ]
                         },
                         {
@@ -4058,14 +4030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ホントにどうしてエロい話題ばかりなんだ・・・この子は）"
+                                "\\F[beni_trouble]\\FF[syuu_smile]Akane: \"Why does it always have to be such lewd topics with\nher...\""
                             ]
                         },
                         {
@@ -4082,21 +4047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは、ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅がスタイルのいいエッチィ身体してるからだよ～」"
+                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[2]Hiiragi: \"That's because, you know, Akane has such a sexy\nbody with great curves~\""
                             ]
                         },
                         {
@@ -4174,14 +4125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っ！？・・・どうして考えていることが！？」"
+                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[1]Akane: \"Wha-!? How can you know what I'm thinking!?\""
                             ]
                         },
                         {
@@ -4198,28 +4142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_laugh]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「人を目の前でジロジロみて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話しかけるのを躊躇してたらそりゃ気づくよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私ってこうみえて、人を見る目あるんだ～♪」"
+                                "\\F[beni_trouble]\\FF[syuu_laugh]\\AA[2]Hiiragi: \"If you stare at someone and hesitate to talk, it's\nobvious. Despite how I look, I'm pretty good at reading\npeople~♪\""
                             ]
                         },
                         {
@@ -4236,14 +4159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_true]\\FF[syuu_laugh]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅ってエッチィん・・・ですか・・・？」"
+                                "\\F[nako_true]\\FF[syuu_laugh]\\AA[1]Nadeshiko: \"Is Akane... lewd...?\""
                             ]
                         },
                         {
@@ -4260,28 +4176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_true]\\FF[syuu_laugh]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、うんっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誘って思わずベッドインしたいって思うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私って、どっちでもイケるし」"
+                                "\\F[nako_true]\\FF[syuu_laugh]\\AA[2]Hiiragi: \"Yep, yep♪ Makes you want to invite her to bed\nwithout a second thought. I swing both ways, after all.\""
                             ]
                         },
                         {
@@ -4298,14 +4193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_true]\\FF[syuu_smile]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子は紅のことをそんな風に考えたことなかったの？」"
+                                "\\F[nako_true]\\FF[syuu_smile]\\AA[2]Hiiragi: \"Nadeshiko, haven't you ever thought of Akane in\nthat way?\""
                             ]
                         },
                         {
@@ -4322,14 +4210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[syuu_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え、いや・・・あるわけが・・・」"
+                                "\\F[nako_trouble]\\FF[syuu_smile]\\AA[1]Nadeshiko: \"Eh, no... that's not possible...\""
                             ]
                         },
                         {
@@ -4346,14 +4227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「な、なんてこと聞くんだっ！？」"
+                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[1]Akane: \"What kind of question is that!?\""
                             ]
                         },
                         {
@@ -4370,28 +4244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつも一緒にいたら、さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この形のいいオッパイの揉み具合とか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気にならないかな、って♪」"
+                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[2]Hiiragi: \"When you're always together, don't you wonder how\nit feels to squeeze these perfectly shaped breasts?♪\""
                             ]
                         },
                         {
@@ -4408,21 +4261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[syuu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なる訳ないだろっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "撫子は亀神さんとは違うんだからっ！」"
+                                "\\F[beni_angry2]\\FF[syuu_smile]\\AA[1]Akane: \"That's impossible, right!? Nadeshiko isn't like\nKamegami-san!\""
                             ]
                         },
                         {
@@ -4439,28 +4278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[syuu_smile]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうかもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもそんな事言ってたら、気になってきちゃった♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いだから、さ～！揉ませてよ～」"
+                                "\\F[beni_angry2]\\FF[syuu_smile]\\AA[2]Hiiragi: \"Maybe so. But now that you mention it, I'm getting\ncurious♪ Please, let me squeeze them~\""
                             ]
                         },
                         {
@@ -4477,21 +4295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い、いやに決まってるっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰が好き好んで・・っ！」"
+                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[1]Akane: \"No way, absolutely not!! Who would willingly...!\""
                             ]
                         },
                         {
@@ -4508,21 +4312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この子の揉み手は絶対に駄目だっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやらしすぎて、不味いことになるっ！！）"
+                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[1]Akane: \"(Her groping hands are an absolute no-go!! They're\ntoo lecherous, it'll lead to trouble!!)\""
                             ]
                         },
                         {
@@ -4539,14 +4329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_shy]\\FF[syuu_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ・・・わたしも・・・気になるかも」"
+                                "\\F[nako_shy]\\FF[syuu_smile]\\AA[1]Nadeshiko: \"I... I might be curious too.\""
                             ]
                         },
                         {
@@ -4563,14 +4346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ！？」"
+                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[1]Akane: \"What!? \""
                             ]
                         },
                         {
@@ -4587,28 +4363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_laugh]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だよねっ～！ブラの上からでも、さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "形がいいのが分かるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぞや揉み心地もいいんだろうって思うよねっ！」"
+                                "\\F[beni_trouble]\\FF[syuu_laugh]\\AA[2]Hiiragi: \"Right~! Even over the bra, you can tell they're\nnicely shaped, so they must feel amazing to touch!\""
                             ]
                         },
                         {
@@ -4625,21 +4380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_laugh]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だ、駄目だっ！駄目っ駄目っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に・・・駄目っ！！」"
+                                "\\F[beni_trouble]\\FF[syuu_laugh]\\AA[1]Akane: \"No, no way! Absolutely not!!\""
                             ]
                         },
                         {
@@ -4656,14 +4397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_laugh]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（な、撫子に揉まれたら・・・私はっ！？）"
+                                "\\F[beni_trouble]\\FF[syuu_laugh]\\AA[1]Akane: \"(If Nadeshiko touches me... what will I do!?)\""
                             ]
                         },
                         {
@@ -4680,14 +4414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_true]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そんなに嫌なの・・・？」"
+                                "\\F[beni_trouble]\\FF[nako_true]\\AA[2]Nadeshiko: \"Is it really that unpleasant for you...?\""
                             ]
                         },
                         {
@@ -4704,14 +4431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_true]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！？」"
+                                "\\F[beni_trouble]\\FF[nako_true]\\AA[1]Akane: \"Gah!? \""
                             ]
                         },
                         {
@@ -4728,21 +4448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_laugh]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいじゃん、減るもんじゃないし♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずは撫子でしょ。その次は私～♪」"
+                                "\\F[beni_trouble]\\FF[syuu_laugh]\\AA[2]Hiiragi: \"Come on, it's not like you lose anything♪ First\nNadeshiko, then me~♪\""
                             ]
                         },
                         {
@@ -4759,14 +4465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[syuu_laugh]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰が亀神さんなんかに揉ませるかっ！」"
+                                "\\F[beni_angry2]\\FF[syuu_laugh]\\AA[1]Akane: \"Like I'd let someone like Kamegami-san touch them!\""
                             ]
                         },
                         {
@@ -4783,14 +4482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_true]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ・・・私ならいいの？」"
+                                "\\F[beni_angry2]\\FF[nako_true]\\AA[2]Nadeshiko: \"Is... is it okay if I do it?\""
                             ]
                         },
                         {
@@ -4807,14 +4499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_true]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それは・・・」"
+                                "\\F[beni_trouble]\\FF[nako_true]\\AA[1]Akane: \"That's... \""
                             ]
                         },
                         {
@@ -4831,14 +4516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「嫌なら嫌って言った方がいいよ」"
+                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[2]Hiiragi: \"If you don't like it, you should just say no.\""
                             ]
                         },
                         {
@@ -4855,14 +4533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い・・・嫌な訳じゃないけど・・・」"
+                                "\\F[beni_trouble]\\FF[syuu_smile]\\AA[1]Akane: \"It's not that I don't like it but...\""
                             ]
                         },
                         {
@@ -4879,21 +4550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_laugh]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃ、大丈夫ってことだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "揉んでみよ！撫子っ！！」"
+                                "\\F[beni_trouble]\\FF[syuu_laugh]\\AA[2]Hiiragi: \"Then it's settled. Go ahead and touch them!\nNadeshiko!!\""
                             ]
                         },
                         {
@@ -4910,14 +4567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[syuu_laugh]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ま、まだ心の準備が・・・っ」"
+                                "\\F[beni_trouble]\\FF[syuu_laugh]\\AA[1]Akane: \"Wait, I'm not mentally prepared yet...!\""
                             ]
                         },
                         {
@@ -4934,14 +4584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_shy]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「し、失礼します・・・」"
+                                "\\F[beni_trouble]\\FF[nako_shy]\\AA[2]Nadeshiko: \"Excuse me then...\""
                             ]
                         },
                         {
@@ -4958,7 +4601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モミモミ・・・♪モミモミ・・・♪"
+                                "Squeeze Squeeze...♪ Squeeze Squeeze...♪"
                             ]
                         },
                         {
@@ -4975,21 +4618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_shy]\\FF[nako_shy]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（な、撫子が私の胸を揉んでるっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "か、顔を赤らめて・・・可愛すぎるっ・・・！！）"
+                                "\\F[beni_shy]\\FF[nako_shy]Akane: \"(Nadeshiko is squeezing my breasts! And her blushing\nface... too cute...!!)\""
                             ]
                         },
                         {
@@ -5006,14 +4635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_ero]\\FF[nako_shy]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そしてこの手付き・・・・気持ちいいっ！）"
+                                "\\F[beni_ero]\\FF[nako_shy]Akane: \"(And her touch... it feels so good!)\""
                             ]
                         },
                         {
@@ -5030,14 +4652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_ero]\\FF[nako_shy]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うくぅぅぅっ♪あふぅぅぅんっ♪」"
+                                "\\F[beni_ero]\\FF[nako_shy]Akane: \"Ahnnn♪ Ahhhnnn♪\""
                             ]
                         },
                         {
@@ -5096,14 +4711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_ero]\\FF[syuu_smile]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？数揉みでイッちゃった・・・？」"
+                                "\\F[beni_ero]\\FF[syuu_smile]\\AA[2]Hiiragi: \"Eh? Did you just come from a few squeezes...?\""
                             ]
                         },
                         {
@@ -5120,21 +4728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_ero]\\FF[syuu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きぃ・・・気持ちよすぎるからぁ・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "び、敏感になりすぎちゃってぇ・・・くぅぅっ♪」"
+                                "\\F[beni_ero]\\FF[syuu_smile]\\AA[1]Akane: \"It's just... too pleasurable...♪ I've become too\nsensitive... Ahnnn♪\""
                             ]
                         },
                         {
@@ -5151,14 +4745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_ero]\\FF[nako_shy2]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ま、まさか・・・こんなに感じやすいなんて・・・」"
+                                "\\F[beni_ero]\\FF[nako_shy2]\\AA[2]Nadeshiko: \"I can't believe... you're this sensitive...\""
                             ]
                         },
                         {
@@ -5175,14 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_ero]\\FF[nako_shy2]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ち、違うよぉ・・・撫子の手だからぁ・・・♪」"
+                                "\\F[beni_ero]\\FF[nako_shy2]\\AA[1]Akane: \"It's not like that... It's because it's your\nhands...♪\""
                             ]
                         },
                         {
@@ -5199,21 +4779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_ero]\\FF[syuu_laugh]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ撫子には私のも揉んでもらおうかな？」"
+                                "\\F[beni_ero]\\FF[syuu_laugh]\\AA[2]Hiiragi: \"Is that so? Maybe I should have Nadeshiko squeeze\nmine too then?\""
                             ]
                         },
                         {
@@ -5230,14 +4796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_ero]\\FF[syuu_laugh]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはぁ・・・だめぇ・・・んんっ♪」"
+                                "\\F[beni_ero]\\FF[syuu_laugh]\\AA[1]Akane: \"That's... no good... Nnn♪\""
                             ]
                         },
                         {
@@ -5254,28 +4813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_ero]\\FF[syuu_laugh]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（け、結局何の話も出来てない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子に話かけるのは、やっぱり危険すぎた・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あふぅっんっ♪）"
+                                "\\F[beni_ero]\\FF[syuu_laugh]\\AA[1]Akane: \"(I haven't managed to talk about anything...\nApproaching her was definitely too dangerous... Ahnn♪)\""
                             ]
                         },
                         {
@@ -5341,14 +4879,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[beni_ero]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「うぅ・・・ダメだ！！ごめん撫子」"
+                                "\\F[beni_ero]Akane: \"Ugh... I can't do this!! I'm sorry, Nadeshiko\""
                             ]
                         },
                         {
@@ -5365,14 +4896,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[beni_ero]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あ！！紅」"
+                                "\\F[beni_ero]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"Ah!! Akane\""
                             ]
                         },
                         {
@@ -5742,21 +5266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クイズ研・部長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「問題！！政令指定都市、城奈瑠市のおおよその人口は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１２０万人である。〇か×か？」"
+                                "Quiz Club President: \"Question!! The approximate population\nof the government-designated city, Jonaru City, is 1.2\nmillion people. True or false?\""
                             ]
                         },
                         {
@@ -5773,14 +5283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？・・・えっ？」"
+                                "\\F[beni_trouble]Akane: \"Eh!?... Eh?\""
                             ]
                         },
                         {
@@ -5797,14 +5300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_smile]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まる！！」"
+                                "\\FF[nako_smile]Nadeshiko: \"True!!\""
                             ]
                         },
                         {
@@ -5860,21 +5356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クイズ研・部長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「正解！！やるね！どう？うちの部に・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\.\\.入らない・・・そう残念」"
+                                "Quiz Club President: \"Correct!! Well done! How about it?\nWon't you join our club...? Not interested... That's too\nbad.\""
                             ]
                         },
                         {

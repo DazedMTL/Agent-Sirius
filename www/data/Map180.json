@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "探偵部",
+    "displayName": "Detective Club",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -2425,28 +2425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_trouble]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無事に帰ってくるのをただ待っているのは性に合わない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かといって貴方の邪魔をしたいという訳じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そわそわするよ・・・こんな気持ち初めてかも知れない」"
+                                "\\FF[yuri_trouble]Yurika: \"Just waiting for you to return safely isn't in my\nnature. But that doesn't mean I want to get in your way. I'm\nfeeling so restless... This might be the first time I've\nfelt like this.\""
                             ]
                         },
                         {
@@ -2463,28 +2442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[yuri_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（何も出来ずにボッコボコにされんのが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お高く止まったテメーにはお似合いだっつーの♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ！その澄ました顔が絶望に歪むの、愉しみ～❤）"
+                                "\\F[beni_reverse1]\\FF[yuri_trouble]\\AA[1]Akane: (Being beaten up without being able to do anything\nsuits someone as high and mighty as you! Kyahaha! I can't\nwait to see that composed face of yours twist in despair~❤)\""
                             ]
                         },
                         {
@@ -2730,21 +2688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅・・・気をつけてね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、その装備が凄いからって油断しちゃ駄目だよ・・・」"
+                                "\\FF[nako_trouble]Nadeshiko: \"Akane... be careful... Just because that\nequipment is amazing, you can't get careless...\""
                             ]
                         },
                         {
@@ -2761,21 +2705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[nako_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（きゃはははっ！テメーこそ油断すんなよ～❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知らない間にズコバコやられちまうぜぇっ～♪）"
+                                "\\F[beni_reverse1]\\FF[nako_trouble]\\AA[1]Akane: \"Kyahaha! You're the one who shouldn't let your guard\ndown~❤ Before you know it, you'll be getting pounded hard~♪\""
                             ]
                         },
                         {
@@ -2853,21 +2783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[inu_smile]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「朱雀さん・・。無理してない？大丈夫？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私に出来ることがあったら・・・何でも言ってね」"
+                                "\\FF[inu_smile]Maple: \"Suzaku-san... are you pushing yourself too hard? Are\nyou okay? If there's anything I can do... just let me know.\""
                             ]
                         },
                         {
@@ -2884,28 +2800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[inu_reverse]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「性処理とかなっ♪こんなにエロい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ビッチギャルに囲まれてたら、一発ヤリたくなんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでもいいぜぇ～！サービスっ❤サービスっ❤」"
+                                "\\FF[inu_reverse]Maple: \"Like sexual relief, maybe?♪ Surrounded by such\nerotic and bitchy gals, you must want to get it on, right?\nAnytime is fine by me～! Service❤ Service❤\""
                             ]
                         },
                         {
@@ -2922,21 +2817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[inu_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃはははっ♪全部終わったらな～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盛りやがって！ビッチ教師がよ～❤」"
+                                "\\F[beni_reverse1]\\FF[inu_reverse]\\AA[1]Akane: \"Kyahaha!♪ After everything's done～!! You're so\nhorny! You bitchy teacher～❤\""
                             ]
                         },
                         {
@@ -3014,28 +2895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[iruka_smile]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう何がなんだか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも・・・興味はすっごくあるかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事件が片付いたら、色々教えてね」"
+                                "\\FF[iruka_smile]Iruka: \"I can't make heads or tails of this! But... I might\nbe really interested. Once the case is closed, tell me all\nabout it.\""
                             ]
                         },
                         {
@@ -3053,14 +2913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[iruka_ero]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはそうと・・・この部屋、暑いね」"
+                                "\\FF[iruka_ero]Iruka: \"Speaking of which... it's hot in this room, isn't\nit?\""
                             ]
                         },
                         {
@@ -3077,28 +2930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[iruka_reverse]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヤリまくってるからなぁっ！当然じゃね～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だってテメーらが待たせるからイケねーんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ❤」"
+                                "\\FF[iruka_reverse]Iruka: \"It's because we've been going at it so much! Of\ncourse it's hot～♪ It's your fault for making me wait!\nKyahaha❤\""
                             ]
                         },
                         {
@@ -3115,21 +2947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[iruka_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マジでひでービッチになってんじゃん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "清純派じゃなかったっけ？きゃはははっ～！！」"
+                                "\\F[beni_reverse1]\\FF[iruka_reverse]\\AA[1]Akane: \"You've seriously become such a dirty bitch, haven't\nyou? Weren't you supposed to be the pure one? Kyahaha～!!\""
                             ]
                         },
                         {
@@ -3207,21 +3025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_smile]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「正体を明かすのに躊躇しないなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朱雀さんは凄いです。私なら怖気づいてしまうと思います」"
+                                "\\FF[sumire_smile]Sumire: \"Not hesitating to reveal your true self... Suzaku-\nsan, you're amazing. I think I would be too scared to do\nit.\""
                             ]
                         },
                         {
@@ -3238,28 +3042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_reverse]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもバラす時が一番楽しそぉ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実はみんなビッチでしたぁ～！とかどんな顔っすかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふぃ～！ゾクゾクするぜぇ～❤」"
+                                "\\FF[sumire_reverse]Sumire: \"But the best part is when you spill the beans~♪\n'Actually, we're all sluts~!' What kind of faces would they\nmake, huh? Fufu~! It sends shivers down my spine~❤\""
                             ]
                         },
                         {
@@ -3276,28 +3059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sumire_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頭わりぃ～顔してるぜぇ～！期待しすぎじゃん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつらバカだから大したことねぇ～って♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ❤」"
+                                "\\F[beni_reverse1]\\FF[sumire_reverse]\\AA[1]Akane: \"You're making such a crazy face~! You're getting too\nexcited♪ 'These idiots won't make a big deal out of it~'\nThat's what you think, right? Kyahaha❤\""
                             ]
                         },
                         {
@@ -3374,28 +3136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[syuu_smile]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅん・・・ピッチリスーツのせいか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雰囲気変わったよね？う～ん、何ていうか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段どおりなのにそうじゃないっていうか？」"
+                                "\\FF[syuu_smile]Hiiragi: \"Hmm... Is it because of the tight suit? The\natmosphere has changed, hasn't it? Hmm, how should I put it?\nIt's like usual but not really?\""
                             ]
                         },
                         {
@@ -3412,21 +3153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[syuu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ま、まさか気付いてんのか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ、コイツは要注意じゃん・・・）"
+                                "\\F[beni_reverse1]\\FF[syuu_smile]\\AA[1]Akane: \"(Could she have noticed!? Th-This girl is someone to\nwatch out for...)\""
                             ]
                         },
                         {
@@ -3504,21 +3231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「咲夜ちゃんは視聴覚室よ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く救出してあげてねっ♪」"
+                                "Sora: \"Sakuya-chan is in the audio-visual room! Hurry up and\nrescue her♪\""
                             ]
                         },
                         {
@@ -3587,21 +3300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵ちゃんは１Fの教室棟の廊下にいるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特徴的な髪型だからすぐ分かるわね♪」"
+                                "Inochi: \"Himawari-chan is in the hallway of the 1F classroom\nbuilding. You'll recognize her easily by her distinctive\nhairstyle♪\""
                             ]
                         },
                         {
@@ -3670,21 +3369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「宇宙ちゃんは屋上よ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅ちゃんの助けを待っているわっ♪」"
+                                "Mei: \"Sora-chan is on the rooftop! She's waiting for Akane-\nchan's help!♪\""
                             ]
                         },
                         {
@@ -3753,21 +3438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗ちゃんは中庭で戦っているわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "巻き込まれないように気をつけて♪」"
+                                "Mikoto: \"Kikyo-chan is fighting in the courtyard. Be careful\nnot to get caught up in it♪\""
                             ]
                         },
                         {
@@ -3836,21 +3507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「芽衣ちゃんは図書室よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "亜麻ちゃんも狙っているから、本当に気をつけて！」"
+                                "Mikoto: \"Mei-chan is in the library. Amachan is also aiming\nfor her, so be really careful!\""
                             ]
                         },
                         {
@@ -4128,21 +3785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[hanasaku_smile]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おお・・・ここの皆は、無事なんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかなか個性的なメンバーが揃ってるね～」"
+                                "\\FF[hanasaku_smile]Sakuya: \"Oh... everyone here is safe, huh. Quite a unique\nbunch of members we've got here~\""
                             ]
                         },
                         {
@@ -4159,14 +3802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[hanasaku_reverse]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（どいつもこいつも冴えねえヤツばっかだけど♪）"
+                                "\\FF[hanasaku_reverse]Sakuya: (But they're all so dull, every single one of them♪)"
                             ]
                         },
                         {
@@ -4183,28 +3819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あーしもそれ思ってた！ここにいるヤツら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地味すぎんじゃね？帰国子女で金髪だったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっとガンガンピアスとか開けてろよって！）"
+                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[1]Akane: \"I was thinking the same thing! The people here are\ntoo plain, aren't they? If you're a returnee with blond\nhair, you should be rocking more piercings and stuff!\""
                             ]
                         },
                         {
@@ -4221,21 +3836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まぁ、あーしがちゃんと躾けてやるって♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "金髪ビッチのヤリマン教師によ～♪）"
+                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[2]Sakuya: \"Well, I'll just have to train them properly♪ By the\nblond bitchy slutty teacher~♪\""
                             ]
                         },
                         {
@@ -4252,21 +3853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（どんな変態になるか楽しみすぎっしょ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰ってきたら、味見してやるって・・・きゃはははっ！！）"
+                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[1]Akane: \"I can't wait to see what kind of perverts they'll\nturn into♪ When they come back, I'll give them a taste\ntest... Kyahaha!!\""
                             ]
                         },
                         {
@@ -4345,14 +3932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[hanasaku_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「次は？太佑先生」"
+                                "\\F[beni_angry2]\\FF[hanasaku_smile]\\AA[1]Akane: \"Next is? Taiyu-sensei\""
                             ]
                         },
                         {
@@ -4409,28 +3989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうね。・・・勇敢な子がいるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪人達が闊歩している学園を、友達を捜し歩いているみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は１Fの教室棟の廊下にいる」"
+                                "Mikoto: \"Right... There's a brave child. It seems like she's\nwandering around the school filled with monsters, looking\nfor her friends. She's currently in the hallway of the 1F\nclassroom building.\""
                             ]
                         },
                         {
@@ -4448,21 +4007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「獅堂向日葵さんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "金髪ツインテールだから見つけやすいわね♪」"
+                                "Mikoto: \"It's Shidou Himawari-san. With her blond twin-\ntails, she should be easy to spot♪\""
                             ]
                         },
                         {
@@ -4480,14 +4025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ！また移動しないうちに！！」"
+                                "\\F[beni_angry2]Akane: \"Then! Before she moves again!!\""
                             ]
                         },
                         {
@@ -4542,21 +4080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一応、念押しで♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "金髪ツインテールだから見間違えないで♪」"
+                                "Mikoto: \"Just to emphasize♪ Don't mistake her for someone\nelse because of the blond twin-tails♪\""
                             ]
                         },
                         {
@@ -4573,21 +4097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_oti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しっかりと確認してきますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げられたら・・・厄介ですから♪」"
+                                "\\F[beni_oti]Akane: \"I'll make sure to check properly. It would be\ntroublesome if she escaped...♪\""
                             ]
                         },
                         {
@@ -4604,14 +4114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうね。抵抗されるかも知れないし♪」"
+                                "Mikoto: \"Indeed. She might resist♪\""
                             ]
                         },
                         {
@@ -4628,21 +4131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（抵抗・・・？そりゃ怪人が学園中に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いたら、そうなるかも知れないけど・・・）"
+                                "\\F[nako_trouble]Nadeshiko: (Resist...? Well, if there were monsters all over\nthe school, that might happen...)"
                             ]
                         },
                         {
@@ -4963,21 +4452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_angry]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「宇宙はどこなの！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く・・・教えなさいよ！」"
+                                "\\FF[himawari_angry]Himawari: \"Where is Sora!? Hurry up... tell me!\""
                             ]
                         },
                         {
@@ -4994,14 +4469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_reverse]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（早くパコパコして～んだよ！勿体ぶるんじゃね～よっ！）"
+                                "\\FF[himawari_reverse]Himawari: (Hurry up and fuck me already! Stop beating around\nthe bush!)"
                             ]
                         },
                         {
@@ -5019,14 +4487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yuri_trouble]\\FF[himawari_angry]\\AA[1]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私に詰め寄られても・・・」"
+                                "\\F[yuri_trouble]\\FF[himawari_angry]\\AA[1]Yurika: \"Even if you press me...\""
                             ]
                         },
                         {
@@ -5044,14 +4505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_smile]\\FF[himawari_angry]\\AA[1]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵さん。宇宙さんの居場所を捜せるのは、太佑先生です」"
+                                "\\F[sumire_smile]\\FF[himawari_angry]\\AA[1]Sumire: \"Himawari-san, the only person who can find Sora-san\nis Professor Taiyu.\""
                             ]
                         },
                         {
@@ -5069,14 +4523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_smile]\\FF[himawari_angry]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰でもいいわ。宇宙さえ無事なら・・・」"
+                                "\\F[sumire_smile]\\FF[himawari_angry]\\AA[2]Himawari: \"I don't care who it is. As long as Sora is\nsafe...\""
                             ]
                         },
                         {
@@ -5094,21 +4541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_laugh]\\FF[himawari_angry]\\AA[1]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無事じゃないかも知れないね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう男子の股ぐらにしゃぶりついてたりして・・・♪」"
+                                "\\F[syuu_laugh]\\FF[himawari_angry]\\AA[1]Hiiragi: \"She might not be safe, you know♪ She could already\nbe sucking on some boy's crotch...♪\""
                             ]
                         },
                         {
@@ -5125,14 +4558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_laugh]\\FF[himawari_angry]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「がうぅ・・・！！」"
+                                "\\F[syuu_laugh]\\FF[himawari_angry]\\AA[2]Himawari: \"Grrr...!!\""
                             ]
                         },
                         {
@@ -5149,21 +4575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_laugh]\\FF[himawari_reverse]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そんな訳ねぇだろっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宇宙の新品穴はあーしのもんだってのっ！）"
+                                "\\F[syuu_laugh]\\FF[himawari_reverse]\\AA[2]Himawari: (Like hell that's true! Sora's pristine hole is\nmine, damn it!)"
                             ]
                         },
                         {
@@ -5220,21 +4632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふっ♪楽しい子ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも朗報よ。宇宙ちゃんは無事だわ」"
+                                "Inochi: \"Hehehe♪ You're such a fun girl. But I have good\nnews. Sora-chan is safe.\""
                             ]
                         },
                         {
@@ -5283,21 +4681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だけど怪人達に囲まれてるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く助け出さないと」"
+                                "Inochi: \"However, she's surrounded by monsters. We need to\nrescue her quickly.\""
                             ]
                         },
                         {
@@ -5430,14 +4814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どこだ！？行ってくるっ・・・！！」"
+                                "\\F[beni_angry2]Akane: \"Where is she!? I'm going...!!\""
                             ]
                         },
                         {
@@ -5455,21 +4832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「屋上よ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "作戦は一刻を争うわ♪」"
+                                "Inochi: \"The rooftop! We must act quickly with our plan♪\""
                             ]
                         },
                         {
@@ -5518,21 +4881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「了解っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "向日葵・・・絶対に助けるからっ！」"
+                                "\\F[beni_angry2]Akane: \"Roger that!! Himawari... I'll definitely save her!\""
                             ]
                         },
                         {
@@ -5550,14 +4899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（その後でてめぇ～にも味見させてやっからよ♪）"
+                                "\\F[beni_reverse1]Akane: (After that, I'll let you have a taste too♪)"
                             ]
                         },
                         {
@@ -5575,28 +4917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[himawari_reverse]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（紅っ！抜け駆けは許さねぇ～ぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宇宙のビッチ穴犯して中古便器になんてしたら、ぶっ潰す！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケツなら仕方ねぇかな♪）"
+                                "\\F[beni_reverse1]\\FF[himawari_reverse]\\AA[2]Himawari: (Akane! Don't you dare get ahead of me! If you\nturn Sora's bitch hole into a second-hand toilet, I'll crush\nyou! But I guess the ass is fine♪)"
                             ]
                         },
                         {
@@ -5614,21 +4935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[inu_reverse]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まじぃ～♪あのちっこいケツ穴ぁ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "具合よさそ～！あーしも予約しとこ～！！）"
+                                "\\F[beni_reverse1]\\FF[inu_reverse]\\AA[2]Anna Maple: (Seriously♪ That tiny ass hole looks so\ninviting! I'm gonna reserve my spot too!!)"
                             ]
                         },
                         {
@@ -5646,21 +4953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[inu_reverse]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（生徒の牝穴躾けんのは、先公がやらねぇ～とだからっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いひひひっ♪そーだろ？てめぇ～ら！！）"
+                                "\\F[beni_reverse1]\\FF[inu_reverse]\\AA[2]Anna Maple: (It's the teacher's job to train the students'\nbitch holes, after all♪ Ehehehe♪ Right, guys!!)"
                             ]
                         },
                         {
@@ -5678,21 +4971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[inu_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（先生、いきなりヤベェ発言かましてんじゃん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怖ぇ～よっ！ぎゃはははっ♪）"
+                                "\\F[beni_reverse1]\\FF[inu_reverse]\\AA[1]Akane: (Teacher, you're spouting some crazy shit out of\nnowhere♪ Scary, man! Gyahaha!)"
                             ]
                         },
                         {
@@ -5710,21 +4989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（パツキンはやっぱビッチが似合うっしょ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "堕としといてやったぜぇ～！きゃはははっ♪）"
+                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[2]Sakuya: (Blondes really do suit the bitch role♪ I've already\ncorrupted her for ya! Kyahaha!)"
                             ]
                         },
                         {
@@ -5742,28 +5007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（マジでそう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "日焼け肌の褐色がめっちゃ似合うしよ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "涎出るぜぇ～！）"
+                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[1]Akane: (Totally! Her tanned skin looks so damn good! Makes\nme drool!)"
                             ]
                         },
                         {
@@ -5781,21 +5025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[himawari_reverse]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（じゃあ、宇宙が来るまでの間、このお嬢様をパコっておこうかな～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前から清ましてやがるから、気に食わなかったし♪）"
+                                "\\F[beni_reverse1]\\FF[himawari_reverse]\\AA[2]Himawari: (Well then, until Sora arrives, maybe I'll fuck\nthis lady♪ I've been wanting to dirty her up since she\nalways acts so pure♪)"
                             ]
                         },
                         {
@@ -5813,28 +5043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[inu_reverse]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あーしも賛成♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いるかもビッチ仲間にして、乱交しよーぜっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ♪）"
+                                "\\F[beni_reverse1]\\FF[inu_reverse]\\AA[2]Anna Maple: (I agree♪ Let's make Iruka part of our bitch\ngang and have an orgy♪ Kyahaha!)"
                             ]
                         },
                         {
@@ -5852,21 +5061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_oti]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（紅・・・何をニヤニヤしてるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう時じゃないのに・・・やっぱり何かおかしい・・・）"
+                                "\\F[beni_oti]\\FF[nako_trouble]\\AA[2]Nadeshiko: (Akane... What are you grinning about? This isn't\nthe time for that... Something's definitely off...)"
                             ]
                         },
                         {
@@ -5921,14 +5116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この姿を頭に焼きつけてっ！」"
+                                "Inochi: \"Burn this image into your mind!\""
                             ]
                         },
                         {
@@ -5945,21 +5133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（逃がすんじゃねぇぞっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ビッチレズカップルとか最高だからよっ～♪）"
+                                "Inochi: (Don't let them escape! A bitch lesbian couple would\nbe the best♪)"
                             ]
                         },
                         {
@@ -6457,21 +5631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_smile]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よ、良かった～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宇宙、無事にまた会えた～！！」"
+                                "\\F[himawari_smile]Himawari: \"Phew, I'm so glad! Sora, we're safe and together\nagain!!\""
                             ]
                         },
                         {
@@ -6488,28 +5648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_reverse]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きひひっ！！やっぱテメェ～の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "牝穴オナホじゃねぇとキマんねぇからよ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "待ってたぜっ～！」"
+                                "\\F[himawari_reverse]Himawari: \"Kihhih!! Nothing beats your pussy onahole, I just\ncan't get enough of it~♪ I've been waiting for this~!\""
                             ]
                         },
                         {
@@ -6527,21 +5666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_smile]\\FF[sora_smile]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひ、向日葵ちゃん・・・苦しいよ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなにギュッと抱きしめないで・・・」"
+                                "\\F[himawari_smile]\\FF[sora_smile]\\AA[2]Sora: \"Hi, Himawari-chan... It's too tight... Please don't\nhug me so hard...\""
                             ]
                         },
                         {
@@ -6558,28 +5683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_reverse]\\FF[sora_reverse]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あーしだってそうだっての♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっそくやろうぜっ！ベロベロしまくってさっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ♪」"
+                                "\\F[himawari_reverse]\\FF[sora_reverse]\\AA[2]Sora: \"Ah, I feel the same way~♪ Let's get to it right away!\nLick me all over~! Kyahaha!!\""
                             ]
                         },
                         {
@@ -6649,21 +5753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さあ、この調子でどんどんと助けに行こう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次は！」"
+                                "\\F[beni_smile]Akane: \"Alright, let's keep this momentum going and rescue\nthe others! Next is!\""
                             ]
                         },
                         {
@@ -6680,28 +5770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここにいるビッチも増えてきたし♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連れてくるたびに追い詰められてんのに気づかない会長♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間抜けで楽し～わ！」"
+                                "\\F[beni_reverse1]Akane: \"The number of bitches here is increasing~♪ Every\ntime we bring one back, the president gets more cornered\nwithout realizing it~ It's so fun to watch!\""
                             ]
                         },
                         {
@@ -6758,28 +5827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うふふっ♪ノリノリね～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お次は・・・すごいわっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "千切っては投げ、千切っては投げしているわ！」"
+                                "Inochi: \"Ufufu~♪ Everyone's so into it~♪ Next up... wow!\nShe's tearing them apart and throwing them around!\""
                             ]
                         },
                         {
@@ -6797,14 +5845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な、なにが・・・！」"
+                                "\\F[beni_trouble]Akane: \"What is...?!\""
                             ]
                         },
                         {
@@ -6822,21 +5863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これは桔梗ちゃんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近寄ってくる子を手当たり次第になぎ倒しているの♪」"
+                                "Inochi: \"That's Kikyo-chan. She's knocking down anyone who\ncomes near her indiscriminately~♪\""
                             ]
                         },
                         {
@@ -6854,21 +5881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは近寄りがたいな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "けどそれもどこまで保つか、わかんないだろうから！」"
+                                "\\F[beni_angry2]Akane: \"That sounds hard to approach... but who knows how\nlong that will last!\""
                             ]
                         },
                         {
@@ -6885,14 +5898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「場所は２F中庭よ！」"
+                                "Inochi: \"The location is the 2F courtyard!\""
                             ]
                         },
                         {
@@ -6947,21 +5953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気をつけて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違えちゃったら駄目よ♪」"
+                                "Inochi: \"Be careful! Don't make a mistake, okay?♪\""
                             ]
                         },
                         {
@@ -6979,28 +5971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「このメスゴリラを堕とせば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぜってー役に立ちそうじゃん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "万が一、会長が暴れても止めれるだろうし！」"
+                                "\\F[beni_reverse1]Akane: \"If we can bring down this female gorilla, she'll\ndefinitely be useful~♪ If the president goes on a rampage,\nshe could stop her!\""
                             ]
                         },
                         {
@@ -7018,28 +5989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sumire_reverse]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうッス～ね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・桔梗のヤツは普段はポンコツッスけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハメ友になったら頼りになるッスよ～♪」"
+                                "\\F[beni_reverse1]\\FF[sumire_reverse]\\AA[2]Sumire: \"That's true~♪ Kikyo may be a klutz normally, but\nshe's reliable as a fuck buddy~♪\""
                             ]
                         },
                         {
@@ -7057,28 +6007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sumire_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃはははっ！ド真面目で金持ちの菫も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "汚ねぇビッチになってんじゃん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰がやったんだよ～！」"
+                                "\\F[beni_reverse1]\\FF[sumire_reverse]\\AA[1]Akane: \"Kyahaha! Even the serious and rich Sumire has turned\ninto a filthy bitch~ Who did this to you?!\""
                             ]
                         },
                         {
@@ -7096,21 +6025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[himawari_reverse]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きひひひっ！あーしが我慢できずに食っちゃいました～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だってぇ・・・宇宙が来ねぇと退屈で仕方ねぇからよぉ～！！」"
+                                "\\F[beni_reverse1]\\FF[himawari_reverse]\\AA[2]Himawari: \"Kihhihih! I couldn't help myself and gobbled you\nup~♪ Because, you know... It's so boring without Sora\naround!!\""
                             ]
                         },
                         {
@@ -7128,28 +6043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sumire_reverse]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あーしはこんなにビッチがこの部屋に揃ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんて知らねぇからよ～！めっちゃ警戒してたんだぜぇ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ビッチが紛れ込んでるかもって」"
+                                "\\F[beni_reverse1]\\FF[sumire_reverse]\\AA[2]Sumire: \"I had no idea there were so many bitches gathered\nin this room~! I was super cautious, you know? Thinking\nmaybe a bitch had slipped in.\""
                             ]
                         },
                         {
@@ -7167,28 +6061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sumire_reverse]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから部屋に最初からいたメープル先生に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "協力してもらおうとしたってわけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしたらよ～！」"
+                                "\\F[beni_reverse1]\\FF[sumire_reverse]\\AA[2]Sumire: \"So I thought I'd ask Maple-sensei, who was in the\nroom from the start, for help. And then, you know what\nhappened?!\""
                             ]
                         },
                         {
@@ -7206,28 +6079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[inu_reverse]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぎゃはははっ！あーしもビッチになってたってオチ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しっかもいるかをハメてる時に話しかけてくるからよ～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "吹き出しそうになったっての♪」"
+                                "\\F[beni_reverse1]\\FF[inu_reverse]\\AA[2]Maple: \"Gyahahaha! The punchline is that I turned into a\nbitch too~! And to top it off, Iruka was getting laid when\nshe came to talk to me~!! I almost burst out laughing!\""
                             ]
                         },
                         {
@@ -7245,21 +6097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[inu_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひでぇ！マジで～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ、いるかも？」"
+                                "\\F[beni_reverse1]\\FF[inu_reverse]\\AA[1]Akane: \"That's awful! Seriously?! So, what about Iruka?\""
                             ]
                         },
                         {
@@ -7277,28 +6115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[iruka_reverse]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トーゼンにビッチになってるに決まってんじゃんっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ～！チンポしゃぶりてぇ～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにオスが一人もいねーんだよなぁ～！」"
+                                "\\F[beni_reverse1]\\FF[iruka_reverse]\\AA[2]Iruka: \"Obviously I've become a bitch too~♪ Ahh~! I wanna\nsuck some dick~!! There's not a single guy here, damn it~!\""
                             ]
                         },
                         {
@@ -7316,14 +6133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[iruka_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「後は柊と会長、そして撫子だけ・・・もう楽勝じゃん♪」"
+                                "\\F[beni_reverse1]\\FF[iruka_reverse]\\AA[1]Akane: \"All that's left are Hiiragi, the president, and\nNadeshiko... This is gonna be a piece of cake~♪\""
                             ]
                         },
                         {
@@ -7341,14 +6151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_oti]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（・・・）"
+                                "\\F[beni_oti]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"(...)\""
                             ]
                         },
                         {
@@ -7366,21 +6169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_oti]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（可能性としてだけど・・・もし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅が返り討ちにあってて・・・）"
+                                "\\F[beni_oti]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"(But what if... just maybe... Akane got beaten\nback...)\""
                             ]
                         },
                         {
@@ -7398,28 +6187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_oti]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（怪人になってたとしたら・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもその時は太佑先生が？！！二人は一緒に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入ってきた。なら、グルの可能性もある！）"
+                                "\\F[beni_oti]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"(And turned into a monster...? But then there's\nTaiyu-sensei...!! They entered together. So there's a chance\nthey're in cahoots!)\""
                             ]
                         },
                         {
@@ -7437,21 +6205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_oti]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私なら・・・紅を見極められる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって腐れ縁だもん。幼馴染だから・・・）"
+                                "\\F[beni_oti]\\FF[nako_angry]\\AA[2]Nadeshiko: \"(I can tell... I can see through Akane. After\nall, we have an old bond. We're childhood friends...)\""
                             ]
                         },
                         {
@@ -7688,21 +6442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_smile]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「学校中が怪人の巣窟と化しているのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに仲間がいるなんて・・・心強い」"
+                                "\\FF[kikyou_smile]Kikyo: \"Even though the entire school has turned into a den\nof monsters... having so many allies... it's reassuring.\""
                             ]
                         },
                         {
@@ -7720,21 +6460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_reverse]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃはははっ！ここも変わんねんじゃねっ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ビッチばっかじゃん。逆に心強いわ～♪」"
+                                "\\FF[kikyou_reverse]Kikyo: \"Kyahaha! This place hasn't changed a bit~♪ Just a\nbunch of bitches. It's actually kind of comforting~♪\""
                             ]
                         },
                         {
@@ -7752,21 +6478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[kikyou_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ、また増えてんじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "てめぇ～は元からビッチだったけどよ～♪」"
+                                "\\F[beni_reverse1]\\FF[kikyou_reverse]\\AA[1]Akane: \"Oh, there's even more of us now. But you've always\nbeen a bitch anyway~♪\""
                             ]
                         },
                         {
@@ -7784,28 +6496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[syuu_reverse]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃはははっ！そんな言い方酷くね～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしがまたリバースに戻るなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結構衝撃的だと思うんだけど～！」"
+                                "\\F[beni_reverse1]\\FF[syuu_reverse]\\AA[2]Hiiragi: \"Kyahaha! That's so harsh! I mean, it's quite\nshocking to think that I'd go back to being a reverse, you\nknow~!\""
                             ]
                         },
                         {
@@ -7823,21 +6514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_reverse]\\FF[syuu_reverse]\\AA[1]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、そんな訳ねぇ～だろっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真っ先に堕ちて、仲間になるタイプに決まってんだろ！」"
+                                "\\F[kikyou_reverse]\\FF[syuu_reverse]\\AA[1]Kikyo: \"No way, that's not it at all! You're the type who'd\nfall first and join the ranks, obviously!\""
                             ]
                         },
                         {
@@ -7855,28 +6532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_reverse]\\FF[syuu_reverse]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ～♪これでもこの中じゃかなり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最後まで頑張ったんだけど♪まあ、いるかとメープルに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "迫られたらイチコロだったけど♪」"
+                                "\\F[kikyou_reverse]\\FF[syuu_reverse]\\AA[2]Hiiragi: \"Eeh~♪ Even so, I held out pretty long compared to\neveryone else here♪ But when Iruka and Maple came at me, I\nwas done for♪\""
                             ]
                         },
                         {
@@ -7894,28 +6550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_reverse]\\FF[syuu_reverse]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「目の前で、向日葵と宇宙が盛り合ってんの見せられたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしもレズりたくなるわ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しゃあ～ねぇよなっ♪」"
+                                "\\F[kikyou_reverse]\\FF[syuu_reverse]\\AA[2]Hiiragi: \"When you see Himawari and Sora getting it on right\nin front of you, it makes you wanna get in on the lesbian\naction too~♪ Can't help it, right?♪\""
                             ]
                         },
                         {
@@ -7933,14 +6568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_reverse]\\FF[syuu_reverse]\\AA[1]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あーしと・・・や、ヤリてぇの・・・？」"
+                                "\\F[kikyou_reverse]\\FF[syuu_reverse]\\AA[1]Kikyo: \"You wanna... do it with me...?\""
                             ]
                         },
                         {
@@ -7958,14 +6586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_reverse]\\FF[syuu_reverse]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？・・・ふひひっ♪どうしよ～かな？」"
+                                "\\F[kikyou_reverse]\\FF[syuu_reverse]\\AA[2]Hiiragi: \"Hm?... Fufuhihi♪ What should I do?\""
                             ]
                         },
                         {
@@ -8057,21 +6678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_laugh]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗って案外、寂しがり屋さんだもんね～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかるよ～♪」"
+                                "\\F[syuu_laugh]Hiiragi: \"Kikyo, you're surprisingly lonely, aren't you~♪ I\nget it~♪\""
                             ]
                         },
                         {
@@ -8119,21 +6726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_smile]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私も桔梗さんが無事で嬉しいです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼りにしています」"
+                                "\\F[sumire_smile]Sumire: \"I'm also glad that Kikyo-san is safe. I'm relying\non you.\""
                             ]
                         },
                         {
@@ -8150,28 +6743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_reverse]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「盛ってんじゃねぇよっ！てめーにはあーしが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いるだろうがっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変態緑髪ビッチなんかに浮気してんじゃねぇっ！」"
+                                "\\F[sumire_reverse]Sumire: \"Don't get cocky! You've got me, don't you?! Don't\ngo cheating with some perverted green-haired bitch!\""
                             ]
                         },
                         {
@@ -8188,21 +6760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_reverse]\\\\FF[kikyou_reverse]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひっ！・・・菫・・・こえ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チビッたわ～」"
+                                "\\F[sumire_reverse]\\\\FF[kikyou_reverse]\\AA[2]Kikyo: \"Eek!... Sumire... that's scary! I almost peed\nmyself~\""
                             ]
                         },
                         {
@@ -8219,21 +6777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_reverse]\\FF[kikyou_smile]\\AA[1]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「分かったら自分からマンコ開けよっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶちこんでやるからよ～！！」"
+                                "\\F[sumire_reverse]\\FF[kikyou_smile]\\AA[1]Sumire: \"If you understand, then spread your pussy yourself!\nI'm gonna slam into you!!\""
                             ]
                         },
                         {
@@ -8251,21 +6795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_smile]\\FF[kikyou_smile]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ・・・ああっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大船に乗った気持ちでいてくれっ！」"
+                                "\\F[sumire_smile]\\FF[kikyou_smile]\\AA[2]Kikyo: \"Ah... Aaah! I'll be ready like I'm on a big ship!\""
                             ]
                         },
                         {
@@ -8282,21 +6812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_reverse]\\\\FF[kikyou_reverse]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃひぃんっ～♪これでいいッスかぁ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーし、命令されんの好きかも知れねぇ！」"
+                                "\\F[sumire_reverse]\\\\FF[kikyou_reverse]\\AA[2]Kikyo: \"Kyahiin~♪ Is this good for you~♪ Maybe I actually\nlike being ordered around!\""
                             ]
                         },
                         {
@@ -8313,21 +6829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\\\FF[kikyou_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃははっ！！マゾ豚もあんの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オメー、性癖盛りすぎだろっ！」"
+                                "\\F[beni_reverse1]\\\\FF[kikyou_reverse]\\AA[1]Akane: \"Kyahaha!! You're a masochistic pig too! You're way\ntoo kinky!\""
                             ]
                         },
                         {
@@ -8415,28 +6917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふっ・・・すごい順調ね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この分だとすぐに全員助けれられるわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいわぁ・・・人助け♪」"
+                                "Inochi: \"Fufufu... things are going so smoothly♪ At this\nrate, we'll be able to save everyone soon. How nice... doing\na good deed♪\""
                             ]
                         },
                         {
@@ -8454,28 +6935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも・・・今度の子は大変よ。怪人を作り出してる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "亜麻ちゃんが自分から捜してる・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても大切な子のようね！」"
+                                "Inochi: \"But... the next one is going to be tough. Ama-chan,\nwho's creating the monsters, is looking for her\npersonally...! She seems like a very important girl!\""
                             ]
                         },
                         {
@@ -8493,14 +6953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「瓜川芽衣・・・さん・・・？」"
+                                "\\F[beni_angry2]Akane: \"Urikawa Mei...san...?\""
                             ]
                         },
                         {
@@ -8517,28 +6970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よく分かったわね♪そう。彼女を一番に捜しているのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見つけられないみたい♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私に聞きに来ればよかったのに」"
+                                "Inochi: \"You got it right♪ Yes. She's the one Ama-chan is\nsearching for the most, but she can't find her. She should\nhave just come to me.\""
                             ]
                         },
                         {
@@ -8556,14 +6988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・」"
+                                "\\F[beni_trouble]Akane: \"...\""
                             ]
                         },
                         {
@@ -8580,28 +7005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ついにメインディッシュじゃん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "芽衣を堕として捧げたら、ご主人様に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "褒めて貰えるってのっ♪」"
+                                "\\F[beni_reverse1]Akane: \"Finally, the main dish♪ If we corrupt Mei and offer\nher up, Master will praise us♪\""
                             ]
                         },
                         {
@@ -8619,21 +7023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「芽衣ちゃんは図書室よ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カウンターに隠れているわっ！」"
+                                "Inochi: \"Mei-chan is in the library♪ She's hiding behind the\ncounter!\""
                             ]
                         },
                         {
@@ -8651,21 +7041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「分かった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心細いだろうから、私が行って元気つけてくるっ！」"
+                                "\\F[beni_smile]Akane: \"Got it! She must be feeling lonely, so I'll go cheer\nher up!\""
                             ]
                         },
                         {
@@ -8720,28 +7096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「物陰だからって見つけられないは、NGよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "亜麻ちゃんと競争になるわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "焦らず確実に救出よっ♪」"
+                                "Inochi: \"Just because she's behind cover doesn't mean she\nwon't be found. It's a race with Ama-chan! Rescue her calmly\nand surely♪\""
                             ]
                         },
                         {
@@ -8758,21 +7113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうっ♪ご主人様に喜んでもらうために逃がせないって♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朱雀とご主人様がいれば楽勝だと思うけど♪」"
+                                "Inochi: \"That's right♪ We can't let her escape if we want to\nplease Master♪ With Suzaku and Master together, it should be\na piece of cake♪\""
                             ]
                         },
                         {
@@ -8789,28 +7130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（紅と太佑先生が親しげに話してるのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっとそういうことなんだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だとしたら、もう・・・）"
+                                "\\F[nako_trouble]Nadeshiko: (Akane and Taiyu-sensei talking so friendly with\neach other must mean... that's how it is... then, I have\nto...)"
                             ]
                         },
                         {
@@ -8827,21 +7147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_angry]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（しっかりしないと！見極めて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰が無事か・・・！）"
+                                "\\F[nako_angry]Nadeshiko: (I need to stay strong! To discern... who is\nsafe...!)"
                             ]
                         },
                         {
@@ -8858,14 +7164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_angry]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そうじゃないと紅を助けられないっ・・・！）"
+                                "\\F[nako_angry]Nadeshiko: (If not, I won't be able to save Akane...!)"
                             ]
                         },
                         {
@@ -9083,28 +7382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[hanasaku_smile]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ～、ホントに助かったよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅ちゃんは私のヒーローだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼りにしてる♪」"
+                                "\\FF[hanasaku_smile]Sakuya: \"Ahh~ You really saved me there~. Akane-chan, you're\nmy hero. I'm counting on you♪\""
                             ]
                         },
                         {
@@ -9121,21 +7399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[hanasaku_reverse]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここにいる間抜けどもにしてみりゃ、悪魔だけどぉ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ！！内緒で虐めるの・・・楽しっ～❤」"
+                                "\\FF[hanasaku_reverse]Sakuya: \"To those fools around here, I might be a devil, but\noh well~! Kyahaha!! It's so fun... to secretly torment\nthem~❤\""
                             ]
                         },
                         {
@@ -9152,28 +7416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「隠れてやるの、マジで陰湿～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな悪どい顔してぇ・・・そそるぜっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ❤"
+                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[1]Akane: \"Doing it in secret is just so mean-spirited~♪ Making\nsuch a wicked face... it's so arousing♪ Kyahaha❤\""
                             ]
                         },
                         {
@@ -9242,28 +7485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[hanasaku_smile]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ～、ホントに助かったよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅ちゃんは私のヒーローだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼りにしてる♪」"
+                                "\\FF[hanasaku_smile]Sakuya: \"Ahh~ You really saved me there~ Akane-chan, you're\nmy hero. I'm counting on you♪\""
                             ]
                         },
                         {
@@ -9280,21 +7502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[hanasaku_reverse]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここにいる間抜けどもにしてみりゃ、悪魔だけどぉ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ！！内緒で虐めるの・・・楽しっ～❤」"
+                                "\\FF[hanasaku_reverse]Sakuya: \"To those fools around here, she might be a devil,\nbut oh~! Kyahaha!! It's so fun... to torment them in\nsecret❤\""
                             ]
                         },
                         {
@@ -9311,28 +7519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「隠れてやるの、マジで陰湿～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな悪どい顔してぇ・・・そそるぜっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ❤"
+                                "\\F[beni_reverse1]\\FF[hanasaku_reverse]\\AA[1]Akane: \"Doing it secretly is just so mean-spirited~♪ That\nwicked look on your face... it's so arousing♪ Kyahaha❤\""
                             ]
                         },
                         {
@@ -9410,21 +7597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_angry]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「変態ビッチの見分けがつかないって本当に厄介！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにももしかして潜んでいるかも知れないし・・・」"
+                                "\\FF[himawari_angry]Himawari: \"It's really troublesome not being able to tell\napart perverted bitches! There might even be one lurking\naround here...\""
                             ]
                         },
                         {
@@ -9442,28 +7615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_reverse]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなふうになぁ～♪きゃはははっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっべえよっ！マン汁ベチャベチャ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "垂れ流しても、誰も気づかね～しっ❤」"
+                                "\\FF[himawari_reverse]Himawari: \"Just like this~♪ Kyahaha!! Damn! Even if my pussy\njuice is dripping wet, nobody notices❤\""
                             ]
                         },
                         {
@@ -9481,28 +7633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[himawari_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「匂いとか音とかも気づかねぇ～からな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰だよ漏らしたのって、部屋に入った時から思ってたけど♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テメーかよっ～！！」"
+                                "\\F[beni_reverse1]\\FF[himawari_reverse]\\AA[1]Akane: \"They don't notice the smell or the sound either!\nI've been wondering who let it out since I entered the room♪\nIt was you~~!!\""
                             ]
                         },
                         {
@@ -9570,14 +7701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_smile]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「宇宙！よかった・・・」"
+                                "\\FF[himawari_smile]Himawari: \"Sora! I'm so glad...\""
                             ]
                         },
                         {
@@ -9594,14 +7718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]\\FF[himawari_smile]\\AA[1]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵も無事で・・・本当によかった・・・」"
+                                "\\F[sora_trouble]\\FF[himawari_smile]\\AA[1]Sora: \"Himawari, you're safe too... I'm really glad...\""
                             ]
                         },
                         {
@@ -9702,21 +7819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sora_reverse]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無事にビッチギャル仲間ってことだけど～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ～！！めっちゃ紅には感謝だしっ～❤」"
+                                "\\FF[sora_reverse]Sora: \"So we're all safe and sound as bitchy gal pals now～♪\nKyahaha～!! I'm super grateful to Akane for this～❤\""
                             ]
                         },
                         {
@@ -9733,28 +7836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sora_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あんがと～っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしもビッチ仲間増えんの楽しいしぃ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヤリ甲斐あるぜぇ～♪きゃはははっ❤」"
+                                "\\F[beni_reverse1]\\FF[sora_reverse]\\AA[1]Akane: \"Thanks a bunch～! Ah, I'm also stoked to have more\nbitchy friends～♪ It's gonna be so much fun～♪ Kyahaha❤\""
                             ]
                         },
                         {
@@ -9876,14 +7958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_smile]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「宇宙！よかった・・・」"
+                                "\\FF[himawari_smile]Himawari: \"Sora! I'm so glad...\""
                             ]
                         },
                         {
@@ -9900,14 +7975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]\\FF[himawari_smile]\\AA[1]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵も無事で・・・本当によかった・・・」"
+                                "\\F[sora_trouble]\\FF[himawari_smile]\\AA[1]Sora: \"Himawari, you're safe too... I'm really glad...\""
                             ]
                         },
                         {
@@ -10008,21 +8076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sora_reverse]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無事にビッチギャル仲間ってことだけど～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ～！！めっちゃ紅には感謝だしっ～❤」"
+                                "\\FF[sora_reverse]Sora: \"So we're safely bitch gal pals now～♪ Kyahaha～!! I'm\nsuper grateful to Akane～❤\""
                             ]
                         },
                         {
@@ -10039,28 +8093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sora_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あんがと～っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしもビッチ仲間増えんの楽しいしぃ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヤリ甲斐あるぜぇ～♪きゃはははっ❤」"
+                                "\\F[beni_reverse1]\\FF[sora_reverse]\\AA[1]Akane: \"Thanks～! I'm also excited to have more bitch pals～♪\nIt's gonna be fun～♪ Kyahaha❤\""
                             ]
                         },
                         {
@@ -10173,14 +8206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_smile]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「宇宙！よかった・・・」"
+                                "\\FF[himawari_smile]Himawari: \"Sora! I'm so glad...\""
                             ]
                         },
                         {
@@ -10197,14 +8223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]\\FF[himawari_smile]\\AA[1]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵も無事で・・・本当によかった・・・」"
+                                "\\F[sora_trouble]\\FF[himawari_smile]\\AA[1]Sora: \"Himawari, you're safe too... I'm really glad...\""
                             ]
                         },
                         {
@@ -10305,21 +8324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sora_reverse]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無事にビッチギャル仲間ってことだけど～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ～！！めっちゃ紅には感謝だしっ～❤」"
+                                "\\FF[sora_reverse]Sora: \"So we're safely part of the bitch gal crew now~♪\nKyahaha~!! I'm super grateful to Akane~❤\""
                             ]
                         },
                         {
@@ -10336,28 +8341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sora_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あんがと～っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしもビッチ仲間増えんの楽しいしぃ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヤリ甲斐あるぜぇ～♪きゃはははっ❤」"
+                                "\\F[beni_reverse1]\\FF[sora_reverse]\\AA[1]Akane: \"Thanks~! I'm also excited to have more members in\nour bitch crew♪ It's gonna be so much fun~♪ Kyahaha❤\""
                             ]
                         },
                         {
@@ -10480,21 +8464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_angry]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無理はしないと私に誓ってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして・・・危なくなったら頼るって」"
+                                "\\FF[kikyou_angry]Kikyo: \"Promise me you won't overdo it. And... if things get\ndangerous, you'll rely on me.\""
                             ]
                         },
                         {
@@ -10512,21 +8482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[kikyou_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（桔梗って、文武両道なのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼って大丈夫なの？って気持ちになるのは・・・なんでだろ？）"
+                                "\\F[beni_trouble]\\FF[kikyou_angry]\\AA[1]Akane: (Even though Kikyo is skilled in both literary and\nmartial arts... why do I feel hesitant to rely on her?\nWhat's the reason for that?)"
                             ]
                         },
                         {

@@ -3939,21 +3939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_angry]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「も、もうっ！紅・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を閉じ込めるなんて・・・！」"
+                                "\\F[nako_angry]Nadeshiko: \"No, no more! Akane... to lock me up like\nthis...!\""
                             ]
                         },
                         {
@@ -3971,21 +3957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど、どこに行ったのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コットン達は・・・？」"
+                                "\\F[nako_trouble]Nadeshiko: \"Where did they go? The Cottons...?\""
                             ]
                         },
                         {
@@ -4198,21 +4170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰もいない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "物音もしない・・・」"
+                                "\\F[nako_trouble]Nadeshiko: \"No one's here... not a sound...\""
                             ]
                         },
                         {
@@ -4230,21 +4188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅がどこかに連れ出してくれた・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、でもそれじゃ・・・紅がピンチなんじゃ・・・」"
+                                "\\F[nako_trouble]Nadeshiko: \"Did Akane take me somewhere...? But then... that\nmeans Akane is in danger...\""
                             ]
                         },
                         {
@@ -4262,14 +4206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅一人じゃ水泳部相手に勝ち目なんかないよ・・・」"
+                                "\\F[nako_trouble]Nadeshiko: \"Akane alone has no chance against the swim\nteam...\""
                             ]
                         },
                         {
@@ -4287,21 +4224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それなのに私を助けて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうやって突っ走るから・・・紅・・・」"
+                                "\\F[nako_trouble]Nadeshiko: \"And yet she went to save me... always rushing\noff like that... Akane...\""
                             ]
                         },
                         {
@@ -4318,14 +4241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「呼んだ・・・？」"
+                                "Akane: \"Did you call...?\""
                             ]
                         },
                         {
@@ -4505,14 +4421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！・・・紅、いるの？」"
+                                "\\F[nako_trouble]Nadeshiko: \"!!... Akane, are you there?\""
                             ]
                         },
                         {
@@ -4529,14 +4438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子・・・こっちこっち・・・」"
+                                "Akane: \"Nadeshiko... this way, this way...\""
                             ]
                         },
                         {
@@ -4554,14 +4456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅・・・？どこに・・・？」"
+                                "\\F[nako_trouble]Nadeshiko: \"Akane...? Where are you...?\""
                             ]
                         },
                         {
@@ -4787,14 +4682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら・・・ここだよ・・・」"
+                                "Akane: \"Look... right here...\""
                             ]
                         },
                         {
@@ -4812,21 +4700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_angry]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふ、ふざけないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "姿を見せてよ・・・紅・・・」"
+                                "\\F[nako_angry]Nadeshiko: \"Don't joke around. Show yourself... Akane...\""
                             ]
                         },
                         {
@@ -4843,14 +4717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子・・・怖がってる？」"
+                                "Akane: \"Nadeshiko... are you scared?\""
                             ]
                         },
                         {
@@ -4868,14 +4735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そんなこと・・・」"
+                                "\\F[nako_trouble]Nadeshiko: \"I-I'm not...\""
                             ]
                         },
                         {
@@ -4892,14 +4752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もうすぐ近くにいるよ・・・」"
+                                "Akane: \"I'll be right there...\""
                             ]
                         },
                         {
@@ -4917,14 +4770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも姿が・・・」"
+                                "\\F[nako_trouble]Nadeshiko: \"But I can't see you...\""
                             ]
                         },
                         {
@@ -4941,14 +4787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪撫子・・・もう逃さないよ♪」"
+                                "Akane: \"Nyyururru~♪ Nadeshiko... I won't let you escape\nnow♪\""
                             ]
                         },
                         {
@@ -4966,14 +4805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・？」"
+                                "Nadeshiko: \"Eh...?\""
                             ]
                         },
                         {
@@ -5166,14 +4998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「きゃあああっ・・・！！」"
+                                "Nadeshiko: \"Kyaaahhh...!!\""
                             ]
                         },
                         {

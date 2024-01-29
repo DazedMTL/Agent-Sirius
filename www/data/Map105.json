@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "生徒会室",
+    "displayName": "Student Council Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -2509,21 +2509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ファンクラブ３号"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ♥ここが百合花様がいつもいる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生徒会室・・・♥はぁはぁ・・・♥」"
+                                "Fan Club Member #3: \"Ahh♥ This is the student council room\nwhere Yurika-sama is always at...♥ *pant* *pant*...♥\""
                             ]
                         },
                         {
@@ -2540,14 +2526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ファンクラブ３号"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰もいない今がチャンス・・・♥」"
+                                "Fan Club Member #3: \"Now that no one's here, it's my\nchance...♥\""
                             ]
                         },
                         {

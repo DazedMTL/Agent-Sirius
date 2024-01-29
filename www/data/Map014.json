@@ -1609,21 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性の声"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マンコイグゥッ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イグイグイグイグイッグゥゥゥゥゥゥゥゥゥゥ♡」"
+                                "Female Voice: \"I'm cumming♡ Cumming, cumming, cumming,\ncumming♡\""
                             ]
                         },
                         {
@@ -1640,28 +1626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性の声"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっほぉぉぉぉぉぉぉぉ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ・・・ごほぉぉぉぉぉぉ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひょぉぉぉぉぉぉぉぉぉぉぉ♡」"
+                                "Female Voice: \"Ahhhh♡ So... so good♡ Ahhhhh♡\""
                             ]
                         },
                         {
@@ -1678,14 +1643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\\{！？」"
+                                "\\F[sora_trouble]Sora: \"?!?\""
                             ]
                         },
                         {
@@ -1926,14 +1884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？何！？これ・・・」"
+                                "\\F[sora_trouble]Sora: \"Eh?! What?! This is...\""
                             ]
                         },
                         {
@@ -1950,14 +1901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「皆、ここでは素直になって自分を曝け出しているのさ」"
+                                "????: \"Everyone here is being honest and exposing their true\nselves.\""
                             ]
                         },
                         {
@@ -2087,21 +2031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_shadow]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「改めて、ようこそ”王国”へ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鈴蘭 宇宙」"
+                                "\\FF[king_shadow]????: \"Once again, welcome to the 'Kingdom'♪ Suzuran Sora\""
                             ]
                         },
                         {
@@ -2127,14 +2057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]\\FF[king_shadow]\\AA[1]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ・・あなたは・・・」"
+                                "\\F[sora_trouble]\\FF[king_shadow]\\AA[1]Sora: \"Ah..you are...\""
                             ]
                         },
                         {
@@ -2151,21 +2074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]\\FF[king_shadow]\\AA[2]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふ♪さあ、君も参加して知るといい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "己が本当に望んでいる事を・・・」"
+                                "\\F[sora_trouble]\\FF[king_shadow]\\AA[2]????: \"Hehe♪ Now, you should join in and discover what you\ntruly desire...\""
                             ]
                         },
                         {
@@ -2182,14 +2091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]\\FF[king_shadow]\\AA[1]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が・・・本当に望んで・・・いる事？」"
+                                "\\F[sora_trouble]\\FF[king_shadow]\\AA[1]Sora: \"What I... truly desire?\""
                             ]
                         },
                         {
@@ -2206,7 +2108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]\\FF[king_shadow]\\AA[1]ドクンッ！・・・ドクンッ！！・・・"
+                                "\\F[sora_trouble]\\FF[king_shadow]\\AA[1]Thump!... Thump!!..."
                             ]
                         },
                         {
@@ -2497,28 +2399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ！？新しい子？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ようこそ、王国へ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く一緒に楽しもうぜっ！！」"
+                                "Kingdom Citizen Male: \"Oh!? A new girl? Welcome to the\nKingdom! Let's enjoy ourselves quickly!!\""
                             ]
                         },
                         {
@@ -2614,21 +2495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？・・・何も着てない！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!・・・だ、駄目だよ！？」"
+                                "\\F[sora_trouble]Sora: \"Eh?!... You're not wearing anything?!... No, that's\nnot okay!?\""
                             ]
                         },
                         {
@@ -2645,21 +2512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]\\FF[king_shadow]\\AA[2]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ♪この”王国”では何も遠慮する必要なんてないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きなチンポを好きなだけ咥え込めばいい」"
+                                "\\F[sora_trouble]\\FF[king_shadow]\\AA[2]????: \"Hehe♪ In this 'Kingdom,' there's no need to hold\nback. Just take in any dick you like as much as you want.\""
                             ]
                         },
                         {
@@ -2676,21 +2529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]\\FF[king_shadow]\\AA[2]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その愛らしいお口でもキツキツのオマンコでも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初体験であろうケツ穴でも・・・」"
+                                "\\F[sora_trouble]\\FF[king_shadow]\\AA[2]????: \"Whether it's with that adorable mouth of yours, your\ntight pussy, or even your virgin ass...\""
                             ]
                         },
                         {
@@ -2707,21 +2546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_trouble]\\FF[king_shadow]\\AA[2]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「思うように使って、自分を開放するんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはそれが出来る場所さ」"
+                                "\\F[sora_trouble]\\FF[king_shadow]\\AA[2]????: \"Use them as you please to liberate yourself. This is\na place where that can happen.\""
                             ]
                         },
                         {
@@ -2823,14 +2648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_smile2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、私！？・・・」"
+                                "\\F[sora_smile2]Sora: \"Me?!?...\""
                             ]
                         },
                         {
@@ -2847,7 +2665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_smile2]ドクンッ！！・・・ドクンッ！！！・・・"
+                                "\\F[sora_smile2]Thump!!... Thump!!!..."
                             ]
                         },
                         {
@@ -2864,28 +2682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_smile2]\\FF[king_shadow]\\AA[2]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっっひぃいい♡いっぐぅう～♡などと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よがってみたかったのだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あの漫画の様に・・・くっ、ふふふっ♪」"
+                                "\\F[sora_smile2]\\FF[king_shadow]\\AA[2]????: \"Hahhhh♡ I wanted to moan like that♡ Just like in\nthose manga... Heh, hehehe♪\""
                             ]
                         },
                         {
@@ -2941,14 +2738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_smile2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（嘘っ！み、見られていたの・・・！？）"
+                                "\\F[sora_smile2]Sora (thinking): \"No way! I was being watched...?!\""
                             ]
                         },
                         {
@@ -3035,28 +2825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く脱げ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう、待ちきれないぜっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "処女マンコ、おっぴろげて見せろよっ！なぁ？」"
+                                "Kingdom Citizen Male: \"Strip off quickly! I can't wait any\nlonger!! Spread that virgin pussy open, will ya? Eh?\""
                             ]
                         },
                         {
@@ -3082,21 +2851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_smile2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ・・・う・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、だ・・・大丈夫なのかな・・・？」"
+                                "\\F[sora_smile2]Sora: \"Ah...uh...but, is it... really okay...?\""
                             ]
                         },
                         {
@@ -3144,21 +2899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_smile2]\\FF[king_shadow]\\AA[2]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「勿論だ。君には素養がある。そう言ったろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!私の可愛い国民になる資格が・・・十二分にね」"
+                                "\\F[sora_smile2]\\FF[king_shadow]\\AA[2]????: \"Of course. You have the potential. Didn't I tell you?\nYou have more than enough qualifications to become one of my\nadorable citizens.\""
                             ]
                         },
                         {
@@ -3276,14 +3017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く！早く！」"
+                                "Kingdom Citizen Male: \"Quickly! Quickly!\""
                             ]
                         },
                         {
@@ -3300,21 +3034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_shadow]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、己の欲望に素直に従え。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "産まれたままの姿になり、股を広げるんだ」"
+                                "\\FF[king_shadow]????: \"Now, obey your desires honestly. Become as you were\nborn and spread your legs.\""
                             ]
                         },
                         {
@@ -3331,28 +3051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_smile2]\\FF[king_shadow]\\AA[1]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（うう～！恥ずかしいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも・・・何だか頭の中が白くなって何も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えられなくなって来ちゃった）"
+                                "\\F[sora_smile2]\\FF[king_shadow]\\AA[1]Sora (thinking): \"Ugh~! It's embarrassing. But... somehow my\nhead is getting all fuzzy and I can't think of anything\nelse.\""
                             ]
                         },
                         {
@@ -3369,21 +3068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_smile2]\\FF[king_shadow]\\AA[1]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（それに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体がふわふわして気持ちが・・・いい・・・）"
+                                "\\F[sora_smile2]\\FF[king_shadow]\\AA[1]Sora (thinking): \"And... my body feels light and\npleasant...\""
                             ]
                         },
                         {
@@ -3409,14 +3094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_shadow]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そうだ、受け入れろ。快楽を。”王国”を）"
+                                "\\FF[king_shadow]????: (That's right, accept it. The pleasure. The\n'Kingdom'.)"
                             ]
                         },
                         {
@@ -3442,21 +3120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_smile2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それが私の本当に望んでいること・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ここでは・・・普通の・・こと・・・？」"
+                                "\\F[sora_smile2]Sora: \"Is that what I truly desire...? Is this... normal\nhere...?\""
                             ]
                         },
                         {
@@ -3483,13 +3147,6 @@
                             "indent": 0,
                             "parameters": [
                                 "\\F[sora_smile2]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\.\\.\\.\\^"
                             ]
                         },
                         {
@@ -3625,14 +3282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、先ずはご挨拶からだ！分かるな？」"
+                                "Kingdom Citizen Male: \"First things first, let's start with\na greeting! Got it?\""
                             ]
                         },
                         {
@@ -3649,14 +3299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_hadaka]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ・・・\\.はぁ・・・\\.は・・・はい・・・！」"
+                                "\\F[sora_hadaka]Sora: \"Yes... yes... yes!\""
                             ]
                         },
                         {
@@ -3673,14 +3316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_hadaka]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よ、よろしくお願い・・・します・・・」"
+                                "\\F[sora_hadaka]Sora: \"Pleased to... meet you...\""
                             ]
                         },
                         {
@@ -3745,21 +3381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おうっ、宜しくなっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!それと、こっちにも挨拶―――"
+                                "Kingdom Citizen Male: \"Yeah, nice to meet ya! And now, greet\nthis over here---"
                             ]
                         },
                         {
@@ -3811,14 +3433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「出来るよなっ！！」"
+                                "Kingdom Citizen Male: \"You can do it, right?!!\""
                             ]
                         },
                         {
@@ -3835,14 +3450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_hadaka]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ・・・♡」"
+                                "\\F[sora_hadaka]Sora: \"Ah...♡\""
                             ]
                         },
                         {
@@ -3859,14 +3467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_hadaka]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（これが、男の人のお、おちんちん・・・！？)"
+                                "\\F[sora_hadaka]Sora (thinking): \"(This is a man's, a man's dick...!?)\""
                             ]
                         },
                         {
@@ -3883,21 +3484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_hadaka]王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「男がチンポを差し出したら牝は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを口マンコで咥えて奉仕するんだ！」"
+                                "\\F[sora_hadaka]Kingdom Citizen Male: \"When a man presents his dick, a bitch\ntakes it in her mouth pussy and serves him!\""
                             ]
                         },
                         {
@@ -3914,21 +3501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_hadaka]王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「綺麗に丹念に舐りながらどこが気持ちいいかを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体で覚えろよっ！いいな」"
+                                "\\F[sora_hadaka]Kingdom Citizen Male: \"Lick it clean and diligently while\nlearning where it feels best with your body! Got it?\""
                             ]
                         },
                         {
@@ -3945,14 +3518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_hadaka]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、わかりました・・・」"
+                                "\\F[sora_hadaka]Sora: \"Yes, I understand...\""
                             ]
                         },
                         {
@@ -3992,14 +3558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(返事しちゃったけど・・・これをどうすれば？)"
+                                "Sora: \"(I responded, but... what should I do with this?)\""
                             ]
                         },
                         {
@@ -4016,28 +3575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これからキミを可愛がってくれる”チンポ”が目の前にある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キミの口マンコで受け入れる事こそが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "快楽への第一歩・・・そういうことだ」"
+                                "???: \"Before you now is the 'dick' that will cherish you\nfrom here on. Accepting it with your mouth pussy is the\nfirst step to pleasure... that's what it means.\""
                             ]
                         },
                         {
@@ -4054,28 +3592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は、はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これを私のお口で・・・口・・・マンコ・・・で・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ち良くしてあげる・・・」"
+                                "Sora: \"Ye-yes. I will use my mouth... my mouth pussy... to\nmake it feel good...\""
                             ]
                         },
                         {
@@ -4092,28 +3609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いい子だ。そのままその男性の言われるがまま従い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忠実に言われた通りにこなしていくんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうすればご褒美としてキミ自身も幸せになれる」"
+                                "???: \"Good girl. Just obey what the man says, faithfully\ncarry out his instructions, and you'll be rewarded with\nhappiness.\""
                             ]
                         },
                         {
@@ -4130,21 +3626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そ、そう言う事なんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かった。私、頑張る♡）"
+                                "Sora: \"(So that's how it is. I understand. I'll do my\nbest♡)\""
                             ]
                         },
                         {
@@ -4161,21 +3643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(頑張って男の人の・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この人の事を気持ち良くさせて、幸せになるんだ♡)"
+                                "Sora: \"(I'll work hard to make this man... this person feel\ngood and become happy♡)\""
                             ]
                         },
                         {
@@ -4220,14 +3688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ・・・あむぅ・・・んん・・・んむぅ・・・」"
+                                "Sora: \"Ah...amuu...nnn...nmuu...\""
                             ]
                         },
                         {
@@ -4244,14 +3705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「チュプッ・・・レロレロレロ・・・チュパッ・・・」"
+                                "Sora: \"Chup...lerolero...chupa...\""
                             ]
                         },
                         {
@@ -4268,21 +3722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぎこちねえが・・・やるじゃねぇかっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一生懸命さがいい」"
+                                "Kingdom Citizen Male: \"It's clumsy... but you're doing it! I\nlike your eagerness.\""
                             ]
                         },
                         {
@@ -4299,14 +3739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んんむぅ・・・ほ、本当ですか？」"
+                                "Sora: \"Nnnguu... Is that true?\""
                             ]
                         },
                         {
@@ -4323,14 +3756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「休むんじゃねえっ！俺がイクまでなっ！！」"
+                                "Kingdom Citizen Male: \"Don't stop! Keep going until I cum!!\""
                             ]
                         },
                         {
@@ -4347,14 +3773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウジュゥルゥゥゥ・・・ンムンムゥ・・・」"
+                                "Sora: \"Ujuruuuu...nmunmuu...\""
                             ]
                         },
                         {
@@ -4371,28 +3790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（お口が疲れて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、ヒクヒクっておちんちんが動いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちよくなってるのが分かるから・・・♡"
+                                "Sora: \"(My mouth is getting tired... but I can feel the dick\ntwitching and getting pleasure from it...♡\""
                             ]
                         },
                         {
@@ -4409,14 +3807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（続けたく・・・なっちゃうっ♪）"
+                                "Sora: \"(I want to keep going... it's making me feel good♪)\""
                             ]
                         },
                         {
@@ -4433,14 +3824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし、一度出すぞっ！！そのまま口の中で溜めるんだ！」"
+                                "Kingdom Citizen Male: \"Alright, I'm gonna cum! Keep it in\nyour mouth!\""
                             ]
                         },
                         {
@@ -4457,14 +3841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(嘘！？出すってまさか・・・！？)"
+                                "Sora: \"(No way!? Cumming, does he mean...!?)\""
                             ]
                         },
                         {
@@ -4481,28 +3858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「”王国”において、君がどんな美酒よりも味わって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飲み干すものさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数日も立てば、飲み比べでもしているだろう」"
+                                "???: \"In the kingdom, you'll be drinking something even\nfiner than the finest wine. In a few days, you might even be\ncomparing tastes.\""
                             ]
                         },
                         {
@@ -4519,14 +3875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今は言われた通りに従い、ただ受け入ればいい」"
+                                "???: \"For now, just obey and accept it.\""
                             ]
                         },
                         {
@@ -4543,14 +3892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う・・・受け入れる・・・んんむぅ・・・・」"
+                                "Sora: \"Ugh... accept it... nnnmoo...\""
                             ]
                         },
                         {
@@ -4567,21 +3909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「分かってるなっ！吐き出したりしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "承知しねぇからなっ！！」"
+                                "Kingdom Citizen Male: \"You understand, right?! Don't you\ndare spit it out!!\""
                             ]
                         },
                         {
@@ -4598,21 +3926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この子がそんな事をするはずがない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう味わってみたくて仕方ないはずだからね・・・♪」"
+                                "???: \"There's no way this girl would do such a thing; she\nmust be eager to taste it already...♪\""
                             ]
                         },
                         {
@@ -4629,28 +3943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そ・・・そうだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を幸せにしてくれる・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!んんっ♪きっと味わえば、気持ちよくなれるんだ♪）"
+                                "Sora: \"(That's right... it will make me happy...♡ Nnn♪\nSurely if I taste it, I'll feel good♪)\""
                             ]
                         },
                         {
@@ -4683,21 +3976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぁ～・・・いいれすよぅ～♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "らしてくらはい・・・私のお口マンコ使ってくらはい♡」"
+                                "Sora: \"Faa~... yes please~♡ Go ahead and use my mouth\npussy♡\""
                             ]
                         },
                         {
@@ -4714,14 +3993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっ！何て舌使いだ！コイツ・・・最高の牝だ！！」"
+                                "Kingdom Citizen Male: \"Ugh! What a tongue technique! This\none's the best bitch!!\""
                             ]
                         },
                         {
@@ -4738,14 +4010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ・・・わらしも・・・うっ！・・・ひぐっ！！」"
+                                "Sora: \"I'm happy too... ugh! ...higu!!\""
                             ]
                         },
                         {
@@ -4776,14 +4041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいぞ♪実にいい♪」"
+                                "???: \"That's great♪ Truly great♪\""
                             ]
                         },
                         {
@@ -4800,28 +4058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「幼気で純粋な一人の少女が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "瞬く間に淫乱な一匹の牝犬と化してしまう・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この姿を見るのが堪らなく心地いい♡」"
+                                "???: \"To see an innocent and pure girl transform into a lewd\nbitch in the blink of an eye... It's unbearably delightful♡\""
                             ]
                         },
                         {
@@ -4838,21 +4075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くくくっ♪クリオナが止まらないな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んんっ♡・・・んくぅ・・・♡」"
+                                "???: \"Kukuku♪ Can't stop rubbing my clit! Nnn♡...nkuu...♡\""
                             ]
                         },
                         {
@@ -4869,14 +4092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「イッ！イクッぞっ！！」"
+                                "Kingdom Citizen Male: \"I'm cumming! I'm gonna cum!!\""
                             ]
                         },
                         {
@@ -4975,14 +4191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「～～～～～っ♡」"
+                                "Sora: \"~~~~~~~~♡\""
                             ]
                         },
                         {
@@ -4999,14 +4208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んぐっ！！！・・・んぐっ・・・」"
+                                "Sora: \"Nguu!!! ...nguu...\""
                             ]
                         },
                         {
@@ -5023,14 +4225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こ、溢れちゃう！・・・なんて凄い量～～♡）"
+                                "Sora: \"(It's overflowing! What an amazing amount~♡)\""
                             ]
                         },
                         {
@@ -5047,14 +4242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んんっ・・・！！んむぅぅぅ・・・！！」"
+                                "Sora: \"Nnnn...!! Nmuuuu...!!\""
                             ]
                         },
                         {
@@ -5071,21 +4259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鼻からも溢れるぅぅ♪・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぶぅぅっ♡しゅごい臭いぃ～～♪）"
+                                "Sora: \"(It's spilling out of my nose too♪... ubuuu♡ Such a\nstrong smell~♪)\""
                             ]
                         },
                         {
@@ -5102,14 +4276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んぶぴぃ・・・♪ぶふぅぅ・・・・♡」"
+                                "Sora: \"Nbu pii...♪ bufuuu...♡\""
                             ]
                         },
                         {
@@ -5126,21 +4293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（くっさい精液臭でぇ・・・私、満たされちゃってるぅ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう最高ぉ～♪お腹の中までパンパンだよぉ～♪）"
+                                "Sora: \"(Filled with the stinky smell of semen... I'm so\nsatisfied♪ It's the best~♪ My stomach is full to\nbursting~♪)\""
                             ]
                         },
                         {
@@ -5157,21 +4310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いい牝顔になったじゃねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃぁ、褒美だ！今度は俺がお前を昂ぶらせてやるっ！！」"
+                                "Kingdom Citizen Male: \"You've got a great bitch face now!\nHere's your reward! Now it's my turn to get you aroused!!\""
                             ]
                         },
                         {
@@ -5213,14 +4352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_hadaka]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えへぇ・・・♪どういうことぉ？」"
+                                "\\F[sora_hadaka]Sora: \"Ehee...♪ What do you mean?\""
                             ]
                         },
                         {
@@ -5298,21 +4430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前のマンコ穴をしゃぶってやるってんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさと股広げろっ！！」"
+                                "Kingdom Citizen Male: \"I'm gonna suck on your pussy hole!\nSpread your legs wide now!!\""
                             ]
                         },
                         {
@@ -5338,28 +4456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_shadow]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ♪卑しいな。自分が突っ込みやすいように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しているのに、恩着せがましく・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!可愛い子を前にして必死じゃないかっ♪」"
+                                "\\FF[king_shadow]???: \"Fufu♪ How vulgar. Making it easy for himself to thrust\nin, yet acting as if he's doing a favor...♪ Desperate in\nfront of a cute girl, isn't he?♪\""
                             ]
                         },
                         {
@@ -5376,21 +4473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_shadow]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・私も興奮が・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んんっ♪手が・・・止まら・・・ない♡」"
+                                "\\FF[king_shadow]???: \"...I'm getting excited too...♡ Nnnn♪ My hand... won't\nstop...♡\""
                             ]
                         },
                         {
@@ -5512,14 +4595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\\{\\{んひぃ♡」"
+                                "Sora: \"Nhyii♡\""
                             ]
                         },
                         {
@@ -5564,14 +4640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひゃっ！！そ、そこは・・・らめれす・・・♪」"
+                                "Sora: \"Hyaa!! Th-that place is... no good...♪\""
                             ]
                         },
                         {
@@ -5588,14 +4657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（な、舐めてるっ！男の人がオマンコ舐めてるよぉ～♪）"
+                                "Sora: \"(He's licking me! A man is licking my pussy~♪)\""
                             ]
                         },
                         {
@@ -5612,14 +4674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何だ？軽くイッたのか？まだ触れただけだぞ？」"
+                                "Kingdom Citizen Male: \"What's this? Did you cum from just\nthat? I barely touched you!\""
                             ]
                         },
                         {
@@ -5731,28 +4786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(す・・・凄いの・・・これ、こんなの私知らない！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の人の舌でこんなにも気持ち良くなれちゃうなんて！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "蕩けそうだよ♡)"
+                                "Sora: \"(It's... amazing... I've never felt anything like\nthis before!? To think a man's tongue could make me feel so\ngood! I'm melting away♡)\""
                             ]
                         },
                         {
@@ -5769,14 +4803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「開発も順調の様だな・・・いいオカズになるっ♡」"
+                                "???: \"Looks like her training is going smoothly... She'll\nmake a fine piece of eye candy♡\""
                             ]
                         },
                         {
@@ -5793,28 +4820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうだ？覚えたか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男にきちんと奉仕すればお前自身もこんな褒美を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もらえるんだ！」"
+                                "Kingdom Citizen Male: \"How about it? Have you learned your\nlesson? If you serve a man properly, you too can receive\nsuch rewards!\""
                             ]
                         },
                         {
@@ -5831,28 +4837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひゃ・・・ひゃい・・・覚え・・・ました・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おちんぽ様にご奉仕すれば・・・わたひも気持ち良くして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もらえりゅ・・・ことを・・・♡」"
+                                "Sora: \"Y-yes... I've learned...♪ If I serve the cock\nproperly... I can feel good too...♡\""
                             ]
                         },
                         {
@@ -5869,14 +4854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_shadow]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んぐっ♡イクッ・・・♡」"
+                                "\\FF[king_shadow]???: \"Nguh♡ I'm cumming...♡\""
                             ]
                         },
                         {
@@ -5893,21 +4871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んっ♡・・・いいよ・・・いいよぅ～♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キモチイイ・・・もっと・・・もっとぉ～♡」"
+                                "Sora: \"Nn♡... that's good... that's so good~♡ It feels so\nnice... more... more~♡\""
                             ]
                         },
                         {
@@ -5924,21 +4888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいぞ♪その調子だ！もっともっとエロく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スケベになれ！」"
+                                "Kingdom Citizen Male: \"That's right! Keep going like that!\nBecome even more erotic and lewd!\""
                             ]
                         },
                         {
@@ -5955,21 +4905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んん～♡もっと愛撫してぇ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご褒美もっともっと欲しいの～♡」"
+                                "Sora: \"Nnn~♡ Caress me more~♪ I want more and more\nrewards~♡\""
                             ]
                         },
                         {
@@ -5986,14 +4922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(もっと、もっともっともっと！この快楽を味わいたいっ♡)"
+                                "Sora: \"(More, more and more and more! I want to taste this\npleasure♡)\""
                             ]
                         },
                         {
@@ -6010,21 +4939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「意外と貪欲なんだな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よしっ！そんなに欲しいならそろそろ入れてやる！」"
+                                "Kingdom Citizen Male: \"You're surprisingly greedy! Alright!\nIf you want it that badly, I'll put it in now!\""
                             ]
                         },
                         {
@@ -6041,21 +4956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁんっ♡それ、もしかしてくれるんですかぁ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のホンモノマンコに・・・」"
+                                "Sora: \"Aaahn♡ Are you really going to do it? Into my real\npussy...\""
                             ]
                         },
                         {
@@ -6072,21 +4973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「口なんかじゃなくてホンモノのおマンコに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶち込んでくれるんですかぁ～？」"
+                                "Sora: \"Not just with your mouth, but are you going to thrust\nit into my real pussy~?\""
                             ]
                         },
                         {
@@ -6103,21 +4990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「チッ♪とんだ淫売な牝に当たっちまったもんだな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前ホントに処女かよ？」"
+                                "Kingdom Citizen Male: \"Tch! What a slutty bitch I've\nstumbled upon! Are you really a virgin?\""
                             ]
                         },
                         {
@@ -6183,21 +5056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私ね？こうやってバックの姿勢から、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おマンコクッパァァァ～って開きながら・・・」 "
+                                "Sora: \"Me? Like this, from behind, spreading my pussy wide\nopen...\""
                             ]
                         },
                         {
@@ -6214,28 +5073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私ぃ～？ほっひぃぃぃ～♡おっほぉぉぉ～♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンアンアン♡イグイグイっぢゃうのぉぉぉ～♡・・・って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本気イキさせて欲しいの～♡」"
+                                "Sora: \"Me~? Hohhiiii~♡ Ohhooo~♡ Ahn Ahn Ahn♡ I'm gonna cum\ncum cuuummm~♡... I want you to make me cum for real~♡\""
                             ]
                         },
                         {
@@ -6252,21 +5090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「貴方の逞しくてぶっと～いチンポ無しじゃ生きて行けない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くらいにチンポ調教して欲しいな♡」"
+                                "Sora: \"I want to be trained by your strong, thick cock to\nthe point where I can't live without it♡\""
                             ]
                         },
                         {
@@ -6283,21 +5107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(チンポ♡チンポチンポチンポォォォ～♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私・・・もうチンポさえあればどうでもいいや♪)"
+                                "Sora: \"(Cock♡ Cock cock cock~♡ I don't care about anything\nelse as long as I have a cock♪)\""
                             ]
                         },
                         {
@@ -6314,28 +5124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_shadow]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「随分とここが気に入ってくれたみたいで何よりだ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが、チンポは1本だけじゃないぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま次の殿方との交わりも・・・♡」"
+                                "\\FF[king_shadow]???: \"It seems you've taken quite a liking to this place,\nwhich is good to see♪ But remember, there's not just one\ncock here? You'll continue with the next gentleman as\nwell...♡\""
                             ]
                         },
                         {
@@ -6352,21 +5141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_hadaka]\\FF[king_shadow]\\AA[1]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～い♡私、もっともっとチンポを覚え込んでぇ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チンポに気持ちよくしてもらうだけじゃなくってぇ・・・♡」"
+                                "\\F[sora_hadaka]\\FF[king_shadow]\\AA[1]Sora: \"Yes~♡ I'll learn more and more about cocks♪ Not just\nto feel good from them but also to give them the utmost\npleasure as a lewd bitch♡\""
                             ]
                         },
                         {
@@ -6383,21 +5158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_hadaka]\\FF[king_shadow]\\AA[1]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「チンポにとびきりの快楽を与えてあげられる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫乱な牝になりますね♡」"
+                                "\\F[sora_hadaka]\\FF[king_shadow]\\AA[1]Sora: \"I'll become a nympho who can give the most exquisite\npleasure to cocks♡\""
                             ]
                         },
                         {
@@ -6727,14 +5488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだなんだ！新しい子？可愛いじゃねぇか！」"
+                                "Kingdom Citizen Male 2: \"What's this? A new girl? She's\ncute, isn't she!\""
                             ]
                         },
                         {
@@ -6790,21 +5544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男３"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんな可愛い子・・・俺たちにも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "声かけてくれよ」"
+                                "Kingdom Citizen Male 3: \"Such a cute girl... let us know\ntoo.\""
                             ]
                         },
                         {
@@ -6866,14 +5606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男１"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「悪い悪いｗ」"
+                                "Kingdom Citizen Male 1: \"My bad, my bad lol\""
                             ]
                         },
                         {
@@ -6899,21 +5632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_hadaka]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはっ！チンポいっぱい♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶっとい皮被りチンポ♡臭そうで濡れちゃう♡」"
+                                "\\F[sora_hadaka]Sora: \"Ahaha! So many cocks♡ Thick foreskin-covered cocks♡\nThey look so smelly and it's making me wet♡\""
                             ]
                         },
                         {
@@ -6970,14 +5689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ詫びってことで俺から♪」"
+                                "Kingdom Citizen Male 2: \"Then as an apology, let me go\nfirst♪\""
                             ]
                         },
                         {
@@ -7061,14 +5773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男３"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい！ずるいぞっ」"
+                                "Kingdom Citizen Male 3: \"Hey! That's not fair!\""
                             ]
                         },
                         {
@@ -7085,21 +5790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_hadaka]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはは♡大丈夫♡チンポ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同時に相手してあ♡げ♡る」"
+                                "\\F[sora_hadaka]Sora: \"Ahaha♡ Don't worry♡ I'll take care of your cocks♡ at\nthe same time♡\""
                             ]
                         },
                         {
@@ -7161,28 +5852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くひぃんっ♪入っちゃったぁ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めてなのにぃぃっ♪・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最初から気持ちよすぎるぅぅ～♪」"
+                                "Sora: \"Kuhiiin♡ It went in♡ It's my first time but it feels\ntoo good from the start~♪\""
                             ]
                         },
                         {
@@ -7199,21 +5869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な！？何だこのマンコ？ウネウネ蠢いて来るぞ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "名器じゃねぇのか？」"
+                                "Kingdom Citizen Male 2: \"What?! What's with this pussy? It's\nwriggling and squirming! Could it be a legendary pussy?\""
                             ]
                         },
                         {
@@ -7230,21 +5886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁんっ♡膣内で固く大きくなったぁ～♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このチンポ強～い♡もっと突いてぇ～♪」"
+                                "Sora: \"Aaahn♡ It's getting hard and big inside me~♡ This\ncock is strong~♡ Thrust more~♪\""
                             ]
                         },
                         {
@@ -7261,21 +5903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男3"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んっ♡この手付き・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "卑猥で厭らしく、グリップが効いてやがるっ！」"
+                                "Kingdom Citizen Male 3: \"Nn♡ This handiwork...! It's\nindecent and lewd, with such a good grip!\""
                             ]
                         },
                         {
@@ -7292,21 +5920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男3"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「や・・やばい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手付きがエロ過ぎる・・・」"
+                                "Kingdom Citizen Male 3: \"Damn... this handiwork is too\nerotic...\""
                             ]
                         },
                         {
@@ -7339,14 +5953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ・・・♡はぁ・・・♡」"
+                                "Sora: \"Haa...♡ Haa...♡\""
                             ]
                         },
                         {
@@ -7363,21 +5970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んふ♡いいですよぅ～♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま私の顔にが♡ん♡しゃしちゃいましょう・・・？」"
+                                "Sora: \"Nfu♡ That's fine~♡ Go ahead and cum on my face...?\""
                             ]
                         },
                         {
@@ -7394,21 +5987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男3"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっ！目付きが強烈にエロ過ぎる・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなの直ぐに・・・！」"
+                                "Kingdom Citizen Male 3: \"Ugh! Those eyes are intensely\nerotic... at this rate, I'm going to...\""
                             ]
                         },
                         {
@@ -7425,14 +6004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ～ん♡出して♡チンポ汁♡」"
+                                "Sora: \"Aaahn♡ Let it out♡ Your cock juice♡\""
                             ]
                         },
                         {
@@ -7449,14 +6021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男3"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\\{出る～～～っ！」"
+                                "Kingdom Citizen Male 3: \"I'm cumming~~~~!\""
                             ]
                         },
                         {
@@ -7576,14 +6141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ♡はぁ♡すっごい♡顔ドロドロだよ～♡」"
+                                "Sora: \"Haa♡ Haa♡ Amazing♡ My face is all messy~♡\""
                             ]
                         },
                         {
@@ -7600,14 +6158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男3"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ・・はぁ・・」"
+                                "Kingdom Citizen Male 3: \"Haa.. Haa..\""
                             ]
                         },
                         {
@@ -7624,21 +6175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはっ♡どうだったかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の初めての手コキはお気に召してくれたかな？」"
+                                "Sora: \"Ahaha♡ How was it? Did you enjoy my first handjob?\""
                             ]
                         },
                         {
@@ -7655,14 +6192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男3"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さ、最高だ・・・」"
+                                "Kingdom Citizen Male 3: \"It was... the best...\""
                             ]
                         },
                         {
@@ -7679,21 +6209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男１"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい、早くイケよ！もう待てん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな最高の牝！早く俺に変われ！！」"
+                                "Kingdom Citizen Male 1: \"Hey, hurry up and cum! I can't wait\nanymore!! Such a supreme bitch! Hurry up and let me take\nover!!\""
                             ]
                         },
                         {
@@ -7710,21 +6226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国民・男２"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んっ！！まっ、待てよ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺も腰を突きあげ・・・てっ！！」"
+                                "Kingdom Citizen Male 2: \"Nn!! Wai-, wait... I'm also going\nto thrust my hips... up!!\""
                             ]
                         },
                         {
@@ -7757,21 +6259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひゃんっ♡エッチな腰つき～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんながっつかないで？私は逃げも隠れもしないんだから♡」"
+                                "Sora: \"Hyahn♡ Such a naughty hip movement~♪ Don't be so\ngreedy? I'm not going anywhere♡\""
                             ]
                         },
                         {
@@ -7788,14 +6276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「「あぁんっ♡ビクビクして来たぁ♡んひぃ♡」"
+                                "Sora: \"Aaahn♡ It's starting to twitch♡ Nhihi♡\""
                             ]
                         },
                         {
@@ -7812,21 +6293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_shadow]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ふふふ♡私の目に狂いは無かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまで本性を曝け出す・・・牝の貌になり果てるとは♪)"
+                                "\\FF[king_shadow]????: \"Fufufu♡ My eyes weren't mistaken. To expose one's\ntrue nature to this extent... becoming a completely\ndebauched female♪\""
                             ]
                         },
                         {
@@ -7843,21 +6310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_shadow]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぃ、宇宙？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キミは何か大事な事を忘れてしまってはいないか？」"
+                                "\\FF[king_shadow]????: \"Hey, Sora? Aren't you forgetting something\nimportant?\""
                             ]
                         },
                         {
@@ -7874,28 +6327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大事な事？・・・あん♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなものチンポに決まってるよ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チンポさえあれば私は何も要らないの♡」"
+                                "Sora: \"Something important?... Ahn♡ It's obviously cock♡ As\nlong as I have cock, I don't need anything else♡\""
                             ]
                         },
                         {
@@ -7912,28 +6344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_shadow]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ・・・くくくくく・・・そうだな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君はチンポさえあれば他に何も要らない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チンポの為なら何でもする淫売娼婦の様な存在♪」"
+                                "\\FF[king_shadow]????: \"Kuh... kukukuku... That's right! You don't need\nanything else as long as you have cock. You're like a whore\nwho would do anything for cock♪\""
                             ]
                         },
                         {
@@ -7950,14 +6361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_shadow]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それこそがキミが望んだ本当の自分なのだから・・・♪」"
+                                "\\FF[king_shadow]????: \"That is indeed the true self you desired...♪\""
                             ]
                         },
                         {
@@ -7974,21 +6378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_shadow]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふっ♪あんなに悦んでいる姿を見ていると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も満たされる♡・・・」"
+                                "\\FF[king_shadow]????: \"Fufufu♪ Seeing you so pleased makes me feel satisfied\ntoo♡...\""
                             ]
                         },
                         {
@@ -8005,28 +6395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_shadow]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「次の子も一筋縄ではいかないだろうが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "待っているがいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直ぐに天国へ連れて行ってやるから♡」"
+                                "\\FF[king_shadow]????: \"The next girl won't be easy to handle either... but\nwait. I'll take you to heaven soon enough♡\""
                             ]
                         },
                         {
@@ -8043,28 +6412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_shadow]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「白虎撫子（しらとら　なでしこ）は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我が王国に相応しい才女だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "是非、迎え入れてあげなければ♪・・・」"
+                                "\\FF[king_shadow]????: \"Shiratora Nadeshiko is a talented woman worthy of our\nkingdom. We must certainly welcome her♪...\""
                             ]
                         },
                         {
@@ -8081,21 +6429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_shadow]？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「赤髪のあの子が邪魔するだろうけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふふ♪手に入れてみせる。必ずね！」"
+                                "\\FF[king_shadow]????: \"That red-haired girl might interfere... fufufu♪ But\nI'll obtain her. Definitely!\""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "音楽室",
+    "displayName": "Music Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -3973,14 +3973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いない！！ここにはだれもいないぞ！！」"
+                                "??? (Male): \"Nobody's here!! There's nobody here!!\""
                             ]
                         },
                         {

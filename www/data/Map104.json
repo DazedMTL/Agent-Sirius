@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "視聴覚室",
+    "displayName": "Audio-Visual Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -3974,14 +3974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ハナサクっ！助けに来たよ！」"
+                                "\\F[beni_angry2]Akane: \"Hanasaku! I've come to rescue you!\""
                             ]
                         },
                         {
@@ -3999,21 +3992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・ええ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "み、見つかっちゃったっ！！」"
+                                "\\F[beni_angry2]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"Eh... Yes...!! I-I've been found!!\""
                             ]
                         },
                         {
@@ -4031,21 +4010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あわわわ・・・わ、私まだ生娘で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しょ、初夜は大事な人って決めてて・・・」"
+                                "\\F[beni_angry2]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"Awawawa... I-I'm still a virgin, you know, I've\ndecided to save my first time for someone special...\""
                             ]
                         },
                         {
@@ -4063,14 +4028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[hanasaku_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い、いや・・・襲おうとしてる訳じゃないから・・・」"
+                                "\\F[beni_trouble]\\FF[hanasaku_trouble]\\AA[1]Akane: \"N-No... I'm not here to attack you...\""
                             ]
                         },
                         {
@@ -4088,21 +4046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「助けに来たって言ったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ビッチギャル怪人になっていないのを知っているから」"
+                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[1]Akane: \"I told you, I came to help. I know you haven't\nturned into one of those bitchy gal monsters.\""
                             ]
                         },
                         {
@@ -4120,14 +4064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リバースポイゾンのこと・・・知っているの！？」"
+                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"You know about the Reverse Poison...!?\""
                             ]
                         },
                         {
@@ -4145,14 +4082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なら安心？」"
+                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[2]Sakuya: \"Then, can I feel safe?\""
                             ]
                         },
                         {
@@ -4170,21 +4100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ずっと隠れておく訳にもいかないだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうして見つかったんだから、着いてきた方がいい」"
+                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[1]Akane: \"You can't hide forever, right? Now that you've been\nfound, it's better if you come with me.\""
                             ]
                         },
                         {
@@ -4202,21 +4118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もし私が怪人ならもう手遅れなんだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうでしょ？」"
+                                "\\F[beni_smile]\\FF[hanasaku_trouble]\\AA[1]Akane: \"If I were a monster, it would already be too late\nanyway. Right?\""
                             ]
                         },
                         {
@@ -4234,14 +4136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_smile]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほど・・・それもそうか」"
+                                "\\F[beni_smile]\\FF[hanasaku_smile]\\AA[2]Sakuya: \"I see... That makes sense.\""
                             ]
                         },
                         {
@@ -4259,14 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[hanasaku_smile]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう。連れてって」"
+                                "\\F[beni_smile]\\FF[hanasaku_smile]\\AA[2]Sakuya: \"Thank you. Please take me with you.\""
                             ]
                         },
                         {

@@ -3993,21 +3993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ようこそおいで下さいました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学園へ！お二人が来て頂いたなら、１００人力です♪」\\|\\|\\^"
+                                "Student: \"Welcome! To the academy! With the two of you here,\nit's as if we have the strength of a hundred people♪\""
                             ]
                         },
                         {
@@ -4024,28 +4010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[tou_oti]橙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「当然よ。私が来ればすぐにこの学校も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教団の所有物になるんだから♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで７校目よ」\\|\\|\\^"
+                                "\\F[tou_oti]Daidai: \"Of course. With my arrival, this school will soon\nbecome the property of our cult♪ That makes it the seventh\nschool.\""
                             ]
                         },
                         {
@@ -4062,21 +4027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[tou_oti]\\FF[mikan_oti]\\AA[2]蜜柑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「３校は教祖様に泣きついたので、半々ですけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教祖様のためにがんばります！」\\|\\|\\^"
+                                "\\F[tou_oti]\\FF[mikan_oti]\\AA[2]Mikan: \"Well, we had to cry to the guru for help with three\nschools, so it's half and half... But we'll do our best for\nthe guru!\""
                             ]
                         },
                         {
@@ -4093,28 +4044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「教祖様は学生が一番の好みと聞いているのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうお役に立てないと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "辛くって・・・」\\|\\|\\^"
+                                "Student: \"I've heard that students are the guru's favorite,\nyet I can't seem to be of any use... It's so painful...\""
                             ]
                         },
                         {
@@ -4131,28 +4061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[tou_oti]橙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「悦快布縁教(えっかいふえんきょう)の教えに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生きる尊さが分からない連中は不幸だわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それをしっかりと伝える必要があるの」\\|\\|\\^"
+                                "\\F[tou_oti]Daidai: \"Those who don't understand the nobility of living\nby the teachings of the Ecstatic Cloth Fringe Cult are truly\nunfortunate. We need to convey this properly.\""
                             ]
                         },
                         {
@@ -4169,21 +4078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[tou_oti]橙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私達が見せつけてあげるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教祖様を敬い教えを乞う信徒としての幸福を♪」\\|\\|\\^"
+                                "\\F[tou_oti]Daidai: \"We'll show them. The happiness of being a disciple\nwho reveres the guru and seeks his teachings♪\""
                             ]
                         },
                         {
@@ -4200,28 +4095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[tou_oti]\\FF[mikan_oti]\\AA[2]蜜柑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「教祖様が作って頂いたマニュアルもありますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女も参考にしてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色仕掛けで籠絡するのも、とても心地良いですから♪」\\|\\|\\^"
+                                "\\F[tou_oti]\\FF[mikan_oti]\\AA[2]Mikan: \"There's also a manual that the guru made for us.\nPlease take a look at it. Even seduction can be quite\npleasant♪\""
                             ]
                         },
                         {
@@ -4238,28 +4112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は、はいっ！ありがとうございます！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、私のこの貧相な身体でも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教団のお役に立てるのでしょうか？」\\|\\|\\^"
+                                "Student: \"Ye-yes! Thank you very much!! Can someone with my\nmeager body be of use to the cult?\""
                             ]
                         },
                         {
@@ -4276,28 +4129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[tou_oti]橙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「心配しなくていいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教祖様への信仰と熱意があれば、色気はついてくる♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男なんて股ぐらに指を這わせばイチコロよ♪」\\|\\|\\^"
+                                "\\F[tou_oti]Daidai: \"Don't worry. If you have faith and enthusiasm for\nthe guru, sex appeal will follow♪ Men are easy to conquer\nonce you slide a finger down their crotch♪\""
                             ]
                         },
                         {
@@ -4314,28 +4146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[tou_oti]\\FF[mikan_oti]\\AA[2]蜜柑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「信徒になることの幸せを耳元で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "解いてあげるだけでも効果ありますよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆、天にも昇る気持ちで震えて聞いてくれますから♪」\\|\\|\\^"
+                                "\\F[tou_oti]\\FF[mikan_oti]\\AA[2]Mikan: \"Just whispering about the joy of becoming a believer\nis effective too♪ Everyone listens trembling with ecstasy as\nif they're ascending to heaven♪\""
                             ]
                         },
                         {
@@ -4352,21 +4163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「勇気が出てきました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "及ばずながら、お手伝いさせていただきます！」\\|\\|\\^"
+                                "Student: \"I'm feeling encouraged! I'll help out as much as I\ncan, even if I'm not much!\""
                             ]
                         },
                         {
@@ -4383,21 +4180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[tou_oti]橙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よろしくね。さあ・・・学園ごと改宗させるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずは生徒会・・・職員室からね」\\|\\|\\^"
+                                "\\F[tou_oti]Daidai: \"Thank you. Now... let's convert the entire academy.\nStarting with the student council... then the staff room.\""
                             ]
                         },
                         {
@@ -4414,21 +4197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[tou_oti]\\FF[mikan_oti]\\AA[2]蜜柑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トップダウンは基本です♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "案内して・・・くれますか？」\\|\\|\\^"
+                                "\\F[tou_oti]\\FF[mikan_oti]\\AA[2]Mikan: \"Top-down is fundamental♪ Will you guide us...\nplease?\""
                             ]
                         },
                         {
@@ -4445,14 +4214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はいっ！こちらですっ・・・！！」\\|\\|\\^"
+                                "Student: \"Yes! This way, please...!!\""
                             ]
                         },
                         {
@@ -4483,28 +4245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "★音楽"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "hasegawairue　様"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Nota no Mori 様"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ユーフルカ 様\\|\\^"
+                                "★Music by hasegawairue-sama, Nota no Mori-sama, Yūfuruka-\nsama"
                             ]
                         },
                         {
@@ -4521,28 +4262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "挿入系フリー効果音@俺得本舗　様"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【効果音制作】VoiceBloom　様"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔王魂 様"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "On-Jin ～音人～様\\|\\^"
+                                "Insertion sound effects free@Ore Toku Honpo-sama [Sound\nEffects Production] VoiceBloom-sama, Maou Damashii-sama, On-\nJin ~Onjin~ -sama"
                             ]
                         },
                         {
@@ -4769,14 +4489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水泳部ただいま部員募集中！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "興味のある方は「２年C組　×××××」まで！！"
+                                "The Swimming Club is currently recruiting members!! If\nyou're interested, please come to \"Class 2-C ×××××\"!!"
                             ]
                         },
                         {
@@ -4857,28 +4570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「来年、卒業の学生達へ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "D保障！！警備業界最王手！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "規律と忠誠心に溢れた若い才能を歓迎しています！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "社員寮も完備。優しい先輩達が手取り足取り教えてくれます」"
+                                "Guaranteed D for next year's graduates!! The leading company\nin the security industry! We welcome young talents brimming\nwith discipline and loyalty! Employee dormitories available.\nKind seniors will guide you every step of the way.\""
                             ]
                         },
                         {

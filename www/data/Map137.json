@@ -4916,28 +4916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_king2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここまでです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上先に行くつもりなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様を受け入れてからでないと♪」"
+                                "\\FF[sumire_king2]Sumire: \"This is as far as you go. If you intend to go any\nfurther, you must accept your master first♪\""
                             ]
                         },
                         {
@@ -4954,28 +4933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_king]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだ。いつまでも意地を張っていたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可愛い花嫁になれないぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんなら私が指導してあげようか？」"
+                                "\\FF[kikyou_king]Kikyo: \"That's right. If you keep being stubborn, you'll\nnever become a cute bride! Shall I teach you how?\""
                             ]
                         },
                         {
@@ -4992,21 +4950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_king]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗だけで・・・だったらとんでもないことになりそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕方ないわね、宇宙。私達も一緒に花嫁を躾けてあげよっ♪」"
+                                "\\FF[himawari_king]Himawari: \"Just Kikyo... that would be terrible. Can't be\nhelped, Sora. Let's train the bride together♪\""
                             ]
                         },
                         {
@@ -5023,21 +4967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sora_king]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そーだね。そうしよ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達全員でかかれば、もう逃げられないだろうし♪」"
+                                "\\FF[sora_king]Sora: \"Yeah, let's do that～♪ If all of us are on it, there's\nno way she can escape♪\""
                             ]
                         },
                         {
@@ -5054,28 +4984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[syuu_king]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「エッグいよね・・・紅っち可哀想・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、私も参加しちゃうけどね～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅っちのアヘ顔見たいしね～♪」"
+                                "\\FF[syuu_king]Hiiragi: \"It's so lewd... Poor Akane... Well, I'm going to\njoin in too～♪ I want to see Akane's ahegao～♪\""
                             ]
                         },
                         {
@@ -5092,21 +5001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ringo_king]林檎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご主人様の為なら、卑怯なことだって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来ちゃうのが私達♪」"
+                                "\\FF[ringo_king]Ringo: \"For our master, we can do even the most underhanded\nthings♪\""
                             ]
                         },
                         {
@@ -5123,21 +5018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yanagi_king]柳"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「王国の中では全てが自由だから♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々全員から逃げ切れると思うなっ！朱雀紅っ！！」"
+                                "\\FF[yanagi_king]Yanagi: \"Everything is free within the kingdom♪ Don't think\nyou can escape from all of us! Akane Suzaku!!\""
                             ]
                         },
                         {
@@ -5154,14 +5035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yanagi_king]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここまで来たんだ！絶対通してもらう！」"
+                                "\\F[sirius_angry2]\\FF[yanagi_king]Akane: \"I've come this far! I will definitely get through!\""
                             ]
                         },
                         {
@@ -5489,14 +5363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -5553,14 +5420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {
@@ -6755,14 +6615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -6819,14 +6672,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {
@@ -8021,14 +7867,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -8085,14 +7924,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {
@@ -9287,14 +9119,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -9351,14 +9176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {
@@ -10553,14 +10371,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -10617,14 +10428,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {
@@ -11819,14 +11623,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -11883,14 +11680,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {
@@ -13085,14 +12875,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -13149,14 +12932,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {

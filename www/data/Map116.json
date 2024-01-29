@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "２Ｂ教室",
+    "displayName": "Classroom 2B",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4142,14 +4142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "秋菜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつも撫子と一緒にいる紅が一人で？」"
+                                "Akina: \"Akane is always with Nadeshiko, why are you alone?\""
                             ]
                         },
                         {
@@ -4167,14 +4160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「秋菜こそ、茉莉花と一緒にいないなんて」"
+                                "\\F[beni_angry2]Akane: \"You're one to talk, Akina. You're not with Marika\neither.\""
                             ]
                         },
                         {
@@ -4192,21 +4178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "秋菜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「仕方ないんだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きな匂いの趣味が変わっちゃったから・・・」"
+                                "Akina: \"Can't help it... My taste in scents has changed...\""
                             ]
                         },
                         {
@@ -4224,14 +4196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それ以上は・・・聞かないことにする！」"
+                                "\\F[beni_angry2]Akane: \"I'll choose not to hear any more of that!\""
                             ]
                         },
                         {
@@ -4249,28 +4214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "秋菜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「聞いてよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "茉莉花ったらチンポチンポって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マンコ臭の方が芳しいって言ってんのに！！」"
+                                "Akina: \"Listen! Marika keeps going on about dicks! She says\npussy smells better, but she doesn't get it!!\""
                             ]
                         },
                         {
@@ -4380,21 +4324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "秋菜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんで分かってくれないの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでもずっとずっとっ！嗅がせてやるってのに～！！」"
+                                "Akina: \"Why doesn't she understand! I'm always, always ready\nto let her sniff!!\""
                             ]
                         },
                         {
@@ -4412,14 +4342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそっ・・・！」"
+                                "\\F[beni_angry2]Akane: \"Damn it...!\""
                             ]
                         },
                         {
@@ -4475,14 +4398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_damage]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「と、とにかく、離れないと！！」"
+                                "\\F[beni_damage]Akane: \"Anyway, I need to get away!!\""
                             ]
                         },
                         {
@@ -4896,21 +4812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅、元気～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悩み事とかない～？」"
+                                "Akane: \"Hey Akane, feeling good~♪ Any troubles or anything?\""
                             ]
                         },
                         {
@@ -4928,21 +4830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなのいっぱいあるけど！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どいてくれないかな！」"
+                                "\\F[beni_angry2]Akane: \"I've got plenty, but can you move aside?!\""
                             ]
                         },
                         {
@@ -4960,14 +4848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あるんなら・・・解消法教えといちゃう？」"
+                                "Akane: \"If you do have some... maybe I can teach you how to\nget rid of them?\""
                             ]
                         },
                         {
@@ -4985,14 +4866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「別にいらない！」"
+                                "\\F[beni_angry2]Akane: \"I don't need it!\""
                             ]
                         },
                         {
@@ -5101,14 +4975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当に？」"
+                                "Akane: \"Really?\""
                             ]
                         },
                         {
@@ -5164,14 +5031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_damage]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「と、とにかく、離れないと！！」"
+                                "\\F[beni_damage]Akane: \"Anyway, just get away from me!!\""
                             ]
                         },
                         {

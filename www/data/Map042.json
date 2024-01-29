@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "図書室",
+    "displayName": "Library",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -2935,14 +2935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「王国へようこそ！宇宙」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]Welcome to the kingdom, Sora! \\C[0]Would you like to open\nthis book?"
                             ]
                         },
                         {
@@ -2950,8 +2943,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3127,14 +3120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「背徳オナニー１」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]\"Immoral Masturbation-1\" \\C[0]Would you like to open this\nbook?"
                             ]
                         },
                         {
@@ -3142,8 +3128,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3280,14 +3266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「敗北！ブラインドポイゾン」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]Defeat! Blind Poison. \\C[0]Would you like to open this book?"
                             ]
                         },
                         {
@@ -3295,8 +3274,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3464,14 +3443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「敏感目隠しご褒美セックス♪」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]\"Sensitive Blindfold Reward Sex♪\" Would you like to open\nthis book?"
                             ]
                         },
                         {
@@ -3479,8 +3451,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3740,14 +3712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど、ども・・・」"
+                                "\\F[beni_trouble]Akane: \"Um, hello...\""
                             ]
                         },
                         {
@@ -3764,14 +3729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こっちを本の影からジッと見てる・・・）"
+                                "\\F[beni_trouble]Akane: (She's staring at me from behind a book...)"
                             ]
                         },
                         {
@@ -3788,21 +3746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（きっとまた本を寄進して欲しいって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  言うつもりなんだ・・・）"
+                                "\\F[beni_trouble]Akane: (I bet she's going to ask for another book\ndonation...)"
                             ]
                         },
                         {
@@ -3819,14 +3763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "詠子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・」"
+                                "Eiko: \"...\""
                             ]
                         },
                         {
@@ -3843,28 +3780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（図書室の蔵書が少なすぎるからって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  生徒にタカらなくても・・・ただでさえ犯人に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  丸のついた推理小説ばかり置いてあるのに・・・）"
+                                "\\F[beni_trouble]Akane: (Just because the library's collection is too small,\nthey shouldn't be hitting up students... Especially when all\nthey have are mystery novels with the culprits already\nmarked...)"
                             ]
                         },
                         {
@@ -3881,14 +3797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "詠子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・」"
+                                "Eiko: \"...\""
                             ]
                         },
                         {
@@ -3905,14 +3814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（な・・・何も言ってこない・・・・？）"
+                                "\\F[beni_trouble]Akane: (Wha... She's not saying anything...?)"
                             ]
                         },
                         {
@@ -3929,21 +3831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっと見学させて貰います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  詠子先輩」"
+                                "\\F[beni_trouble]Akane: \"I'll just take a little tour. Eiko-senpai.\""
                             ]
                         },
                         {
@@ -3960,14 +3848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "詠子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・」"
+                                "Eiko: \"...\""
                             ]
                         },
                         {
@@ -3993,14 +3874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（うう・・・気まずい・・・）"
+                                "\\F[beni_trouble]Akane: (Ahh... This is awkward...)"
                             ]
                         },
                         {
@@ -4191,28 +4065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kobi]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふ♪この図書館ではピーピングポイゾンが撮った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ”隠し撮り”の記録が観れるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  愉しみすぎる～♪どうして忘れてたんだろ？」"
+                                "\\F[beni_kobi]Akane: \"Hehehe♪ In this library, you can watch the 'hidden\ncamera' footage taken by Peeping Poison. It's too much fun～♪\nHow could I forget?\""
                             ]
                         },
                         {
@@ -4229,21 +4082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "詠子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは隠しているからこそ・・・素になれるからよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  撮られてるって分かったらわざとらしくなちゃうでしょ？」"
+                                "Eiko: \"That's because it's hidden... You can be your true\nself♪ If you knew you were being filmed, you'd act all\nunnatural, right?\""
                             ]
                         },
                         {
@@ -4260,28 +4099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kobi]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そっか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  だからここを出たら・・・わからなくなって・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ふふふ♪そうなんだ♪」"
+                                "\\F[beni_kobi]Akane: \"Oh, right! That's why when I leave here... I don't\nrealize it... Hehehe♪ I see♪\""
                             ]
                         },
                         {
@@ -4307,21 +4125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "詠子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ。だからここに来たらいつでも愉しんで♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  私の自慢のコレクションを♪」"
+                                "Eiko: \"Yes. So enjoy yourself whenever you come here♪ My\npride and joy collection♪\""
                             ]
                         },
                         {
@@ -4369,21 +4173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kobi]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん。コレクションを増やせるようにぃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  頑張りますぅ♪」"
+                                "\\F[beni_kobi]Akane: \"Yeah. I'll do my best to add to your collection♪\""
                             ]
                         },
                         {
@@ -4400,21 +4190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "詠子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅ちゃんのエロ撮りは人気あるから、助かるわぁ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いるかちゃんもメープル先生も、よく見てオナってるわよ♪」"
+                                "Eiko: \"Akane-chan's erotic shots are popular, so they really\nhelp♪ Iruka-chan and Maple-sensei also watch them a lot and\nmasturbate♪\""
                             ]
                         },
                         {
@@ -4431,21 +4207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kobi]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの二人が！？えへへ・・・嬉しいな♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  撫子は？」"
+                                "\\F[beni_kobi]Akane: \"Those two do!? Ehehe... That makes me happy♪ What\nabout Nadeshiko?\""
                             ]
                         },
                         {
@@ -4462,14 +4224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kobi]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、私・・・初めてだから・・・」"
+                                "\\F[beni_kobi]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"I-I... It's my first time...\""
                             ]
                         },
                         {
@@ -4486,21 +4241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "詠子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっか♪撫子ちゃんは来たことないんだ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  きっと紅ちゃんみたいにハマっちゃうと思うけど・・・」"
+                                "Eiko: \"I see♪ Nadeshiko-chan hasn't been here before♪ I bet\nyou'll get addicted just like Akane-chan...\""
                             ]
                         },
                         {
@@ -4517,21 +4258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "詠子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いくらでも床をビチャビチャに濡らしてもいいからね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  可愛いオナニーを隠し撮りさせてぇ♪」"
+                                "Eiko: \"Feel free to make the floor as wet as you want♪ Let\nme secretly film your cute masturbation♪\""
                             ]
                         },
                         {
@@ -4548,21 +4275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_shy]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う・・・うん・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（す、すごく観たくなっちゃうの・・・何でだろ・・・）"
+                                "\\F[nako_shy]Nadeshiko: \"Uh... Yeah...\" (I-I really want to watch... Why\nis that...)"
                             ]
                         },
                         {
@@ -4880,21 +4593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "詠子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつでも愉しんで♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  私の自慢のコレクションを♪」"
+                                "Eiko: \"Enjoy anytime♪ My pride and joy collection♪\""
                             ]
                         },
                         {
@@ -4911,21 +4610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "詠子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだ！あなたが見れるコレクションの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "収集率が確認できるようになったの」"
+                                "Eiko: \"That's right! Now you can check the collection rate\nof the collections you can view.\""
                             ]
                         },
                         {
@@ -4942,14 +4627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "詠子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「確認してみる？」"
+                                "Eiko: \"Shall we take a look?\""
                             ]
                         },
                         {
@@ -4957,8 +4635,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No, thank you"
                                 ],
                                 1,
                                 0,
@@ -5089,14 +4767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「背徳オナニー２」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]\"Immoral Masturbation-2\" \\C[0]Would you like to open this\nbook?"
                             ]
                         },
                         {
@@ -5104,8 +4775,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5242,14 +4913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「背徳オナニー３・ご主人様のメス奴隷」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]\"Immoral Masturbation - 3. Master's Female Slave\" \\C[0]Would\nyou like to open this book?"
                             ]
                         },
                         {
@@ -5257,8 +4921,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5395,14 +5059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「クローズ敗北♥紅にゅる堕ち」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]\"Close Defeat ♥ Akane's Slippery Fall\" - Do you want to open\nthis book?"
                             ]
                         },
                         {
@@ -5410,8 +5067,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5560,14 +5217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「一緒に堕ちよう♪にゅる堕ち撫子♥」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]\"Let's fall together♪ Slippery descent, Nadeshiko♥\"\n\\C[0]Would you like to open this book?"
                             ]
                         },
                         {
@@ -5575,8 +5225,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5725,14 +5375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「皆でご奉仕♪閉所で乱交♥」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]\"Everyone's Service Time♪ Orgy in a Confined Space♥\" Would\nyou like to open this book?"
                             ]
                         },
                         {
@@ -5740,8 +5383,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5890,14 +5533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「鏡に写るのが・・・♥」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]\"What's reflected in the mirror is...♥\" Do you want to open\nthis book?"
                             ]
                         },
                         {
@@ -5905,8 +5541,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6055,14 +5691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「ビッチに堕ちろ♥撫子＆百合花」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]\"Fall into Depravity, Bitches♥ Nadeshiko & Yurika\"\\C[0]\nWould you like to open this book?"
                             ]
                         },
                         {
@@ -6070,8 +5699,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6220,14 +5849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「紅とキングダム♥ラブラブセックス」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]\"Akane and the Kingdom♥Lovey-Dovey Sex\" \\C[0]Would you like\nto open this book?"
                             ]
                         },
                         {
@@ -6235,8 +5857,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6385,14 +6007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「ドスケベ結婚式♥お幸せに♪」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]\"Perverted Wedding♥ Best Wishes♪\" \\C[0]Would you like to\nopen this book?"
                             ]
                         },
                         {
@@ -6400,8 +6015,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6550,14 +6165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「フリーダムの誘い♥撫子堕ちる♥」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]\"The Call of Freedom♥ Nadeshiko Falls♥\" \\C[0]Would you like\nto open this book?"
                             ]
                         },
                         {
@@ -6565,8 +6173,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6703,14 +6311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「犯しまくれ♥自由を満喫♥」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]\"Ravish to your heart's content♥ Enjoy your freedom♥\" Would\nyou like to open this book?"
                             ]
                         },
                         {
@@ -6718,8 +6319,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6856,14 +6457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「図鑑知識」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]\"Illustrated Knowledge\" \\C[0]Shall we open this book?"
                             ]
                         },
                         {
@@ -6871,8 +6465,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6902,21 +6496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "☆他のプレイデータで入手済みの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "図鑑記録をコンバートします！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よろしいですか？"
+                                "☆Convert the illustrated records obtained from other play\ndata! Is that okay?"
                             ]
                         },
                         {
@@ -6924,8 +6504,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9142,21 +8722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]「めでたし？不穏な予感・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ゲームエンディング）」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]この本を開きますか？"
+                                "\\C[0]タイトル\\C[3]\"Happily ever after? An ominous premonition... (Game\nEnding)\"\\C[0] Would you like to open this book?"
                             ]
                         },
                         {
@@ -9164,8 +8730,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

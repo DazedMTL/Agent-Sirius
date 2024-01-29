@@ -3275,28 +3275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグルス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「学園の監視任務は現行のメンバーで続行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シリウス、アケルナルの両名は、スピカ、アンタレスを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サポートしつつ任務にあたってください」"
+                                "Regulus: \"The surveillance mission at the academy will\ncontinue with the current members. Sirius and AkeLunar,\nplease support Spica and Antares while carrying out your\nduties.\""
                             ]
                         },
                         {
@@ -3313,21 +3292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今回はお咎めなしってことに決まったって訳だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それぐらい、上もヤバいって思ってるってことだろ」"
+                                "\\F[sirius_smile]Akane: \"So it's decided that there will be no punishment\nthis time. That must mean the higher-ups are also feeling\nthe danger.\""
                             ]
                         },
                         {
@@ -3345,28 +3310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグルス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは貴方が知らなくてもいいことです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来る限りのサポートはします。ですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方の手に余る事態になっていると私は感じています」"
+                                "Regulus: \"That is something you don't need to know. I will\nprovide as much support as possible. However, I feel that\nthe situation is becoming more than you can handle.\""
                             ]
                         },
                         {
@@ -3384,21 +3328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シリウスのコードネームは最強の証なのに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったら番照じゃどうしようもないってことじゃないの？」"
+                                "\\F[sirius_angry]Akane: \"Even though the codename Sirius is a proof of being\nthe strongest? Doesn't that mean there's nothing we can do\nif it's beyond our control?\""
                             ]
                         },
                         {
@@ -3416,28 +3346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグルス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「相変わらず生意気ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度は私がそちらに赴きお手伝いしようと思います」"
+                                "Regulus: \"You're as cheeky as ever. Very well. This time, I\nwill come over and help out myself.\""
                             ]
                         },
                         {
@@ -3455,14 +3364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？そ、それは・・・」"
+                                "\\F[sirius_trouble]Akane: \"Eh!? Th-that is...\""
                             ]
                         },
                         {
@@ -3480,21 +3382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグルス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か不都合でも・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "首を洗って待っていてくださいね、シリウス」"
+                                "Regulus: \"Is there a problem...? Please wait with bated\nbreath, Sirius.\""
                             ]
                         },
                         {
@@ -3512,14 +3400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う・・・」"
+                                "\\F[sirius_trouble]Akane: \"Ugh...\""
                             ]
                         },
                         {
@@ -3594,14 +3475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nakosu_smile]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「レグルスさんは・・・なんて？」"
+                                "\\FF[nakosu_smile]Nadeshiko: \"What did Regulus say...?\""
                             ]
                         },
                         {
@@ -3619,21 +3493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yurisu_smile]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私も会ったことがない、最高責任者・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気になるな・・・」"
+                                "\\FF[yurisu_smile]Yurika: \"I've never met them either, the highest\nauthority... I'm curious...\""
                             ]
                         },
                         {
@@ -3651,14 +3511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[yurisu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・来るって・・・」"
+                                "\\F[sirius_trouble]\\FF[yurisu_smile]\\AA[1]Akane: \"...They're coming...\""
                             ]
                         },
                         {
@@ -3676,14 +3529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[nakosu_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？どういうこと？」"
+                                "\\F[sirius_trouble]\\FF[nakosu_trouble]\\AA[2]Nadeshiko: \"Huh? What do you mean?\""
                             ]
                         },
                         {
@@ -3701,21 +3547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[nakosu_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「直接、乗り込んでくるんだって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ～っ！嫌な予感がするな～！」"
+                                "\\F[sirius_trouble]\\FF[nakosu_trouble]\\AA[1]Akane: \"They're going to come here directly. Ahh~! I have a\nbad feeling about this~!\""
                             ]
                         },
                         {
@@ -3733,21 +3565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[yurisu_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やはり大事になる前兆か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腕が鳴るな」"
+                                "\\F[sirius_trouble]\\FF[yurisu_smile]\\AA[2]Yurika: \"It seems like a sign that things are getting\nserious. My arms are itching for action.\""
                             ]
                         },
                         {
@@ -3765,21 +3583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[nakosu_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お手柔らかにって感じだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうもいかないよね」"
+                                "\\F[sirius_trouble]\\FF[nakosu_angry]\\AA[2]Nadeshiko: \"It sounds like we should be gentle, but that's\nnot going to happen, is it?\""
                             ]
                         },
                         {
@@ -3797,14 +3601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[nakosu_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最悪だ！小言を言う人間が増えるだけだ！」"
+                                "\\F[sirius_trouble]\\FF[nakosu_angry]\\AA[1]Akane: \"This is the worst! It just means more people to nag\nus!\""
                             ]
                         },
                         {
@@ -3822,14 +3619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[nakosu_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも、私達二人なら乗り越えられるよ」"
+                                "\\F[sirius_trouble]\\FF[nakosu_smile]\\AA[2]Nadeshiko: \"But if it's the two of us, we can overcome it.\""
                             ]
                         },
                         {
@@ -3847,14 +3637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[yurisu_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいおい。私も忘れないでくれ」"
+                                "\\F[sirius_trouble]\\FF[yurisu_smile]\\AA[2]Yurika: \"Hey hey. Don't forget about me.\""
                             ]
                         },
                         {
@@ -3872,14 +3655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[iruka_smile]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私達もです。微力ながらお手伝いします」"
+                                "\\F[sirius_trouble]\\FF[iruka_smile]\\AA[2]Iruka: \"We're here too. We'll help out, even if only a\nlittle.\""
                             ]
                         },
                         {
@@ -3897,14 +3673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[iruka_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「みんな・・・ありがとう！」"
+                                "\\F[sirius_smile]\\FF[iruka_smile]\\AA[1]Akane: \"Everyone... Thank you!\""
                             ]
                         },
                         {
@@ -3922,28 +3691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[iruka_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この学園を守ろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからも・・・ずっとずっと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんな敵が来ても負けない！」"
+                                "\\F[sirius_smile]\\FF[iruka_smile]\\AA[1]Akane: \"Let's protect this academy. From now on... forever\nand ever! No matter what enemy comes, we won't lose!\""
                             ]
                         },
                         {
@@ -3961,14 +3709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[nakosu_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん・・・！」"
+                                "\\F[sirius_smile]\\FF[nakosu_smile]\\AA[2]Nadeshiko: \"Yeah...!\""
                             ]
                         },
                         {
@@ -3986,14 +3727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[yurisu_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああっ・・・！」"
+                                "\\F[sirius_smile]\\FF[yurisu_smile]\\AA[2]Yurika: \"Yes...!\""
                             ]
                         },
                         {
@@ -4011,14 +3745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[iruka_smile]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はいっ・・・！」"
+                                "\\F[sirius_smile]\\FF[iruka_smile]\\AA[2]Iruka: \"Yes...!\""
                             ]
                         },
                         {
@@ -4036,28 +3763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[inu_trouble]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（・・・亜知理先生がいないのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盛り上がっていていいのかしら・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エージェントの任務なら・・・支障が・・・？）"
+                                "\\F[sirius_smile]\\FF[inu_trouble]\\AA[2]Anna Maple: \"(...Is it okay to be so excited when Teacher\nAchiri isn't here? If it's about the agent's duties... there\nmight be problems...?)\""
                             ]
                         },
                         {
@@ -4075,28 +3781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[inu_trouble]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まあ、青春って感じだし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "野暮なことは言わないけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "き、気になっちゃうわ・・・）"
+                                "\\F[sirius_smile]\\FF[inu_trouble]\\AA[2]Anna Maple: \"(Well, it feels like youth... I won't say\nanything out of place. But, it does bother me...)\""
                             ]
                         },
                         {

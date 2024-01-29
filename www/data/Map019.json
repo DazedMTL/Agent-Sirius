@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西３階",
+    "displayName": "West 3rd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 9,
@@ -1936,14 +1936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「視聴覚室はこっちじゃない！急がないと」"
+                                "\\F[beni_angry]Akane: \"The AV room is not this way! We need to hurry!\""
                             ]
                         },
                         {
@@ -2170,14 +2163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「視聴覚室はこっちじゃない！急がないと」"
+                                "\\F[beni_angry]Akane: \"The AV room is not this way! We need to hurry!\""
                             ]
                         },
                         {
@@ -2404,14 +2390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「視聴覚室はこっちじゃない！急がないと」"
+                                "\\F[beni_angry]Akane Suzaku: \"The AV room is not this way! We need to\nhurry!\""
                             ]
                         },
                         {
@@ -2890,21 +2869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性教諭"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「またか・・・このぬめぬめ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今月これで何度目だ。そして何で私が・・・」"
+                                "Male Teacher: \"Again... this sliminess. How many times has\nit been this month? And why do I have to...\""
                             ]
                         },
                         {
@@ -3355,14 +3320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「視聴覚室はこっちじゃない！急がないと」"
+                                "\\F[beni_angry]Akane: \"The AV room is not this way! We need to hurry!\""
                             ]
                         },
                         {
@@ -3881,14 +3839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「視聴覚室はこっちじゃない！急がないと」"
+                                "\\F[beni_angry]Akane Suzaku: \"The AV room is not this way! We need to\nhurry!\""
                             ]
                         },
                         {
@@ -4269,14 +4220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\FF[nako_true]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「どこか・・・具合でも悪いの？」"
+                                "\\FF[nako_true]Nadeshiko: \"Are you feeling unwell somewhere...?\""
                             ]
                         },
                         {
@@ -4293,14 +4237,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_true]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「え・・・へ？い、いや・・・そんなことは・・・」"
+                                "\\F[beni_trouble]\\FF[nako_true]\\AA[1]Akane: \"Eh... Huh? No, no... That's not it...\""
                             ]
                         },
                         {
@@ -4317,21 +4254,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いつもどおりじゃないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  こんなに長く籠もってたりすることないのに・・・」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"You're not acting like your usual self. You\nnever stay cooped up for so long...\""
                             ]
                         },
                         {
@@ -4348,28 +4271,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_shy]\\FF[nako_true]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あっそれは、その、あの、何も無かったんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  \\!そ、そうだ！ちょっと本を持っててさ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　なんかペラペラめくってたら夢中に・・・"
+                                "\\F[beni_shy]\\FF[nako_true]\\AA[1]Akane: \"Ah, that's because, well, you see, nothing was\nreally happening, but, oh right! I was just holding a\nbook... and I got so engrossed in flipping through it...\""
                             ]
                         },
                         {
@@ -4395,21 +4297,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（うぅ～・・・明らかに、怪しんでる・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　焦って変な言い訳しちゃった～）"
+                                "\\F[beni_trouble]Akane: (Ugh... She's clearly suspicious... I blurted out\nsuch a weird excuse in my panic...)"
                             ]
                         },
                         {
@@ -4426,21 +4314,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ねえ、紅。駄目だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　消費期限とかしっかり見なきゃ・・・ね」"
+                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[2]Nadeshiko: \"Hey, Akane. That's not good. You have to check\nthe expiration dates properly... okay?\""
                             ]
                         },
                         {
@@ -4457,14 +4331,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「・・・え？」"
+                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]Akane: \"...Eh?\""
                             ]
                         },
                         {
@@ -4481,14 +4348,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_true]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「とぼけないでいいよ。心当たりあるんでしょ？」"
+                                "\\F[beni_trouble]\\FF[nako_true]\\AA[2]Nadeshiko: \"No need to play dumb. You know what I'm talking\nabout, right?\""
                             ]
                         },
                         {
@@ -4505,14 +4365,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そ、そんなことっ！！」"
+                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]Akane: \"That's not it at all!!\""
                             ]
                         },
                         {
@@ -4538,14 +4391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（私って普段、そんなふうに見られているってこと！？）"
+                                "\\F[beni_trouble]Akane: (Is this how I'm usually seen by others!? )"
                             ]
                         },
                         {
@@ -4864,14 +4710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「視聴覚室はこっちじゃない！急がないと」"
+                                "\\F[beni_angry]Akane: \"The audio-visual room is not this way! We need to\nhurry!\""
                             ]
                         },
                         {
@@ -5098,14 +4937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「視聴覚室はこっちじゃない！急がないと」"
+                                "\\F[beni_angry]Akane: \"The AV room is not this way! We need to hurry!\""
                             ]
                         },
                         {
@@ -5332,14 +5164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「視聴覚室はこっちじゃない！急がないと」"
+                                "\\F[beni_angry]Akane Suzaku: \"The AV room is not this way! We need to\nhurry!\""
                             ]
                         },
                         {
@@ -5667,14 +5492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くぅ～っ・・・・」"
+                                "Makabe: \"Ugh...\""
                             ]
                         },
                         {
@@ -5722,21 +5540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_angry]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く行こう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  誰か、他の被害者が出ているかも知れないわ！」"
+                                "\\F[nako_angry]Nadeshiko: \"Let's hurry! Someone else might become a\nvictim!\""
                             ]
                         },
                         {
@@ -5762,28 +5566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん、ちょっと・・・トイレに行ってから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  女の子の日だから・・・その・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  戦いの前にマズいだろ？」"
+                                "\\F[beni_trouble]Akane: \"Sorry, just a moment... I need to use the restroom.\nIt's that time of the month... you know... It would be bad\nto go into battle like this, right?\""
                             ]
                         },
                         {
@@ -5809,14 +5592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よりにもよってこんな時にトイレってどうして！？」"
+                                "\\F[nako_trouble]Nadeshiko: \"Why do you have to go to the bathroom at a time\nlike this?!\""
                             ]
                         },
                         {
@@ -5894,21 +5670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「し、仕方ないだろ！生理現象なんだから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  少しだけここで待ってて？」"
+                                "\\F[beni_trouble]Akane: \"I can't help it, it's a natural bodily function! Can\nyou wait here for just a bit?\""
                             ]
                         },
                         {
@@ -6379,14 +6141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ～。ごめん、お待たせ」"
+                                "\\F[beni_smile]Akane: \"Phew... Sorry to keep you waiting.\""
                             ]
                         },
                         {
@@ -6412,14 +6167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・撫子？」"
+                                "\\F[beni_trouble]Akane: \"...Nadeshiko?\""
                             ]
                         },
                         {
@@ -6557,21 +6305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子がいない！！真壁さんも！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  裸で一体何処に！？」"
+                                "\\F[beni_trouble]Akane: \"Nadeshiko is gone!! And Makabe too!? Where could\nthey be naked?!\""
                             ]
                         },
                         {
@@ -6628,14 +6362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか！！曽我井の所へ！？」"
+                                "\\F[beni_angry2]Akane: \"No way!! Did they go to Soga's place?!\""
                             ]
                         },
                         {
@@ -6673,7 +6400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\C[0]　　　　　　【視聴覚室】に行こう！"
+                                "\\C[0]Let's go to the Audio-Visual Room!"
                             ]
                         },
                         {
@@ -7093,21 +6820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗、捕まえたっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボォ～としてたら、駄目じゃないか」"
+                                "\\F[beni_kamenoti]Akane: \"Kikyo, I've caught you♪ If you space out, that's no\ngood, is it?\""
                             ]
                         },
                         {
@@ -7133,28 +6846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「真面目な桔梗が実はムッツリだって、私知ってるから♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　コウモリマスクを付けたら、　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どんな乱れ方するかなぁ・・・楽しみ♪」"
+                                "\\F[beni_kamenoti]Akane: \"I know that serious Kikyo is actually quite lewd♪ I\nwonder how you'll lose control if you put on a bat mask...\nI'm looking forward to it♪\""
                             ]
                         },
                         {
@@ -7180,28 +6872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっち向きなって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなささやかな抵抗、無意味だから♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご主人様からは逃れられないよっ！」"
+                                "\\F[beni_kamenoti]Akane: \"Face this way! Such feeble resistance is\nmeaningless♪ You can't escape from your master!\""
                             ]
                         },
                         {
@@ -7218,14 +6889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・わかっている」"
+                                "Kikyo: \"...I understand.\""
                             ]
                         },
                         {
@@ -7242,14 +6906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だったら・・・♪」"
+                                "\\F[beni_kamenoti]Akane: \"If that's the case...♪\""
                             ]
                         },
                         {
@@ -7306,28 +6963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_kamen]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかってるからぁ、放っておいてくれぇぇっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　乳首オナニーで忙しいんだっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ひぃぃんっ♪あひゃぁんっ♪」"
+                                "\\F[kikyou_kamen]Kikyo: \"I get it, so leave me alone already♪ I'm busy with\nnipple masturbation♪ Hiiiiin♪ Ahyaaan♪\""
                             ]
                         },
                         {
@@ -7405,28 +7041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう堕ちてる！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やっぱり桔梗って・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　案外雑魚なんだね♪」"
+                                "\\F[beni_kamenoti]Akane: \"You've already fallen!? As I thought, Kikyo...\nyou're surprisingly weak♪\""
                             ]
                         },
                         {
@@ -7443,28 +7058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[kikyou_kamen]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ば、馬鹿にするな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私だって不意をつかれなければ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うびぃぃぃっ♪オマンコ突然弄ってっ！」"
+                                "\\F[beni_kamenoti]\\FF[kikyou_kamen]\\AA[2]Kikyo: \"Don't make fun of me! If I hadn't been caught off\nguard... Ubyiiii♪ Suddenly playing with my pussy!\""
                             ]
                         },
                         {
@@ -7481,28 +7075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[kikyou_kamen]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「指を突っ込まれただけなのにぃぃぃっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あひゃひゃぁんっ♪あはぁぁぁっ・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　イク、イクゥゥゥッ♪」"
+                                "\\F[beni_kamenoti]\\FF[kikyou_kamen]\\AA[2]Kikyo: \"Just from fingers being thrust inside, iiiii♪\nAhyahyaaan♪ Ahhaaaa...♪ I'm coming, I'm cuuumming♪\""
                             ]
                         },
                         {
@@ -7519,28 +7092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenkobi]\\FF[kikyou_kamen]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当に雑魚牝♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　全員堕としたら、可愛がってあげるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　・・・待ってなよ♪」"
+                                "\\F[beni_kamenkobi]\\FF[kikyou_kamen]\\AA[1]Akane: \"Truly a weak female♪ Once I've corrupted everyone,\nI'll take good care of you... so wait for me♪\""
                             ]
                         },
                         {
@@ -7557,28 +7109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenkobi]\\FF[kikyou_kamen]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、分かりましたぁ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　乳首オナニー再開してぇ・・・お待ちしてますぅ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　くひぃぃぃんっ♪」"
+                                "\\F[beni_kamenkobi]\\FF[kikyou_kamen]\\AA[2]Kikyo: \"O-okay♪ I'll resume nipple masturbation... and wait\nfor you♪ Kuhiiiiin♪\""
                             ]
                         },
                         {
@@ -7895,21 +7426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗、捕まえたっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボォ～としてたら、駄目じゃないか」"
+                                "\\F[beni_kamenoti]Akane: \"Kikyo, I've caught you♪ If you space out, that's no\ngood, is it?\""
                             ]
                         },
                         {
@@ -7935,28 +7452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「真面目な桔梗が実はムッツリだって、私知ってるから♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　コウモリマスクを付けたら、　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どんな乱れ方するかなぁ・・・楽しみ♪」"
+                                "\\F[beni_kamenoti]Akane: \"The serious Kikyo is actually a closet pervert, I\nknow that♪ I wonder how you'll lose control if you put on a\nbat mask... I'm looking forward to it♪\""
                             ]
                         },
                         {
@@ -7982,28 +7478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっち向きなって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなささやかな抵抗、無意味だから♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご主人様からは逃れられないよっ！」"
+                                "\\F[beni_kamenoti]Akane: \"Face this way! Such feeble resistance is futile♪ You\ncan't escape from your master!\""
                             ]
                         },
                         {
@@ -8020,14 +7495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・わかっている」"
+                                "Kikyo: \"...I understand.\""
                             ]
                         },
                         {
@@ -8044,14 +7512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だったら・・・♪」"
+                                "\\F[beni_kamenoti]Akane: \"If that's the case...♪\""
                             ]
                         },
                         {
@@ -8108,28 +7569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_kamen]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかってるからぁ、放っておいてくれぇぇっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　乳首オナニーで忙しいんだっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ひぃぃんっ♪あひゃぁんっ♪」"
+                                "\\F[kikyou_kamen]Kikyo: \"I understand, so leave me alone already♪ I'm busy\nwith nipple masturbation♪ Hiiiiin♪ Ahyaaan♪\""
                             ]
                         },
                         {
@@ -8207,28 +7647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう堕ちてる！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やっぱり桔梗って・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　案外雑魚なんだね♪」"
+                                "\\F[beni_kamenoti]Akane: \"You've already fallen!? As I thought, Kikyo...\nyou're surprisingly weak♪\""
                             ]
                         },
                         {
@@ -8245,28 +7664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[kikyou_kamen]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ば、馬鹿にするな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私だって不意をつかれなければ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うびぃぃぃっ♪オマンコ突然弄ってっ！」"
+                                "\\F[beni_kamenoti]\\FF[kikyou_kamen]\\AA[2]Kikyo: \"Don't make fun of me! If I wasn't caught off\nguard... Ubyiiiii♪ Suddenly playing with my pussy!\""
                             ]
                         },
                         {
@@ -8283,28 +7681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[kikyou_kamen]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「指を突っ込まれただけなのにぃぃぃっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あひゃひゃぁんっ♪あはぁぁぁっ・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　イク、イクゥゥゥッ♪」"
+                                "\\F[beni_kamenoti]\\FF[kikyou_kamen]\\AA[2]Kikyo: \"Just from fingers being thrust inside, iiiii♪\nAhyahyaan♪ Ahhaaaa...♪ I'm coming, I'm cuuumming♪\""
                             ]
                         },
                         {
@@ -8321,28 +7698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenkobi]\\FF[kikyou_kamen]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当に雑魚牝♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　全員堕としたら、可愛がってあげるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　・・・待ってなよ♪」"
+                                "\\F[beni_kamenkobi]\\FF[kikyou_kamen]\\AA[1]Akane: \"Truly a weak female♪ Once I've corrupted everyone,\nI'll take good care of you... so wait for me♪\""
                             ]
                         },
                         {
@@ -8359,28 +7715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenkobi]\\FF[kikyou_kamen]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、分かりましたぁ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　乳首オナニー再開してぇ・・・お待ちしてますぅ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　くひぃぃぃんっ♪」"
+                                "\\F[beni_kamenkobi]\\FF[kikyou_kamen]\\AA[2]Kikyo: \"I, I understand♪ I'll resume nipple masturbation...\nand wait for you♪ Kuhiiiiin♪\""
                             ]
                         },
                         {
@@ -8697,21 +8032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗、捕まえたっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボォ～としてたら、駄目じゃないか」"
+                                "\\F[beni_kamenoti]Akane: \"Kikyo, I've caught you♪ If you space out, that's no\ngood, is it?\""
                             ]
                         },
                         {
@@ -8737,28 +8058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「真面目な桔梗が実はムッツリだって、私知ってるから♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　コウモリマスクを付けたら、　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どんな乱れ方するかなぁ・・・楽しみ♪」"
+                                "\\F[beni_kamenoti]Akane: \"The serious Kikyo is actually a closet pervert, I\nknow that♪ I wonder how you'll lose control if you put on a\nbat mask... I'm looking forward to it♪\""
                             ]
                         },
                         {
@@ -8784,28 +8084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっち向きなって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなささやかな抵抗、無意味だから♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご主人様からは逃れられないよっ！」"
+                                "\\F[beni_kamenoti]Akane: \"Face this way! Such feeble resistance is\nmeaningless♪ You can't escape from your master!\""
                             ]
                         },
                         {
@@ -8822,14 +8101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・わかっている」"
+                                "Kikyo: \"...I understand.\""
                             ]
                         },
                         {
@@ -8846,14 +8118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だったら・・・♪」"
+                                "\\F[beni_kamenoti]Akane: \"If that's the case...♪\""
                             ]
                         },
                         {
@@ -8910,28 +8175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_kamen]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかってるからぁ、放っておいてくれぇぇっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　乳首オナニーで忙しいんだっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ひぃぃんっ♪あひゃぁんっ♪」"
+                                "\\F[kikyou_kamen]Kikyo: \"I understand, so leave me alone already♪ I'm busy\nwith nipple masturbation♪ Hiiiiin♪ Ahyaaan♪\""
                             ]
                         },
                         {
@@ -9009,28 +8253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう堕ちてる！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やっぱり桔梗って・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　案外雑魚なんだね♪」"
+                                "\\F[beni_kamenoti]Akane: \"You've already fallen!? As I thought, Kikyo...\nyou're surprisingly weak♪\""
                             ]
                         },
                         {
@@ -9047,28 +8270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[kikyou_kamen]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ば、馬鹿にするな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私だって不意をつかれなければ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うびぃぃぃっ♪オマンコ突然弄ってっ！」"
+                                "\\F[beni_kamenoti]\\FF[kikyou_kamen]\\AA[2]Kikyo: \"Don't make fun of me! If I hadn't been caught off\nguard... Ubyiiiii♪ Suddenly fingering my pussy!\""
                             ]
                         },
                         {
@@ -9085,28 +8287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenoti]\\FF[kikyou_kamen]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「指を突っ込まれただけなのにぃぃぃっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あひゃひゃぁんっ♪あはぁぁぁっ・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　イク、イクゥゥゥッ♪」"
+                                "\\F[beni_kamenoti]\\FF[kikyou_kamen]\\AA[2]Kikyo: \"Just from being fingered like this♪ Ahyahyaan♪\nAhhaaaa...♪ I'm coming, I'm cuuumming♪\""
                             ]
                         },
                         {
@@ -9123,28 +8304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenkobi]\\FF[kikyou_kamen]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当に雑魚牝♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　全員堕としたら、可愛がってあげるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　・・・待ってなよ♪」"
+                                "\\F[beni_kamenkobi]\\FF[kikyou_kamen]\\AA[1]Akane: \"Truly a weak female♪ Once I've corrupted everyone,\nI'll take good care of you... so wait for it♪\""
                             ]
                         },
                         {
@@ -9161,28 +8321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_kamenkobi]\\FF[kikyou_kamen]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、分かりましたぁ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　乳首オナニー再開してぇ・・・お待ちしてますぅ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　くひぃぃぃんっ♪」"
+                                "\\F[beni_kamenkobi]\\FF[kikyou_kamen]\\AA[2]Kikyo: \"O-okay♪ I'll resume nipple masturbation... and wait\nfor you♪ Kuhiiiiin♪\""
                             ]
                         },
                         {
@@ -9395,21 +8534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_kamen]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはぁぁっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　乳首オナニー最高～♪」"
+                                "\\F[kikyou_kamen]Kikyo: \"Ahaaah♥ Nipple masturbation is the best~♪\""
                             ]
                         },
                         {

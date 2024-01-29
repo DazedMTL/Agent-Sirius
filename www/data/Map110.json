@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西１階",
+    "displayName": "West 1st Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -3241,21 +3241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵！待ってっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこに行こうって・・・この学園は今、危険だ！」"
+                                "\\F[beni_angry2]Akane: \"Himawari! Wait!! Where do you think you're going...\nThe academy is dangerous right now!\""
                             ]
                         },
                         {
@@ -3273,28 +3259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[himawari_angry]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、わかってるわよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから宇宙を捜してるんでしょ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "邪魔しないでっ・・・！！」"
+                                "\\F[beni_angry2]\\FF[himawari_angry]\\AA[2]Himawari: \"I know that!! That's why I'm searching for Sora,\nright?! Don't get in my way...!!\""
                             ]
                         },
                         {
@@ -3312,14 +3277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[himawari_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だからって闇雲に捜していたら、いずれ向日葵も・・・」"
+                                "\\F[beni_trouble]\\FF[himawari_angry]\\AA[1]Akane: \"But if you search recklessly, eventually you too,\nHimawari...\""
                             ]
                         },
                         {
@@ -3337,14 +3295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[himawari_angry]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫よ。怪人相手は・・・結構、経験値あるんだから」"
+                                "\\F[beni_trouble]\\FF[himawari_angry]\\AA[2]Himawari: \"It's okay. I have quite a bit of experience\ndealing with monsters.\""
                             ]
                         },
                         {
@@ -3362,21 +3313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[himawari_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何を自信満々に・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう！勝手に行かないで！！」"
+                                "\\F[beni_trouble]\\FF[himawari_angry]\\AA[1]Akane: \"What are you so confident about... Argh! Don't just\ngo off on your own!!\""
                             ]
                         },
                         {
@@ -3394,14 +3331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[himawari_angry]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アンタが邪魔してる間に、宇宙が襲われたらどうすんのよ！」"
+                                "\\F[beni_trouble]\\FF[himawari_angry]\\AA[2]Himawari: \"What are you going to do if Sora gets attacked\nwhile you're getting in my way?!\""
                             ]
                         },
                         {
@@ -3419,14 +3349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[himawari_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どこにいるか・・・知っている人がいる」"
+                                "\\F[beni_angry2]\\FF[himawari_angry]\\AA[1]Akane: \"There's someone who knows where she is...\""
                             ]
                         },
                         {
@@ -3443,14 +3366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[himawari_trouble]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「宇宙を・・・？」"
+                                "\\F[beni_angry2]\\FF[himawari_trouble]\\AA[2]Himawari: \"Sora...?\""
                             ]
                         },
                         {
@@ -3467,21 +3383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[himawari_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その人が君を見つけてくれた。だから宇宙もきっと見つかる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "危険を冒して捜すより絶対にそっちの方がいい」"
+                                "\\F[beni_smile]\\FF[himawari_trouble]\\AA[1]Akane: \"That person found you. So I'm sure they can find\nSora too! It's definitely better than risking danger to\nsearch for her.\""
                             ]
                         },
                         {
@@ -3498,21 +3400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[himawari_angry]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～っ！わ、わかったわよっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連れていきなさい！」"
+                                "\\F[beni_smile]\\FF[himawari_angry]\\AA[2]Himawari: \"Ugh! Fine, I get it! Take me to them!\""
                             ]
                         },
                         {
@@ -3702,14 +3590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茉莉花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「突っかかってくんじゃねーよ！きゃはははっ！」"
+                                "Matsurika: \"Don't come at me like that! Kyahaha!\""
                             ]
                         },
                         {
@@ -3727,28 +3608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「当たってきたのは、アンタの方だろっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに・・・性格も変わってる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪人が表に出ちゃってるぞ！」"
+                                "\\F[beni_angry2]Akane: \"You're the one who bumped into me! And... your\npersonality has changed too! The monster inside is showing!\""
                             ]
                         },
                         {
@@ -3857,28 +3717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茉莉花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「仕方ね～じゃんっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オスチンポの匂い嗅いだだけで発情すんだからよ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ・・・！！」"
+                                "Matsurika: \"Can't help it, can I?! Just smelling a male dick\nmakes me go into heat~♪ Kyahaha...!!\""
                             ]
                         },
                         {
@@ -3896,14 +3735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ・・・！」"
+                                "\\F[beni_trouble]Akane: \"Guh...!\""
                             ]
                         },
                         {
@@ -3981,14 +3813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_damage]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「と、とにかく、離れないと！！」"
+                                "\\F[beni_damage]Akane: \"A-Anyway, I need to get away!!\""
                             ]
                         },
                         {

@@ -2489,21 +2489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_king]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大人しく花嫁衣装を着るといいっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君には祝福が似合うっ！！」"
+                                "\\FF[kikyou_king]Kikyo: \"You should quietly put on the bridal gown! Blessings\nsuit you!!\""
                             ]
                         },
                         {
@@ -2831,14 +2817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -2895,14 +2874,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {
@@ -4097,14 +4069,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -4161,14 +4126,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {
@@ -5363,14 +5321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Ugh!!\""
                             ]
                         },
                         {
@@ -5427,14 +5378,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！やめろっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!! Stop it!!\""
                             ]
                         },
                         {

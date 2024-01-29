@@ -1415,21 +1415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「助けに来たよ。周りにいる子は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・全員手遅れみたいだけど」"
+                                "\\F[beni_angry2]Akane: \"I've come to help. But it looks like... everyone\naround here is beyond saving.\""
                             ]
                         },
                         {
@@ -1447,14 +1433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[sora_trouble]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど・・・どういうこと・・・！？」"
+                                "\\F[beni_angry2]\\FF[sora_trouble]\\AA[2]Sora: \"Wha... what do you mean...!?\""
                             ]
                         },
                         {
@@ -1472,21 +1451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[sora_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「分かってたんじゃないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、いい。向日葵が待っているよ」"
+                                "\\F[beni_trouble]\\FF[sora_trouble]\\AA[1]Akane: \"Didn't you know? Well, it doesn't matter. Himawari\nis waiting for us.\""
                             ]
                         },
                         {
@@ -1504,21 +1469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[sora_smile]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵が・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かった。無事なんだ・・・」"
+                                "\\F[beni_trouble]\\FF[sora_smile]\\AA[2]Sora: \"Himawari is...! Thank goodness. She's safe...\""
                             ]
                         },
                         {
@@ -1536,21 +1487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[sora_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん。さあ・・・囲みを突破する！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ついてきてっ・・・！！」"
+                                "\\F[beni_smile]\\FF[sora_smile]\\AA[1]Akane: \"Yeah. Now... let's break through the encirclement!\nFollow me...!!\""
                             ]
                         },
                         {
@@ -1568,14 +1505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[sora_smile]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、わかった・・・！」"
+                                "\\F[beni_smile]\\FF[sora_smile]\\AA[2]Sora: \"O-okay...!\""
                             ]
                         },
                         {
@@ -1599,28 +1529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_oti]\\FF[sora_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「って言いながら、とうせんぼ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当突破するんじゃなくて、皆に見てもらうでした～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残念～♪」"
+                                "\\F[beni_oti]\\FF[sora_smile]\\AA[1]Akane: \"Just kidding, blockading~♪ We're not really going to\nbreak through, but instead, we're going to show everyone~!\nToo bad~♪\""
                             ]
                         },
                         {
@@ -1638,14 +1547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_oti]\\FF[sora_trouble]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な・・・なにを？」"
+                                "\\F[beni_oti]\\FF[sora_trouble]\\AA[2]Sora: \"What... what are you doing?\""
                             ]
                         },
                         {
@@ -1663,21 +1565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_oti]\\FF[sora_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「宇宙が向日葵に相応しいビッチになって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備が出来るの！をだって」"
+                                "\\F[beni_oti]\\FF[sora_trouble]\\AA[1]Akane: \"Sora is going to become a bitch worthy of Himawari,\nand get ready for it! That's right.\""
                             ]
                         },
                         {
@@ -1695,14 +1583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_oti]\\FF[sora_trouble]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵が・・・？どうかしたの？」"
+                                "\\F[beni_oti]\\FF[sora_trouble]\\AA[2]Sora: \"Himawari is...? What happened to her?\""
                             ]
                         },
                         {
@@ -1759,28 +1640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sora_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃはははっ♪気になる～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーし達と同じビッチになって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チンポ食いまくってるのとか聞いたら幻滅しちゃう？」"
+                                "\\F[beni_reverse1]\\FF[sora_trouble]\\AA[1]Akane: \"Kyahaha! Curious~? She's become a bitch just like\nus, gobbling up cocks left and right. Would you be\ndisillusioned if you heard that?\""
                             ]
                         },
                         {
@@ -1798,14 +1658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sora_trouble]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵がそんなことするはず・・・ない！」"
+                                "\\F[beni_reverse1]\\FF[sora_trouble]\\AA[2]Sora: \"Himawari would never do such a thing...!\""
                             ]
                         },
                         {
@@ -1823,28 +1676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sora_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「知らねーの？幼馴染で親友じゃなねぇ～の♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツ、めっちゃチンポ好きなんだって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チンカスの臭いを嗅ぐだけで、即立ちオナする変態だぜぇ～♪」"
+                                "\\F[beni_reverse1]\\FF[sora_trouble]\\AA[1]Akane: \"You didn't know? Aren't you childhood friends and\nbesties~? She really loves dick! Just smelling smegma gets\nher off instantly, what a pervert~♪\""
                             ]
                         },
                         {
@@ -1862,21 +1694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sora_trouble]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「も、もうっ！いやらしいことばかり！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、私・・・知ってるんだから・・・」"
+                                "\\F[beni_reverse1]\\FF[sora_trouble]\\AA[2]Sora: \"Enough! Stop talking about such lewd things!! I... I\nknow better...\""
                             ]
                         },
                         {
@@ -1988,28 +1806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sora_reverse]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵が興奮すんのはぁ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしのちっぱいだってのっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "てめーのだらしねぇ牝乳じゃねえし！」"
+                                "\\FF[sora_reverse]Sora: \"The thing that excites Himawari is~! My small\nbreasts, that's what! Not your sloppy cow tits!\""
                             ]
                         },
                         {
@@ -2026,21 +1823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sora_reverse]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「チンポごときに負けねえぇって！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見てろよぉ～！くそがぁっ～♪」"
+                                "\\FF[sora_reverse]Sora: \"She won't lose to any dick!! Just you watch!! Damn\nit~♪\""
                             ]
                         },
                         {
@@ -2058,28 +1841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sora_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃはははっ！ムキになって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちばっかみるからっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乳首ピアスの鏡で堕ちちまったなぁっ！」"
+                                "\\F[beni_reverse1]\\FF[sora_reverse]\\AA[1]Akane: \"Kyahaha! You're so worked up looking this way!\nYou've fallen for the nipple piercings' reflection, haven't\nyou?!\""
                             ]
                         },
                         {
@@ -2097,21 +1859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sora_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもその方がお似合いだって・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "向日葵が待ってるから、行こうぜ♪」"
+                                "\\F[beni_reverse1]\\FF[sora_reverse]\\AA[1]Akane: \"But that suits you even better...♪ Himawari is\nwaiting, so let's go♪\""
                             ]
                         },
                         {
@@ -2129,28 +1877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sora_reverse]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わーってるって♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チンポ咥えてたら、あのツインテールを手綱にして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一日中犯してやんだからよぉ～！！」"
+                                "\\F[beni_reverse1]\\FF[sora_reverse]\\AA[2]Sora: \"Waiting, huh♪ If she's sucking on a cock, I'll use\nthose twin tails as reins and fuck her all day long!!\""
                             ]
                         },
                         {
@@ -2168,21 +1895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[sora_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おお、怖～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも面白そうじゃんっ♪きゃはははっ♪」"
+                                "\\F[beni_reverse1]\\FF[sora_reverse]\\AA[1]Akane: \"Oh, scary~♪ But that sounds fun♪ Kyahaha!♪\""
                             ]
                         },
                         {
@@ -2602,28 +2315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「屋上でヤル♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰に見られてるかも知れないスリルって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "味わってみないとわかんないよね～❤」"
+                                "Makabe: \"Doing it on the rooftop♪ You won't understand the\nthrill of possibly being seen unless you try it~❤\""
                             ]
                         },
                         {
@@ -2641,21 +2333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなの恥ずかしいだけだって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えなくてもわかります！」"
+                                "\\F[beni_trouble]Akane: \"That's just embarrassing, I can tell without even\nthinking about it!\""
                             ]
                         },
                         {
@@ -2672,28 +2350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「恥ずかしいだけってのは、浅はかだよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やってみないと・・・きゃはは♪分かんないんだから～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女もどう？」"
+                                "Makabe: \"Just embarrassing? That's naive. You won't know\nuntil you try... Kyahaha♪ What about you?\""
                             ]
                         },
                         {
@@ -2848,14 +2505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろん遠慮します！」"
+                                "\\F[beni_angry2]Akane: \"I'll definitely pass!\""
                             ]
                         },
                         {
@@ -2873,21 +2523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だって・・・屋上じゃ・・・ギャラリー遠いじゃん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと近くで見て欲しいからよ～❤」"
+                                "\\F[beni_reverse1]Akane: \"Because... on the rooftop... the audience is too far\naway♪ I want them to watch from closer up~❤\""
                             ]
                         },
                         {
@@ -2905,21 +2541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ハメ穴がマン汁ビチャビチャ飛び散らしたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔に引っ掛けるぐらいの距離でよ～❤」"
+                                "\\F[beni_reverse1]Akane: \"When my pussy is splashing with juices, I want them\nto be close enough to get it on their face~❤\""
                             ]
                         },
                         {
@@ -2937,14 +2559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マジっ！？すげーぇ・・・変態じゃん♪」"
+                                "Makabe: \"Seriously!? Wow... that's super kinky♪\""
                             ]
                         },
                         {
@@ -3020,21 +2635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「屋上セックス♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰に見られてるかも知れないスリル❤」"
+                                "Makabe: \"Rooftop sex♥ The thrill of maybe being seen by\nsomeone❤\""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "東３階",
+    "displayName": "East 3rd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 9,
@@ -2131,14 +2131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私・・・先生がいたから科学部に入ったんです」"
+                                "Makabe: \"I joined the science club because of you, Sensei.\""
                             ]
                         },
                         {
@@ -2155,14 +2148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そうなんだ・・・」"
+                                "\\F[beni_trouble]Akane: \"Oh, really...?\""
                             ]
                         },
                         {
@@ -2179,14 +2165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（と、唐突に告白しだした・・・）"
+                                "\\F[beni_trouble]Akane: (And she suddenly started confessing...)"
                             ]
                         },
                         {
@@ -2203,14 +2182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも先生が騒動を起こして・・・行方不明になって・・・」"
+                                "Makabe: \"But after Sensei caused that commotion... and went\nmissing...\""
                             ]
                         },
                         {
@@ -2227,21 +2199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私、気付いたんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鷲尾先生も悪くないなって」"
+                                "Makabe: \"I realized, you know. Washio Sensei isn't so bad\neither.\""
                             ]
                         },
                         {
@@ -2258,21 +2216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？曽我井先生の後は、鷲尾っ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しゅ、趣味悪くない・・・？」"
+                                "\\F[beni_trouble]Akane: \"Eh!? After Soga Sensei, it's Washio!? Shu, isn't\nthat a bad taste...?\""
                             ]
                         },
                         {
@@ -2289,21 +2233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だって・・・曽我井先生みたいにねちっこい愛撫で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・セクハラしてくれそうじゃないですか♪」"
+                                "Makabe: \"Because... he seems like he would sexually harass\nwith persistent caresses just like Soga Sensei♪\""
                             ]
                         },
                         {
@@ -2320,21 +2250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鷲尾先生、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女子の中でも胸やお尻を触ってくるで評判だし♪」"
+                                "Makabe: \"Washio Sensei is famous among the girls for\ntouching breasts and butts♪\""
                             ]
                         },
                         {
@@ -2351,14 +2267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、それは確実に悪評だから・・・」"
+                                "\\F[beni_trouble]Akane: \"No, that's definitely a bad reputation...\""
                             ]
                         },
                         {
@@ -2375,21 +2284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鷲尾先生が顧問やってる水泳部に入ってみます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私、決めました！！いっぱいセクハラしてもらいます♪」"
+                                "Makabe: \"I've decided to join the swimming club that Washio\nSensei advises! I'll get plenty of sexual harassment♪\""
                             ]
                         },
                         {
@@ -2406,14 +2301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、おう・・・」"
+                                "\\F[beni_trouble]Akane: \"Oh, okay...\""
                             ]
                         },
                         {
@@ -2430,14 +2318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（へ、変態さん・・・）"
+                                "\\F[nako_trouble]Nadeshiko: (Heh, what a pervert...)"
                             ]
                         },
                         {
@@ -2513,21 +2394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鷲尾先生が顧問やってる水泳部に入ってみます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私、決めました！！いっぱいセクハラしてもらいます♪」"
+                                "Makabe: \"I've decided to join the swim team that Washio-\nsensei is advising! I've made up my mind!! I'll get lots of\nsexual harassment♪\""
                             ]
                         },
                         {
@@ -2596,14 +2463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私・・・科学部やめます」"
+                                "Makabe: \"I... I'm quitting the science club.\""
                             ]
                         },
                         {
@@ -2621,14 +2481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「また唐突だね・・・」"
+                                "\\F[beni_mizugi2]Akane: \"That's rather abrupt again...\""
                             ]
                         },
                         {
@@ -2646,14 +2499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生、行方不明になっちゃったし・・・」"
+                                "Makabe: \"The teacher has gone missing after all...\""
                             ]
                         },
                         {
@@ -2671,14 +2517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まだ未練あるの？」"
+                                "\\F[beni_mizugi3]Akane: \"You still have feelings for him?\""
                             ]
                         },
                         {
@@ -2744,28 +2583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪ある訳ないじゃないですか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイマスクの快楽なんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "密室の背徳感に比べたらゴミですよ！」"
+                                "Makabe: \"Nyu-ru-ru~♪ Not at all! The pleasure of a blindfold\nis nothing compared to the thrill of a secret room!\""
                             ]
                         },
                         {
@@ -2783,14 +2601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、おう・・・！」"
+                                "\\F[beni_close2]Akane: \"Oh, uh...!\""
                             ]
                         },
                         {
@@ -2808,14 +2619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生に騙されてた！私目覚めました！」"
+                                "Makabe: \"I was deceived by the teacher! I've awakened!\""
                             ]
                         },
                         {
@@ -2833,21 +2637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは何より♪まだ理解していない子も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いると思うから、教えてあげてね♪」"
+                                "\\F[beni_close1]Akane: \"That's great to hear♪ There might be others who\nstill don't understand, so make sure to teach them♪\""
                             ]
                         },
                         {
@@ -2865,21 +2655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はいっ！！あんな先生に騙される子が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上ないように・・・がんばります！」"
+                                "Makabe: \"Yes!! I'll do my best so no one else gets deceived\nby such a teacher...!\""
                             ]
                         },
                         {
@@ -2897,14 +2673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（根は素直なんだろうな・・・一途さが怖い・・・）"
+                                "\\F[beni_close2]Akane: (She's probably honest at heart... Her single-\nmindedness is kind of scary...)"
                             ]
                         },
                         {
@@ -2990,21 +2759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あんな先生に騙される子が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上ないように・・・がんばります！」"
+                                "Makabe: \"I'll do my best to make sure no more kids get\ndeceived by a teacher like that!\""
                             ]
                         },
                         {
@@ -3022,14 +2777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（根は素直なんだろうな・・・一途さが怖い・・・）"
+                                "\\F[beni_close2]Akane: \"(She must be honest at heart... Her earnestness is\nalmost scary...)\""
                             ]
                         },
                         {
@@ -3887,7 +3635,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "２話探索開始までスキップしますか？"
+                                "Would you like to skip to the start of Chapter 2\nexploration?"
                             ]
                         },
                         {
@@ -3895,8 +3643,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3989,14 +3737,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[0]   残りの容疑者候補、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "   綾香、桔梗、柊、綿、亜麻、鷲尾を探そうっ！"
+                                "\\C[0]Let's search for the remaining suspects: Ayaka, Kikyo,\nHiiragi, Wata, Ama, and Washio!"
                             ]
                         },
                         {
@@ -4149,14 +3890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、おはよう・・・紅」"
+                                "\\FF[nako_trouble]Nadeshiko: \"G-Good morning... Akane.\""
                             ]
                         },
                         {
@@ -4173,28 +3907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おはよう、撫子。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体は大丈夫？気分が悪いとか・・・ないかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かその・・・後遺症的な・・・」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[1]Akane: \"Good morning, Nadeshiko. Are you feeling okay? No\nbad feelings or... anything like... aftereffects?\""
                             ]
                         },
                         {
@@ -4211,28 +3924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な、何もないよ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨日はちょっと不覚をとっただけ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう同じ失敗はしない・・・から！」"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]Nadeshiko: \"N-Nothing at all... I just let my guard down a\nbit yesterday! I won't make the same mistake again... so!\""
                             ]
                         },
                         {
@@ -4249,14 +3941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そうだね」"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[1]Akane: \"That's right.\""
                             ]
                         },
                         {
@@ -4273,21 +3958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう撫子をあんな目に合わせたり・・・しない！）"
+                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[1]Akane: (Yeah. I won't let Nadeshiko go through something\nlike that again!)"
                             ]
                         },
                         {
@@ -4304,14 +3975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日も犯人探し、するんでしょ？」"
+                                "\\F[beni_angry2]\\FF[nako_smile]\\AA[2]Nadeshiko: \"We're going to search for the culprit again\ntoday, right?\""
                             ]
                         },
                         {
@@ -4328,21 +3992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そのことなんだけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  やっぱり、私に任せてくれない？」"
+                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]Akane: \"About that... Can you let me handle it? Please?\""
                             ]
                         },
                         {
@@ -4359,21 +4009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私一人ならどんな事になったって大丈夫だけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "撫子が酷い目に合うのは・・・やっぱり嫌なんだ」"
+                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]Akane: \"I'll be fine no matter what happens, but I really\ndon't want Nadeshiko to go through any more terrible\nexperiences.\""
                             ]
                         },
                         {
@@ -4390,21 +4026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「首を突っ込むな・・・ってこと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "役に立たないから？」"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]Nadeshiko: \"Are you telling me to not get involved...\nbecause I'm not helpful?\""
                             ]
                         },
                         {
@@ -4421,14 +4043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そんなことは・・・」"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[1]Akane: \"No, that's not it...\""
                             ]
                         },
                         {
@@ -4445,21 +4060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっきり・・・言ってほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私って・・・紅の役に立たない？」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"I want you to be clear... Am I... not helpful to\nyou, Akane?\""
                             ]
                         },
                         {
@@ -4476,14 +4077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い、いや・・・・」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[1]Akane: \"No, it's not that...\""
                             ]
                         },
                         {
@@ -4500,14 +4094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうなの？」"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]Nadeshiko: \"What is it then?\""
                             ]
                         },
                         {
@@ -4524,21 +4111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（撫子がいらないなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "口が裂けても言えない・・・・）"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[1]Akane: (I could never say that Nadeshiko isn't needed...)"
                             ]
                         },
                         {
@@ -4555,21 +4128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すごく助かっているけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ以上に心配なんだ」"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[1]Akane: \"You've been a huge help... but I'm more worried than\nanything.\""
                             ]
                         },
                         {
@@ -4586,14 +4145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの時のことがあるから？」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"Because of what happened before?\""
                             ]
                         },
                         {
@@ -4631,21 +4183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう・・・大丈夫だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつの話しだと思ってるの？」"
+                                "\\FF[nako_trouble]Nadeshiko: \"It's already fine. How long ago do you think\nthat was?\""
                             ]
                         },
                         {
@@ -4662,21 +4200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私だって忘れてしまいそうなぐらいなのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつまでも紅が気にしてるから」"
+                                "\\FF[nako_trouble]Nadeshiko: \"I'm almost about to forget it myself, but you\nkeep worrying about it.\""
                             ]
                         },
                         {
@@ -4693,14 +4217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなこと言ったって、私のせいで・・・！」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[1]Akane: \"But still, because of me...!\""
                             ]
                         },
                         {
@@ -4717,28 +4234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅のせいじゃない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから気にしないでって何度も！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は・・・自分の身は自分で守れるから」"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]Nadeshiko: \"It's not your fault, Akane! I've told you many\ntimes not to worry about it! I can protect myself.\""
                             ]
                         },
                         {
@@ -4755,14 +4251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[1]Akane: \"...\""
                             ]
                         },
                         {
@@ -4779,28 +4268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「行こ。鈴懸先輩達に話しを聞いて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学園を騒がせる犯人を全員捕まえよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだまだあんなのが・・・学園にいそうなんでしょ？」"
+                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[2]Nadeshiko: \"Let's go. We'll talk to Suzukake-senpai and the\nothers, and catch all the culprits causing trouble at the\nacademy. There are probably still more like them around,\nright?\""
                             ]
                         },
                         {
@@ -4817,14 +4285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]Akane: \"...\""
                             ]
                         },
                         {
@@ -4850,14 +4311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたの？紅」"
+                                "\\FF[nako_trouble]Nadeshiko: \"What's wrong? Akane\""
                             ]
                         },
                         {
@@ -4874,28 +4328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや・・・撫子は全員、無実だって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを証明するって言ってたのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手のひら返しちゃったなぁ・・・と思って」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[1]Akane: \"No... You said that everyone was innocent... and\nthat you would prove it, but now you've flipped your\nstance... I was just thinking about that.\""
                             ]
                         },
                         {
@@ -4921,21 +4354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「自分の言ったこと、覚えてるでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が犯人扱いした全員の無実を証明するって」"
+                                "\\F[beni_angry2]Akane: \"You remember what you said, right? That you would\nprove the innocence of everyone I accused of being the\nculprit.\""
                             ]
                         },
                         {
@@ -4952,14 +4371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そうだったけど・・・」"
+                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"That's true, but...\""
                             ]
                         },
                         {
@@ -4976,28 +4388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子は人が良すぎるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この事件には向かないと思うんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "曽我井先生なんて、日頃から嫌われていたのに」"
+                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[1]Akane: \"Nadeshiko is too kind-hearted... I don't think she's\nsuited for this case. Even Soga-sensei, who was disliked on\na daily basis...\""
                             ]
                         },
                         {
@@ -5014,21 +4405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「意地悪な言い方だね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の見る目がない・・・ってこと？」"
+                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]Nadeshiko: \"That's a mean way to put it... Are you saying I\nlack judgment?\""
                             ]
                         },
                         {
@@ -5045,14 +4422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃなくって、撫子が・・・」"
+                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[1]Akane: \"No, it's not that, Nadeshiko is...\""
                             ]
                         },
                         {
@@ -5069,28 +4439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生が怪しかったのは、認める。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鷲尾先生も正直、やってそうだし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも私は友達を疑ったりしない」"
+                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]Nadeshiko: \"I admit that the teacher looked suspicious.\nHonestly, Washio-sensei seems likely too... But I won't\nsuspect my friends.\""
                             ]
                         },
                         {
@@ -5107,21 +4456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生はともかく、生徒は皆無実だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はそれを証明して・・・みせるの」"
+                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]Nadeshiko: \"Setting aside the teachers, all the students are\ninnocent. I will prove that...\""
                             ]
                         },
                         {
@@ -5138,14 +4473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・だから・・・」"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[1]Akane: \"...That's why...\""
                             ]
                         },
                         {
@@ -5162,14 +4490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう話しは終わり。じゃあね」"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]Nadeshiko: \"The conversation is over. See you.\""
                             ]
                         },
                         {
@@ -5310,21 +4631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怒らせちゃった・・・か・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当然だけど・・・」"
+                                "\\F[beni_trouble]Akane: \"I made her angry... It's only natural...\""
                             ]
                         },
                         {
@@ -5341,14 +4648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まだ私は撫子が頼りにしてくれるほど、強くないんだ」"
+                                "\\F[beni_trouble]Akane: \"I'm still not strong enough for Nadeshiko to rely on\nme.\""
                             ]
                         },
                         {
@@ -5365,28 +4665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「番照のエージェントとして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最高最強のコードネームをもらったとしても・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだまだ遠く及ばないんだ・・・」"
+                                "\\F[beni_trouble]Akane: \"Even if I received the highest and strongest\ncodename as an agent of Banterou... I'm still far from\nenough...\""
                             ]
                         },
                         {
@@ -5403,21 +4682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「このままじゃあの日と変わらない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃ・・・駄目なんだ！」"
+                                "\\F[beni_angry2]Akane: \"If things stay this way, it'll be no different from\nthat day. That's unacceptable!\""
                             ]
                         },
                         {
@@ -5434,14 +4699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子を守るのは・・・私なんだから！」"
+                                "\\F[beni_angry2]Akane: \"I'm the one who must protect Nadeshiko...!\""
                             ]
                         },
                         {
@@ -5881,21 +5139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だ、駄目だ・・・これが怪人の恐ろしさ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩も先生もおかしくなっている・・・」"
+                                "\\F[beni_trouble]Akane: \"No, this can't be... This is the terror of the\nmonster... Even the seniors and the teacher have gone\nmad...\""
                             ]
                         },
                         {
@@ -5912,14 +5156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「皆元に戻った・・・と思ったのに・・・」"
+                                "\\F[beni_trouble]Akane: \"I thought everyone had returned to normal... but...\""
                             ]
                         },
                         {
@@ -6029,28 +5266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子！！・・・撫子は大丈夫なのか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんなふうに目隠ししてエッチな事したいとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・思わないのかっ！？」"
+                                "\\F[beni_trouble]Akane: \"Nadeshiko!!... Are you okay? To think you'd want to\ndo lewd things while blindfolded... Don't you feel that\nway?!\""
                             ]
                         },
                         {
@@ -6067,14 +5283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え！？いや、それは・・・」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"Eh!? No, that's not...\""
                             ]
                         },
                         {
@@ -6091,21 +5300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「後遺症があるなら言って欲しい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "撫子だって、あのコウモリマスクを付けられてたんだから！」"
+                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[1]Akane: \"If there are any aftereffects, I want you to tell\nme! You were wearing that bat mask too!\""
                             ]
                         },
                         {
@@ -6122,21 +5317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だ、大丈夫。きっと個人差はある・・・と思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はあんな風になってないから」"
+                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"No, I'm fine. There must be individual\ndifferences... I think. I haven't become like that.\""
                             ]
                         },
                         {
@@ -6153,21 +5334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほ、本当に！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理しちゃ・・・駄目だからね・・・」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[1]Akane: \"Really!? You mustn't push yourself... It's not\ngood...\""
                             ]
                         },
                         {
@@ -6184,21 +5351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・それより二人とも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情報が聞けるような状態じゃなかったね・・・」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"...Besides, neither of them were in a state to\ngive us any information...\""
                             ]
                         },
                         {
@@ -6215,28 +5368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ怪人がこの学園にいるのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人があの様子じゃ・・・」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[1]Akane: \"That's right! With the monster still at this academy\nand them acting like that...\""
                             ]
                         },
                         {
@@ -6253,21 +5385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何を言っても、顔の広い二人の情報は大事だったのにね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからどうする？」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"No matter what we say, the information from\nthose two well-connected people was important. What do we do\nnow?\""
                             ]
                         },
                         {
@@ -6284,21 +5402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうするって言っても・・・私と撫子の二人で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捜すしかない」"
+                                "\\F[beni_trouble]\\FF[nako_trouble]\\AA[1]Akane: \"What to do... We have no choice but to search for it\nourselves, just you and me.\""
                             ]
                         },
                         {
@@ -6315,21 +5419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そのことなんだけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう一人、顔の広い人に聞いてみるのは・・・どうかな？」"
+                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[2]Nadeshiko: \"About that... How about we ask one more person\nwho has a lot of connections? What do you think?\""
                             ]
                         },
                         {
@@ -6346,14 +5436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_true]\\FF[nako_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰に？菫さんとか？」"
+                                "\\F[beni_true]\\FF[nako_smile]\\AA[1]Akane: \"Who? Someone like Sumire-san?\""
                             ]
                         },
                         {
@@ -6370,14 +5453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_true]\\FF[nako_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「違う。・・・紅の苦手な人・・・」"
+                                "\\F[beni_true]\\FF[nako_smile]\\AA[2]Nadeshiko: \"No... someone Akane is not fond of...\""
                             ]
                         },
                         {
@@ -6403,14 +5479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鬼塚百合花に協力してもらうってこと！？」"
+                                "\\F[beni_angry2]Akane: \"You mean asking Onizuka Yurika for help?!\""
                             ]
                         },
                         {
@@ -6427,21 +5496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\\{ダメダメダメっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}生徒会長だって容疑者の一人なのに、そんなの！！」"
+                                "\\F[beni_angry2]Akane: \"No way, no way, no way! She's one of the suspects as\nthe student council president, no way!!\""
                             ]
                         },
                         {
@@ -6458,14 +5513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（苦手って言っただけなのに・・・分かっちゃうんだ）"
+                                "\\F[beni_angry2]\\FF[nako_trouble]\\AA[2]Nadeshiko: (Just because I said she's not fond of her... she\nfigured it out.)"
                             ]
                         },
                         {
@@ -6482,21 +5530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも私達が把握していない情報を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "沢山持っていそうじゃない？聞いてみて損はないと思うよ」"
+                                "\\F[beni_angry2]\\FF[nako_smile]\\AA[2]Nadeshiko: \"But don't you think she might have a lot of\ninformation we're not aware of? I think it's worth asking.\""
                             ]
                         },
                         {
@@ -6513,21 +5547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うう・・・でも会長が犯人で・・・怪人なら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達を利用しようとするかも知れないからっ！！」"
+                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]Akane: \"Ugh... But if the president is the culprit and the\nmonster! She might try to use us!!\""
                             ]
                         },
                         {
@@ -6544,21 +5564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だからって時間を無駄にしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助けられる人も助けられないでしょ？」"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]Nadeshiko: \"But if we waste time, we won't be able to save\npeople who could be saved, right?\""
                             ]
                         },
                         {
@@ -6575,21 +5581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もし会長が私達の話を聞いて怪しい素振りをしたら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その時は彼女が怪人なのか・・・わかると思うし」"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]Nadeshiko: \"If the president shows any suspicious behavior\nafter listening to our story... then we'll know if she's the\nmonster.\""
                             ]
                         },
                         {
@@ -6606,14 +5598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そしたら、一石二鳥でしょ？」"
+                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[2]Nadeshiko: \"That way, it'll be killing two birds with one\nstone, right?\""
                             ]
                         },
                         {
@@ -6630,14 +5615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・だ、だけど・・・」"
+                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]Akane: \"...But still...\""
                             ]
                         },
                         {
@@ -6654,21 +5632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_true]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私は生徒会室に行って会長に話を聞くけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅はやめておく？一人でも行くけど・・・？」"
+                                "\\F[beni_trouble]\\FF[nako_true]\\AA[2]Nadeshiko: \"I'm going to the student council room to talk to\nthe president. Are you going to pass, Akane? I'll go alone\nif I have to...?\""
                             ]
                         },
                         {
@@ -6685,14 +5649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_true]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それは駄目！私も行く！！」"
+                                "\\F[beni_angry2]\\FF[nako_true]\\AA[1]Akane: \"No, that's not okay! I'm coming too!!\""
                             ]
                         },
                         {
@@ -6709,14 +5666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ、紅も了解したってことで」"
+                                "\\F[beni_angry2]\\FF[nako_smile]\\AA[2]Nadeshiko: \"Then it's settled that Akane agrees.\""
                             ]
                         },
                         {
@@ -6733,14 +5683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・・」"
+                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]Akane: \"...\""
                             ]
                         },
                         {
@@ -6757,21 +5700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（強引な時の撫子を止められたことがない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来るなら、会長の側から断ってくれたらいいけど・・・）"
+                                "\\F[beni_trouble]\\FF[nako_smile]\\AA[1]Akane: (I've never been able to stop Nadeshiko when she's\nbeing forceful... If only the president would refuse us on\nher own accord...)"
                             ]
                         },
                         {
@@ -7004,21 +5933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この先の屋上、鍵が掛かってるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　入れないんだよね～」"
+                                "Female Student: \"The rooftop ahead is locked, so we can't\nget in, you know~\""
                             ]
                         },
                         {
@@ -7035,14 +5950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ・・・知ってる？そりゃそっか！！」"
+                                "Female Student: \"Ah... You know? Well, of course!!\""
                             ]
                         },
                         {
@@ -7348,21 +6256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へ、変な人が牧瀬さんをこのロッカーに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連れ込んで！」"
+                                "Female Student: \"Hey, some weirdo dragged Makise-san into\nthis locker!\""
                             ]
                         },
                         {
@@ -7379,14 +6273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「変な人ってどんなっ！？」"
+                                "\\F[beni_angry2]Akane: \"What kind of weirdo!?\""
                             ]
                         },
                         {
@@ -7403,14 +6290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あのコウモリマスクみたいなの！？」"
+                                "\\F[nako_trouble]Nadeshiko: \"That one with the bat mask!?\""
                             ]
                         },
                         {
@@ -7427,14 +6307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぬ・・・ヌルヌルしてましたっ！」"
+                                "Female Student: \"It was... all slimy!\""
                             ]
                         },
                         {
@@ -7451,14 +6324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヌルヌル！？」"
+                                "\\F[beni_trouble]Akane: \"Slimy!?\""
                             ]
                         },
                         {
@@ -7475,21 +6341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ま、まずいっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コットンが犯人だったら、ここにいる・・・！）"
+                                "\\F[beni_trouble]Akane: (This is bad!! If Cotton is the culprit, she's\nhere...!)"
                             ]
                         },
                         {
@@ -7506,28 +6358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（もし襲ってきたらエージェントスーツじゃないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "対抗出来ない！撫子に正体がバレちゃう・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも牧瀬さんを助けないとっ・・！）"
+                                "\\F[beni_trouble]Akane: (If she attacks, I can't fight back without my agent\nsuit! Nadeshiko will find out my true identity... But I have\nto save Makise-san..!)"
                             ]
                         },
                         {
@@ -8008,14 +6839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃあっ！」"
+                                "\\F[nako_trouble]Nadeshiko: \"Kyaaah!\""
                             ]
                         },
                         {
@@ -8032,14 +6856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ま、待てっ！！」"
+                                "\\F[beni_trouble]Akane: \"W-Wait!!\""
                             ]
                         },
                         {
@@ -8117,14 +6934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれって・・・似鳥！？」"
+                                "Female Student: \"Was that... Nitotori!?\""
                             ]
                         },
                         {
@@ -8203,14 +7013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「知っているの！？あの怪人が誰か・・・！」"
+                                "\\F[beni_angry2]Akane: \"You know who that monster is!?\""
                             ]
                         },
                         {
@@ -8227,14 +7030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「似鳥さんって・・・水泳部の・・・？」"
+                                "\\F[nako_trouble]Nadeshiko: \"Nitotori-san is... from the swimming club...?\""
                             ]
                         },
                         {
@@ -8251,14 +7047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は、はいっ・・・！」"
+                                "Female Student: \"Y-Yes...!\""
                             ]
                         },
                         {
@@ -8275,14 +7064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「牧瀬さんも確か・・・水泳部だよ」"
+                                "\\F[nako_trouble]Nadeshiko: \"Makise-san is also definitely... from the\nswimming club.\""
                             ]
                         },
                         {
@@ -8299,21 +7081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「コットンも・・・だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロッカーに何が・・・」"
+                                "\\F[beni_angry2]Akane: \"Cotton too... What's happening in the locker...\""
                             ]
                         },
                         {
@@ -8330,14 +7098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う、噂は聞いたことがあります・・・」"
+                                "Female Student: \"I've heard rumors...\""
                             ]
                         },
                         {
@@ -8354,14 +7115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「噂？」"
+                                "\\F[beni_angry2]Akane: \"Rumors?\""
                             ]
                         },
                         {
@@ -8378,21 +7132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「志倉さんがロッカーに入るようになったのって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "似鳥さん達のいじめが原因なんだって・・・」"
+                                "Female Student: \"The reason why Shikura-san started going\ninto the locker was because of bullying by Nitotori-san and\nthe others...\""
                             ]
                         },
                         {
@@ -8409,14 +7149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いじめだって！？」"
+                                "\\F[beni_trouble]Akane: \"Bullying!?\""
                             ]
                         },
                         {
@@ -8433,28 +7166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうです！水泳部のロッカーって大きいところが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多いじゃないですか・・・それだから意地悪する為に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "部活の時間中閉じ込めたりしてた・・・とか・・・」"
+                                "Female Student: \"Yes! The lockers in the swimming club are\nmostly big, right... So they did mean things like locking\nher in during club activities...\""
                             ]
                         },
                         {
@@ -8471,14 +7183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「コットンはいつも閉じ込められてた？」"
+                                "\\F[beni_angry2]Akane: \"Was Cotton always locked in?\""
                             ]
                         },
                         {
@@ -8495,28 +7200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う、噂ですよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、でも・・・似鳥さんや牧瀬さんは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面白がって裸で何時間も・・・なんかは聞いてて・・・」"
+                                "Female Student: \"It's just rumors! But... I've heard that\nNitotori-san and Makise-san would laugh and leave her naked\nfor hours...\""
                             ]
                         },
                         {
@@ -8533,28 +7217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ま、まさか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コットンはロッカーに閉じこもることが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大好きな異常性癖だと思っていたけど・・・）"
+                                "\\F[beni_trouble]Akane: (Could it be... I thought Cotton loved being locked\nup in lockers as some kind of weird fetish...)"
                             ]
                         },
                         {
@@ -8571,28 +7234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（もしかして、逆なのか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”閉じ込めるのが大好き”な似鳥さんの被害者が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コットン！？）"
+                                "\\F[beni_trouble]Akane: (Could it be the opposite? That Cotton is a victim of\nNitotori-san, who loves \"locking people up\"!? )"
                             ]
                         },
                         {
@@ -8609,21 +7251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ああやって・・・自分から入っているように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言っているのも似鳥さんに命令されたからとか・・・！）"
+                                "\\F[beni_trouble]Akane: (And the way she says she goes in there by herself...\nmaybe it's because Nitotori-san ordered her to...!)"
                             ]
                         },
                         {
@@ -8640,21 +7268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「と、ともかくっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきのが似鳥さんなら・・・早く捜さないとっ！」"
+                                "\\F[nako_trouble]Nadeshiko: \"Anyway! If that was Nitotori-san just now... we\nhave to find her quickly!\""
                             ]
                         },
                         {
@@ -8671,14 +7285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああっ！他の被害者が出る前にっ！！」"
+                                "\\F[beni_angry2]Akane: \"Yes! Before any other victims appear!!\""
                             ]
                         },
                         {
@@ -9227,14 +7834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそっ！！」"
+                                "\\F[beni_angry2]Akane: \"Damn it!!\""
                             ]
                         },
                         {
@@ -9260,14 +7860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！？・・・やっぱり・・・」"
+                                "\\FF[nako_trouble]Nadeshiko: \"!?...I knew it...\""
                             ]
                         },
                         {
@@ -9329,14 +7922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どういうこと！？」"
+                                "\\F[beni_angry2]Akane: \"What do you mean!? \""
                             ]
                         },
                         {
@@ -9353,21 +7939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きっと似鳥さんに似た怪人に狙われているのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水泳部の人たちに違いないわ」"
+                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]Nadeshiko: \"It must be the swimming club members who are\nbeing targeted by a monster resembling Mr. Nitori.\""
                             ]
                         },
                         {
@@ -9384,14 +7956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっきの子も水泳部の子だから」"
+                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]Nadeshiko: \"Because that girl from before was also in the\nswimming club.\""
                             ]
                         },
                         {
@@ -9408,14 +7973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「噂って言ってたけど、本当のことに違いない・・・と思う」"
+                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]Nadeshiko: \"They said it was just a rumor, but I'm sure it's\ntrue... I think.\""
                             ]
                         },
                         {
@@ -9432,28 +7990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ水泳部が狙われるってことなのか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "似鳥さんを捕まえるには・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水泳部の子を何とか確保しないと！」"
+                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[1]Akane: \"So the swimming club is being targeted! To catch Mr.\nNitori... we have to somehow secure one of the swimming club\ngirls!\""
                             ]
                         },
                         {
@@ -9470,21 +8007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私達の捜査が役に立ちそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌だけどもう一度、鷲尾先生のところに行きましょう！」"
+                                "\\F[beni_angry2]\\FF[nako_angry]\\AA[2]Nadeshiko: \"Our investigation might pay off. I don't like\nit, but let's go to Mr. Washio's place again!\""
                             ]
                         },
                         {
@@ -9501,21 +8024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ、あんなヤツの！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そうかっ・・・！アイツは水泳部の顧問だから！！」"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[1]Akane: \"To that guy's place!? Oh, right...! He's the advisor\nfor the swimming club!!\""
                             ]
                         },
                         {
@@ -9532,14 +8041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うまくいけば捜さずに、全員を呼び出せる！」"
+                                "\\F[beni_trouble]\\FF[nako_angry]\\AA[2]Nadeshiko: \"If we're lucky, we can call everyone out without\nhaving to search!\""
                             ]
                         },
                         {

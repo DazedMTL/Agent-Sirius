@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "化学室",
+    "displayName": "Chemistry Lab",
     "encounterList": [],
     "encounterStep": 30,
     "height": 24,
@@ -4331,14 +4331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "南"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だ～れだ？」"
+                                "Minami: \"Guess who?\""
                             ]
                         },
                         {
@@ -4356,14 +4349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「南先輩！目隠しなんて・・・また・・・！！」"
+                                "\\F[beni_trouble]Akane: \"Minami-senpai! A blindfold... again...!!\""
                             ]
                         },
                         {
@@ -4451,14 +4437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "南"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだと思う？」"
+                                "Minami: \"What do you think it is?\""
                             ]
                         },
                         {
@@ -4476,14 +4455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは・・・」"
+                                "\\F[beni_trouble]Akane: \"That is...\""
                             ]
                         },
                         {
@@ -4501,14 +4473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ・・・！」"
+                                "\\F[beni_trouble]Akane: \"Ngh...!\""
                             ]
                         },
                         {
@@ -4586,14 +4551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_damage]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「と、とにかく、離れないと！！」"
+                                "\\F[beni_damage]Akane: \"A-anyway, we need to get away!!\""
                             ]
                         },
                         {

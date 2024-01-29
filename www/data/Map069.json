@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "１Ｂ教室",
+    "displayName": "Classroom 1B",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4169,21 +4169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ・・・目隠しって最高だよね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最初はびっくりしたけど本当に気づけて良かったぁ～❤」"
+                                "Female Student: \"Ahh... blindfolds are the best, aren't\nthey?♪ I was surprised at first, but I'm really glad I\ndiscovered it~❤\""
                             ]
                         },
                         {
@@ -4261,21 +4247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも私がこの良さを教えてあげようと思ったのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんで逃げるかな・・・まったくあの子は」"
+                                "Female Student: \"But I wanted to share this wonderful\nexperience with her, why did she run away... Really, that\ngirl...\""
                             ]
                         },
                         {
@@ -4292,14 +4264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この子もマスク拾った口か・・・）"
+                                "\\F[beni_trouble]Akane Suzaku: \"(So this girl also picked up one of those\nmasks...)\""
                             ]
                         },
                         {
@@ -4316,21 +4281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（後遺症が残っている人が予想以上に多い・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何とかしないと）"
+                                "\\F[beni_trouble]Akane Suzaku: \"(There are more people suffering from\naftereffects than I expected... I have to do something about\nit.)\""
                             ]
                         },
                         {
@@ -4622,21 +4573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おおっ！さすが先輩。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうです？一緒にロッカーの中で愉しみませんか？」"
+                                "Deneve: \"Wow! As expected of you, Senpai. How about it?\nShall we enjoy ourselves together inside the locker?\""
                             ]
                         },
                         {
@@ -4654,21 +4591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ということは・・・デネヴは・・・」"
+                                "\\F[beni_close1]Akane Suzaku: \"Nyu~ru~♪ So that means... Deneve is...\""
                             ]
                         },
                         {
@@ -4686,21 +4609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩と同じ、ご主人様の奴隷にして頂きましたぁ♪」"
+                                "Deneve: \"Nyu~ru~♪ Just like you, Senpai, I have been made a\nslave to our Master♪\""
                             ]
                         },
                         {
@@ -4717,28 +4626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どう？ロッカーに隠れ慣れている君でも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ニュルニュルは格別だろ？」"
+                                "\\F[beni_close1]Akane Suzaku: \"Fufufu♪ How is it? Even for someone used to\nhiding in lockers like you, the slippery sensation is\nexceptional, isn't it?\""
                             ]
                         },
                         {
@@ -4755,28 +4643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は、はいっ！！もう別次元ですよっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今までこんな素敵なことを知らなかったなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・恥ずかしい♪」"
+                                "Deneve: \"Ye-yes!! It's like a whole different dimension!! To\nthink I never knew such a wonderful thing before... I'm so\nembarrassed♪\""
                             ]
                         },
                         {
@@ -4793,14 +4660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だよね♪ちょっとだけ・・・私も入ってもいいかな？」"
+                                "\\F[beni_close1]Akane Suzaku: \"Right?♪ Just for a little bit... may I join\nin too?\""
                             ]
                         },
                         {
@@ -4818,21 +4678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それは・・・お、恐れ多いですっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私なんかが先輩に・・・！！」"
+                                "Deneve: \"Th-that's... I'm unworthy of such an honor! For\nsomeone like me to be with Senpai...!!\""
                             ]
                         },
                         {
@@ -4850,21 +4696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「少しだけ・・・可愛がってあげるっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう我慢出来ないっ・・・！！」"
+                                "\\F[beni_close1]Akane Suzaku: \"Just for a little... I'll give you some love!\nI can't hold back anymore...!!\""
                             ]
                         },
                         {
@@ -4936,21 +4768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先輩っ！！ああっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お慕い申しておりますぅぅぅっ♪」"
+                                "Deneve: \"Senpai!! Ahh...!! I adore you so muchhh♪\""
                             ]
                         },
                         {
@@ -4968,14 +4786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うひぃぃぃんっ・・・最高っ♪」"
+                                "Deneve: \"Uhi~i~in... It's the best♪\""
                             ]
                         },
                         {
@@ -5182,14 +4993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ❤はぁ❤最高・・・♪」"
+                                "Deneve: \"Haa❤ Haa❤ The best...♪\""
                             ]
                         },
                         {
@@ -5266,7 +5070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガタガタ・・・❤"
+                                "Clatter...❤"
                             ]
                         },
                         {
@@ -5283,21 +5087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいっ❤これっ♪にゅるにゅるっ❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いい～❤」"
+                                "Female Student: \"Good❤ This♪ So slippery❤ Nice～❤\""
                             ]
                         },
                         {

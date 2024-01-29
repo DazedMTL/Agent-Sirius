@@ -1435,14 +1435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_laugh]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「瓜川ともダチに戻んねぇとッスからね♪」"
+                                "\\FF[ama_laugh]Amma: \"We've got to become friends with Urigawa again,\ny'know♪\""
                             ]
                         },
                         {
@@ -1584,28 +1577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（お巡りさんは仲間にしておきたいな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学園から逃げ出そうとする不届きな子がいたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捕まえて貰わないと・・・）"
+                                "\\F[beni_mizugi1]Akane: \"I'd like to keep the policewoman on our side... If\nany naughty kids try to escape from the academy, we'll need\nher to catch them...\""
                             ]
                         },
                         {
@@ -1622,21 +1594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（だから、桔梗さんはあっちに行ってほしいけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたものか・・・）"
+                                "\\F[beni_mizugi1]Akane: \"So, I want Kikyo-san to go over there, but... what\nto do...\""
                             ]
                         },
                         {
@@ -1653,21 +1611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、朱雀さん。こちらは私のお姉様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警ら活動をして頂いている」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[2]Kikyo: \"Ah, Suzaku-san. This is my older sister. She's been\npatrolling for us.\""
                             ]
                         },
                         {
@@ -1684,14 +1628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうも」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[1]Akane: \"Nice to meet you.\""
                             ]
                         },
                         {
@@ -1708,21 +1645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私こそどうもです。桔梗がお世話になっています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子突っ走るところがあるから・・・大変でしょ？」"
+                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[2]Momoha: \"The pleasure is mine. Kikyo has been in your care.\nShe tends to rush into things... must be tough, right?\""
                             ]
                         },
                         {
@@ -1739,14 +1662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや・・・そんなことは・・・」"
+                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]Akane: \"No... it's not like that...\""
                             ]
                         },
                         {
@@ -1816,14 +1732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_trouble]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お姉様。友人を困らせては・・・」"
+                                "\\FF[kikyou_trouble]Kikyo: \"Sister, you shouldn't trouble a friend...\""
                             ]
                         },
                         {
@@ -1871,21 +1780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「事情聴取よ。桔梗が迷惑をかけているなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "姉として把握しておきたい、ってだけ」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]Momoha: \"It's just an inquiry. If Kikyo is causing trouble,\nas her sister, I want to know about it.\""
                             ]
                         },
                         {
@@ -1902,14 +1797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それが困らせている・・・ってことですよ！」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"Th-that's what I mean by troubling...!\""
                             ]
                         },
                         {
@@ -1988,14 +1876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[kikyou_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗って・・・お姉さんのこと苦手なの？」"
+                                "\\F[beni_mizugi3]\\FF[kikyou_trouble]\\AA[1]Akane: \"Kikyo, do you have trouble dealing with your\nsister?\""
                             ]
                         },
                         {
@@ -2012,28 +1893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[kikyou_angry]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「苦手！？そんな訳ないっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも尊敬しているし、私の目標だっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでも私は・・・！！」"
+                                "\\F[beni_mizugi3]\\FF[kikyou_angry]\\AA[2]Kikyo: \"Trouble!? Not at all!! I always respect her and\nshe's my goal!! I always...!!\""
                             ]
                         },
                         {
@@ -2050,21 +1910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「将来の夢は警察官だもんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉ちゃんになりたいって訳だ！」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_angry]\\AA[1]Akane: \"Your dream is to be a policewoman, right? You want\nto be like your sister!\""
                             ]
                         },
                         {
@@ -2081,14 +1927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぐっ・・・！！」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"Ugh...!!\""
                             ]
                         },
                         {
@@ -2136,14 +1975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おお・・・ほうほう・・・（まじまじ）」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]Momoha: \"Oh... I see... (intently)\""
                             ]
                         },
                         {
@@ -2191,14 +2023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は・・・恥ずかしいっ・・・」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"It's... embarrassing...\""
                             ]
                         },
                         {
@@ -2215,21 +2040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな目で見ないで・・・くれっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉様っ・・・！！ああっ・・・！！！」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"Don't look at me with those eyes... please!!\nSister...!! Ahh...!!\""
                             ]
                         },
                         {
@@ -2494,14 +2305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ・・・逃げた」"
+                                "\\F[beni_mizugi3]Akane: \"Ah... she ran away.\""
                             ]
                         },
                         {
@@ -2604,28 +2408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昔から恥ずかしがり屋さんだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直情的なのも・・・変わらないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだまだ心配よ」"
+                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[2]Momoha: \"She's always been shy. And her impulsiveness hasn't\nchanged either. I'm still worried about her.\""
                             ]
                         },
                         {
@@ -2643,14 +2426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私も・・・心配です」"
+                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]Akane: \"I'm worried too.\""
                             ]
                         },
                         {
@@ -2667,21 +2443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「目標にしているのが・・・貴方程度の人だなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "桔梗が立派なレディになれないと思うんです♪」"
+                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[1]Akane: \"Having someone like you as her role model... I doubt\nKikyo will grow up to be a fine lady♪\""
                             ]
                         },
                         {
@@ -2698,14 +2460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・？」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]Momoha: \"Eh...?\""
                             ]
                         },
                         {
@@ -2722,21 +2477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから・・・相応しい姿にお姉さんも変わらないと♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "柱の影に・・・桔梗に見つからないように♪」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]Akane: \"That's why you need to change into a suitable figure\ntoo♪ Behind the pillar... so Kikyo won't find you♪\""
                             ]
                         },
                         {
@@ -2753,21 +2494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど、どういうこと・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え・・・ええっ・・・！？」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]Momoha: \"What do you mean...? Eh... eehh...!? \""
                             ]
                         },
                         {
@@ -2784,21 +2511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「変わって・・・仲間になって・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様のお役に立ちましょうっ！！」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]Akane: \"Change and... become one of us...!! Let's be useful\nto our master!!\""
                             ]
                         },
                         {
@@ -2821,21 +2534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「警察官を襲うつもり！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああっ！！な、なにこれぇぇぇっ・・・♪」"
+                                "Momoha: \"You plan to attack a policewoman!? Aahh!! Wh-what\nis thisss...♪\""
                             ]
                         },
                         {
@@ -2853,14 +2552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはははぁぁん・・・ニュルニュルがぁ・・・」"
+                                "Momoha: \"Ahahahaahnn... The slimy stuff is...\""
                             ]
                         },
                         {
@@ -2878,14 +2570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗のお姉ちゃんに相応しいぃぃ・・・私にぃぃぃっ♪」"
+                                "Momoha: \"Becoming a sister worthy of Kikyo... for meee♪\""
                             ]
                         },
                         {
@@ -2903,14 +2588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああああっ・・・くひぃぃぃっんっ♪」"
+                                "Momoha: \"Aaaaahhh... kuhiiiiinnn♪\""
                             ]
                         },
                         {
@@ -2971,21 +2649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗のお姉さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方の任務は・・・なんですか？」"
+                                "\\F[beni_close1]Akane: \"Kikyo's sister, what is your mission?\""
                             ]
                         },
                         {
@@ -3002,28 +2666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰も取り逃がさないことだわ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "万が一、逃げ出そうとしたら・・・」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"Nyyururu~♪ To not let anyone escape♪ If by chance\nsomeone tries to run away...\""
                             ]
                         },
                         {
@@ -3040,14 +2683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私がニュルニュルで絡め取って、端に追い詰めちゃう♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"I'll entangle them with my slimy stuff and corner\nthem♪\""
                             ]
                         },
                         {
@@ -3064,28 +2700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「期待していてもらって構わないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの子が誇れる姉として・・・完璧に任務を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こなしてみせるから♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"You can count on me. As a sister Kikyo can be proud\nof... I'll perfectly complete my mission♪\""
                             ]
                         },
                         {
@@ -3102,21 +2717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは良かった。頼もしい♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし桔梗が帰ってきたら・・・？」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]Akane: \"That's good to hear. You're reliable♪ What if Kikyo\ncomes back...?\""
                             ]
                         },
                         {
@@ -3133,21 +2734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「同じことよ。尊敬する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私と同じになってもらうだけ・・・ふふふっ♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"The same thing. She'll just have to become like the\nsister she respects... fufufu♪\""
                             ]
                         },
                         {
@@ -3164,21 +2751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「立派なお姉さんだ、桔梗も喜ぶと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思います♪ふふふっ・・・♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]Akane: \"You're a splendid sister; Kikyo will be happy, I\nthink♪ Fufufu...♪\""
                             ]
                         },
                         {
@@ -3406,21 +2979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（み、見つけたけど・・・話しかけずらい・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風紀委員長とビッチギャルの組み合わせなんて・・・）"
+                                "\\F[beni_trouble]Akane: (I found them, but... it's hard to approach them...\nThe combination of the Morals Committee President and a\nbitchy gal...)"
                             ]
                         },
                         {
@@ -3476,21 +3035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日こそはきっちりとした服装に戻ってもらいます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前まで出来ていたんだから、出来るはずでしょ？」"
+                                "Fuuka: \"Today, I will make sure you return to proper attire!\nYou were able to do it before, so you should be able to do\nit again, right?\""
                             ]
                         },
                         {
@@ -3507,21 +3052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リボンをきっちりと結んで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しっかりと首元まで上げてっ！」"
+                                "Fuuka: \"Tie your ribbon properly and make sure it's pulled\nup all the way to your neck!\""
                             ]
                         },
                         {
@@ -3547,28 +3078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_angry]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっせ～っ・・・うっぜぇっ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前が好きにやってりゃいいじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしは関係ないっての」"
+                                "\\FF[ama_angry]Amma: \"Shut up... So annoying! Just do whatever you like. I\nhave nothing to do with it.\""
                             ]
                         },
                         {
@@ -3585,21 +3095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「関係ありますっ！後輩達が真似したりしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんどんと学園全体の風紀が乱れていくんですから！」"
+                                "Fuuka: \"It does involve you! If the underclassmen start\nimitating you, the school's morals will deteriorate more and\nmore!\""
                             ]
                         },
                         {
@@ -3616,21 +3112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_smile]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいじゃん。皆、好き勝手やれば、さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "堅苦しいこと言わずにさぁ～」"
+                                "\\FF[ama_smile]Amma: \"Who cares. Let everyone do as they please. Don't be\nso uptight~\""
                             ]
                         },
                         {
@@ -3647,21 +3129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「皆が好き勝手にやったら、ただただ荒れるだけだわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "汚らしい学園で過ごしたいの？貴方・・・」"
+                                "Fuuka: \"If everyone does as they please, it will only lead\nto chaos. Do you want to spend your time in a filthy school?\nYou...\""
                             ]
                         },
                         {
@@ -3678,21 +3146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ひ、火に油過ぎる・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に相容れない・・・）"
+                                "\\F[beni_trouble]Akane: (This is like pouring oil on the fire... They're\nabsolutely incompatible...)"
                             ]
                         },
                         {
@@ -3709,28 +3163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（仲良く出来るはずがない・・・止めに入るべきか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、でも・・・私もリボンとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "注意されてるから逆効果かも？）"
+                                "\\F[beni_trouble]Akane: (They can't possibly get along... Should I step in?\nBut... I've also been warned about my ribbon, so it might\nbackfire?)"
                             ]
                         },
                         {
@@ -3747,14 +3180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ど・・・どうする・・・？）"
+                                "\\F[beni_trouble]Akane: (What... What should I do...?)"
                             ]
                         },
                         {
@@ -3780,28 +3206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_laugh]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ま、そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きれいな方がいいかなって、あーしも思うけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キラキラしてる方がテンション上がるし♪」"
+                                "\\FF[ama_laugh]Amma: \"Well, maybe. I think a clean look might be better\ntoo. Sparkly things make me feel more excited♪\""
                             ]
                         },
                         {
@@ -3827,21 +3232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そうでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから校則を守って、模範的な生徒になって」"
+                                "Fuuka: \"That's right. So follow the school rules and become\na model student.\""
                             ]
                         },
                         {
@@ -3858,21 +3249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「貴方の事を心配している"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・図書委員の瓜川さんを安心させてあげなさい」"
+                                "Fuuka: \"You should ease the worries of... Urakawa-san from\nthe library committee who is concerned about you.\""
                             ]
                         },
                         {
@@ -3889,21 +3266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_laugh]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そーッスね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツもそろそろダチに戻んねぇとッスね♪」"
+                                "\\FF[ama_laugh]Amma: \"That's true. Gotta go back to being friends with her\nsoon♪\""
                             ]
                         },
                         {
@@ -3920,21 +3283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、まさかこの二人が和解するなんて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかして亜麻は思っていたよりも素直？）"
+                                "\\F[beni_trouble]Akane: (No way, these two reconciling! Could it be that Amma\nis more honest than I thought?)"
                             ]
                         },
                         {
@@ -3951,21 +3300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（事件の犯人じゃないのかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただの跳ねっ返りなだけ・・・？う～ん・・・）"
+                                "\\F[beni_trouble]Akane: (Maybe she's not the culprit after all. Just a\nrebellious girl...? Hmm...)"
                             ]
                         },
                         {
@@ -3994,28 +3329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいこというじゃんっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そーだよっ！瓜川もオメーみたいに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変態ビッチにしてやらなきゃ、だよなっ♪」"
+                                "???: \"You're saying something good there! That's right! We\ngotta turn Urakawa into a perverted bitch like you, right?♪\""
                             ]
                         },
                         {
@@ -4032,28 +3346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぃ～っすっ！そっすね。アイツ澄まし顔で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本読むの大好きって変人だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハッパの気持ちよさとか知らねえと思うしっ！」"
+                                "???: \"Yup yup! That's right. She loves to read books with a\nstraight face, such a weirdo. She probably doesn't know the\npleasure of getting high!\""
                             ]
                         },
                         {
@@ -4070,21 +3363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰かさんみたいに♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ～っ！！今から愉しみじゃんよっ！！」"
+                                "???: \"Like someone we know♪ Ah~!! I'm looking forward to\nit!!\""
                             ]
                         },
                         {
@@ -4101,28 +3380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ～しもッス！滅茶苦茶に汚してぇ～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グッチャグチャに学校中にマン汁飛び散らして喜ぶ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オナニー狂いにしてやりてぇっ！！」"
+                                "???: \"Me too! I wanna mess her up~!! Turn her into a\nmasturbation-crazed freak who gets off on spraying pussy\njuice all over the school!!\""
                             ]
                         },
                         {
@@ -4139,28 +3397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぎゃはははっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっちゃえっ！やっちゃえっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆で一緒に汚れきって染まっちゃえっ！！」"
+                                "???: \"Gyahahaha!! Go for it! Go for it!! Let's all get dirty\nand stained together!!\""
                             ]
                         },
                         {
@@ -4177,14 +3414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはははははっ・・・！！」"
+                                "???: \"Ahahahahaha...!!\""
                             ]
                         },
                         {
@@ -4288,14 +3518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「分かってくれて良かった！！」"
+                                "Fuuka: \"I'm glad you understand!!\""
                             ]
                         },
                         {
@@ -4437,28 +3660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（お巡りさんは仲間にしておきたいな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学園から逃げ出そうとする不届きな子がいたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捕まえて貰わないと・・・）"
+                                "\\F[beni_mizugi1]Akane: \"I want to keep the policewoman as an ally... If any\nnaughty kids try to escape from the academy, I'll need her\nto catch them...\""
                             ]
                         },
                         {
@@ -4475,21 +3677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（だから、桔梗さんはあっちに行ってほしいけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたものか・・・）"
+                                "\\F[beni_mizugi1]Akane: \"So, I want Kikyo-san to go over there... but what to\ndo...\""
                             ]
                         },
                         {
@@ -4506,21 +3694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、朱雀さん。こちらは私のお姉様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警ら活動をして頂いている」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[2]Kikyo: \"Ah, Suzaku-san. This is my older sister. She's on\npatrol duty.\""
                             ]
                         },
                         {
@@ -4537,14 +3711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうも」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[1]Akane: \"Nice to meet you.\""
                             ]
                         },
                         {
@@ -4561,21 +3728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私こそどうもです。桔梗がお世話になっています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子突っ走るところがあるから・・・大変でしょ？」"
+                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[2]Momoha: \"The pleasure is mine. Kikyo has been in your care.\nShe tends to rush into things... must be tough, right?\""
                             ]
                         },
                         {
@@ -4592,14 +3745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや・・・そんなことは・・・」"
+                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]Akane: \"No... it's not like that...\""
                             ]
                         },
                         {
@@ -4669,14 +3815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_trouble]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お姉様。友人を困らせては・・・」"
+                                "\\FF[kikyou_trouble]Kikyo: \"Sister, you shouldn't trouble a friend...\""
                             ]
                         },
                         {
@@ -4724,21 +3863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「事情聴取よ。桔梗が迷惑をかけているなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "姉として把握しておきたい、ってだけ」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]Momoha: \"I'm just conducting an inquiry. If Kikyo has been a\nbother, I want to know as her sister, that's all.\""
                             ]
                         },
                         {
@@ -4755,14 +3880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それが困らせている・・・ってことですよ！」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"Th-that's what I mean by troubling...!\""
                             ]
                         },
                         {
@@ -4841,14 +3959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[kikyou_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗って・・・お姉さんのこと苦手なの？」"
+                                "\\F[beni_mizugi3]\\FF[kikyou_trouble]\\AA[1]Akane: \"Kikyo, do you have trouble dealing with your\nsister?\""
                             ]
                         },
                         {
@@ -4865,28 +3976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[kikyou_angry]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「苦手！？そんな訳ないっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも尊敬しているし、私の目標だっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでも私は・・・！！」"
+                                "\\F[beni_mizugi3]\\FF[kikyou_angry]\\AA[2]Kikyo: \"Trouble!? Not at all!! I always respect her and\nshe's my role model!! I always...\""
                             ]
                         },
                         {
@@ -4903,21 +3993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「将来の夢は警察官だもんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉ちゃんになりたいって訳だ！」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_angry]\\AA[1]Akane: \"Your dream is to become a police officer, right? You\nwant to be like your sister!\""
                             ]
                         },
                         {
@@ -4934,14 +4010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぐっ・・・！！」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"Ugh...!!\""
                             ]
                         },
                         {
@@ -4989,14 +4058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おお・・・ほうほう・・・（まじまじ）」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]Momoha: \"Oh... I see... (intently)\""
                             ]
                         },
                         {
@@ -5044,14 +4106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は・・・恥ずかしいっ・・・」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"It's... embarrassing...\""
                             ]
                         },
                         {
@@ -5068,21 +4123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな目で見ないで・・・くれっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉様っ・・・！！ああっ・・・！！！」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"Don't look at me with those eyes... please!!\nSister...!! Ahh...!!\""
                             ]
                         },
                         {
@@ -5347,14 +4388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ・・・逃げた」"
+                                "\\F[beni_mizugi3]Akane: \"Ah... she ran away.\""
                             ]
                         },
                         {
@@ -5457,28 +4491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昔から恥ずかしがり屋さんだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直情的なのも・・・変わらないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだまだ心配よ」"
+                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[2]Momoha: \"She's always been shy. And impulsive too... that\nhasn't changed. I'm still worried about her.\""
                             ]
                         },
                         {
@@ -5496,14 +4509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私も・・・心配です」"
+                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]Akane: \"I'm worried too.\""
                             ]
                         },
                         {
@@ -5520,21 +4526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「目標にしているのが・・・貴方程度の人だなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "桔梗が立派なレディになれないと思うんです♪」"
+                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[1]Akane: \"Having someone like you as a role model... I'm\nafraid Kikyo won't grow up to be a proper lady♪\""
                             ]
                         },
                         {
@@ -5551,14 +4543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・？」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]Momoha: \"Eh...?\""
                             ]
                         },
                         {
@@ -5575,21 +4560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから・・・相応しい姿にお姉さんも変わらないと♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "柱の影に・・・桔梗に見つからないように♪」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]Akane: \"That's why you need to change into something more\nsuitable♪ Behind the pillar... so Kikyo won't find you♪\""
                             ]
                         },
                         {
@@ -5606,21 +4577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど、どういうこと・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え・・・ええっ・・・！？」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]Momoha: \"What do you mean...? Eh... eehhh...!?\""
                             ]
                         },
                         {
@@ -5637,21 +4594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「変わって・・・仲間になって・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様のお役に立ちましょうっ！！」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]Akane: \"Change and... become an ally...!! Let's be of\nservice to our master!!\""
                             ]
                         },
                         {
@@ -5674,21 +4617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「警察官を襲うつもり！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああっ！！な、なにこれぇぇぇっ・・・♪」"
+                                "Momoha: \"You intend to attack a police officer!? Aaahh!! Wh-\nwhat is thisss...♪\""
                             ]
                         },
                         {
@@ -5706,14 +4635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはははぁぁん・・・ニュルニュルがぁ・・・」"
+                                "Momoha: \"Ahahahaan... the slimy stuff is...\""
                             ]
                         },
                         {
@@ -5731,14 +4653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗のお姉ちゃんに相応しいぃぃ・・・私にぃぃぃっ♪」"
+                                "Momoha: \"Becoming a sister worthy of Kikyo's admiration...\nfor meee♪\""
                             ]
                         },
                         {
@@ -5756,14 +4671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああああっ・・・くひぃぃぃっんっ♪」"
+                                "Momoha: \"Aaaaahh... kuhiiiiinnn♪\""
                             ]
                         },
                         {
@@ -5824,21 +4732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗のお姉さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方の任務は・・・なんですか？」"
+                                "\\F[beni_close1]Akane: \"Kikyo's sister, what is your mission?\""
                             ]
                         },
                         {
@@ -5855,28 +4749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰も取り逃がさないことだわ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "万が一、逃げ出そうとしたら・・・」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"Nyyururu~♪ To not let anyone escape♪ If by chance\nsomeone tries to run away...\""
                             ]
                         },
                         {
@@ -5893,14 +4766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私がニュルニュルで絡め取って、端に追い詰めちゃう♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"I'll wrap them up with my slimy tendrils and corner\nthem♪\""
                             ]
                         },
                         {
@@ -5917,28 +4783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「期待していてもらって構わないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの子が誇れる姉として・・・完璧に任務を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こなしてみせるから♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"You can count on me. As a sister Kikyo can be proud\nof... I'll perfectly complete my mission♪\""
                             ]
                         },
                         {
@@ -5955,21 +4800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは良かった。頼もしい♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし桔梗が帰ってきたら・・・？」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]Akane: \"That's good to hear. You're reliable♪ What if Kikyo\ncomes back...?\""
                             ]
                         },
                         {
@@ -5986,21 +4817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「同じことよ。尊敬する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私と同じになってもらうだけ・・・ふふふっ♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"The same applies. She'll just have to become like\nher respected sister... fufufu♪\""
                             ]
                         },
                         {
@@ -6017,21 +4834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「立派なお姉さんだ、桔梗も喜ぶと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思います♪ふふふっ・・・♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]Akane: \"You're a splendid sister, Kikyo will be happy, I\nthink♪ Fufufu...♪\""
                             ]
                         },
                         {
@@ -6179,14 +4982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お巡りさん、巡回ご苦労さまです」"
+                                "\\F[beni_smile]Akane: \"Officer, thank you for your hard work patrolling.\""
                             ]
                         },
                         {
@@ -6203,21 +4999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[momoha_smile]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういえば、青龍桔梗は貴方のお友達？」"
+                                "\\F[beni_smile]\\FF[momoha_smile]\\AA[2]Momoha: \"Thank you. By the way, is Seiryu Kikyo a friend of\nyours?\""
                             ]
                         },
                         {
@@ -6234,14 +5016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は、はい・・・クラスメイトです！」"
+                                "\\F[beni_smile]\\FF[momoha_smile]\\AA[1]Akane: \"Ye-yes... She's my classmate!\""
                             ]
                         },
                         {
@@ -6258,21 +5033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[momoha_smile]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「実は私の妹なの。彼女。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色々と忙しない子だから迷惑かけてないか、って思って」"
+                                "\\F[beni_smile]\\FF[momoha_smile]\\AA[2]Momoha: \"Actually, she's my little sister. She's quite a\nbusy girl, so I was wondering if she's been causing any\ntrouble...\""
                             ]
                         },
                         {
@@ -6289,21 +5050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「青龍さんのお姉さん！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いえいえ・・・迷惑だなんて」"
+                                "\\F[beni_trouble]\\FF[momoha_smile]\\AA[1]Akane: \"Seiryu-san's older sister!? No, no... Not at all a\nbother.\""
                             ]
                         },
                         {
@@ -6320,21 +5067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_smile]\\FF[momoha_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すごく頼りがいのある、しっかりした女性です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お巡りさんみたいな」"
+                                "\\F[nako_smile]\\FF[momoha_smile]\\AA[1]Nadeshiko: \"She's a very reliable and solid woman. Just like\nan officer.\""
                             ]
                         },
                         {
@@ -6351,21 +5084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_smile]\\FF[momoha_smile]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良かったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと心配なトコがあるから・・・」"
+                                "\\F[nako_smile]\\FF[momoha_smile]\\AA[2]Momoha: \"I'm glad to hear that. I've been a bit worried...\""
                             ]
                         },
                         {
@@ -6382,14 +5101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（その気持ちは分かる気がする・・・）"
+                                "\\F[beni_trouble]\\FF[momoha_smile]\\AA[1]Akane: (I think I understand that feeling...)"
                             ]
                         },
                         {
@@ -6549,14 +5261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[momoha_smile]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗をよろしくね！！」"
+                                "\\FF[momoha_smile]Momoha: \"Please take good care of Kikyo!!\""
                             ]
                         },
                         {
@@ -6625,21 +5330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪異常なし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰も取り逃がしていないわ♪」"
+                                "Momoha: \"Nyururu~♪ All clear. We haven't let anyone escape♪\""
                             ]
                         },
                         {
@@ -6707,21 +5398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[momoha_close]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪異常なし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰も取り逃がしていないわ♪」"
+                                "\\FF[momoha_close]Momoha: \"Nyururu~♪ All clear. We haven't let anyone escape♪\""
                             ]
                         },
                         {
@@ -6983,28 +5660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（お巡りさんは仲間にしておきたいな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学園から逃げ出そうとする不届きな子がいたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捕まえて貰わないと・・・）"
+                                "\\F[beni_mizugi1]Akane: \"I'd like to keep the policewoman on our side... If\nany naughty kids try to escape from the academy, we'll need\nher to catch them...\""
                             ]
                         },
                         {
@@ -7021,21 +5677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（だから、桔梗さんはあっちに行ってほしいけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたものか・・・）"
+                                "\\F[beni_mizugi1]Akane: \"So, I want Kikyo-san to go over there... but what to\ndo...\""
                             ]
                         },
                         {
@@ -7052,21 +5694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、朱雀さん。こちらは私のお姉様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警ら活動をして頂いている」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[2]Kikyo: \"Ah, Suzaku-san. This is my older sister. She's on\npatrol duty.\""
                             ]
                         },
                         {
@@ -7083,14 +5711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうも」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[1]Akane: \"Nice to meet you.\""
                             ]
                         },
                         {
@@ -7107,21 +5728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私こそどうもです。桔梗がお世話になっています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子突っ走るところがあるから・・・大変でしょ？」"
+                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[2]Momoha: \"The pleasure is mine. Kikyo has been in your care.\nShe tends to rush into things... must be tough, right?\""
                             ]
                         },
                         {
@@ -7138,14 +5745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや・・・そんなことは・・・」"
+                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]Akane: \"No... it's not like that...\""
                             ]
                         },
                         {
@@ -7215,14 +5815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_trouble]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お姉様。友人を困らせては・・・」"
+                                "\\FF[kikyou_trouble]Kikyo: \"Sister, you shouldn't trouble my friend...\""
                             ]
                         },
                         {
@@ -7270,21 +5863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「事情聴取よ。桔梗が迷惑をかけているなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "姉として把握しておきたい、ってだけ」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]Momoha: \"I'm just conducting an inquiry. If Kikyo has been a\nbother, I want to know as her sister, that's all.\""
                             ]
                         },
                         {
@@ -7301,14 +5880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それが困らせている・・・ってことですよ！」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"Th-that's what I mean by troubling...!\""
                             ]
                         },
                         {
@@ -7387,14 +5959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[kikyou_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗って・・・お姉さんのこと苦手なの？」"
+                                "\\F[beni_mizugi3]\\FF[kikyou_trouble]\\AA[1]Akane: \"Kikyo, are you... not good with your sister?\""
                             ]
                         },
                         {
@@ -7411,28 +5976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[kikyou_angry]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「苦手！？そんな訳ないっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも尊敬しているし、私の目標だっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでも私は・・・！！」"
+                                "\\F[beni_mizugi3]\\FF[kikyou_angry]\\AA[2]Kikyo: \"Not good with her!? That's not it at all!! I always\nrespect her, she's my role model!! I always...\""
                             ]
                         },
                         {
@@ -7449,21 +5993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「将来の夢は警察官だもんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉ちゃんになりたいって訳だ！」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_angry]\\AA[1]Akane: \"Your dream is to become a police officer, right? You\nwant to be like your sister!\""
                             ]
                         },
                         {
@@ -7480,14 +6010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぐっ・・・！！」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"Ugh...!!\""
                             ]
                         },
                         {
@@ -7535,14 +6058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おお・・・ほうほう・・・（まじまじ）」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]Momoha: \"Oh... I see... (intently)\""
                             ]
                         },
                         {
@@ -7590,14 +6106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は・・・恥ずかしいっ・・・」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"It's... embarrassing...\""
                             ]
                         },
                         {
@@ -7614,21 +6123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな目で見ないで・・・くれっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉様っ・・・！！ああっ・・・！！！」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"Don't look at me with those eyes... please!!\nSister...!! Ahh...!!\""
                             ]
                         },
                         {
@@ -7893,14 +6388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ・・・逃げた」"
+                                "\\F[beni_mizugi3]Akane: \"Ah... she ran away.\""
                             ]
                         },
                         {
@@ -8003,28 +6491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昔から恥ずかしがり屋さんだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直情的なのも・・・変わらないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだまだ心配よ」"
+                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[2]Momoha: \"She's always been shy. And impulsive too... that\nhasn't changed. I'm still worried about her.\""
                             ]
                         },
                         {
@@ -8042,14 +6509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私も・・・心配です」"
+                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]Akane: \"I'm worried too.\""
                             ]
                         },
                         {
@@ -8066,21 +6526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「目標にしているのが・・・貴方程度の人だなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "桔梗が立派なレディになれないと思うんです♪」"
+                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[1]Akane: \"Having someone like you as a role model... I'm\nafraid Kikyo won't grow up to be a proper lady♪\""
                             ]
                         },
                         {
@@ -8097,14 +6543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・？」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]Momoha: \"Eh...?\""
                             ]
                         },
                         {
@@ -8121,21 +6560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから・・・相応しい姿にお姉さんも変わらないと♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "柱の影に・・・桔梗に見つからないように♪」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]Akane: \"That's why you need to change into something more\nsuitable♪ Hide in the shadow of the pillar... so Kikyo won't\nfind you♪\""
                             ]
                         },
                         {
@@ -8152,21 +6577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど、どういうこと・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え・・・ええっ・・・！？」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]Momoha: \"What do you mean...? Eh... eehhh...!?\""
                             ]
                         },
                         {
@@ -8183,21 +6594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「変わって・・・仲間になって・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様のお役に立ちましょうっ！！」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]Akane: \"Change and... join us...!! Let's be of service to\nour master!!\""
                             ]
                         },
                         {
@@ -8220,21 +6617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「警察官を襲うつもり！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああっ！！な、なにこれぇぇぇっ・・・♪」"
+                                "Momoha: \"You intend to attack a police officer!? Aaahh!! Wh-\nwhat is thisss...♪\""
                             ]
                         },
                         {
@@ -8252,14 +6635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはははぁぁん・・・ニュルニュルがぁ・・・」"
+                                "Momoha: \"Ahahahaahnnn... The slimy stuff is...\""
                             ]
                         },
                         {
@@ -8277,14 +6653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗のお姉ちゃんに相応しいぃぃ・・・私にぃぃぃっ♪」"
+                                "Momoha: \"Becoming a sister worthy of Kikyo's\nadmirationnnn... for meee♪\""
                             ]
                         },
                         {
@@ -8302,14 +6671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああああっ・・・くひぃぃぃっんっ♪」"
+                                "Momoha: \"Aaaaahhh... kuhiiiiinnn♪\""
                             ]
                         },
                         {
@@ -8370,21 +6732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗のお姉さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方の任務は・・・なんですか？」"
+                                "\\F[beni_close1]Akane: \"Kikyo's sister, what is your mission...?\""
                             ]
                         },
                         {
@@ -8401,28 +6749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰も取り逃がさないことだわ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "万が一、逃げ出そうとしたら・・・」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"Nyyururruu~♪ To not let anyone escape♪ If by chance\nsomeone tries to run away...\""
                             ]
                         },
                         {
@@ -8439,14 +6766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私がニュルニュルで絡め取って、端に追い詰めちゃう♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"I'll wrap them up with my slimy tentacles and\ncorner them♪\""
                             ]
                         },
                         {
@@ -8463,28 +6783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「期待していてもらって構わないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの子が誇れる姉として・・・完璧に任務を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こなしてみせるから♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"You can count on me. As a sister Kikyo can be proud\nof... I'll perfectly complete my mission♪\""
                             ]
                         },
                         {
@@ -8501,21 +6800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは良かった。頼もしい♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし桔梗が帰ってきたら・・・？」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]Akane: \"That's reassuring. You're dependable♪ What if Kikyo\ncomes back...?\""
                             ]
                         },
                         {
@@ -8532,21 +6817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「同じことよ。尊敬する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私と同じになってもらうだけ・・・ふふふっ♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"The same applies. She'll just have to become like\nher admirable sister... fufufu♪\""
                             ]
                         },
                         {
@@ -8563,21 +6834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「立派なお姉さんだ、桔梗も喜ぶと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思います♪ふふふっ・・・♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]Akane: \"You're a splendid sister, Kikyo will be happy, I\nthink♪ Fufufu...♪\""
                             ]
                         },
                         {
@@ -8799,28 +7056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（お巡りさんは仲間にしておきたいな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学園から逃げ出そうとする不届きな子がいたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捕まえて貰わないと・・・）"
+                                "\\F[beni_mizugi1]Akane: \"I want to keep the policewoman on our side... If any\nnaughty kids try to escape from the academy, we'll need her\nto catch them...\""
                             ]
                         },
                         {
@@ -8837,21 +7073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（だから、桔梗さんはあっちに行ってほしいけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたものか・・・）"
+                                "\\F[beni_mizugi1]Akane: \"So, I want Kikyo-san to go over there... but what to\ndo...\""
                             ]
                         },
                         {
@@ -8868,21 +7090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、朱雀さん。こちらは私のお姉様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警ら活動をして頂いている」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[2]Kikyo: \"Ah, Suzaku-san. This is my older sister. She's been\npatrolling for us.\""
                             ]
                         },
                         {
@@ -8899,14 +7107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうも」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_smile]\\AA[1]Akane: \"Nice to meet you.\""
                             ]
                         },
                         {
@@ -8923,21 +7124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私こそどうもです。桔梗がお世話になっています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子突っ走るところがあるから・・・大変でしょ？」"
+                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[2]Momoha: \"The pleasure is mine. Kikyo has been in your care.\nShe tends to rush into things... must be tough, right?\""
                             ]
                         },
                         {
@@ -8954,14 +7141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや・・・そんなことは・・・」"
+                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]Akane: \"No... it's not like that...\""
                             ]
                         },
                         {
@@ -9031,14 +7211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_trouble]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お姉様。友人を困らせては・・・」"
+                                "\\FF[kikyou_trouble]Kikyo: \"Sister, you shouldn't trouble my friend...\""
                             ]
                         },
                         {
@@ -9086,21 +7259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「事情聴取よ。桔梗が迷惑をかけているなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "姉として把握しておきたい、ってだけ」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]Momoha: \"I'm just conducting an inquiry. If Kikyo has been a\nbother, I want to know as her sister, that's all.\""
                             ]
                         },
                         {
@@ -9117,14 +7276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それが困らせている・・・ってことですよ！」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"Th-that's what I mean by troubling...!\""
                             ]
                         },
                         {
@@ -9203,14 +7355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[kikyou_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗って・・・お姉さんのこと苦手なの？」"
+                                "\\F[beni_mizugi3]\\FF[kikyou_trouble]\\AA[1]Akane: \"Kikyo... do you have trouble dealing with your\nsister?\""
                             ]
                         },
                         {
@@ -9227,28 +7372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[kikyou_angry]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「苦手！？そんな訳ないっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも尊敬しているし、私の目標だっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでも私は・・・！！」"
+                                "\\F[beni_mizugi3]\\FF[kikyou_angry]\\AA[2]Kikyo: \"Trouble!? Not at all!! I always respect her and\nshe's my role model!! I always...\""
                             ]
                         },
                         {
@@ -9265,21 +7389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「将来の夢は警察官だもんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉ちゃんになりたいって訳だ！」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_angry]\\AA[1]Akane: \"Your dream is to become a police officer, right? You\nwant to be like your sister!\""
                             ]
                         },
                         {
@@ -9296,14 +7406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぐっ・・・！！」"
+                                "\\F[beni_mizugi1]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"Ugh...!!\""
                             ]
                         },
                         {
@@ -9351,14 +7454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おお・・・ほうほう・・・（まじまじ）」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[1]Momoha: \"Oh... I see... (intently)\""
                             ]
                         },
                         {
@@ -9406,14 +7502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は・・・恥ずかしいっ・・・」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"It's... embarrassing...\""
                             ]
                         },
                         {
@@ -9430,21 +7519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな目で見ないで・・・くれっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉様っ・・・！！ああっ・・・！！！」"
+                                "\\F[momoha_smile]\\FF[kikyou_trouble]\\AA[2]Kikyo: \"Don't look at me with those eyes... please!!\nSister...!! Ahh...!!\""
                             ]
                         },
                         {
@@ -9709,14 +7784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ・・・逃げた」"
+                                "\\F[beni_mizugi3]Akane: \"Ah... she ran away.\""
                             ]
                         },
                         {
@@ -9819,28 +7887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昔から恥ずかしがり屋さんだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直情的なのも・・・変わらないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだまだ心配よ」"
+                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[2]Momoha: \"She's always been shy. And impulsive too... that\nhasn't changed. I'm still worried about her.\""
                             ]
                         },
                         {
@@ -9858,14 +7905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私も・・・心配です」"
+                                "\\F[beni_mizugi3]\\FF[momoha_smile]\\AA[1]Akane: \"I'm worried too.\""
                             ]
                         },
                         {
@@ -9882,21 +7922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「目標にしているのが・・・貴方程度の人だなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "桔梗が立派なレディになれないと思うんです♪」"
+                                "\\F[beni_mizugi1]\\FF[momoha_smile]\\AA[1]Akane: \"Having someone like you as her role model... I doubt\nKikyo will ever become a proper lady♪\""
                             ]
                         },
                         {
@@ -9913,14 +7939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・？」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]Momoha: \"Eh...?\""
                             ]
                         },
                         {
@@ -9937,21 +7956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから・・・相応しい姿にお姉さんも変わらないと♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "柱の影に・・・桔梗に見つからないように♪」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]Akane: \"That's why you need to change into something more\nsuitable♪ Behind the pillar... so Kikyo won't find you♪\""
                             ]
                         },
                         {
@@ -9968,21 +7973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど、どういうこと・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え・・・ええっ・・・！？」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[2]Momoha: \"What do you mean...? Eh... eehhh...!?\""
                             ]
                         },
                         {
@@ -9999,21 +7990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「変わって・・・仲間になって・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様のお役に立ちましょうっ！！」"
+                                "\\F[beni_mizugi1]\\FF[momoha_trouble]\\AA[1]Akane: \"Change and... join us...!! Let's be of service to\nour master!!\""
                             ]
                         },
                         {
@@ -10036,21 +8013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「警察官を襲うつもり！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああっ！！な、なにこれぇぇぇっ・・・♪」"
+                                "Momoha: \"You intend to attack a police officer!? Aahh!! Wh-\nwhat is thisss...♪\""
                             ]
                         },
                         {
@@ -10068,14 +8031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはははぁぁん・・・ニュルニュルがぁ・・・」"
+                                "Momoha: \"Ahahahaahnnn... the slimy stuff is...\""
                             ]
                         },
                         {
@@ -10093,14 +8049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗のお姉ちゃんに相応しいぃぃ・・・私にぃぃぃっ♪」"
+                                "Momoha: \"Becoming a sister worthy of Kikyo's\nadmirationnnn... for meee♪\""
                             ]
                         },
                         {
@@ -10118,14 +8067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああああっ・・・くひぃぃぃっんっ♪」"
+                                "Momoha: \"Aaaaahhh... kuhiiiiinnn♪\""
                             ]
                         },
                         {
@@ -10186,21 +8128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗のお姉さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方の任務は・・・なんですか？」"
+                                "\\F[beni_close1]Akane: \"Kikyo's older sister, what is your mission...?\""
                             ]
                         },
                         {
@@ -10217,28 +8145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰も取り逃がさないことだわ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "万が一、逃げ出そうとしたら・・・」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"Nyyururruu~♪ To not let anyone escape♪ If by chance\nsomeone tries to run away...\""
                             ]
                         },
                         {
@@ -10255,14 +8162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私がニュルニュルで絡め取って、端に追い詰めちゃう♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"I'll entangle them with my slimy tentacles and\ncorner them♪\""
                             ]
                         },
                         {
@@ -10279,28 +8179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「期待していてもらって構わないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの子が誇れる姉として・・・完璧に任務を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こなしてみせるから♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"You can count on me. As a sister Kikyo can be proud\nof... I'll perfectly complete my mission♪\""
                             ]
                         },
                         {
@@ -10317,21 +8196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは良かった。頼もしい♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし桔梗が帰ってきたら・・・？」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]Akane: \"That's good to hear. You're reliable♪ What if Kikyo\ncomes back...?\""
                             ]
                         },
                         {
@@ -10348,21 +8213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「同じことよ。尊敬する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私と同じになってもらうだけ・・・ふふふっ♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[2]Momoha: \"The same applies. She'll just have to become like\nher respected sister... fufufu♪\""
                             ]
                         },
                         {
@@ -10379,21 +8230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「立派なお姉さんだ、桔梗も喜ぶと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思います♪ふふふっ・・・♪」"
+                                "\\F[beni_close1]\\FF[momoha_close]\\AA[1]Akane: \"You're a splendid sister, Kikyo will be happy, I\nthink♪ Fufufu...♪\""
                             ]
                         },
                         {

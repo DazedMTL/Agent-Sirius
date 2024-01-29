@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西２階",
+    "displayName": "West 2nd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 9,
@@ -3021,21 +3021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性教諭"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昨日な事件のこともあるし、用のない人は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるべく早く帰るようにね」"
+                                "Female Teacher: \"Considering the incident that happened\nyesterday, those who don't have any business should try to\ngo home early, okay?\""
                             ]
                         },
                         {
@@ -3163,14 +3149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性教諭"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっ❤ぬりゅぬにゅ最高～❤」"
+                                "Female Teacher: \"Hah❤ Nuryununyu, the best~❤\""
                             ]
                         },
                         {

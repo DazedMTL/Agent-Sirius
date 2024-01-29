@@ -1882,7 +1882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "３話OP分岐前イベントまでスキップしますか？"
+                                "Would you like to skip to the event before the branching of\nChapter 3 OP?"
                             ]
                         },
                         {
@@ -1890,8 +1890,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1989,7 +1989,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "３話OP分岐前イベントまでスキップしますか？"
+                                "Would you like to skip to the event before the branching of\nChapter 3 OP?"
                             ]
                         },
                         {
@@ -1997,8 +1997,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2172,7 +2172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "－３年前－"
+                                "－Three Years Ago－"
                             ]
                         },
                         {
@@ -2190,21 +2190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "刑事"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「では失礼いたします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また何かわかりましたら、ご連絡ください」"
+                                "Detective: \"Then, I'll take my leave. If you remember\nanything else, please contact us.\""
                             ]
                         },
                         {
@@ -2222,21 +2208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "刑事"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「思い出したらでいいからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理をせず、ゆっくりしているといい・・・」"
+                                "Detective: \"Just remember when you can, okay? Don't push\nyourself, and take it easy...\""
                             ]
                         },
                         {
@@ -2253,14 +2225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・」"
+                                "Nadeshiko: \"...\""
                             ]
                         },
                         {
@@ -2604,14 +2569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・」"
+                                "\\F[beni_troubletyu]Akane: \"...\""
                             ]
                         },
                         {
@@ -2628,21 +2586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（犯人はまだ捕まってないんだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから撫子に確認に来た・・・）"
+                                "\\F[beni_troubletyu]Akane: (The culprit still hasn't been caught... That's why\nthey came to check with Nadeshiko...)"
                             ]
                         },
                         {
@@ -2660,21 +2604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（もしかしたらこのまま迷宮入りするかも知れない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしたら・・・撫子はずっと怯えて暮らすことになる）"
+                                "\\F[beni_troubletyu]Akane: (It might end up being a cold case. If that\nhappens... Nadeshiko will have to live in fear forever.)"
                             ]
                         },
                         {
@@ -2691,21 +2621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（また襲われたら・・・どうしようって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなの許せない・・・！！）"
+                                "\\F[beni_angrytyu]Akane: (What if she gets attacked again... I can't allow\nthat...!!)"
                             ]
                         },
                         {
@@ -2828,28 +2744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_smiletyu]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅か・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつもありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お見舞いにきてくれて」"
+                                "\\FF[nako_smiletyu]Nadeshiko: \"Akane... Thank you for always being there. For\ncoming to visit me.\""
                             ]
                         },
                         {
@@ -2867,14 +2762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smiletyu]\\FF[nako_smiletyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっきのって・・・刑事さん？」"
+                                "\\F[beni_smiletyu]\\FF[nako_smiletyu]\\AA[1]Akane: \"The person just now... was that a detective?\""
                             ]
                         },
                         {
@@ -2892,14 +2780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smiletyu]\\FF[nako_smiletyu]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん・・・ちょっと疲れたかな・・・」"
+                                "\\F[beni_smiletyu]\\FF[nako_smiletyu]\\AA[2]Nadeshiko: \"Yeah... I'm a little tired, I guess...\""
                             ]
                         },
                         {
@@ -2917,14 +2798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smiletyu]\\FF[nako_smiletyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私にも同じ話し・・・してくれるかな？」"
+                                "\\F[beni_smiletyu]\\FF[nako_smiletyu]\\AA[1]Akane: \"Can you tell me the same story...?\""
                             ]
                         },
                         {
@@ -2941,14 +2815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smiletyu]\\FF[nako_troubletyu]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？」"
+                                "\\F[beni_smiletyu]\\FF[nako_troubletyu]\\AA[2]Nadeshiko: \"Eh?\""
                             ]
                         },
                         {
@@ -2965,21 +2832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「犯人。犯人の話。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ捕まってないなら・・・どうにかしなきゃ」"
+                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[1]Akane: \"The culprit. The story about the culprit. If they\nhaven't been caught yet... we need to do something.\""
                             ]
                         },
                         {
@@ -2996,14 +2849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅には・・・関係ない話でしょ？」"
+                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[2]Nadeshiko: \"That's... none of your business, right?\""
                             ]
                         },
                         {
@@ -3020,21 +2866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでさっ！こんなことをしたヤツを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "野放しになんか出来ないっ！」"
+                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[1]Akane: \"Why not?! I can't just let someone who did such a\nthing go free!\""
                             ]
                         },
                         {
@@ -3051,14 +2883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もし・・・犯人を見つけたとして・・・どうするの？」"
+                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[2]Nadeshiko: \"Even if... you find the culprit, what will you\ndo?\""
                             ]
                         },
                         {
@@ -3075,14 +2900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こらしめるっ！報いを受けて牢屋にぶち込む！」"
+                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[1]Akane: \"I'll make them pay! They'll receive their\nretribution and be thrown in jail!\""
                             ]
                         },
                         {
@@ -3108,14 +2926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_troubletyu]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅・・・わからない？」"
+                                "\\FF[nako_troubletyu]Nadeshiko: \"Akane... don't you understand?\""
                             ]
                         },
                         {
@@ -3132,28 +2943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なにが？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ！子供の私が頑張っても役に立たないと思ってる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことないよ！警察とは違う視点で・・・」"
+                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[1]Akane: \"Understand what? Ah! You think that me, a child,\ntrying hard won't be of any use? That's not true! From a\ndifferent perspective than the police...\""
                             ]
                         },
                         {
@@ -3170,28 +2960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかってないよ。私がどう思っているかも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知らないで・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "犯人が分かるはずないよ」"
+                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[2]Nadeshiko: \"You don't understand. You don't even know how I\nfeel... how could you possibly find the culprit?\""
                             ]
                         },
                         {
@@ -3208,21 +2977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子は強がってるだけだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当は・・・犯人を捕まえてほしいんだっ！」"
+                                "\\F[beni_angrytyu]\\FF[nako_troubletyu]\\AA[1]Akane: \"Nadeshiko is just pretending to be strong! In\nreality... you want the culprit to be caught, right?!\""
                             ]
                         },
                         {
@@ -3239,14 +2994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]\\FF[nako_crytyu]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱりなにも・・・うう・・・ぐすっ・・・」"
+                                "\\F[beni_angrytyu]\\FF[nako_crytyu]\\AA[2]Nadeshiko: \"After all, nothing... ugh... sniffle...\""
                             ]
                         },
                         {
@@ -3264,14 +3012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご、ごめん。泣かせるつもりは・・・」"
+                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[1]Akane: \"I'm sorry. I didn't mean to make you cry...\""
                             ]
                         },
                         {
@@ -3289,28 +3030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あるよ。酷いよ・・・紅。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の気持ちなんて分かってないっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今、紅が来てくれて嬉しかったのに・・・！」"
+                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[2]Nadeshiko: \"You did. It's terrible... Akane. You don't\nunderstand my feelings at all!! I was happy when you came\ntoday...\""
                             ]
                         },
                         {
@@ -3328,14 +3048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・？」"
+                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[1]Akane: \"Eh...?\""
                             ]
                         },
                         {
@@ -3352,28 +3065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「刑事さんに・・・ぐす・・・ぐすんっ・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変なことまでいっぱい聞かれて・・・私、嫌だったのっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから紅が来て・・・学校の話とか聞けるって思って・・・」"
+                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[2]Nadeshiko: \"The detective asked me... sniffle... sniffle...\nso many strange questions... I hated it! That's why when\nAkane came... I thought we could talk about school and\nstuff...\""
                             ]
                         },
                         {
@@ -3391,21 +3083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それなのに、同じ話をしてだなんてっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう嫌っ・・・！うんざりっ・・・！！」"
+                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[2]Nadeshiko: \"But instead, you bring up the same topic! I hate\nit...! I'm sick of it...!!\""
                             ]
                         },
                         {
@@ -3423,14 +3101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そんな・・・」"
+                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[1]Akane: \"That's not what I...\""
                             ]
                         },
                         {
@@ -3448,21 +3119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「出てって！人の気持ちなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで分からない・・・空回りの紅っ！」"
+                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[2]Nadeshiko: \"Get out! You don't understand people's feelings\nat all... You're just spinning your wheels, Akane!\""
                             ]
                         },
                         {
@@ -3480,14 +3137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、私は・・・ううっ・・・」"
+                                "\\F[beni_troubletyu]\\FF[nako_crytyu]\\AA[1]Akane: \"I am... ugh...\""
                             ]
                         },
                         {

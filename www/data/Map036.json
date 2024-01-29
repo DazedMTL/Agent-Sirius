@@ -108079,7 +108079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "触られました"
+                                "I've been touched."
                             ]
                         },
                         {
@@ -108275,14 +108275,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -108347,14 +108340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -109075,28 +109061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「１６年前にも君の様に抵抗する生徒がいたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それで、その少女はどうなったと思う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クククククッ！勿論、返り討ちにしてやったさ！」"
+                                "Shikai: \"There was a student who resisted just like you 16\nyears ago. And what do you think happened to that girl?\nKukukuku! Of course, I crushed her resistance!\""
                             ]
                         },
                         {
@@ -109113,14 +109078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「１６年前！？・・・」"
+                                "\\F[sirius_trouble]Sirius: \"16 years ago!?...\""
                             ]
                         },
                         {
@@ -109390,14 +109348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -109822,28 +109773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「１６年前にも君の様に抵抗する生徒がいたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それで、その少女はどうなったと思う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クククククッ！勿論、返り討ちにしてやったさ！」"
+                                "Shikai: \"There was a student who resisted just like you 16\nyears ago. And what do you think happened to that girl?\nKukukuku! Of course, I crushed her resistance!\""
                             ]
                         },
                         {
@@ -109860,14 +109790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「１６年前！？・・・」"
+                                "\\F[sirius_trouble]Sirius: \"16 years ago!?...\""
                             ]
                         },
                         {
@@ -110193,14 +110116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -110469,14 +110385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -110541,14 +110450,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -111512,21 +111414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「中々しぶといな・・・素直に受け入れろ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　目隠しプレイの快楽は何よりも尊いのだ！」"
+                                "Shikai: \"You're quite stubborn... Just accept it!! The\npleasure of blindfold play is more precious than anything\nelse!\""
                             ]
                         },
                         {
@@ -111543,14 +111431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰がっ！！そんな異常な事！！」"
+                                "\\F[sirius_angry]Sirius: \"Who would!! Such abnormal things!!\""
                             ]
                         },
                         {
@@ -112177,14 +112058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -112453,14 +112327,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -112525,14 +112392,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -113616,21 +113476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ね、狙いを定めて攻撃しているはずなのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうして避け切れるのだ！？」"
+                                "Shikai: \"Hey, I'm supposed to be aiming my attacks, so how\ncan they dodge everything?!\""
                             ]
                         },
                         {
@@ -113647,21 +113493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「目隠ししてるのに狙いを定める？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それって変だろ？まるでいかさまでもしている様な？」"
+                                "\\F[sirius_smile]Sirius: \"Aiming while blindfolded? Isn't that strange? It's\nalmost as if you're cheating?\""
                             ]
                         },
                         {
@@ -113896,14 +113728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -114492,7 +114317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "触られました"
+                                "I've been touched."
                             ]
                         },
                         {
@@ -114688,14 +114513,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -114760,14 +114578,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -115562,7 +115373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "触られました"
+                                "I've been touched."
                             ]
                         },
                         {
@@ -115758,14 +115569,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -115830,14 +115634,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -116586,14 +116383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ・・・そっ、そんな・・・」"
+                                "\\F[beni_trouble]Akane: \"Ahh... no, don't...\""
                             ]
                         },
                         {
@@ -116619,21 +116409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_kamenero]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これぇ・・・しゅごっ・・・しゅごいっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  目が見えないのに、身体中が気持ち良くってぇ～♡」"
+                                "\\FF[nako_kamenero]Nadeshiko: \"This is... amazing... Even though I can't see,\nmy whole body feels so good~♡\""
                             ]
                         },
                         {
@@ -116869,21 +116645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子っ！目を覚ますんだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  こ、この仮面・・・何でっ！！くっ！！外れないっ！」"
+                                "\\F[beni_trouble]Akane: \"Nadeshiko! Snap out of it!! This mask... why?! Ugh!!\nIt won't come off!\""
                             ]
                         },
                         {
@@ -116900,21 +116662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[nako_kamenero]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやっ、触られるとくすぐったくってぇ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  んふぅん♡この声・・・もしかして紅？」"
+                                "\\F[beni_trouble]\\FF[nako_kamenero]\\AA[2]Nadeshiko: \"No, when you touch me, it tickles♪ Nfuun♡ Is\nthat you, Akane?\""
                             ]
                         },
                         {
@@ -116931,21 +116679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_kamenero]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだよ！撫子！こんなの着けちゃ駄目だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  真壁さんみたいにおかしくなってしまうっ！！」"
+                                "\\F[beni_angry2]\\FF[nako_kamenero]\\AA[1]Akane: \"Yes, it's me! Nadeshiko! You shouldn't wear such a\nthing! You'll end up weird like Makabe-san!!\""
                             ]
                         },
                         {
@@ -116962,21 +116696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_kamenero]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「真壁さんみたいに？・・・そうよ、そうなりたいの♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  だから、だからべにぃ～？・・・」"
+                                "\\F[beni_angry2]\\FF[nako_kamenero]\\AA[2]Nadeshiko: \"Like Makabe-san?... Yes, that's what I want♪ So,\nso, Benii~?...\""
                             ]
                         },
                         {
@@ -116993,28 +116713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[nako_kamenero]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の乳首を弄って欲しいのぉ～♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  風に吹かれるよりぃ～、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  紅に触られた方が何十倍も気持ちいいんだからぁ～♡」"
+                                "\\F[beni_angry2]\\FF[nako_kamenero]\\AA[2]Nadeshiko: \"I want you to play with my nipples~♡ More than\nthe wind blowing, being touched by Akane feels tens of times\nbetter~♡\""
                             ]
                         },
                         {
@@ -117101,14 +116800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_ero]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（撫子が胸を弄らせてくれる！？）"
+                                "\\F[beni_ero]Akane: (Nadeshiko is letting me play with her breasts?!)"
                             ]
                         },
                         {
@@ -117125,14 +116817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だ、ダメダメ！！そんな事っ！！」"
+                                "\\F[beni_trouble]Akane: \"No, no!! That's not right!!\""
                             ]
                         },
                         {
@@ -117175,14 +116860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\\{！！\\}」"
+                                "\\F[beni_trouble]Akane: \"!!\""
                             ]
                         },
                         {
@@ -117364,28 +117042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[blind_smile]四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クックックック、真壁くんが彼女を連れて来てね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  白虎くんにも是非”目隠しプレイ”の素晴らしさを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  教えて欲しいとすがりついて来たよ」"
+                                "\\FF[blind_smile]Sogai: \"Kukukuku, Makabe-kun brought his girlfriend along.\nHe begged us to teach Shiratora-kun the wonderfulness of\n'blindfold play'.\""
                             ]
                         },
                         {
@@ -117402,28 +117059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[blind_smile]四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「教えてあげたらほらこの通り。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ものの数分で我々の仲間入りという訳さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  クククククッ・・・それだけ素晴らしい快楽なのだよ」"
+                                "\\FF[blind_smile]Sogai: \"Look at her now after we taught her. In just a few\nminutes, she became one of us. Kukukuku... That's how\nwonderful this pleasure is.\""
                             ]
                         },
                         {
@@ -117440,28 +117076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[blind_smile]四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「光を失い、手探りで残りの五感を研ぎ澄ます時・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  敏感になった身体は、どんな些細な刺激にも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  普段の何倍、何十倍にも感度が上がる・・・」"
+                                "\\FF[blind_smile]Sogai: \"When you lose sight and grope around to sharpen your\nremaining senses... Your sensitized body will react to even\nthe slightest stimulus with many times the usual\nsensitivity...\""
                             ]
                         },
                         {
@@ -117478,28 +117093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[blind_smile]四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そして、病みつきになるのだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  もしも、目が見えていたとすれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  決して分からない秘密の快楽だ。」"
+                                "\\FF[blind_smile]Sogai: \"And then you become addicted. It's a secret pleasure\nthat you would never understand if you could see.\""
                             ]
                         },
                         {
@@ -117516,21 +117110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[blind_smile]四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一度味わえば、もう逃れられない、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  逃げたいとすら思わなくなる♪・・・」"
+                                "\\FF[blind_smile]Sogai: \"Once you taste it, you can't escape, and you won't\neven want to run away♪...\""
                             ]
                         },
                         {
@@ -117547,21 +117127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]\\FF[blind_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「小賢しい話なんてどうでもいいっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  撫子を元に戻せっ！！」"
+                                "\\F[beni_angry]\\FF[blind_smile]\\AA[1]Akane: \"I don't care about your clever talk! Turn Nadeshiko\nback to normal!!\""
                             ]
                         },
                         {
@@ -117578,28 +117144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]\\FF[blind_smile]\\AA[2]四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クククククッ・・・君のような艶っぽい色気のある"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  健康的な肌をした少女は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  少し触れただけでアクメする変態になれるだろうなぁ」"
+                                "\\F[beni_angry]\\FF[blind_smile]\\AA[2]Sogai: \"Kukukuku... A girl with such a healthy skin and\nsensual allure like you would become a pervert who climaxes\nwith just a little touch, I bet.\""
                             ]
                         },
                         {
@@ -117616,28 +117161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]\\FF[blind_smile]\\AA[2]四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「愉しみだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  君が”目隠しプレイ”の本当の良さを・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  知ってくれる日が♪」"
+                                "\\F[beni_angry]\\FF[blind_smile]\\AA[2]Sogai: \"I'm looking forward to it. The day you'll understand\nthe true joy of 'blindfold play'...♪\""
                             ]
                         },
                         {
@@ -117654,14 +117178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]\\FF[blind_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな変態プレイなんか一生知りたくもないっ！！」"
+                                "\\F[beni_angry]\\FF[blind_smile]\\AA[1]Akane: \"I never want to know about such perverted play in my\nlife!!\""
                             ]
                         },
                         {
@@ -117678,14 +117195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]\\FF[blind_smile]\\AA[2]四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて、それはどうかな？クククククッ♪・・・」"
+                                "\\F[beni_angry]\\FF[blind_smile]\\AA[2]Sogai: \"Well, we shall see about that? Kukukuku♪...\""
                             ]
                         },
                         {
@@ -117702,14 +117212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry]\\FF[blind_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前を必ず倒すっ！」"
+                                "\\F[beni_angry]\\FF[blind_smile]\\AA[1]Akane: \"I will definitely defeat you!\""
                             ]
                         },
                         {
@@ -117781,28 +117284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（試作品のポイゾンバーストは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ゼロ距離じゃないと使えない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  何としてでも曽我井の元まで接近しないと！）"
+                                "\\F[sirius_angry]Sirius: (The prototype Poison Burst can only be used at\npoint-blank range. I must get close to Sogai no matter\nwhat!)"
                             ]
                         },
                         {
@@ -117968,7 +117450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]　　　     怪人になった曽我井四海を捕まえろ！"
+                                "\\C[3]Capture the monster Sogai Shikai!"
                             ]
                         },
                         {
@@ -117985,14 +117467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]　　　     飛ぶコウモリを避けて曽我井四海・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "           ブラインドポイゾンまで辿り着こう！"
+                                "\\C[3]Avoid the flying bats and reach Sogai Shikai... to deliver\nthe Blind Poison!"
                             ]
                         },
                         {
@@ -118018,7 +117493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "体力無敵モードを使用しますか？"
+                                "Would you like to use Invincible Mode?"
                             ]
                         },
                         {
@@ -118026,8 +117501,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -118346,28 +117821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クククククッ・・・いつまで避けきれるかなぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  早く白虎くんのように素直になりたまえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  二人でじゃれ合うのはとても気持ちがいいぞぉ～！」"
+                                "Shikai: \"Kukukuku... How long can you keep dodging, I\nwonder? Hurry up and be obedient like Shiratora-kun.\nFrolicking together feels very good, you know~!\""
                             ]
                         },
                         {
@@ -118384,14 +117838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子を元に戻せって言ってるだろ！」"
+                                "\\F[sirius_angry]Sirius: \"I'm telling you to turn Nadeshiko back to normal!\""
                             ]
                         },
                         {
@@ -118506,14 +117953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -118778,28 +118218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クククククッ・・・いつまで避けきれるかなぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  早く白虎くんのように素直になりたまえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  二人でじゃれ合うのはとても気持ちがいいぞぉ～！」"
+                                "Shikai: \"Kukukuku... How long can you keep dodging, I\nwonder? Hurry up and be obedient like Shiratora-kun.\nFrolicking together feels really good, you know~!\""
                             ]
                         },
                         {
@@ -118816,14 +118235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子を元に戻せって言ってるだろ！」"
+                                "\\F[sirius_angry]Sirius: \"I'm telling you to turn Nadeshiko back to normal!\""
                             ]
                         },
                         {
@@ -118952,14 +118364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -119233,28 +118638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「１６年前にも君の様に抵抗する生徒がいたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それで、その少女はどうなったと思う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クククククッ！勿論、返り討ちにしてやったさ！」"
+                                "Shikai: \"There was a student who resisted just like you 16\nyears ago. And what do you think happened to that girl?\nKukukuku! Of course, I crushed her resistance!\""
                             ]
                         },
                         {
@@ -119271,14 +118655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「１６年前！？・・・」"
+                                "\\F[sirius_trouble]Sirius: \"16 years ago!?...\""
                             ]
                         },
                         {
@@ -119548,14 +118925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -119824,14 +119194,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -119896,14 +119259,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -120698,7 +120054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "触られました"
+                                "I've been touched."
                             ]
                         },
                         {
@@ -120894,14 +120250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -120966,14 +120315,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -121846,28 +121188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「１６年前にも君の様に抵抗する生徒がいたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それで、その少女はどうなったと思う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クククククッ！勿論、返り討ちにしてやったさ！」"
+                                "Shikai: \"There was a student who resisted just like you 16\nyears ago. And what do you think happened to that girl?\nKukukuku! Of course, I crushed her resistance!\""
                             ]
                         },
                         {
@@ -121884,14 +121205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「１６年前！？・・・」"
+                                "\\F[sirius_trouble]Sirius: \"16 years ago!?...\""
                             ]
                         },
                         {
@@ -122175,14 +121489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -122465,28 +121772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「１６年前にも君の様に抵抗する生徒がいたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それで、その少女はどうなったと思う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クククククッ！勿論、返り討ちにしてやったさ！」"
+                                "Shikai: \"There was a student who resisted just like you 16\nyears ago. And what do you think happened to that girl?\nKukukuku! Of course, I crushed her resistance!\""
                             ]
                         },
                         {
@@ -122503,14 +121789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「１６年前！？・・・」"
+                                "\\F[sirius_trouble]Sirius: \"16 years ago!?...\""
                             ]
                         },
                         {
@@ -122808,14 +122087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -123084,14 +122356,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -123156,14 +122421,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -124036,28 +123294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「１６年前にも君の様に抵抗する生徒がいたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それで、その少女はどうなったと思う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クククククッ！勿論、返り討ちにしてやったさ！」"
+                                "Shikai: \"There was a student who resisted just like you 16\nyears ago. And what do you think happened to that girl?\nKukukuku! Of course, I crushed her resistance!\""
                             ]
                         },
                         {
@@ -124074,14 +123311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「１６年前！？・・・」"
+                                "\\F[sirius_trouble]Sirius: \"16 years ago!?...\""
                             ]
                         },
                         {
@@ -124407,14 +123637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -124683,14 +123906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -124755,14 +123971,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -125621,14 +124830,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -125693,14 +124895,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -126573,28 +125768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「１６年前にも君の様に抵抗する生徒がいたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それで、その少女はどうなったと思う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クククククッ！勿論、返り討ちにしてやったさ！」"
+                                "Shikai: \"There was a student who resisted just like you 16\nyears ago. And what do you think happened to that girl?\nKukukuku! Of course, I crushed her resistance!\""
                             ]
                         },
                         {
@@ -126611,14 +125785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「１６年前！？・・・」"
+                                "\\F[sirius_trouble]Sirius: \"16 years ago!?...\""
                             ]
                         },
                         {
@@ -126958,14 +126125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -127310,28 +126470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私のこの崇高な儀式を鼻で笑った馬鹿な牝が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少し躾けてやったら、一生マスクを外しませんと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　忠誠まで誓う奴隷へと早変わり」"
+                                "Shikai: \"That foolish female who scoffed at my noble ritual,\nafter a little discipline, she quickly transformed into a\nslave who swore loyalty and vowed to never remove her mask\nagain.\""
                             ]
                         },
                         {
@@ -127348,14 +126487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まあ、その後川に落ちて大怪我を負ったみたいだが」"
+                                "Shikai: \"Well, it seems she fell into a river and got\nseriously injured afterwards.\""
                             ]
                         },
                         {
@@ -127372,21 +126504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前がそうさせたんだろ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絶対に・・・お前を許さないっ！！」"
+                                "\\F[sirius_angry]Sirius: \"You're the one who did that to her!! I will\nnever... I will never forgive you!!\""
                             ]
                         },
                         {
@@ -127677,14 +126795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -127953,14 +127064,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -128025,14 +127129,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -128930,28 +128027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私のこの崇高な儀式を鼻で笑った馬鹿な牝が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少し躾けてやったら、一生マスクを外しませんと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　忠誠まで誓う奴隷へと早変わり」"
+                                "Shikai: \"That foolish female who scoffed at my noble ritual,\nafter a little discipline, she quickly transformed into a\nslave swearing loyalty and vowing to never remove her mask\nagain.\""
                             ]
                         },
                         {
@@ -128968,14 +128044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まあ、その後川に落ちて大怪我を負ったみたいだが」"
+                                "Shikai: \"Well, it seems she fell into a river and got\nseriously injured afterwards.\""
                             ]
                         },
                         {
@@ -128992,21 +128061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前がそうさせたんだろ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絶対に・・・お前を許さないっ！！」"
+                                "\\F[sirius_angry]Sirius: \"You're the one who did that to her!! I will\nnever... I will never forgive you!!\""
                             ]
                         },
                         {
@@ -129277,14 +128332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -129629,28 +128677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私のこの崇高な儀式を鼻で笑った馬鹿な牝が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少し躾けてやったら、一生マスクを外しませんと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　忠誠まで誓う奴隷へと早変わり」"
+                                "Shikai: \"That foolish bitch who scoffed at my noble ritual,\nafter a little discipline, she quickly transformed into a\nslave who swore loyalty and would never remove her mask\nagain.\""
                             ]
                         },
                         {
@@ -129667,14 +128694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まあ、その後川に落ちて大怪我を負ったみたいだが」"
+                                "Shikai: \"Well, it seems she fell into a river and got\nseriously injured afterwards.\""
                             ]
                         },
                         {
@@ -129691,21 +128711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前がそうさせたんだろ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絶対に・・・お前を許さないっ！！」"
+                                "\\F[sirius_angry]Sirius: \"You're the one who did that to her!! I will\nnever... I will never forgive you!!\""
                             ]
                         },
                         {
@@ -130052,14 +129058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -130485,14 +129484,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -130557,14 +129549,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -131386,14 +130371,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -131458,14 +130436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -132287,14 +131258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -132359,14 +131323,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -133233,21 +132190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「中々しぶといな・・・素直に受け入れろ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　目隠しプレイの快楽は何よりも尊いのだ！」"
+                                "Shikai: \"You're quite stubborn... Just accept it!! The\npleasure of blindfold play is more precious than anything!\""
                             ]
                         },
                         {
@@ -133264,14 +132207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰がっ！！そんな異常な事！！」"
+                                "\\F[sirius_angry]Sirius: \"Who would!! Such abnormal things!!\""
                             ]
                         },
                         {
@@ -133940,14 +132876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -134288,21 +133217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「中々しぶといな・・・素直に受け入れろ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　目隠しプレイの快楽は何よりも尊いのだ！」"
+                                "Shikai: \"You're quite stubborn... Just accept it!! The\npleasure of blindfold play is more precious than anything\nelse!\""
                             ]
                         },
                         {
@@ -134319,14 +133234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰がっ！！そんな異常な事！！」"
+                                "\\F[sirius_angry]Sirius: \"Who would!! Such abnormal things!!\""
                             ]
                         },
                         {
@@ -134995,14 +133903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -135316,21 +134217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「中々しぶといな・・・素直に受け入れろ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　目隠しプレイの快楽は何よりも尊いのだ！」"
+                                "Sora: \"You're quite stubborn... Just accept it!! The\npleasure of blindfold play is more precious than anything\nelse!\""
                             ]
                         },
                         {
@@ -135347,14 +134234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰がっ！！そんな異常な事！！」"
+                                "\\F[sirius_angry]Sirius: \"Who would!! Such abnormal things!!\""
                             ]
                         },
                         {
@@ -136023,14 +134903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -136456,14 +135329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -136528,14 +135394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -137357,14 +136216,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwah!!\""
                             ]
                         },
                         {
@@ -137429,14 +136281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -138437,14 +137282,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -138509,14 +137347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -139389,14 +138220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwah!!\""
                             ]
                         },
                         {
@@ -139461,14 +138285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -140341,14 +139158,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -140413,14 +139223,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -141501,21 +140304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なぜ・・・何故だ！？お前は馬鹿なのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうだ！！お前は大馬鹿者に違いない！」"
+                                "Shikai: \"Why... Why is this happening!? Are you an idiot?\nThat's right!! You must be a complete fool!\""
                             ]
                         },
                         {
@@ -141532,14 +140321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「このぉ～！！バカバカ煩いっ！！」"
+                                "\\F[sirius_trouble]Sirius: \"You...!! So damn noisy!!\""
                             ]
                         },
                         {
@@ -142059,14 +140841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -142287,21 +141062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なぜ・・・何故だ！？お前は馬鹿なのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうだ！！お前は大馬鹿者に違いない！」"
+                                "Shikai: \"Why... Why is this happening!? Are you an idiot?\nThat's right!! You must be a complete fool!\""
                             ]
                         },
                         {
@@ -142318,14 +141079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「このぉ～！！バカバカ煩いっ！！」"
+                                "\\F[sirius_trouble]Sirius: \"You...!! So damn noisy!!\""
                             ]
                         },
                         {
@@ -142845,14 +141599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -143121,14 +141868,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -143193,14 +141933,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -144022,14 +142755,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -144094,14 +142820,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -145185,21 +143904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ね、狙いを定めて攻撃しているはずなのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうして避け切れるのだ！？」"
+                                "Sora: \"Hey, I'm supposed to be aiming my attacks, so how\ncome they can dodge everything!?\""
                             ]
                         },
                         {
@@ -145216,21 +143921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「目隠ししてるのに狙いを定める？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それって変だろ？まるでいかさまでもしている様な？」"
+                                "\\F[sirius_smile]Sirius: \"Aiming while blindfolded? Isn't that odd? It's\nalmost as if you're cheating somehow?\""
                             ]
                         },
                         {
@@ -145521,14 +144212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -146059,21 +144743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ね、狙いを定めて攻撃しているはずなのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうして避け切れるのだ！？」"
+                                "Sora: \"Hey, I'm aiming carefully when I attack, so how can\nit be dodged completely!?\""
                             ]
                         },
                         {
@@ -146090,21 +144760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「目隠ししてるのに狙いを定める？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それって変だろ？まるでいかさまでもしている様な？」"
+                                "\\F[sirius_smile]Sirius: \"Aiming while blindfolded? Isn't that strange? It's\nalmost as if you're cheating?\""
                             ]
                         },
                         {
@@ -146339,14 +144995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[sirius_angry]Sirius: \"!!\""
                             ]
                         },
                         {
@@ -146615,14 +145264,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うわ！！」"
+                                "\\F[sirius_damage]Sirius: \"Uwa!!\""
                             ]
                         },
                         {
@@ -146687,14 +145329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[sirius_damage]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！！」"
+                                "\\F[sirius_damage]Sirius: \"Guh!!\""
                             ]
                         },
                         {
@@ -147632,21 +146267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これで追い駆けっこは終わりだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　喰らえぇぇ～っ！！！」"
+                                "\\F[sirius_angry]Sirius: \"This ends our game of tag! Take thisssss!!!\""
                             ]
                         },
                         {
@@ -147663,21 +146284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]\\FF[blind_trouble]\\AA[2]四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ、何だ！？その格好はっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  貴様は一体何者なんだっ！？」"
+                                "\\F[sirius_angry]\\FF[blind_trouble]\\AA[2]Shikai: \"Wha- What's with that outfit!! Who the hell are\nyou!? \""
                             ]
                         },
                         {
@@ -147715,14 +146322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]シリウス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポイゾンバースト～～～～～ッ！！！！！」"
+                                "\\F[sirius_angry]Sirius: \"Poison Burst~~~~~~~~!!!\""
                             ]
                         },
                         {
@@ -147753,14 +146353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[blind_trouble]四海"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっぎゃぁぁぁぁ～～～～～～～～～っっっ！！！」"
+                                "\\FF[blind_trouble]Shikai: \"Aaarghhhhhh~~~~~~~~~~~~~~~!!!\""
                             ]
                         },
                         {
@@ -148091,14 +146684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[5]「コウモリに行く手を遮られたら、一旦、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　後ろに下がってみよう。そうしたらスキが出来るかも？」"
+                                "\\C[5]If a bat blocks your way, try stepping back for a moment.\nThat might create an opening?"
                             ]
                         },
                         {

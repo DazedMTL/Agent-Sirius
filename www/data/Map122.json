@@ -1415,21 +1415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「助けに来たよ。周りにいる子は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・全員手遅れみたいだけど」"
+                                "\\F[beni_angry2]Akane: \"I've come to help. But it looks like... everyone\naround here is beyond saving.\""
                             ]
                         },
                         {
@@ -1447,14 +1433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[sora_trouble]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど・・・どういうこと・・・！？」"
+                                "\\F[beni_angry2]\\FF[sora_trouble]\\AA[2]Sora: \"Wha... what do you mean...!?\""
                             ]
                         },
                         {
@@ -1472,21 +1451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[sora_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「分かってたんじゃないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、いい。向日葵が待っているよ」"
+                                "\\F[beni_trouble]\\FF[sora_trouble]\\AA[1]Akane: \"Didn't you know? Well, it doesn't matter. Himawari\nis waiting for us.\""
                             ]
                         },
                         {
@@ -1504,21 +1469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[sora_smile]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵が・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かった。無事なんだ・・・」"
+                                "\\F[beni_trouble]\\FF[sora_smile]\\AA[2]Sora: \"Himawari is...! Thank goodness. She's safe...\""
                             ]
                         },
                         {
@@ -1536,21 +1487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[sora_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん。さあ・・・囲みを突破する！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ついてきてっ・・・！！」"
+                                "\\F[beni_smile]\\FF[sora_smile]\\AA[1]Akane: \"Yeah. Now... let's break through the encirclement!\nFollow me...!!\""
                             ]
                         },
                         {
@@ -1568,14 +1505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[sora_smile]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、わかった・・・！」"
+                                "\\F[beni_smile]\\FF[sora_smile]\\AA[2]Sora: \"O-okay...!\""
                             ]
                         },
                         {
@@ -1995,28 +1925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「屋上でヤル♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰に見られてるかも知れないスリルって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "味わってみないとわかんないよね～❤」"
+                                "Makabe: \"Doing it on the rooftop♪ You won't understand the\nthrill of possibly being seen by someone unless you try\nit~❤\""
                             ]
                         },
                         {
@@ -2034,21 +1943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなの恥ずかしいだけだって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えなくてもわかります！」"
+                                "\\F[beni_trouble]Akane: \"It's obvious that's just embarrassing, even without\nthinking about it!\""
                             ]
                         },
                         {
@@ -2065,28 +1960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真壁"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「恥ずかしいだけってのは、浅はかだよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やってみないと・・・きゃはは♪分かんないんだから～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女もどう？」"
+                                "Makabe: \"Just embarrassing? That's naive. You won't\nunderstand... kyahaha♪ unless you try it! How about you?\""
                             ]
                         },
                         {
@@ -2241,14 +2115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろん遠慮します！」"
+                                "\\F[beni_angry2]Akane: \"I'll definitely pass!\""
                             ]
                         },
                         {
@@ -2326,14 +2193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_damage]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「と、とにかく、離れないと！！」"
+                                "\\F[beni_damage]Akane: \"A-anyway, we need to get away!!\""
                             ]
                         },
                         {

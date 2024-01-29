@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "渡り廊下",
+    "displayName": "Corridor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 10,
@@ -1414,21 +1414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紫苑先生に結がいる・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "回り道しよう！急がなきゃ」"
+                                "\\F[beni_angry2]Akane: \"Shion-sensei is with Yui... Let's take a detour! We\nneed to hurry!\""
                             ]
                         },
                         {
@@ -1655,21 +1641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紫苑先生に結がいる・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "回り道しよう！急がなきゃ」"
+                                "\\F[beni_angry2]Akane: \"Yui is with Shion-sensei... Let's take a detour! We\nneed to hurry!\""
                             ]
                         },
                         {
@@ -1990,21 +1962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ringo_smile]林檎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「朱雀さん～！急いでどこへ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探偵部に依頼したいことがあるんだけど？」"
+                                "\\FF[ringo_smile]Ringo: \"Suzaku-san~! Where are you hurrying off to? I have\nsomething I want to request from the detective club?\""
                             ]
                         },
                         {
@@ -2022,21 +1980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ringo_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それ今じゃないと駄目！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急いでるって分かってるんだから・・・」"
+                                "\\F[beni_angry2]\\FF[ringo_smile]\\AA[1]Akane: \"I can't deal with that now! Can't you see I'm in a\nhurry...?\""
                             ]
                         },
                         {
@@ -2054,28 +1998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ringo_smile]\\AA[2]林檎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊急事態だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のストーカーが出てて・・・」"
+                                "\\F[beni_angry2]\\FF[ringo_smile]\\AA[2]Ringo: \"Of course♪ It's an emergency. My stalker showed\nup...\""
                             ]
                         },
                         {
@@ -2093,21 +2016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ringo_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ、警察に！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "青龍さんのお姉さんとかに！」"
+                                "\\F[beni_angry2]\\FF[ringo_smile]\\AA[1]Akane: \"Then go to the police! Like Seiryu-san's sister or\nsomeone!\""
                             ]
                         },
                         {
@@ -2125,21 +2034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ringo_smile]\\AA[2]林檎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え～！冷たいな～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと親身になって相談聞いてよ～！！」"
+                                "\\F[beni_angry2]\\FF[ringo_smile]\\AA[2]Ringo: \"Eeh~! You're so cold~! Be more sympathetic and\nlisten to my problem~!!\""
                             ]
                         },
                         {
@@ -2157,28 +2052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ringo_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！正体を表わせ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "林檎さんが堕ちてるのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知っているんだから、これ以上は無駄！」"
+                                "\\F[beni_angry2]\\FF[ringo_smile]\\AA[1]Akane: \"Gah! Show your true colors! I know that Ringo-san\nhas fallen, so any more is pointless!\""
                             ]
                         },
                         {
@@ -2257,21 +2131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ringo_reverse]林檎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マジ！？なんだ～！知ってんなら先に言ってよ～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めっちゃ頑張ってたじゃん～！！」"
+                                "\\FF[ringo_reverse]Ringo: \"Seriously!? What the~! If you knew, you should've\nsaid so earlier~!! I was trying so hard~!!\""
                             ]
                         },
                         {
@@ -2289,28 +2149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ringo_reverse]林檎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ストーカーはあーしが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "返り討ちにして、種汁が枯れるまで搾り取ってやったつ～の！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ！！だから困ってねぇ～し！！」"
+                                "\\FF[ringo_reverse]Ringo: \"I turned the tables on my stalker, drained him dry\nuntil there was no seed left! Kyahaha!! So I'm not troubled\nat all!!\""
                             ]
                         },
                         {
@@ -2328,21 +2167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ringo_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「狂ってる・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひどい・・・」"
+                                "\\F[beni_trouble]\\FF[ringo_reverse]\\AA[1]Akane: \"You're insane...! That's awful...\""
                             ]
                         },
                         {
@@ -2360,21 +2185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ringo_reverse]\\AA[2]林檎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ストーカーも本望だろうがよぉ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ～しとパコパコ出来たんだしぃ♪」"
+                                "\\F[beni_trouble]\\FF[ringo_reverse]\\AA[2]Ringo: \"The stalker must be satisfied, right~! After all, he\ngot to bang-bang with me♪\""
                             ]
                         },
                         {
@@ -2392,21 +2203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ringo_reverse]\\AA[2]林檎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっべぇ・・・思い出したらまた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハメたくなってきたわ～♪」"
+                                "\\F[beni_trouble]\\FF[ringo_reverse]\\AA[2]Ringo: \"Whoops... Just thinking about it makes me wanna do\nit again~♪\""
                             ]
                         },
                         {
@@ -2424,21 +2221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ringo_reverse]\\AA[2]林檎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きひひひっ♪出がらしぐらい出るかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "試してみよ～！」"
+                                "\\F[beni_trouble]\\FF[ringo_reverse]\\AA[2]Ringo: \"Kihhihih♪ I wonder if there's even a dribble left?\nLet's test it out~!\""
                             ]
                         },
                         {
@@ -2455,14 +2238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ringo_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ・・・」"
+                                "\\F[beni_trouble]\\FF[ringo_reverse]\\AA[1]Akane: \"Gah...\""
                             ]
                         },
                         {
@@ -2518,14 +2294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_damage]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「と、とにかく、離れないと！！」"
+                                "\\F[beni_damage]Akane: \"Anyway, we need to get away!!\""
                             ]
                         },
                         {

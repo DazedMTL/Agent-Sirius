@@ -4290,21 +4290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ajiri_angry2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「正直、一回も訓練でシリウスに勝ったことのない私が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの子相手にどこまでやれるか・・・」"
+                                "\\F[ajiri_angry2]Yui: \"Honestly, I've never beaten Sirius even once in\ntraining... I wonder how far I can go against that child...\""
                             ]
                         },
                         {
@@ -4322,21 +4308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ajiri_angry2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まあ、考えていても仕方ないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は最善を尽くすだけよ」"
+                                "\\F[ajiri_angry2]Yui: \"Well, there's no use thinking about it. All I can do\nnow is give it my best.\""
                             ]
                         },
                         {
@@ -4530,28 +4502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「見つけた！アケルナル！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふっ♪もうコードネームだって必要なくなる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何者でもない！全てから自由になれるんだから♪」"
+                                "\\F[furi_smile]Akane: \"I found it! AkeLUNAR!! Hehe♪ No need for a Codename\nanymore! I'm nobody! I can be free from everything♪\""
                             ]
                         },
                         {
@@ -4568,28 +4519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[ajiri_angry2]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最強のエージェントの称号をもらって満更でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかったくせに。まあ、いいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上貴女の引き立て役になるつもりはない」"
+                                "\\F[furi_smile]\\FF[ajiri_angry2]\\AA[2]Yui: \"Even though you weren't completely dissatisfied with\nthe title of the strongest agent. Well, fine. I have no\nintention of playing your supporting role any longer.\""
                             ]
                         },
                         {
@@ -4606,21 +4536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[ajiri_angry2]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「覚悟しなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "吠え面をかかせてあげる！シリウス！！」"
+                                "\\F[furi_smile]\\FF[ajiri_angry2]\\AA[2]Yui: \"Prepare yourself. I'll make you show your true colors!\nSirius!!\""
                             ]
                         },
                         {
@@ -4812,21 +4728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_trouble]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗さんが王国だと裸になるのがルールとか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで私もブレスレットを脱ぎ捨ててしまうから・・・」"
+                                "\\F[sumire_trouble]Sumire: \"Kikyo-san said that in the kingdom, becoming naked\nis the rule... And so I ended up throwing away my bracelet\ntoo...\""
                             ]
                         },
                         {
@@ -4843,28 +4745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_trouble]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「変身出来ないと戦えない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ・・・お、お取り込み中に失礼でした！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも・・・これは見過ごせないですね」"
+                                "\\F[sumire_trouble]Sumire: \"I can't fight if I can't transform... Ah... Oh,\nexcuse me for interrupting! But... I can't overlook this.\""
                             ]
                         },
                         {
@@ -4881,21 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_angry]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怪人になった朱雀さんの弱点は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が見つけてみせます！」"
+                                "\\F[sumire_angry]Sumire: \"I'll find the weakness of Akane Suzaku who has\nturned into a monster!\""
                             ]
                         },
                         {
@@ -5157,21 +5024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ajiri_shadow]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バースト球が利かないなんて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか・・・シリウスはポイゾンとしても・・・最強だというの！？」"
+                                "\\FF[ajiri_shadow]Yui: \"The Burst Ball isn't effective at all! Could it be...\nSirius is also the strongest as a Poison!?\""
                             ]
                         },
                         {
@@ -5189,14 +5042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ajiri_shadow]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ・・・私達に勝ち目なんて・・・」"
+                                "\\FF[ajiri_shadow]Yui: \"Then... is there no chance for us to win...?\""
                             ]
                         },
                         {
@@ -5214,21 +5060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[ajiri_shadow]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「勝つ？誰に・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな必要なんてあるのかな・・・？」"
+                                "\\F[furi_smile]\\FF[ajiri_shadow]\\AA[1]Akane: \"Win? Against whom...? Do we really need to...?\""
                             ]
                         },
                         {
@@ -5246,21 +5078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[ajiri_shadow]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何を言って・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達が勝たなければ・・・世界が自由に・・・」"
+                                "\\F[furi_smile]\\FF[ajiri_shadow]\\AA[2]Yui: \"What are you saying...! If we don't win... the world\nwill be free to...\""
                             ]
                         },
                         {
@@ -5278,14 +5096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[ajiri_shadow]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・？自由・・・？」"
+                                "\\F[furi_smile]\\FF[ajiri_shadow]\\AA[2]Yui: \"Eh...? Free...?\""
                             ]
                         },
                         {
@@ -5303,21 +5114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[ajiri_shadow]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その方がいいんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰も不幸にならないんだから♪」"
+                                "\\F[furi_smile]\\FF[ajiri_shadow]\\AA[1]Akane: \"Isn't that better? No one will be unhappy then♪\""
                             ]
                         },
                         {
@@ -5335,28 +5132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[ajiri_shadow]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そうね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私・・・なんで・・・そんな簡単なことに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気づかなかったんでしょう♪」"
+                                "\\F[furi_smile]\\FF[ajiri_shadow]\\AA[2]Yui: \"That's right... I... why didn't I realize such a\nsimple thing♪\""
                             ]
                         },
                         {
@@ -5422,28 +5198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ajiri_free]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うふふっ♪自由の方がいいに決まってるじゃない♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コードネームなんていらない♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちの名前は一つだけ」"
+                                "\\FF[ajiri_free]Yui: \"Ufufu♪ Freedom is definitely better, isn't it♪ We\ndon't need a Condom♪ Our name is just one\""
                             ]
                         },
                         {
@@ -5461,14 +5216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ajiri_free]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シリウスもアケルナルも皆・・・フリーダムよっ♪」"
+                                "\\FF[ajiri_free]Yui: \"Everyone... Sirius and Akerunaru... we're all\nFreedom♪\""
                             ]
                         },
                         {
@@ -5486,21 +5234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[ajiri_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「フリーダム・・・いい名前だ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あははっ！センスあるよ！」"
+                                "\\F[furi_smile]\\FF[ajiri_free]\\AA[1]Akane: \"Freedom... That's a good name♪ Ahaha! You've got\ntaste!\""
                             ]
                         },
                         {
@@ -5518,21 +5252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[ajiri_free]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「フリーダム！フリーダムぅ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も、ご主人様も・・・フリーダムっ♪」"
+                                "\\F[furi_smile]\\FF[ajiri_free]\\AA[2]Yui: \"Freedom! Freedom♪ Both I and Master... we're Freedom♪\""
                             ]
                         },
                         {
@@ -5991,28 +5711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_shadow]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな犯罪者みたいな黒目線をして・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうして私の動きが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見えないはずなのに・・・」"
+                                "\\FF[sumire_shadow]Sumire: \"Wearing such a criminal-like black bar over your\neyes... How can you still see my movements... when you\nshouldn't be able to...\""
                             ]
                         },
                         {
@@ -6029,21 +5728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[sumire_shadow]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「見た目に騙されている内は、勝てないってことじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あのハゲとは違うんだ。見えてるんだって♪」"
+                                "\\F[furi_smile]\\FF[sumire_shadow]\\AA[1]Akane: \"As long as you're deceived by appearances, you can't\nwin, can you? I'm different from that baldie. I can see\neverything♪\""
                             ]
                         },
                         {
@@ -6061,21 +5746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[sumire_shadow]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ですが、私は諦めません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この流れ込んでくる力にも・・・弱点が・・・」"
+                                "\\F[furi_smile]\\FF[sumire_shadow]\\AA[2]Sumire: \"But I won't give up. Even with this power flowing\ninto me... there must be a weakness...\""
                             ]
                         },
                         {
@@ -6093,21 +5764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[sumire_shadow]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な・・・ない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんで・・・？あ！わ、分かりました・・・」"
+                                "\\F[furi_smile]\\FF[sumire_shadow]\\AA[2]Sumire: \"No... way? Why...? Ah! I, I understand now...\""
                             ]
                         },
                         {
@@ -6125,28 +5782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[sumire_shadow]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういう鬱陶しい事からも解き放たれる真の自由が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるからなんですね♪ああんっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごいっ！弱点なんかない・・・不可逆の堕落ぅ♪」"
+                                "\\F[furi_smile]\\FF[sumire_shadow]\\AA[2]Sumire: \"So there's true freedom in being released from such\nannoying things, right? Aaahn♪ Amazing! There's no such\nthing as a weakness... an irreversible fall♪\""
                             ]
                         },
                         {
@@ -6212,28 +5848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_free]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「弱点がないって事は、小細工なしに襲って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲間に出来るってことじゃないですか♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふっ♪素敵です・・・♪」"
+                                "\\FF[sumire_free]Sumire: \"No weaknesses means I can attack without any tricks\nand make you my ally, doesn't it? Fufu♪ How wonderful...♪\""
                             ]
                         },
                         {
@@ -6251,21 +5866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_free]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いっぱいいっぱい襲って解らせてあげますっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うふふふっ・・・♪」"
+                                "\\FF[sumire_free]Sumire: \"I'll attack you over and over until you understand♪\nUfufufu...♪\""
                             ]
                         },
                         {

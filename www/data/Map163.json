@@ -3819,28 +3819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ama_angry]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「てめぇ・・・！大人しい子相手だからって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調子にのってんじゃねえぞ！何でも思い通りに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるなんて思ったら大間違いだかんな！」\\|\\|\\^"
+                                "\\F[ama_angry]Amma: \"You...! Don't get cocky just because you're dealing\nwith a quiet kid! If you think everything will go your way,\nyou're sorely mistaken!\""
                             ]
                         },
                         {
@@ -3857,21 +3836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ama_angry]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クサレ教師なんて、すぐにクビになる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "てめぇほど悪どいと証拠も山ほど出てくるんだからな！！」\\|\\|\\^"
+                                "\\F[ama_angry]Amma: \"A rotten teacher like you will be fired soon! With\nsomeone as crooked as you, there's bound to be plenty of\nevidence!!\""
                             ]
                         },
                         {
@@ -3888,21 +3853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ama_angry]\\FF[wasio_angry]\\AA[2]鷲尾"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぐっ・・・！なんだ、いきなり・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前には関係ないだろうが！！」\\|\\|\\^"
+                                "\\F[ama_angry]\\FF[wasio_angry]\\AA[2]Washio: \"Ugh...! What the hell, all of a sudden...!! It's\nnone of your business!!\""
                             ]
                         },
                         {
@@ -3919,28 +3870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ama_angry]\\FF[wasio_angry]\\AA[1]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この子を泣かしてたのを見過ごせって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなこと出来ねぇから、こうしてる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかる？あーしは強くなったから！もう見逃さない！」\\|\\|\\^"
+                                "\\F[ama_angry]\\FF[wasio_angry]\\AA[1]Amma: \"You think I can overlook you making this kid cry? No\nway, that's why I'm doing this! Get it? I've become strong!\nI won't look the other way anymore!\""
                             ]
                         },
                         {
@@ -3957,14 +3887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[wata_trouble]\\FF[wasio_angry]\\AA[1]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・」\\|\\|\\^"
+                                "\\F[wata_trouble]\\FF[wasio_angry]\\AA[1]Wata: \"...\""
                             ]
                         },
                         {
@@ -3981,21 +3904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[wata_troke]\\FF[wasio_angry]\\AA[2]鷲尾"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「教師のやることに疑問を持つ生徒がいるものか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "黙って従っていればいいものを・・・！」\\|\\|\\^"
+                                "\\F[wata_troke]\\FF[wasio_angry]\\AA[2]Washio: \"As if there are students who question what a\nteacher does! You should just obey quietly...!\""
                             ]
                         },
                         {
@@ -4012,14 +3921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[wata_trouble]\\FF[wasio_angry]\\AA[2]鷲尾"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「反抗的な生徒は嫌われるぞ！！」\\|\\^"
+                                "\\F[wata_trouble]\\FF[wasio_angry]\\AA[2]Washio: \"Defiant students are disliked!!\""
                             ]
                         },
                         {
@@ -4036,21 +3938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ama_angry]\\FF[wasio_angry]\\AA[1]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「嫌われる・・？はっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "世界で一番嫌われてる先公はてめぇじゃねえかっ！」\\|\\|\\^"
+                                "\\F[ama_angry]\\FF[wasio_angry]\\AA[1]Amma: \"Disliked..? Ha...!! The most disliked teacher in the\nworld is you!\""
                             ]
                         },
                         {
@@ -4067,28 +3955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ama_angry]\\FF[wasio_angry]\\AA[1]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「男子生徒にはイヤミばかりで体罰。女子生徒には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お触り、ジロジロ見る、胸や尻で煽るとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でもありのセクハラ三昧。嫌われない訳ないじゃん」\\|\\|\\^"
+                                "\\F[ama_angry]\\FF[wasio_angry]\\AA[1]Amma: \"Nothing but sarcasm and corporal punishment for the\nboys. Touching, leering, and sexually harassing the girls by\nteasing them with their breasts and asses. There's no way\nyou wouldn't be disliked.\""
                             ]
                         },
                         {
@@ -4105,14 +3972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ama_angry]\\FF[wasio_angry]\\AA[2]鷲尾"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、お前も俺のことが嫌いなのか・・・？」\\|\\^"
+                                "\\F[ama_angry]\\FF[wasio_angry]\\AA[2]Washio: \"Oh, so you hate me too...?\""
                             ]
                         },
                         {
@@ -4129,21 +3989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ama_angry]\\FF[wasio_angry]\\AA[1]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「当然だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きになれるトコがねぇよ！てめぇは・・・！！」\\|\\|\\^"
+                                "\\F[ama_angry]\\FF[wasio_angry]\\AA[1]Amma: \"Of course! There's nothing to like about you! You\nare...!!\""
                             ]
                         },
                         {
@@ -4160,14 +4006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[wata_trouble]\\FF[wasio_angry]\\AA[1]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大嫌い・・・」\\|\\^"
+                                "\\F[wata_trouble]\\FF[wasio_angry]\\AA[1]Wata: \"I hate you...\""
                             ]
                         },
                         {
@@ -4184,14 +4023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[wata_trouble]\\FF[wasio_angry]\\AA[2]鷲尾"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ならば問題ない。お前達は俺の牝生徒になれるぞ！！」\\|\\^"
+                                "\\F[wata_trouble]\\FF[wasio_angry]\\AA[2]Washio: \"Then there's no problem. You girls can become my\nfemale students!!\""
                             ]
                         },
                         {
@@ -4208,14 +4040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ama_angry]\\FF[wasio_angry]\\AA[1]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は・・・？」\\|\\^"
+                                "\\F[ama_angry]\\FF[wasio_angry]\\AA[1]Amma: \"Huh...?\""
                             ]
                         },
                         {
@@ -4241,14 +4066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ama_trouble]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・う・・・」\\|\\^"
+                                "\\F[ama_trouble]Amma: \"Eh...uh...\""
                             ]
                         },
                         {
@@ -4265,14 +4083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[wata_trouble]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・！？」\\|\\^"
+                                "\\F[wata_trouble]Wata: \"...!? \""
                             ]
                         },
                         {
@@ -4307,14 +4118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wasio_smile]鷲尾"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう一度聞こう。お前達は俺のことが嫌いか・・・？」\\|\\^"
+                                "\\FF[wasio_smile]Washio: \"Let me ask again. Do you girls hate me...?\""
                             ]
                         },
                         {
@@ -4331,21 +4135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ama_toroke]\\FF[wasio_smile]\\AA[1]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ・・・そんなこと・・・ありません！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好き・・・大好きです♪」\\|\\|\\^"
+                                "\\F[ama_toroke]\\FF[wasio_smile]\\AA[1]Amma: \"No... that's not it at all!! I like you... I really\nlike you♪\""
                             ]
                         },
                         {
@@ -4362,28 +4152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ama_toroke]\\FF[wasio_smile]\\AA[1]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何でか・・・わかんないですけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先生への気持ちが溢れて来ちゃいます♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先生にメチャクチャにされたくってたまらないっ♪」\\|\\|\\^"
+                                "\\F[ama_toroke]\\FF[wasio_smile]\\AA[1]Amma: \"I don't know why... but my feelings for teacher are\noverflowing♪ I just can't wait to be messed up by you♪\""
                             ]
                         },
                         {
@@ -4400,21 +4169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ama_toroke]\\FF[wasio_smile]\\AA[2]鷲尾"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか、そうか。くくくっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は・・・どうだ？」\\|\\|\\^"
+                                "\\F[ama_toroke]\\FF[wasio_smile]\\AA[2]Washio: \"Is that so, is that so. Heh heh heh...! How about\nyou?\""
                             ]
                         },
                         {
@@ -4431,14 +4186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[wata_troke]\\FF[wasio_smile]\\AA[1]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・大好き♪」\\|\\^"
+                                "\\F[wata_troke]\\FF[wasio_smile]\\AA[1]Wata: \"...I love you♪\""
                             ]
                         },
                         {
@@ -4455,21 +4203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[wata_troke]\\FF[wasio_smile]\\AA[2]鷲尾"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだろう。この力があれば！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大逆転できるっ！！」\\|\\|\\^"
+                                "\\F[wata_troke]\\FF[wasio_smile]\\AA[2]Washio: \"That's right. With this power! I can turn\neverything around!!\""
                             ]
                         },
                         {
@@ -4486,28 +4220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[wata_troke]\\FF[wasio_smile]\\AA[2]鷲尾"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺のことを毛嫌いしてきた連中が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "媚びる様が目に浮かぶ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺の天下だ！！俺の為の学園だっ！！」\\|\\|\\^"
+                                "\\F[wata_troke]\\FF[wasio_smile]\\AA[2]Washio: \"I can see those who despised me groveling before\nme! It's my reign!! A school for me!!\""
                             ]
                         },
                         {
@@ -4524,14 +4237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[wata_troke]\\FF[wasio_smile]\\AA[2]鷲尾"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「がははははっ・・・！」\\|\\^"
+                                "\\F[wata_troke]\\FF[wasio_smile]\\AA[2]Washio: \"Gahahaha!!\""
                             ]
                         },
                         {
@@ -4562,14 +4268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "               \\{製作　ルナリアン\\|\\|\\^"
+                                "               Produced by Lunarian"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "音楽室",
+    "displayName": "Music Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4007,14 +4007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やめ・・・あっ・・・♥」"
+                                "Boy: \"Stop... Ahh...♥\""
                             ]
                         },
                         {
@@ -4031,21 +4024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んほっ♥狭いロッカーでセックス最高じゃん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おほぉ♥マジやべっｗほらもっと出せよ♥」"
+                                "Girl: \"Nnh♥ Sex in a tight locker is the best, isn't it♪\nOhh♥ Seriously amazing lol Come on, let out more♥\""
                             ]
                         },
                         {

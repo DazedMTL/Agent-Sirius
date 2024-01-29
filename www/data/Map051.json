@@ -1874,7 +1874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "                   \\{－３年前－"
+                                "                   -Three Years Ago-"
                             ]
                         },
                         {
@@ -2028,14 +2028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫・・・大丈夫だから・・・」"
+                                "Nadeshiko: \"It's okay... it's going to be okay...\""
                             ]
                         },
                         {
@@ -2070,28 +2063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怪我だって、大したことないんだよ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お医者さんから説明があったでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに心配しないで・・・」"
+                                "Nadeshiko: \"Even the injury isn't serious... The doctor\nexplained, didn't he? Don't worry so much...\""
                             ]
                         },
                         {
@@ -2108,21 +2080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smiletyu]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よ、良かった・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "撫子、目を覚ましたんだ・・・」"
+                                "\\F[beni_smiletyu]Akane: \"Th-thank goodness... Nadeshiko, you woke up...\""
                             ]
                         },
                         {
@@ -2139,28 +2097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子が襲われたって聞いて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小太りのオッサンに押し倒されたって聞いて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うう・・・怖い思いをしたんだな・・って」"
+                                "\\F[beni_troubletyu]Akane: \"When I heard you were attacked... that a chubby old\nman had knocked you down... ugh... you must have been so\nscared...\""
                             ]
                         },
                         {
@@ -2177,14 +2114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私がついてたら・・・こんなことには・・・」"
+                                "\\F[beni_troubletyu]Akane: \"If I had been with you... this wouldn't have\nhappened...\""
                             ]
                         },
                         {
@@ -2201,14 +2131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_laughtyu2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅がいなくて・・・本当に良かった・・・」"
+                                "\\F[nako_laughtyu2]Nadeshiko: \"It's really good... that Akane wasn't there...\""
                             ]
                         },
                         {
@@ -2225,14 +2148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「!!?」"
+                                "\\F[beni_troubletyu]Akane: \"!!?\""
                             ]
                         },
                         {
@@ -2249,28 +2165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_laughtyu2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして・・・って？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒にいたら襲われなくて済んだかもって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうかも知れないけど・・・」"
+                                "\\F[nako_laughtyu2]Nadeshiko: \"Why... you ask? If we had been together, maybe\nwe wouldn't have been attacked... that might be true,\nbut...\""
                             ]
                         },
                         {
@@ -2287,21 +2182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_laughtyu2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い・・・一緒にいたら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅も同じ目にあったかも・・・知れないでしょ？」"
+                                "\\F[nako_laughtyu2]Nadeshiko: \"If... if we had been together... maybe Akane\nwould have suffered the same fate... don't you think?\""
                             ]
                         },
                         {
@@ -2318,14 +2199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_laughtyu2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私・・・そんなの嫌だもん・・・」"
+                                "\\F[nako_laughtyu2]Nadeshiko: \"I... I wouldn't want that...\""
                             ]
                         },
                         {
@@ -2342,14 +2216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_crytyu]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うう・・・うえぇ～ん・・・」"
+                                "\\F[nako_crytyu]Nadeshiko: \"Ugh... waaahhh~\""
                             ]
                         },
                         {
@@ -2415,14 +2282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が側にいたら・・・撫子を悲しませる・・・？」"
+                                "\\F[beni_troubletyu]Akane: \"If I had been by your side... would I have made\nNadeshiko sad...?\""
                             ]
                         },
                         {
@@ -2439,21 +2299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなの・・・絶対に嫌だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つ、強くならなきゃ・・・」"
+                                "\\F[beni_angrytyu]Akane: \"I absolutely hate that idea! I must become\nstronger...\""
                             ]
                         },
                         {
@@ -2470,21 +2316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「隣りにいたら、撫子が頼ってくれるぐらいに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鍛えるだけじゃ駄目だ・・・もっとこう・・・」"
+                                "\\F[beni_angrytyu]Akane: \"I need to be so strong that Nadeshiko can rely on me\nif I'm by her side! Just training isn't enough... I need\nsomething more like...\""
                             ]
                         },
                         {
@@ -2501,14 +2333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヒーローみたいな力が・・・欲しい・・・」"
+                                "\\F[beni_angrytyu]Akane: \"The kind of power a hero has... I want it...\""
                             ]
                         },
                         {

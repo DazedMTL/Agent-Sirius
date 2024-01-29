@@ -1387,21 +1387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_tyu]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「廊下は走らない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お行儀が悪いよ」"
+                                "\\FF[yuri_tyu]???: \"You shouldn't run in the hallways. It's bad manners.\""
                             ]
                         },
                         {
@@ -1419,14 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]\\FF[yuri_tyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っ！！」"
+                                "\\F[beni_angrytyu]\\FF[yuri_tyu]\\AA[1]Akane Suzaku: \"!!\""
                             ]
                         },
                         {
@@ -1444,21 +1423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]\\FF[yuri_tyu]\\AA[2]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ましてや病院の、だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことも分からないのかい？」"
+                                "\\F[beni_angrytyu]\\FF[yuri_tyu]\\AA[2]???: \"Especially in a hospital. Don't you understand that?\""
                             ]
                         },
                         {
@@ -1476,14 +1441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]\\FF[yuri_tyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "\\F[beni_angrytyu]\\FF[yuri_tyu]\\AA[1]Akane Suzaku: \"...\""
                             ]
                         },
                         {
@@ -1501,21 +1459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]\\FF[yuri_tyu]\\AA[2]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「遊ぶなら、もっと適切な場所があるはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "公園とかね。こんなところを走っていたら・・・」"
+                                "\\F[beni_angrytyu]\\FF[yuri_tyu]\\AA[2]???: \"If you want to play, there should be more appropriate\nplaces. Like a park, for example. If you run around in a\nplace like this...\""
                             ]
                         },
                         {
@@ -1564,14 +1508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]\\FF[yuri_tyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかってる」"
+                                "\\F[beni_troubletyu]\\FF[yuri_tyu]\\AA[1]Akane Suzaku: \"I know that.\""
                             ]
                         },
                         {
@@ -1589,14 +1526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]\\FF[yuri_tyu]\\AA[2]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「？・・・なら」"
+                                "\\F[beni_troubletyu]\\FF[yuri_tyu]\\AA[2]???: \"?...Then\""
                             ]
                         },
                         {
@@ -1614,28 +1544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]\\FF[yuri_tyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それでも・・・どんなにいけないことだって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かってても・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抑えきれない時があるんだっ！」"
+                                "\\F[beni_angrytyu]\\FF[yuri_tyu]\\AA[1]Akane Suzaku: \"Even so... no matter how much I know it's\nwrong... there are times when I just can't hold back!\""
                             ]
                         },
                         {
@@ -1653,14 +1562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angrytyu]\\FF[yuri_tyu]\\AA[2]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなワガママは通用しないよ」"
+                                "\\F[beni_angrytyu]\\FF[yuri_tyu]\\AA[2]???: \"Such selfishness won't be tolerated.\""
                             ]
                         },
                         {
@@ -1686,21 +1588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smiletyu]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ！そっか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういうことか・・・！」"
+                                "\\F[beni_smiletyu]Akane Suzaku: \"Haha! I see... so that's what it is...!\""
                             ]
                         },
                         {
@@ -1717,14 +1605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smiletyu]\\FF[yuri_tyu]\\AA[2]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ？」"
+                                "\\F[beni_smiletyu]\\FF[yuri_tyu]\\AA[2]???: \"What do you mean?\""
                             ]
                         },
                         {
@@ -1741,28 +1622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smiletyu]\\FF[yuri_tyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうっ！！分かる訳なかったんだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道を外れるってことが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当たり前になった時のことなんて・・・」"
+                                "\\F[beni_smiletyu]\\FF[yuri_tyu]\\AA[1]Akane Suzaku: \"Thank you!! I couldn't have understood...\nwhat it's like when straying from the path becomes the\nnorm...\""
                             ]
                         },
                         {
@@ -1779,14 +1639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smiletyu]\\FF[yuri_tyu]\\AA[2]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一人で納得して・・・」"
+                                "\\F[beni_smiletyu]\\FF[yuri_tyu]\\AA[2]???: \"Convincing yourself alone...\""
                             ]
                         },
                         {
@@ -1803,28 +1656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]\\FF[yuri_tyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「貴方だって一緒なんだ。傷ついたり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後ろめたいことがある人の気持ちに寄り添えない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "想像すら出来ないんだ」"
+                                "\\F[beni_troubletyu]\\FF[yuri_tyu]\\AA[1]Akane Suzaku: \"You're the same. Unable to empathize with\nthose who are hurt or feel guilty. You can't even imagine\nit.\""
                             ]
                         },
                         {
@@ -1841,14 +1673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]\\FF[yuri_tyu]\\AA[2]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この・・・私が？」"
+                                "\\F[beni_troubletyu]\\FF[yuri_tyu]\\AA[2]???: \"Me...?\""
                             ]
                         },
                         {
@@ -1865,14 +1690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_troubletyu]\\FF[yuri_tyu]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私は・・・取り返しがつかないことをしたんだ・・・」"
+                                "\\F[beni_troubletyu]\\FF[yuri_tyu]\\AA[1]Akane Suzaku: \"I have... done something irreversible...\""
                             ]
                         },
                         {
@@ -2112,21 +1930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_tyu]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「道を外れることが当たり前になる・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だがそれでは、秩序は保てない」"
+                                "\\FF[yuri_tyu]???: \"To make straying from the path the norm...? But that\nwould disrupt order.\""
                             ]
                         },
                         {
@@ -2143,28 +1947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_tyu]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも・・・そうでないといけない人間もいる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・ということか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほど・・・」"
+                                "\\FF[yuri_tyu]???: \"However... there are people who must live that way...\nI see...\""
                             ]
                         },
                         {
@@ -2182,28 +1965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_tyu]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「矛盾することを両立させるには・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずは私が知るべきだろうな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "廊下を走る意味をっ！！」"
+                                "\\FF[yuri_tyu]???: \"To reconcile such contradictions... I must first\nunderstand... the meaning of running in the hallways!!\""
                             ]
                         },
                         {

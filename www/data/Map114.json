@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西２階",
+    "displayName": "West 2nd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 9,
@@ -2993,28 +2993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ajiri_angry2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「エージェントシリウス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "任務は待機と監視のはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出しゃばるのはいい加減にしなさい」"
+                                "\\FF[ajiri_angry2]Yui: \"Agent Sirius! Your mission was supposed to be standby\nand surveillance. Stop overstepping your bounds already.\""
                             ]
                         },
                         {
@@ -3032,21 +3011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ajiri_angry2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「レグルスに言いつけるわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかってるの・・・？」"
+                                "\\FF[ajiri_angry2]Yui: \"I'll tell Regulus about this. You understand...?\""
                             ]
                         },
                         {
@@ -3064,21 +3029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ajiri_angry2]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アケルナル！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報告するなら、こうだな！」"
+                                "\\F[beni_angry2]\\FF[ajiri_angry2]\\AA[1]Akane: \"Akelnaal!? If I'm going to report, then it should be\nlike this!\""
                             ]
                         },
                         {
@@ -3096,21 +3047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ajiri_angry2]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アケルナルは、ビッチギャル怪人になってしまいました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コテンパンにして捕まえておきますので、増援願います、だ！！」"
+                                "\\F[beni_angry2]\\FF[ajiri_angry2]\\AA[1]Akane: \"Akelnaal has turned into a bitchy gal monster! I'll\nbeat her to a pulp and capture her, so please send\nreinforcements!!\""
                             ]
                         },
                         {
@@ -3211,21 +3148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ajiri_reverse]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃははっ！あーしに勝てるつもりかよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おめでて～なっ！！」"
+                                "\\FF[ajiri_reverse]Yui: \"Kyahaha! You think you can beat me? How delusional!!\""
                             ]
                         },
                         {
@@ -3243,21 +3166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ajiri_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「エージェントとしての任務を忘れて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "快楽に溺れたアンタに負けるはずがないだろ！」"
+                                "\\F[beni_angry2]\\FF[ajiri_reverse]\\AA[1]Akane: \"There's no way I'd lose to someone who's forgotten\ntheir duties as an agent and drowned in pleasure!\""
                             ]
                         },
                         {
@@ -3274,28 +3183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ajiri_reverse]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いひひっ！オナニーして性欲発散しねーと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかしくなっちゃうオナニージャンキーのくせに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "偉そうに言うじゃねぇよ！」"
+                                "\\F[beni_angry2]\\FF[ajiri_reverse]\\AA[2]Yui: \"Ihihi! You're one to talk, a masturbation junkie who\ngoes crazy if you don't get off to relieve your sexual\nfrustration! Don't act so high and mighty!\""
                             ]
                         },
                         {
@@ -3313,21 +3201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ajiri_reverse]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「チンポの味を知ってから、お高く止まれっての！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今どきヴァージンなんて流行らねぇからよぉ～っ♪」"
+                                "\\F[beni_angry2]\\FF[ajiri_reverse]\\AA[2]Yui: \"Acting all prim and proper after you've tasted dick!\nVirginity isn't trendy anymore, you know~♪\""
                             ]
                         },
                         {
@@ -3345,14 +3219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[ajiri_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふ、ふざけるなっ・・！！」"
+                                "\\F[beni_angry2]\\FF[ajiri_reverse]\\AA[1]Akane: \"Don't... don't joke around..!!\""
                             ]
                         },
                         {
@@ -3430,14 +3297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_damage]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「と、とにかく、離れないと！！」"
+                                "\\F[beni_damage]Akane: \"Anyway, we need to get away!!\""
                             ]
                         },
                         {
@@ -3849,21 +3709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[seira_smile]星羅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はいっ！ストップ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "突然だけど、星羅の生ライブを鑑賞していってね～♪」"
+                                "\\FF[seira_smile]Seira: \"Yes! Stop~♪ Suddenly, but please enjoy Seira's live\nperformance~♪\""
                             ]
                         },
                         {
@@ -3881,14 +3727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[seira_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！今、それどころじゃ・・・」"
+                                "\\F[beni_angry2]\\FF[seira_smile]\\AA[1]Akane: \"Gah! Now's not the time for that...\""
                             ]
                         },
                         {
@@ -3906,28 +3745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[seira_smile]\\AA[2]星羅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「急がば廻れだぞ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにあーしのライブより、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大切な用事なんてある訳ないし～♪」"
+                                "\\F[beni_angry2]\\FF[seira_smile]\\AA[2]Seira: \"Haste makes waste♪ Besides, there's no way you have\nsomething more important than my live performance~♪\""
                             ]
                         },
                         {
@@ -3945,14 +3763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[seira_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あーし・・・？」"
+                                "\\F[beni_angry2]\\FF[seira_smile]\\AA[1]Akane: \"My live...?\""
                             ]
                         },
                         {
@@ -4053,21 +3864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[seira_reverse]星羅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ・・・いけね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バレちゃったわ～！！」"
+                                "\\FF[seira_reverse]Seira: \"Ah... oops♪ I let it slip~!!\""
                             ]
                         },
                         {
@@ -4084,28 +3881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[seira_reverse]星羅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あーし、恋愛禁止のアイドル卒業して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チンポ選び放題食い放題のビッチになったんだよね～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きひひひっ！！ファンとしては幻滅ぅ～？」"
+                                "\\FF[seira_reverse]Seira: \"I've graduated from being a love-banned idol to a\nbitch who can choose and eat up any cock she wants~!\nKihhihih!! Are you disillusioned as a fan~?\""
                             ]
                         },
                         {
@@ -4123,28 +3899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[seira_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ファンじゃないから、わかんないですが！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大好きなアイドルが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなになっちゃったら・・・嫌ですね！」"
+                                "\\F[beni_angry2]\\FF[seira_reverse]\\AA[1]Akane: \"I'm not a fan, so I don't know! But if a beloved\nidol turned out like this... it would be unpleasant!\""
                             ]
                         },
                         {
@@ -4162,28 +3917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[seira_reverse]\\AA[2]星羅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マジで！褐色肌の零れそうな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パイオツ吸いて～！とかならね～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃははっ！新しい扉開けるんじゃね～！」"
+                                "\\F[beni_angry2]\\FF[seira_reverse]\\AA[2]Seira: \"Seriously! Wouldn't you want to suck on these\ntanned, about-to-spill-out tits~? Kyahaha! Maybe it's time\nto open a new door~!\""
                             ]
                         },
                         {
@@ -4201,14 +3935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[seira_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな趣味！願い下げだ！！」"
+                                "\\F[beni_angry2]\\FF[seira_reverse]\\AA[1]Akane: \"I have no interest in such tastes! Count me out!!\""
                             ]
                         },
                         {
@@ -4286,14 +4013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_damage]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「と、とにかく、離れないと！！」"
+                                "\\F[beni_damage]Akane: \"Anyway, I need to get away!!\""
                             ]
                         },
                         {

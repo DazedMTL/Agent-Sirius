@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "1Ａ教室",
+    "displayName": "Classroom 1A",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4276,21 +4276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_angry]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もぉ～！しつこいっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  アンタもしつこすぎるっ！！」"
+                                "\\F[himawari_angry]Himawari: \"Geez! You're so persistent!! You're way too\nclingy!!\""
                             ]
                         },
                         {
@@ -4307,21 +4293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_angry]\\FF[beni_kamenkobi]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だって、向日葵にも早く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  目隠しセックスの気持ちよさを知ってもらいたいからっ♪」"
+                                "\\F[himawari_angry]\\FF[beni_kamenkobi]\\AA[2]Akane: \"But I want Himawari to experience the pleasure of\nblindfolded sex as soon as possible♪\""
                             ]
                         },
                         {
@@ -4338,21 +4310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_angry]\\FF[beni_kamenkobi]\\AA[1]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だからって、ストーカーみたいに付きまとうんじゃないわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  少しぐらい・・・待ちなさいよっ！！」"
+                                "\\F[himawari_angry]\\FF[beni_kamenkobi]\\AA[1]Himawari: \"Even so, don't hang around me like a stalker!\nWait a little... just wait!!\""
                             ]
                         },
                         {
@@ -4369,21 +4327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_angry]\\FF[beni_kamenoti]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「待ってなんてられないよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  だから早く・・・マスクを付けて私達の仲間になろ♪」"
+                                "\\F[himawari_angry]\\FF[beni_kamenoti]\\AA[2]Akane: \"I can't wait! So hurry up... put on the mask and\njoin us♪\""
                             ]
                         },
                         {
@@ -4400,14 +4344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_angry]\\FF[beni_kamenkobi]\\AA[1]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「し、仕方ないわね・・・！」"
+                                "\\F[himawari_angry]\\FF[beni_kamenkobi]\\AA[1]Himawari: \"Fine, I have no choice...!\""
                             ]
                         },
                         {
@@ -4667,21 +4604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_kamen]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アンタより前に、撫子からもらったのっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  でもぉ・・・隠していれば紅が追ってくるからって・・・」"
+                                "\\F[himawari_kamen]Himawari: \"I got it from Nadeshiko before you! But... I kept\nit hidden because I knew you would chase after me if you\nfound out...\""
                             ]
                         },
                         {
@@ -4698,14 +4621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_kamen]\\FF[beni_kamentr]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私を騙したのっ！？」"
+                                "\\F[himawari_kamen]\\FF[beni_kamentr]\\AA[2]Akane: \"You tricked me!? \""
                             ]
                         },
                         {
@@ -4722,28 +4638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_kamen]\\FF[beni_kamentr]\\AA[1]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「し、仕方ないじゃない！交換条件ってヤツだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  だって目隠ししてたら、宇宙を探しにくいでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  撫子にも協力してもらったのよ♪」"
+                                "\\F[himawari_kamen]\\FF[beni_kamentr]\\AA[1]Himawari: \"I had no choice! It's a matter of give and take.\nBesides, it's hard to search for Sora with a blindfold on,\nright? Nadeshiko helped me out with this♪\""
                             ]
                         },
                         {
@@ -4760,14 +4655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_kamen]\\FF[beni_kamenoti]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それって・・・宇宙も仲間にしたいってこと？」"
+                                "\\F[himawari_kamen]\\FF[beni_kamenoti]\\AA[2]Akane: \"Does that mean... you want to include Sora in our\ngroup too?\""
                             ]
                         },
                         {
@@ -4784,28 +4672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_kamen]\\FF[beni_kamenoti]\\AA[1]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「と、当然でしょ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  目隠ししてお互いの乳首をねぶったり、捻り合ったり・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  絶対にイキまくっちゃうんだからっ♪」"
+                                "\\F[himawari_kamen]\\FF[beni_kamenoti]\\AA[1]Himawari: \"Of course♪ With blindfolds on, we'll nibble and\ntwist each other's nipples... We're definitely going to cum\nlike crazy♪\""
                             ]
                         },
                         {
@@ -4822,21 +4689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_kamen]\\FF[beni_kamenkobi]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかるぅ♪じゃあ仕方ないよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  私も撫子とぉ、乳首弄り合いたいなぁ♪」"
+                                "\\F[himawari_kamen]\\FF[beni_kamenkobi]\\AA[2]Akane: \"I get it♪ Well, can't be helped then. I also want to\nplay with Nadeshiko's nipples♪\""
                             ]
                         },
                         {

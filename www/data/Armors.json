@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "盾",
+        "name": "Shield",
         "note": "",
         "params": [
             0,
@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "ゴーグル",
+        "name": "Goggles",
         "note": "",
         "params": [
             0,
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "服",
+        "name": "Clothes",
         "note": "",
         "params": [
             0,
@@ -94,7 +94,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "センサーA",
+        "name": "Sensor A",
         "note": "",
         "params": [
             0,

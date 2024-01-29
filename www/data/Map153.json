@@ -3617,21 +3617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「辿り着いた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう逃さないんだから・・・」"
+                                "\\F[nakosu_angry]Nadeshiko: \"I've finally caught up! You won't get away this\ntime...\""
                             ]
                         },
                         {
@@ -3649,14 +3635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポイゾンバーストっ！！」"
+                                "\\F[nakosu_angry]Nadeshiko: \"Poison Burst!!\""
                             ]
                         },
                         {
@@ -3683,14 +3662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[furi_angry]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐっ・・・！！」"
+                                "\\FF[furi_angry]Akane: \"Guh...!!\""
                             ]
                         },
                         {
@@ -3708,14 +3680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]\\FF[furi_angry]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これで、元に・・・」"
+                                "\\F[nakosu_angry]\\FF[furi_angry]\\AA[1]Nadeshiko: \"With this, back to...\""
                             ]
                         },
                         {
@@ -3733,21 +3698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]\\FF[furi_smile]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ！そうはならない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなことで私の邪魔なんて出来ないから・・・！」"
+                                "\\F[nakosu_angry]\\FF[furi_smile]\\AA[2]Akane: \"Haha! As if I'd let that happen... You can't stop me\nwith something like this...!\""
                             ]
                         },
                         {
@@ -3765,14 +3716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]\\FF[furi_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そんなっ・・・！？」"
+                                "\\F[nakosu_trouble]\\FF[furi_smile]\\AA[1]Nadeshiko: \"No, no way...!?\""
                             ]
                         },
                         {
@@ -3790,21 +3734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]\\FF[furi_smile]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それより私の手の中までわざわざ来てくれた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃さないよ、撫子！」"
+                                "\\F[nakosu_trouble]\\FF[furi_smile]\\AA[2]Akane: \"Instead, you've come right into my hands! I won't\nlet you escape, Nadeshiko!\""
                             ]
                         },
                         {
@@ -3821,21 +3751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]\\FF[furi_smile]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子も・・・私なんかに囚われずに自由になれっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他の誰でもいい！！誰とだって・・・愛し合えるっ！！」"
+                                "\\F[nakosu_trouble]\\FF[furi_smile]\\AA[2]Akane: \"Nadeshiko, you too... should be free from being\ncaptured by someone like me!! Anyone is fine!! You can...\nlove anyone!!\""
                             ]
                         },
                         {
@@ -3862,14 +3778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_damage]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あうぅっ・・・！！そんなっ・・・！」"
+                                "\\F[nakosu_damage]Nadeshiko: \"Ah, uhh...!! No way...!\""
                             ]
                         },
                         {
@@ -4061,14 +3970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[iruka_free]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これで白虎さん・・・ううん、撫子も仲間♪」"
+                                "\\FF[iruka_free]Iruka: \"With this, Shiratora-san... no, Nadeshiko is also a\ncomrade♪\""
                             ]
                         },
                         {
@@ -4086,14 +3988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[inu_free]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつでも好きな時に愛し合える♪素敵だわ♪」"
+                                "\\FF[inu_free]Maple: \"You can love each other whenever you want♪ How\nwonderful♪\""
                             ]
                         },
                         {
@@ -4111,14 +4006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_damage]\\FF[inu_free]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私まで・・・堕ちちゃったら！もうっ・・・！！）"
+                                "\\F[nakosu_damage]\\FF[inu_free]\\AA[1]Nadeshiko: (If I fall too... No more...!!)"
                             ]
                         },
                         {
@@ -4310,21 +4198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_free]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「嫉妬なんてしない。一番大事な君でさえ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様にとって自由に出来るのだから♪」"
+                                "\\FF[yuri_free]Yurika: \"I won't be jealous. Even the most important person\nto you can be free for the master♪\""
                             ]
                         },
                         {
@@ -4342,21 +4216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ajiri_free]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはぁんっ♪でもここからは争奪戦じゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰が最初に新しい仲間と愛し合うか、は♪」"
+                                "\\FF[ajiri_free]Yui: \"Ahaan♪ But from here on out, it's a battle for\nsupremacy, isn't it? Who will be the first to make love with\nthe new comrade, huh♪\""
                             ]
                         },
                         {
@@ -4576,14 +4436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_free]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほど！ふふっ・・・取り合うのも・・・自由♪」"
+                                "\\FF[kikyou_free]Kikyo: \"I see! Fufu... fighting over it is also... freedom♪\""
                             ]
                         },
                         {
@@ -4601,21 +4454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_free]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ醜く争うのも、仲良く分け合うのも自由でしょ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "野蛮な連中はこれだから・・・」"
+                                "\\FF[himawari_free]Himawari: \"Then it's free to fight ugly or share nicely,\nright? That's why barbarians like you...\""
                             ]
                         },
                         {
@@ -4633,14 +4472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_damage]\\FF[himawari_free]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（紅を取り戻せない・・・怪人のままの紅なんて・・・）"
+                                "\\F[nakosu_damage]\\FF[himawari_free]\\AA[1]Nadeshiko: (If I can't bring Akane back... Akane as a\nmonster...)"
                             ]
                         },
                         {
@@ -4919,21 +4751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_free]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ですけどファーストキスを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奪いたい気持ちは止められません♪」"
+                                "\\FF[sumire_free]Sumire: \"But I can't stop wanting to steal the first kiss♪\""
                             ]
                         },
                         {
@@ -4951,14 +4769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[syuu_free]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「抜け駆けするのも自由なんて、本当に最高♪」"
+                                "\\FF[syuu_free]Hiiragi: \"Being able to sneak ahead freely is truly the\nbest♪\""
                             ]
                         },
                         {
@@ -4976,28 +4787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ayaka_free]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子さんが誰を選ぶかも自由なので♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲間になった彼女には選ばせてあげたい気もします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もちろん、私が一番になりたいけど♪」"
+                                "\\FF[ayaka_free]Ayaka: \"It's also free for Nadeshiko-san to choose whoever\nshe wants♪ Now that she's one of us, I want to let her\nchoose. Of course, I want to be the first one though♪\""
                             ]
                         },
                         {
@@ -5015,21 +4805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_damage]\\FF[ayaka_free]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あの時・・・私が紅に”ありがとう”って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言えていたら・・・こんなことには・・・）"
+                                "\\F[nakosu_damage]\\FF[ayaka_free]\\AA[1]Nadeshiko: (If at that time... I had been able to say \"thank\nyou\" to Akane... none of this would have...)"
                             ]
                         },
                         {
@@ -5109,28 +4885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_crytyu]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「恥ずかしかったの・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当はずっと頼っていたかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毎日だって一緒にいたかった」"
+                                "\\F[nako_crytyu]Nadeshiko: \"I was embarrassed... I really wanted to rely on\nyou all the time. I wanted to be with you every day.\""
                             ]
                         },
                         {
@@ -5148,28 +4903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_crytyu]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怖い思いをして・・・紅が私を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助けたいと思ってくれているって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かって嬉しかったのに・・・」"
+                                "\\F[nako_crytyu]Nadeshiko: \"I was scared and happy to know that Akane wanted\nto save me...\""
                             ]
                         },
                         {
@@ -5205,21 +4939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「重荷になりたくなかった・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅には”自由”になってほしかった・・・」"
+                                "\\F[nako_trouble]Nadeshiko: \"I didn't want to be a burden... I wanted Akane\nto be 'free'...\""
                             ]
                         },
                         {
@@ -5237,28 +4957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「足手まといの私を守ってたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅はきっと共倒れしてしまう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなの・・・！そんなの！！最悪！！」"
+                                "\\F[nako_trouble]Nadeshiko: \"If she had to protect a dead weight like me,\nAkane would surely go down with me... That's the worst!!\""
                             ]
                         },
                         {
@@ -5294,21 +4993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_free]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも・・・好きって気持ちを抑えられないよね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが自由ってことなんだから・・・♪」"
+                                "\\F[nako_free]Nadeshiko: \"But... you can't suppress feelings of love,\nright? That's what freedom is about...♪\""
                             ]
                         },
                         {
@@ -5361,21 +5046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_silhouette]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ううっ・・・そんな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなの嫌！私が消えていくなんて・・・」"
+                                "\\F[nakosu_silhouette]Nadeshiko: \"Ughh... no way... I hate this! Me disappearing\nlike this...\""
                             ]
                         },
                         {
@@ -5393,14 +5064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_silhouette]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あうぅっ・・・♪駄目ぇ・・・」"
+                                "\\F[nakosu_silhouette]Nadeshiko: \"Ah, uhh...♪ No good...\""
                             ]
                         },
                         {
@@ -5418,21 +5082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_silhouette]\\FF[furi_smile]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「抵抗するな、撫子。受け入れるんだっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "縛ってきたものから、解き放たれるんだっ！！撫子！！」"
+                                "\\F[nakosu_silhouette]\\FF[furi_smile]\\AA[2]Akane: \"Don't resist, Nadeshiko. Accept it!! Be released\nfrom what has bound you!! Nadeshiko!!\""
                             ]
                         },
                         {
@@ -5450,21 +5100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_silhouette]\\FF[furi_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が・・・私でなくなる・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああっ♪それはいいかも・・・♪」"
+                                "\\F[nakosu_silhouette]\\FF[furi_smile]\\AA[1]Nadeshiko: \"I'm going to... not be myself anymore... Ahh♪\nMaybe that's okay...♪\""
                             ]
                         },
                         {
@@ -5482,28 +5118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_silhouette]\\FF[furi_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「胸も紅みたいに大きくなりたいし♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっともっと強くなって紅みたいに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一人で何でもしたいしっ♪」"
+                                "\\F[nakosu_silhouette]\\FF[furi_smile]\\AA[1]Nadeshiko: \"I want my breasts to grow big like Akane's♪ And\nbecome much stronger so I can do anything by myself like\nAkane♪\""
                             ]
                         },
                         {
@@ -5521,21 +5136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_silhouette]\\FF[furi_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そしたら・・・そしたら・・・私は素直になれる♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自由になれるっ♪」"
+                                "\\F[nakosu_silhouette]\\FF[furi_smile]\\AA[1]Nadeshiko: \"Then... then... I can be honest♪ I can be free♪\""
                             ]
                         },
                         {
@@ -5553,28 +5154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_silhouette]\\FF[furi_smile]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう！！私が撫子の中からいなくなれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "撫子は幸せになれる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私という鎖を断ち切ってしまえっ！！白虎撫子っ！！」"
+                                "\\F[nakosu_silhouette]\\FF[furi_smile]\\AA[2]Akane: \"Yes!! If I disappear from inside Nadeshiko, she can\nbe happy! Cut off the chains that are me!! Shiratora\nNadeshiko!!\""
                             ]
                         },
                         {
@@ -5592,28 +5172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_silhouette]\\FF[furi_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これがぁ・・・あんっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この気持ちいいのが自由ってこと？す、すごいっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これぇ・・・いいっ♪」"
+                                "\\F[nakosu_silhouette]\\FF[furi_smile]\\AA[1]Nadeshiko: \"Is this ahh... ahn♪ This good feeling is what\nfreedom is? Wow♪ This is... good♪\""
                             ]
                         },
                         {
@@ -5679,21 +5238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nako_free]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはぁぁ・・・♪変わっちゃった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう手遅れに・・・なっちゃったぁ♪」"
+                                "\\FF[nako_free]Nadeshiko: \"Ahaha...♪ I've changed, it's too late now...\nI've become hopeless♪\""
                             ]
                         },
                         {
@@ -5711,21 +5256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これでもう！！何者にも邪魔されないっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようこそ、撫子。フリーダムの世界へ♪」"
+                                "\\F[furi_smile]\\FF[nako_free]\\AA[1]Akane: \"Now!! No one can interfere!! Welcome, Nadeshiko. To\nthe world of Freedom♪\""
                             ]
                         },
                         {
@@ -5743,21 +5274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「全部、自由？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は・・・もう何にも縛られない？」"
+                                "\\F[furi_smile]\\FF[nako_free]\\AA[2]Nadeshiko: \"Everything is free? I am... no longer bound by\nanything?\""
                             ]
                         },
                         {
@@ -5774,28 +5291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうさっ！私と同じ自由になったんだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朱雀紅なんていなくても、フリーダムポイゾンとして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうして繋がっていられるから！！」"
+                                "\\F[furi_smile]\\FF[nako_free]\\AA[1]Akane: \"That's right! You've become as free as me!! Even\nwithout Suzaku Akane, as Freedom Poison we can still be\nconnected like this!!\""
                             ]
                         },
                         {
@@ -5813,14 +5309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして・・・？」"
+                                "\\F[furi_smile]\\FF[nako_free]\\AA[2]Nadeshiko: \"Why...?\""
                             ]
                         },
                         {
@@ -5838,14 +5327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・？」"
+                                "\\F[furi_smile]\\FF[nako_free]\\AA[1]Akane: \"Eh...?\""
                             ]
                         },
                         {
@@ -5863,14 +5345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅、キスしてもいい？」"
+                                "\\F[furi_smile]\\FF[nako_free]\\AA[2]Nadeshiko: \"Akane, can I kiss you?\""
                             ]
                         },
                         {
@@ -5888,14 +5363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「も、もちろんだけど・・・」"
+                                "\\F[furi_smile]\\FF[nako_free]\\AA[1]Akane: \"Of course, but...\""
                             ]
                         },
                         {
@@ -5913,21 +5381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふっ♪したいのぉ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅と愛し合いたいっ♪」"
+                                "\\F[furi_smile]\\FF[nako_free]\\AA[2]Nadeshiko: \"Fufufu♪ I want to♪ I want to make love with\nAkane♪\""
                             ]
                         },
                         {
@@ -5944,28 +5398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅と！？どういうこと・・・！私は誰でもないっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フリーダムなんだ！そうじゃないといけないんだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私から君は解き放たれて・・・！」"
+                                "\\F[furi_smile]\\FF[nako_free]\\AA[1]Akane: \"With me!? What do you mean...! I'm nobody!! I'm\nfree! That's how it has to be!! You've been released from\nme...!\""
                             ]
                         },
                         {
@@ -5983,28 +5416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、自由になるって・・・こんなに素敵なんだね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかる♪今まで意地を張ってたのが馬鹿みたいっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと早くこうしていれば良かった」"
+                                "\\F[furi_smile]\\FF[nako_free]\\AA[2]Nadeshiko: \"Yeah, being free is... so wonderful, isn't it♪ I\nrealize how silly it was to be stubborn all this time♪ I\nshould have done this sooner.\""
                             ]
                         },
                         {
@@ -6022,21 +5434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_smile]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「愛してる、紅♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっとずっと前から、貴女のことを見つめていたの♪」"
+                                "\\F[furi_smile]\\FF[nako_free]\\AA[2]Nadeshiko: \"I love you, Akane♪ I've been watching you for\nso, so long♪\""
                             ]
                         },
                         {
@@ -6054,21 +5452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私を！？ど、どういうことだ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなの・・・私は求めていないっ！！」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]Akane: \"Me!? What do you mean...! This... I didn't ask for\nthis!!\""
                             ]
                         },
                         {
@@ -6085,28 +5469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「不器用な紅にこんなこと言ったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対におかしなことになるって分かっていたから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも今は素直に言える♪それが自由ってことだもの♪」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]Nadeshiko: \"I knew if I said something like this to the\nawkward Akane, things would definitely get weird... But now\nI can say it honestly♪ That's what freedom is about♪\""
                             ]
                         },
                         {
@@ -6123,28 +5486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ち、違うっ！自由にって・・・そういうことじゃない！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうして・・・撫子だけ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰でもいいはずなんだ！この開かれた世界なら！」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]Akane: \"No, that's not it! Being free doesn't mean... Why...\nonly Nadeshiko... It's supposed to be anyone! In this open\nworld!\""
                             ]
                         },
                         {
@@ -6162,28 +5504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「世界がどうだって、紅がいいの♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ううん。”紅じゃないとダメ”なの♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから・・・しよ、紅」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]Nadeshiko: \"No matter what the world is like, I want Akane♪\nNo, 'it has to be Akane'♪ So... let's do it, Akane.\""
                             ]
                         },
                         {
@@ -6201,14 +5522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、私じゃないと・・・だめっ・・・！？」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]Akane: \"It has to be me... or it won't work...!?\""
                             ]
                         },
                         {
@@ -6226,28 +5540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のこと・・・好きじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰とだって変わらない？」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]Nadeshiko: \"What about you, Akane? Don't you like me? Is it\nthe same with anyone else?\""
                             ]
                         },
                         {
@@ -6265,28 +5558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そんなこと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "す、好きだけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんで・・・くそっ！」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]Akane: \"That's not... I do like you but... why... damn it!\""
                             ]
                         },
                         {
@@ -6304,21 +5576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなに！撫子への気持ちが溢れるんだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自由になったはずなのに・・・」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]Akane: \"This much! My feelings for Nadeshiko are\noverflowing!! Even though I'm supposed to be free...\""
                             ]
                         },
                         {
@@ -6336,21 +5594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「好き、好き、大好きだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ど、どうして・・・！！止められないなんて！！」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]Akane: \"I love you, I love you, I love you so much!!\nWhy...!! I can't stop it!!\""
                             ]
                         },
                         {
@@ -6368,28 +5612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ♪それはあの事件も、エージェントも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "関係なく自由になれたからでしょ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お互いに気持ちを確かめれたからでしょ？」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]Nadeshiko: \"Fufu♪ That's because we became truly free from\nthat incident and the agents, right? Because we could\nconfirm our feelings for each other, right?\""
                             ]
                         },
                         {
@@ -6407,21 +5630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、私が撫子のことを好きなの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌じゃないってこと？」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]Akane: \"You mean you don't mind that I like you, Nadeshiko?\""
                             ]
                         },
                         {
@@ -6439,21 +5648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「両想いだって分かったんだから、嬉しいよ～紅♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからキスしよ♪」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]Nadeshiko: \"Now that we know it's mutual love, of course I'm\nhappy, Akane♪ So let's kiss♪\""
                             ]
                         },
                         {
@@ -6471,14 +5666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子を・・・その・・・愛してもいいの？」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]Akane: \"Can I... really love Nadeshiko?\""
                             ]
                         },
                         {
@@ -6496,28 +5684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じれったいのって・・・何で！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "解き放たれたんでしょ？私は”紅じゃないとダメ”なの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ以上でもそれ以下でもないの！」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]Nadeshiko: \"Why are you being so hesitant...!? You've been\nset free, right? It has to be 'Akane' for me! Nothing more,\nnothing less!\""
                             ]
                         },
                         {
@@ -6535,28 +5702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どれだけ変な愛し方でも・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドン引きするようなことだってこんな世界を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひっくり返しちゃうような性癖を持ってたって・・・」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]Nadeshiko: \"No matter how strange the way of loving is...\neven if it's something that would shock you or a fetish that\ncould turn this world upside down...\""
                             ]
                         },
                         {
@@ -6574,14 +5720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「好きなままでいるよ、紅♪」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[2]Nadeshiko: \"I'll continue to love you, Akane♪\""
                             ]
                         },
                         {
@@ -6599,21 +5738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子の事が好きな私を・・・撫子が受け入れてくれる！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなこと・・・あるなんて・・・」"
+                                "\\F[furi_trouble]\\FF[nako_free]\\AA[1]Akane: \"Nadeshiko accepts me for loving her!! That such a\nthing... could happen...\""
                             ]
                         },
                         {
@@ -6631,14 +5756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_angry]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私はもう・・・自分を抑えきれないっ！」"
+                                "\\F[furi_angry]\\FF[nako_free]\\AA[1]Akane: \"I can no longer... control myself!!\""
                             ]
                         },
                         {
@@ -6656,14 +5774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[furi_angry]\\FF[nako_free]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああああっっっ！！」"
+                                "\\F[furi_angry]\\FF[nako_free]\\AA[1]Akane: \"Aaaaaahhhhh!!\""
                             ]
                         },
                         {

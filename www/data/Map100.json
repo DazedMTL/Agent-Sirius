@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "校長室",
+    "displayName": "Principal's Office",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -2425,21 +2425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「朱雀君と白虎君は・・・２年B組だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "犬飼先生のクラスだ」"
+                                "Okajima: \"Suzaku-kun and Shiratora-kun are in... 2nd year\nClass B, right? That's Inukai-sensei's class.\""
                             ]
                         },
                         {
@@ -2456,21 +2442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_true]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そーですが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがどうかしましたか？」"
+                                "\\F[beni_true]Akane: \"Yes, but... what about it?\""
                             ]
                         },
                         {
@@ -2487,28 +2459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「２年は女の先生で固めて見ているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "A組の山内紫苑先生、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "B組の犬飼・アンナ・メープル先生、C組の安知理結先生」"
+                                "Okajima: \"I've been observing how all the 2nd year classes\nare led by female teachers. Class A has Yamauchi Shion-\nsensei, Class B has Inukai Anna Maple-sensei, and Class C\nhas Anji Rie-sensei.\""
                             ]
                         },
                         {
@@ -2525,14 +2476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その言い方だと・・・わざとなんですか？」"
+                                "\\F[nako_trouble]Nadeshiko: \"The way you say that... is it on purpose?\""
                             ]
                         },
                         {
@@ -2549,21 +2493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐふふっ・・・気になるだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだ。実証実験というヤツだよ」"
+                                "Okajima: \"Gufufu... Curious, aren't you? That's right. It's\nwhat you call a field experiment.\""
                             ]
                         },
                         {
@@ -2580,28 +2510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「綺麗な女の先生が担任になると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男子の成績が上向きになるのでな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "褒められたくて、やる気が出るのだよっ！」"
+                                "Okajima: \"When a beautiful female teacher becomes the\nhomeroom teacher, the boys' grades tend to improve! They\nbecome motivated because they want to be praised!\""
                             ]
                         },
                         {
@@ -2618,14 +2527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなもんですかね・・・？」"
+                                "\\F[beni_trouble]Akane: \"Is that really how it works...?\""
                             ]
                         },
                         {
@@ -2642,21 +2544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（少なくとも・・・アケルナルが自分の担任だったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テンション下がると思うけど・・・）"
+                                "\\F[beni_trouble]Akane: (At least... if Akelnar was my homeroom teacher, I\nthink my spirits would drop...)"
                             ]
                         },
                         {
@@ -2673,28 +2561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろんだっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうにかしてお近づきになりたいと、頑張ってしまうのだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思春期男子の妄想力は最も情熱的な力の源なのだ！」"
+                                "Okajima: \"Of course! They'll try their hardest to get close\nto her! The power of a teenage boy's fantasies is the most\npassionate source of energy!\""
                             ]
                         },
                         {
@@ -2711,21 +2578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_true]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「好きな先生には嫌われたくないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑張るってことですか？」"
+                                "\\F[nako_true]Nadeshiko: \"So you mean they work hard because they don't\nwant their favorite teacher to dislike them?\""
                             ]
                         },
                         {
@@ -2742,28 +2595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何？分からないのかぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだな・・・おおっ！いい例があるっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鷲尾先生だ！」"
+                                "Okajima: \"What? You don't get it? Well then... Oh! I have a\nperfect example! Washio-sensei!\""
                             ]
                         },
                         {
@@ -2780,28 +2612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一度、鷲尾先生に担任をやらせたことがあるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女子から猛抗議で白紙になったことがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの男がムカつきすぎて、勉強に集中出来ないのだと！」"
+                                "Okajima: \"Once, we let Washio-sensei take charge of a class,\nbut there was such fierce protest from the girls that it was\nscrapped. They said they were too annoyed by him to\nconcentrate on their studies!\""
                             ]
                         },
                         {
@@ -2818,28 +2629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「嫌いな先生が担任になったら、それだけ勉強に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "影響があるのだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから・・・ぐふふふっ！逆だったらと考えたのだっ！」"
+                                "Okajima: \"If they dislike their homeroom teacher, it affects\ntheir studies that much! So... gufufufu! I thought about\nwhat if it was the opposite!\""
                             ]
                         },
                         {
@@ -2856,21 +2646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大成功だったろぉ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鷲尾先生だったら、クラスの雰囲気が真っ暗だぞぉ～！」"
+                                "Okajima: \"It was a great success, wasn't it? If it were\nWashio-sensei, the class atmosphere would be gloomy!\""
                             ]
                         },
                         {
@@ -2887,14 +2663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そ、それは凄い説得力だ・・・）"
+                                "\\F[beni_trouble]Akane: (That's... quite convincing...)"
                             ]
                         },
                         {
@@ -2911,21 +2680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（う、うん・・・鷲尾先生のクラスになった先輩達の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "犠牲のおかげ・・・ありがとうございます）"
+                                "\\F[nako_trouble]Nadeshiko: (Yeah... thanks to the sacrifice of the seniors\nwho ended up in Washio-sensei's class... Thank you.)"
                             ]
                         },
                         {
@@ -3001,21 +2756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "岡島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「山内紫苑先生、犬飼・アンナ・メープル先生、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安知理結先生・・・ぐふふ♪」"
+                                "Okajima: \"Professor Yamauchi Shion, Professor Inukai Anna\nMaple, Professor Anjiri Yui... hehehe♪\""
                             ]
                         },
                         {

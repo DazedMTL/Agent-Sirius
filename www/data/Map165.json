@@ -1567,28 +1567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ajiri_smile]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい。レグルスが自ら来るようですね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで役者が揃いました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全て順調です」"
+                                "\\F[ajiri_smile]Yui: \"Yes, it seems Regulus will come by himself.♪ With\nthis, all the players are in place. Everything is going\nsmoothly.\""
                             ]
                         },
                         {
@@ -1606,28 +1585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ajiri_smile]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「エージェント達から仲間にすれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学園の支配は滞りなく進むでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰も私達に逆らえない」"
+                                "\\F[ajiri_smile]Yui: \"If we make the agents our allies, the domination of\nthe academy will proceed without any hitches. No one will be\nable to oppose us.\""
                             ]
                         },
                         {
@@ -1645,14 +1603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ajiri_smile]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たかが人間風情には・・・」"
+                                "\\F[ajiri_smile]Yui: \"To mere humans...\""
                             ]
                         },
                         {
@@ -1670,14 +1621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ajiri_smile]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですよね・・・ご主人様♪」"
+                                "\\F[ajiri_smile]Yui: \"That's right... Master♪\""
                             ]
                         },
                         {
@@ -1695,28 +1639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ajiri_smile]？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ。そろそろ貴女も人間を辞めさせてあげるっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我の眷属となって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "馬鹿牝どもを貪ろうねっ♪ふふふっ・・・♪」"
+                                "\\F[ajiri_smile]???: \"Yes, it's about time for you to stop being human too♪\nBecome one of my kin and let's devour those foolish females\ntogether♪ Fufufu...♪\""
                             ]
                         },
                         {
@@ -1738,14 +1661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "                     "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                      \\{NEXT・・・"
+                                "                                           NEXT..."
                             ]
                         },
                         {
@@ -1762,14 +1678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "   \\{エージェントシリウス・ダークサイド"
+                                "   Agent Sirius. Dark Side"
                             ]
                         },
                         {
@@ -1786,14 +1695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "              \\{to be continued・・・"
+                                "              to be continued..."
                             ]
                         },
                         {
@@ -1810,14 +1712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "                 "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "            \\{THANK YOU FOR PLAYING"
+                                "                             THANK YOU FOR PLAYING"
                             ]
                         },
                         {
@@ -2024,7 +1919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エロシーンを全開放しますか？"
+                                "Would you like to unlock all the erotic scenes?"
                             ]
                         },
                         {
@@ -2032,8 +1927,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

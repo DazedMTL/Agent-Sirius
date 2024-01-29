@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "保健室",
+    "displayName": "Infirmary",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -2717,28 +2717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あー、紅。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みてみて。あーし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅の言う通りロッカーから出ることにしたの・・・♪」"
+                                "\\FF[wata_reverse]Wata: \"Ah, Akane. Look, look. I... just like you said, I\ndecided to come out of the locker...♪\""
                             ]
                         },
                         {
@@ -2756,14 +2735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「綿・・・すまない・・・」"
+                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]Akane: \"Wata... I'm sorry...\""
                             ]
                         },
                         {
@@ -2781,28 +2753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃははっ！何誤ってんのぉ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅がやれって言ったんじゃんっ！あーしは他にやりたいこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見つけてぇ・・・ウィンウィンじゃんっ♪」"
+                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[2]Wata: \"Kyahaha! What are you apologizing for~? You're the\none who told me to do it! I found something else I want to\ndo... It's a win-win situation, right~?♪\""
                             ]
                         },
                         {
@@ -2859,28 +2810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そーっすよっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩の言う通り、この子を見つけ出して監視して・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっちりビッチギャルに堕としておいたんで！」"
+                                "Deneb: \"That's right! Just like Senpai said, we found this\ngirl and kept an eye on her... and properly turned her into\na bitchy gal!\""
                             ]
                         },
                         {
@@ -2898,14 +2828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「感謝こそされても、文句言われる筋合いはないッス！」"
+                                "Deneb: \"You should be thanking us, not complaining!\""
                             ]
                         },
                         {
@@ -2962,28 +2885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルタイル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃははっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもぉ～！ありがとうの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボコボコパンチなら受けても・・・いいッスけど♪」"
+                                "Altair: \"Kyahaha! But, you know~! I wouldn't mind taking a\nthank-you beating... if that's what you want♪\""
                             ]
                         },
                         {
@@ -3040,28 +2942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トイレに連れ込むのもアリで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ！！先輩って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オナニー激しいから、大期待なんスよねっ！」"
+                                "Vega: \"Taking her to the toilet is also an option!\nKyahahaha!! Senpai, you masturbate so fiercely, I'm really\nlooking forward to it!\""
                             ]
                         },
                         {
@@ -3078,28 +2959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うんうんっ♪トイレの個室とか・・・いいじゃんっ❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅、行こ～ぜ！あーしとパコパコしよ～ぜ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言う通りにしたんだからよ～！！」"
+                                "\\FF[wata_reverse]Wata: \"Yeah, yeah♪ A toilet stall or something... sounds\ngood❤ Akane, let's go! Let's have a wild time together!!\nSince I did what you said~!!\""
                             ]
                         },
                         {
@@ -3117,21 +2977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなことになるなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなつもりじゃ・・・」"
+                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]Akane: \"I never intended for things to turn out like\nthis...\""
                             ]
                         },
                         {
@@ -3149,28 +2995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なかったけど・・・しゃあねぇ～なっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部終わったら、あーしがまとめて相手してやんよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きひひひっ！！」"
+                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]Akane: \"But I guess there's no helping it~! Once everything\nis over, I'll take care of all of you together! Kihhihih!!\""
                             ]
                         },
                         {
@@ -3188,14 +3013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マジっ！？先輩、やっぱ神じゃん～♪」"
+                                "Deneb: \"For real!? Senpai, you're like a god~♪\""
                             ]
                         },
                         {
@@ -3213,28 +3031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルタイル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「４Ｐとかテンションあがる～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしは押し潰されて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "踏み台にぃ・・・ふひひひっ♪」"
+                                "Altair: \"A foursome would be so exciting~!! I'll get crushed\nand become a stepping stone... fuhuhuhu♪\""
                             ]
                         },
                         {
@@ -3252,21 +3049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「順番とかじゃなくッスか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "期待以上じゃん！さっすが先輩っ！！」"
+                                "Vega: \"No taking turns or anything!? That's beyond\nexpectations! As expected of Senpai!!\""
                             ]
                         },
                         {
@@ -3284,28 +3067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うひっ♪あーしやっぱギュウギュウ詰めになんの好きかも♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがビッチギャルでなんてぇ・・・やっべっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "涎でるわ～❤」"
+                                "\\FF[wata_reverse]Wata: \"Uhihi♪ I guess I really do like being packed tight♪\nAnd to think it's with bitchy gals... that's so hot♪ I'm\ndrooling here~❤\""
                             ]
                         },
                         {
@@ -3323,14 +3085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも・・・一人ぐらいはチンポほしーかな？」"
+                                "\\FF[wata_reverse]Wata: \"But... maybe I want at least one dick?\""
                             ]
                         },
                         {
@@ -3348,21 +3103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしかに～❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ、男も引っ掛けてく？」"
+                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]Akane: \"True that~❤ So, should we snag a guy too?\""
                             ]
                         },
                         {
@@ -3380,21 +3121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「個室に５人！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すっげ・・・死人でそう♪」"
+                                "Deneb: \"Five people in a stall!? That's insane... we might\nactually die♪\""
                             ]
                         },
                         {
@@ -3595,28 +3322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あー、紅。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みてみて。あーし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅の言う通りロッカーから出ることにしたの・・・♪」"
+                                "\\FF[wata_reverse]Wata: \"Ah, Akane. Look, look. Just like you said, I decided\nto come out of the locker...♪\""
                             ]
                         },
                         {
@@ -3634,14 +3340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「綿・・・すまない・・・」"
+                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]Akane: \"Wata... I'm sorry...\""
                             ]
                         },
                         {
@@ -3659,28 +3358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃははっ！何誤ってんのぉ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅がやれって言ったんじゃんっ！あーしは他にやりたいこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見つけてぇ・・・ウィンウィンじゃんっ♪」"
+                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[2]Wata: \"Kyahaha! What are you apologizing for? You're the one\nwho told me to do it! I found something else I want to do...\nIt's a win-win situation♪\""
                             ]
                         },
                         {
@@ -3737,28 +3415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そーっすよっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩の言う通り、この子を見つけ出して監視して・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっちりビッチギャルに堕としておいたんで！」"
+                                "Deneb: \"That's right! Just like senpai said, we found this\ngirl and kept an eye on her... and properly turned her into\na bitchy gal!\""
                             ]
                         },
                         {
@@ -3776,14 +3433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「感謝こそされても、文句言われる筋合いはないッス！」"
+                                "Deneb: \"You should be grateful, not complaining!\""
                             ]
                         },
                         {
@@ -3840,28 +3490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルタイル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃははっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもぉ～！ありがとうの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボコボコパンチなら受けても・・・いいッスけど♪」"
+                                "Altair: \"Kyahaha! But, you know~! I wouldn't mind taking a\nthank-you beating...♪\""
                             ]
                         },
                         {
@@ -3918,28 +3547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トイレに連れ込むのもアリで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ！！先輩って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オナニー激しいから、大期待なんスよねっ！」"
+                                "Vega: \"Taking her to the toilet is also an option!\nKyahahaha!! Senpai, you masturbate so fiercely, I have high\nexpectations!\""
                             ]
                         },
                         {
@@ -3956,28 +3564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うんうんっ♪トイレの個室とか・・・いいじゃんっ❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅、行こ～ぜ！あーしとパコパコしよ～ぜ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言う通りにしたんだからよ～！！」"
+                                "\\FF[wata_reverse]Wata: \"Yeah, yeah♪ A toilet stall or something... sounds\ngood❤ Akane, let's go! Let's bang bang with me!! Since I did\nwhat you said!!\""
                             ]
                         },
                         {
@@ -3995,21 +3582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなことになるなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなつもりじゃ・・・」"
+                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]Akane: \"I never intended for things to turn out like\nthis...\""
                             ]
                         },
                         {
@@ -4027,28 +3600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なかったけど・・・しゃあねぇ～なっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部終わったら、あーしがまとめて相手してやんよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きひひひっ！！」"
+                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]Akane: \"But I guess there's no helping it~! Once\neverything's over, I'll take care of everyone at once!\nKihhihih!!\""
                             ]
                         },
                         {
@@ -4066,14 +3618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マジっ！？先輩、やっぱ神じゃん～♪」"
+                                "Deneb: \"Seriously!? Senpai, you're like a god~♪\""
                             ]
                         },
                         {
@@ -4091,28 +3636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルタイル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「４Ｐとかテンションあがる～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしは押し潰されて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "踏み台にぃ・・・ふひひひっ♪」"
+                                "Altair: \"A foursome would be so exciting~!! I'll be crushed\nand used as a stepping stone... Fuhuhuhu♪\""
                             ]
                         },
                         {
@@ -4130,21 +3654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「順番とかじゃなくッスか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "期待以上じゃん！さっすが先輩っ！！」"
+                                "Vega: \"No taking turns or anything!? That's beyond\nexpectations! As expected of senpai!!\""
                             ]
                         },
                         {
@@ -4162,28 +3672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うひっ♪あーしやっぱギュウギュウ詰めになんの好きかも♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがビッチギャルでなんてぇ・・・やっべっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "涎でるわ～❤」"
+                                "\\FF[wata_reverse]Wata: \"Uhi♪ I guess I really like being packed tight♪ And\nbeing a bitchy gal on top of that... Damn♪ I'm drooling\nhere~❤\""
                             ]
                         },
                         {
@@ -4201,14 +3690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも・・・一人ぐらいはチンポほしーかな？」"
+                                "\\FF[wata_reverse]Wata: \"But... maybe I want a dick too?\""
                             ]
                         },
                         {
@@ -4226,21 +3708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしかに～❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ、男も引っ掛けてく？」"
+                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]Akane: \"True that~❤ So, should we snag a guy too?\""
                             ]
                         },
                         {
@@ -4258,21 +3726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「個室に５人！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すっげ・・・死人でそう♪」"
+                                "Deneb: \"Five people in a stall!? That's insane... we might\nactually die♪\""
                             ]
                         },
                         {
@@ -4473,28 +3927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あー、紅。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みてみて。あーし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅の言う通りロッカーから出ることにしたの・・・♪」"
+                                "\\FF[wata_reverse]Wata: \"Ah, Akane. Look, look. Just like you said, I decided\nto come out of the locker...♪\""
                             ]
                         },
                         {
@@ -4512,14 +3945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「綿・・・すまない・・・」"
+                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]Akane: \"Wata... I'm sorry...\""
                             ]
                         },
                         {
@@ -4536,28 +3962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃははっ！何あやまってんのぉ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅がやれって言ったんじゃんっ！あーしは他にやりたいこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見つけてぇ・・・ウィンウィンじゃんっ♪」"
+                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[2]Wata: \"Kyahaha! What are you apologizing for? You're the one\nwho told me to do it! I found something else I want to do...\nIt's a win-win situation♪\""
                             ]
                         },
                         {
@@ -4614,28 +4019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そーっすよっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩の言う通り、この子を見つけ出して監視して・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっちりビッチギャルに堕としておいたんで！」"
+                                "Deneb: \"That's right! Just like Senpai said, we found this\ngirl and kept an eye on her... and properly turned her into\na bitchy gal!\""
                             ]
                         },
                         {
@@ -4653,14 +4037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「感謝こそされても、文句言われる筋合いはないッス！」"
+                                "Deneb: \"You should be thanked, not complained at!\""
                             ]
                         },
                         {
@@ -4717,28 +4094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルタイル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃははっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもぉ～！ありがとうの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボコボコパンチなら受けても・・・いいッスけど♪」"
+                                "Altair: \"Kyahaha! But, you know! I wouldn't mind taking a\nthank-you beating... if that's what you want♪\""
                             ]
                         },
                         {
@@ -4795,28 +4151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トイレに連れ込むのもアリで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ！！先輩って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オナニー激しいから、大期待なんスよねっ！」"
+                                "Vega: \"Taking her to the toilet is also an option! Kyahaha!!\nSenpai, you masturbate so fiercely, I have high\nexpectations!\""
                             ]
                         },
                         {
@@ -4833,28 +4168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うんうんっ♪トイレの個室とか・・・いいじゃんっ❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅、行こ～ぜ！あーしとパコパコしよ～ぜ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言う通りにしたんだからよ～！！」"
+                                "\\FF[wata_reverse]Wata: \"Yeah, yeah♪ A toilet stall or something... sounds\ngood❤ Akane, let's go! Let's bang bang with me!! Since I did\nas you said!!\""
                             ]
                         },
                         {
@@ -4872,21 +4186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなことになるなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなつもりじゃ・・・」"
+                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]Akane: \"I never intended for things to turn out like\nthis...\""
                             ]
                         },
                         {
@@ -4904,28 +4204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なかったけど・・・しゃあねぇ～なっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部終わったら、あーしがまとめて相手してやんよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きひひひっ！！」"
+                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]Akane: \"But I guess there's no helping it now! Once\neverything's over, I'll take care of all of you together!\nKihhihih!!\""
                             ]
                         },
                         {
@@ -4943,14 +4222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マジっ！？先輩、やっぱ神じゃん～♪」"
+                                "Deneb: \"For real!? Senpai, you're like a god～♪\""
                             ]
                         },
                         {
@@ -4968,28 +4240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルタイル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「４Ｐとかテンションあがる～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしは押し潰されて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "踏み台にぃ・・・ふひひひっ♪」"
+                                "Altair: \"A foursome would be so exciting～!! I'll be crushed\nand used as a stepping stone... fuhuhuhu♪\""
                             ]
                         },
                         {
@@ -5007,21 +4258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「順番とかじゃなくッスか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "期待以上じゃん！さっすが先輩っ！！」"
+                                "Vega: \"No taking turns or anything!? That's beyond\nexpectations! As expected of Senpai!!\""
                             ]
                         },
                         {
@@ -5039,28 +4276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うひっ♪あーしやっぱギュウギュウ詰めになんの好きかも♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがビッチギャルでなんてぇ・・・やっべっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "涎でるわ～❤」"
+                                "\\FF[wata_reverse]Wata: \"Uhi♪ I guess I really do like being packed tight♪ And\nto think it's with bitchy gals... that's so hot♪ I'm\ndrooling here～❤\""
                             ]
                         },
                         {
@@ -5078,14 +4294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも・・・一人ぐらいはチンポほしーかな？」"
+                                "\\FF[wata_reverse]Wata: \"But... maybe I want at least one dick?\""
                             ]
                         },
                         {
@@ -5103,21 +4312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしかに～❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ、男も引っ掛けてく？」"
+                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]Akane: \"True that～❤ So, should we snag a guy too?\""
                             ]
                         },
                         {
@@ -5135,21 +4330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「個室に５人！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すっげ・・・死人でそう♪」"
+                                "Deneb: \"Five people in a stall!? That's crazy... someone's\ngonna die♪\""
                             ]
                         },
                         {
@@ -5350,28 +4531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あー、紅。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みてみて。あーし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅の言う通りロッカーから出ることにしたの・・・♪」"
+                                "\\FF[wata_reverse]Wata: \"Ah, Akane. Look, look. Just like you said, I decided\nto come out of the locker...♪\""
                             ]
                         },
                         {
@@ -5389,14 +4549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「綿・・・すまない・・・」"
+                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]Akane: \"Wata... I'm sorry...\""
                             ]
                         },
                         {
@@ -5414,28 +4567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃははっ！何誤ってんのぉ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅がやれって言ったんじゃんっ！あーしは他にやりたいこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見つけてぇ・・・ウィンウィンじゃんっ♪」"
+                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[2]Wata: \"Kyahaha! What are you apologizing for? You're the one\nwho told me to do it! I found something else I want to do...\nIt's a win-win situation♪\""
                             ]
                         },
                         {
@@ -5492,28 +4624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そーっすよっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先輩の言う通り、この子を見つけ出して監視して・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっちりビッチギャルに堕としておいたんで！」"
+                                "Deneb: \"That's right! Just like senpai said, we found this\ngirl and kept an eye on her... and properly turned her into\na bitchy gal!\""
                             ]
                         },
                         {
@@ -5531,14 +4642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「感謝こそされても、文句言われる筋合いはないッス！」"
+                                "Deneb: \"You should be thanked, not complained at!\""
                             ]
                         },
                         {
@@ -5595,28 +4699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルタイル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃははっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもぉ～！ありがとうの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボコボコパンチなら受けても・・・いいッスけど♪」"
+                                "Altair: \"Kyahaha! But, you know! I wouldn't mind taking a\nthank-you beating...♪\""
                             ]
                         },
                         {
@@ -5673,28 +4756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トイレに連れ込むのもアリで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ！！先輩って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オナニー激しいから、大期待なんスよねっ！」"
+                                "Vega: \"Taking her to the toilet is also an option!\nKyahahaha!! Senpai, you masturbate so fiercely, I have high\nexpectations!\""
                             ]
                         },
                         {
@@ -5711,28 +4773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うんうんっ♪トイレの個室とか・・・いいじゃんっ❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅、行こ～ぜ！あーしとパコパコしよ～ぜ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言う通りにしたんだからよ～！！」"
+                                "\\FF[wata_reverse]Wata: \"Yeah, yeah♪ A toilet stall or something... sounds\ngood❤ Akane, let's go! Let's bang bang with me!! Since I did\nwhat you said!!\""
                             ]
                         },
                         {
@@ -5750,21 +4791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなことになるなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなつもりじゃ・・・」"
+                                "\\F[beni_trouble]\\FF[wata_reverse]\\AA[1]Akane: \"I never intended for things to turn out like\nthis...\""
                             ]
                         },
                         {
@@ -5782,28 +4809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なかったけど・・・しゃあねぇ～なっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部終わったら、あーしがまとめて相手してやんよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きひひひっ！！」"
+                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]Akane: \"But I guess there's no helping it! Once everything\nis over, I'll take care of everyone at once! Kihhihih!!\""
                             ]
                         },
                         {
@@ -5821,14 +4827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マジっ！？先輩、やっぱ神じゃん～♪」"
+                                "Deneb: \"For real!? Senpai, you're seriously a god♪\""
                             ]
                         },
                         {
@@ -5846,28 +4845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルタイル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「４Ｐとかテンションあがる～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしは押し潰されて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "踏み台にぃ・・・ふひひひっ♪」"
+                                "Altair: \"A foursome or something gets me so pumped!! I'll be\ncrushed and used as a stepping stone... Fuhuhuh♪\""
                             ]
                         },
                         {
@@ -5885,21 +4863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「順番とかじゃなくッスか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "期待以上じゃん！さっすが先輩っ！！」"
+                                "Vega: \"No taking turns or anything!? That's beyond\nexpectations! As expected of senpai!!\""
                             ]
                         },
                         {
@@ -5917,28 +4881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うひっ♪あーしやっぱギュウギュウ詰めになんの好きかも♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがビッチギャルでなんてぇ・・・やっべっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "涎でるわ～❤」"
+                                "\\FF[wata_reverse]Wata: \"Uhi♪ I guess I really like being packed tight♪ And to\nthink it's with bitchy gals... that's crazy♪ I'm drooling\nhere❤\""
                             ]
                         },
                         {
@@ -5956,14 +4899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[wata_reverse]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも・・・一人ぐらいはチンポほしーかな？」"
+                                "\\FF[wata_reverse]Wata: \"But... maybe I want a dick or so?\""
                             ]
                         },
                         {
@@ -5981,21 +4917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしかに～❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ、男も引っ掛けてく？」"
+                                "\\F[beni_reverse1]\\FF[wata_reverse]\\AA[1]Akane: \"True that❤ So, should we snag a guy too?\""
                             ]
                         },
                         {
@@ -6013,21 +4935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デネヴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「個室に５人！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すっげ・・・死人でそう♪」"
+                                "Deneb: \"Five people in a stall!? That's insane... we might\ndie♪\""
                             ]
                         },
                         {
@@ -6105,21 +5013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "那由"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっべぇっ♪チンカス大量ぉ～❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おほぉぉっ～♪しゅごぉぉぉっ～！！」"
+                                "Nayu: \"Oh my gosh♪ So much smegma~❤ Ahh, amazing~!!\""
                             ]
                         },
                         {
@@ -6137,14 +5031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・この人はどっちか分からないな・・・」"
+                                "\\F[beni_trouble]Akane: \"...I can't tell which side this person is on...\""
                             ]
                         },
                         {
@@ -6162,28 +5049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "那由"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「チンカス！チンカス！！ドチンカスぅ～❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナメナメしてぇ～舌で転がすのぉ～❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あへあへぇ～！」"
+                                "Nayu: \"Smegma! Smegma!! Super smegma~❤ I wanna lick it~ Roll\nit around with my tongue~❤ Ah-hee, ah-hee~!\""
                             ]
                         },
                         {
@@ -6201,14 +5067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「放っておこう・・・うん・・・」"
+                                "\\F[beni_trouble]Akane: \"Let's just leave her alone... Yeah...\""
                             ]
                         },
                         {
@@ -6225,21 +5084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だって・・・淫語ダベッてるだけの腰抜けじゃん～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハメてる方がいいに決まってるだろ♪」"
+                                "\\F[beni_reverse1]Akane: \"Because... just spouting dirty talk like a coward,\nright?～♪ It's obviously better to be doing it♪\""
                             ]
                         },
                         {
@@ -6393,28 +5238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "那由"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃはっ♪わかってねーなぁ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チンカスって言葉で想像を膨らませてからしゃぶるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感動も倍になんだよ♪ド低脳だなぁ～きひひっ♪」"
+                                "Nayu: \"Kyaha♪ You get it, right~? By saying 'smegma' and\nletting your imagination swell up before sucking, the thrill\ndoubles♪ You're such a simpleton~ kihihi♪\""
                             ]
                         },
                         {
@@ -6432,28 +5256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～？そんなこと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チンカス、チンカス・・・ああんっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たしかに・・・何か期待値あがってきてんじゃん♪」"
+                                "\\F[beni_reverse1]Akane: \"Haa~? Something like that... smegma, smegma... Ahh?\nActually... it does seem like the anticipation is rising♪\""
                             ]
                         },
                         {
@@ -6471,21 +5274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "那由"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でしょでしょぉ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃははっ❤やべぇ～っしょっ❤」"
+                                "Nayu: \"Right, right~! Kyahaha❤ Isn't it just the best❤\""
                             ]
                         },
                         {
@@ -6562,28 +5351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "那由"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「チンカス！チンカス！！ドチンカスぅ～❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナメナメしてぇ～舌で転がすのぉ～❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あへあへぇ～！」"
+                                "Nayu: \"Smegma! Smegma!! Oh, so much smegma~❤ I want to lick\nit~ Roll it around with my tongue~❤ Ahe ahe~!\""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西３階",
+    "displayName": "West 3rd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 9,
@@ -2994,14 +2994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[tubaki_trouble]椿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「朱雀さん！うう・・・私の指導不足で不良に・・・」"
+                                "\\FF[tubaki_trouble]Tsubaki: \"Suzaku-san! Ugh... It's my fault for not guiding\nyou properly, and now you've become a delinquent...\""
                             ]
                         },
                         {
@@ -3019,21 +3012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[tubaki_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわっ！？せ、先生！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・そんな顔しないでください！」"
+                                "\\F[beni_trouble]\\FF[tubaki_trouble]\\AA[1]Akane: \"Whoa!? Te-Teacher!? ...Please don't make that face!\""
                             ]
                         },
                         {
@@ -3051,21 +3030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[tubaki_trouble]\\AA[2]椿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だって廊下で挨拶もしないなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探偵部の部長さんなのに・・・」"
+                                "\\F[beni_trouble]\\FF[tubaki_trouble]\\AA[2]Tsubaki: \"But to not even greet someone in the hallway...\nAnd you're the president of the Detective Club...\""
                             ]
                         },
                         {
@@ -3083,14 +3048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[tubaki_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それには・・・事情があって・・・」"
+                                "\\F[beni_trouble]\\FF[tubaki_trouble]\\AA[1]Akane: \"There's a... reason for that...\""
                             ]
                         },
                         {
@@ -3108,21 +3066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[tubaki_trouble]\\AA[2]椿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「不良になる事情？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それって・・・」"
+                                "\\F[beni_trouble]\\FF[tubaki_trouble]\\AA[2]Tsubaki: \"A reason to become a delinquent? Could it be...\""
                             ]
                         },
                         {
@@ -3223,28 +3167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[tubaki_reverse]椿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こ～いうのぉ～？きゃはははっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パコパコめっちゃ気持ちいいもんなぁ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガッコの廊下でやんのとか、マジで最高っ❤」"
+                                "\\FF[tubaki_reverse]Tsubaki: \"Something like this~? Kyahaha! The pounding feels\nso good~♪ Doing it in the school hallway is just the best❤\""
                             ]
                         },
                         {
@@ -3262,21 +3185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[tubaki_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先生が不良・・・！」"
+                                "\\F[beni_angry2]\\FF[tubaki_reverse]\\AA[1]Akane: \"Wha...! Teacher, you're a delinquent...!\""
                             ]
                         },
                         {
@@ -3294,28 +3203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[tubaki_reverse]\\AA[2]椿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「調子こいてんじゃねえぇぞっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしがおかしーみたいに言いやがって！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああん？あーしが指導してやんよ！」"
+                                "\\F[beni_angry2]\\FF[tubaki_reverse]\\AA[2]Tsubaki: \"Don't get cocky with me! Talking like I'm some\nkind of fool!! Aaahn? I'll teach you a lesson!\""
                             ]
                         },
                         {
@@ -3333,28 +3221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[tubaki_reverse]\\AA[2]椿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どこに出しても恥ずかしい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ビッチギャルにしてやるからよぉ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きひひひっ・・・！！」"
+                                "\\F[beni_angry2]\\FF[tubaki_reverse]\\AA[2]Tsubaki: \"I'll turn you into a bitchy gal so embarrassing\nyou can't be taken anywhere!! Kihhihih...!!\""
                             ]
                         },
                         {
@@ -3372,14 +3239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[tubaki_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「遠慮しときます！」"
+                                "\\F[beni_angry2]\\FF[tubaki_reverse]\\AA[1]Akane: \"I'll pass on that!\""
                             ]
                         },
                         {
@@ -3397,28 +3257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[tubaki_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もぉ・・・きゃはっ❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこに出しても恥ずかしいビッチなんでっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教えて貰わなくてもぉ～！」"
+                                "\\F[beni_reverse1]\\FF[tubaki_reverse]\\AA[1]Akane: \"Geez... Kyaha❤ I'm already an embarrassingly bitchy\ngal♪ No need for lessons~!\""
                             ]
                         },
                         {
@@ -3436,21 +3275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[tubaki_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「別にいいってこと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わーったか？ヘボ教師ぃ～！」"
+                                "\\F[beni_reverse1]\\FF[tubaki_reverse]\\AA[1]Akane: \"It's fine by me! Got it? You lousy teacher~!\""
                             ]
                         },
                         {
@@ -3467,28 +3292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[tubaki_reverse]\\AA[2]椿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ！廊下で平気でパコパコできるビッチじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教え甲斐ねぇ～じゃん。こっちは教育実習生なんだからよ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "指導させろっての！」"
+                                "\\F[beni_reverse1]\\FF[tubaki_reverse]\\AA[2]Tsubaki: \"Tch! There's no point in teaching a bitch who can\ncasually fuck in the hallway. I'm a student teacher, for\ncrying out loud! Let me do my job!\""
                             ]
                         },
                         {
@@ -3506,28 +3310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[tubaki_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃははっ！残念～♪他の汚れない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "清廉潔白な子を探して、指導してあげてね～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きひひひっ♪遠慮なくグチャグチャに❤」"
+                                "\\F[beni_reverse1]\\FF[tubaki_reverse]\\AA[1]Akane: \"Kyahaha! Too bad~♪ Go find some other pure and\ninnocent girl to teach~! Kihhihih♪ Feel free to mess her up\nall you want❤\""
                             ]
                         },
                         {
@@ -3545,28 +3328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[tubaki_reverse]\\AA[2]椿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たりめーだって♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人生終了レベルにメチャクチャにしてやるぜぇ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃはははっ・・・！！」"
+                                "\\F[beni_reverse1]\\FF[tubaki_reverse]\\AA[2]Tsubaki: \"You bet I will♪ I'll mess you up to the point of\nruining your life! Kyahahah...!!\""
                             ]
                         },
                         {
@@ -3642,21 +3404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[tubaki_reverse]\\AA[2]椿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「皆♥どこに出しても恥ずかしい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ビッチギャルにしてやるからよぉ！！」"
+                                "\\F[beni_angry2]\\FF[tubaki_reverse]\\AA[2]Tsubaki: \"Everyone♥ I'm going to turn you into shameless\nbitchy gals that you can't take anywhere!!\""
                             ]
                         },
                         {

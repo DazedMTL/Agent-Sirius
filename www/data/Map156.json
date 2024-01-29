@@ -3516,21 +3516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[iruka_smile]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「てっきり探偵部をやめて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エージェント部とかにするんだって思ってた」"
+                                "\\FF[iruka_smile]Iruka: \"I totally thought you were going to quit the\nDetective Club and start something like an Agent Club.\""
                             ]
                         },
                         {
@@ -3547,21 +3533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[inu_smile]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうね。私も頑張ってそのスーツを着なきって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "密かにダイエットしてたのに」"
+                                "\\FF[inu_smile]Maple: \"Right. I even secretly went on a diet to fit into\nthat suit.\""
                             ]
                         },
                         {
@@ -3579,21 +3551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「探偵部をなくすつもりだったんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元部長と顧問の先生がそんなつもりで・・・？」"
+                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[1]Akane: \"Were you planning to disband the Detective Club? Was\nthat the intention of the former club president and the\nadvisor teacher...?\""
                             ]
                         },
                         {
@@ -3611,21 +3569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[iruka_smile]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だってやることは同じでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学園でのトラブルを解決する部活だもの」"
+                                "\\F[sirius_trouble]\\FF[iruka_smile]\\AA[2]Iruka: \"After all, it's the same thing, right? It's a club\nactivity to solve troubles at the academy.\""
                             ]
                         },
                         {
@@ -3643,21 +3587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ。また怪人が現れないとも限らないし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろ・・・きっとどんどんと出てくるのでしょう？」"
+                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[2]Maple: \"Yes. And it's not certain that no more mysterious\nbeings will appear. Rather... they're bound to keep coming,\nright?\""
                             ]
                         },
                         {
@@ -3675,21 +3605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アイリスブレイドが間に合わなかったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "世界の危機なんだから責任重大よ」"
+                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[2]Maple: \"If we hadn't managed to get the Iris Blade in time,\nit would have been a global crisis. That's a huge\nresponsibility.\""
                             ]
                         },
                         {
@@ -3707,28 +3623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「探偵部ってそんな部活はなかった気が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それより二人ともノリノリすぎませんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは学校で・・・勉強するところで・・・」"
+                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[1]Akane: \"I don't think there was such a club as the Detective\nClub... And aren't you two getting a bit too carried away?\nThis is a school where... we're supposed to study...\""
                             ]
                         },
                         {
@@ -3746,14 +3641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[iruka_smile]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「恋人とイチャイチャするところ？」"
+                                "\\F[sirius_trouble]\\FF[iruka_smile]\\AA[2]Iruka: \"A place to flirt with your lover?\""
                             ]
                         },
                         {
@@ -3770,14 +3658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうね。あれだけ目の前で見せつけられたら・・・ね」"
+                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[2]Maple: \"Right. After being shown so much right in front of\nus... you know.\""
                             ]
                         },
                         {
@@ -3795,14 +3676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こ、恋人って！？」"
+                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[1]Akane: \"L-lover?!?\""
                             ]
                         },
                         {
@@ -3820,14 +3694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[iruka_smile]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「白虎さんとお付き合いしたんじゃないの？」"
+                                "\\F[sirius_trouble]\\FF[iruka_smile]\\AA[2]Iruka: \"Aren't you dating Shiratora-san?\""
                             ]
                         },
                         {
@@ -3844,21 +3711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もしかして・・・してないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪人化して素直になっちゃっただけで、今は元通りなの？」"
+                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[2]Maple: \"Could it be... you're not? Was it just that you\nbecame honest when you transformed into a mysterious being,\nand now everything's back to normal?\""
                             ]
                         },
                         {
@@ -3876,14 +3729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それは・・・」"
+                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[1]Akane: \"That is...\""
                             ]
                         },
                         {
@@ -3901,14 +3747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その・・・なんていうか・・・」"
+                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[1]Akane: \"Well... how should I put it...\""
                             ]
                         },
                         {
@@ -3926,21 +3765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「恋人だとか、お付き合いとか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "デートみたいな言葉を使ったことがないから・・・」"
+                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[1]Akane: \"I've never used words like 'lover' or 'dating'... or\nanything like going on a date...\""
                             ]
                         },
                         {
@@ -3958,14 +3783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[iruka_smile]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほど！これからジャンジャン使うってことね」"
+                                "\\F[sirius_trouble]\\FF[iruka_smile]\\AA[2]Iruka: \"I see! So you're going to start using them a lot\nfrom now on.\""
                             ]
                         },
                         {
@@ -3983,14 +3801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「青春じゃない。ハジメテを楽しんで、朱雀さん」"
+                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[2]Maple: \"It's not just youth. Enjoy your firsts, Akane-san.\""
                             ]
                         },
                         {
@@ -4008,14 +3819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[iruka_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あううっ・・・」"
+                                "\\F[sirius_trouble]\\FF[iruka_smile]\\AA[1]Akane: \"Auuu...\""
                             ]
                         },
                         {
@@ -4308,14 +4112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yurisu_smile]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「遅くなった。待たせてすまない」"
+                                "\\FF[yurisu_smile]Yurika: \"Sorry for being late. I didn't mean to keep you\nwaiting.\""
                             ]
                         },
                         {
@@ -4332,14 +4129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yurisu_smile]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「喜んでくれ、シリウス"
+                                "\\FF[yurisu_smile]Yurika: \"Be happy, Sirius\""
                             ]
                         },
                         {
@@ -4356,28 +4146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yurisu_smile]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「エージェントレグルスから私達の”番照”への加入が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正式に認められた。学園を救ったことと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スーツへの適応値を評価されたらしい」"
+                                "\\FF[yurisu_smile]Yurika: \"Agent Regulus has officially recognized our joining\nof 'Banter'. It seems we were evaluated for saving the\nacademy and our adaptability to the suits.\""
                             ]
                         },
                         {
@@ -4395,28 +4164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nakosu_smile]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「百合花さんだけ合格だったら、どうしようって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ってたけど良かった！これで学校でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エージェントでも一緒にいられるね、紅」"
+                                "\\FF[nakosu_smile]Nadeshiko: \"I was worried that only Yurika-san would pass,\nbut I'm glad! Now we can be together at school and as\nagents, Akane.\""
                             ]
                         },
                         {
@@ -4434,21 +4182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[nakosu_smile]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ！シリウスって呼んだほうがいい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この格好の時は？」"
+                                "\\FF[nakosu_smile]Nadeshiko: \"Ah! Should I call you Sirius when you're dressed\nlike this?\""
                             ]
                         },
                         {
@@ -4466,28 +4200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[nakosu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、紅でいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レグルスやアケルナルは渋るだろうけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は朱雀紅だから」"
+                                "\\F[sirius_smile]\\FF[nakosu_smile]\\AA[1]Akane: \"No, Akane is fine. Regulus and Acrux might be\nreluctant, but I am Akane Suzaku.\""
                             ]
                         },
                         {
@@ -4505,28 +4218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[yurisu_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なら、私も紅と呼びたいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もちろん、私のことも百合花と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼び捨てで・・・親しみやすく」"
+                                "\\F[sirius_smile]\\FF[yurisu_smile]\\AA[2]Yurika: \"Then, I'd like to call you Akane too. Of course,\nyou can call me Yurika without any honorifics... to make it\nmore friendly.\""
                             ]
                         },
                         {
@@ -4544,21 +4236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[yurisu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは・・・抵抗あるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今までどおり会長がいいな・・・」"
+                                "\\F[sirius_trouble]\\FF[yurisu_smile]\\AA[1]Akane: \"I'd rather not... I'm used to calling you\npresident... so let's keep it that way...\""
                             ]
                         },
                         {
@@ -4576,21 +4254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_smile]\\FF[yurisu_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ私が。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "百合花・・・」"
+                                "\\F[nakosu_smile]\\FF[yurisu_smile]\\AA[1]Nadeshiko: \"Then I'll call you... Yurika...\""
                             ]
                         },
                         {
@@ -4608,14 +4272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_smile]\\FF[yurisu_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、撫子。嬉しい・・・新鮮な感じがするな！」"
+                                "\\F[nakosu_smile]\\FF[yurisu_smile]\\AA[2]Yurika: \"Ah, Nadeshiko. I'm happy... It feels fresh!\""
                             ]
                         },
                         {
@@ -4633,14 +4290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_smile]\\FF[yurisu_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも・・・確かに・・・最初は恥ずかしいかも・・・」"
+                                "\\F[nakosu_smile]\\FF[yurisu_smile]\\AA[1]Nadeshiko: \"But... indeed... it might be embarrassing at\nfirst...\""
                             ]
                         },
                         {
@@ -4658,28 +4308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_smile]\\FF[iruka_smile]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それより・・・受かったんだったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人にもコードネームが割り振られたってことでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞きたいなぁ～！イチオシの夏の大三角形は取られてるし」"
+                                "\\F[nakosu_smile]\\FF[iruka_smile]\\AA[2]Iruka: \"More importantly... if you passed, then both of you\ngot assigned code names, right? I want to know! My favorite\nSummer Triangle is already taken.\""
                             ]
                         },
                         {
@@ -4697,28 +4326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_smile]\\FF[inu_trouble]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「２３個しかないのに、まだ空きがあるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなのに、レグルスとかアケルナルとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マイナーから使うって・・・どういう組織なの？」"
+                                "\\F[nakosu_smile]\\FF[inu_trouble]\\AA[2]Maple: \"There are only 23 of them, and there are still\nvacancies? And yet they start with minor ones like Regulus\nand Acrux... What kind of organization is this?\""
                             ]
                         },
                         {
@@ -4736,28 +4344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yurisu_smile]\\FF[inu_trouble]\\AA[1]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「面白い着眼点だ、先生。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "組織のことはまだ私達もよく分かっていないけれど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪人たちと戦うってことは確かだ」"
+                                "\\F[yurisu_smile]\\FF[inu_trouble]\\AA[1]Yurika: \"Interesting point of view, teacher. We still don't\nfully understand the organization, but fighting against\nmysterious beings is certain.\""
                             ]
                         },
                         {
@@ -4775,21 +4362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_smile]\\FF[inu_trouble]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ・・・お披露目しますね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のコードネームは・・・」"
+                                "\\F[nakosu_smile]\\FF[inu_trouble]\\AA[1]Nadeshiko: \"Then... let me introduce mine! My code name\nis...\""
                             ]
                         },
                         {
@@ -4807,21 +4380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_smile]\\FF[inu_trouble]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「スピカ！乙女座の一番星！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エージェントスピカをよろしくです！」"
+                                "\\F[nakosu_smile]\\FF[inu_trouble]\\AA[1]Nadeshiko: \"Spica! The brightest star in Virgo! Please take\ncare of Agent Spica!\""
                             ]
                         },
                         {
@@ -4839,21 +4398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_smile]\\FF[iruka_smile]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「白虎さん、似合ってる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのスーツとも相性抜群だよね！」"
+                                "\\F[nakosu_smile]\\FF[iruka_smile]\\AA[2]Iruka: \"It suits you, Shiratora-san! That suit is a perfect\nmatch for you!\""
                             ]
                         },
                         {
@@ -4871,21 +4416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_smile]\\FF[inu_smile]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなるとアークトゥルスがいるか、気になるわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かスピカとは夫婦星・・・」"
+                                "\\F[nakosu_smile]\\FF[inu_smile]\\AA[2]Maple: \"That makes me wonder about Arcturus. Spica and\nArcturus are husband and wife stars...\""
                             ]
                         },
                         {
@@ -4903,14 +4434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry]\\FF[inu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「がるるっ・・・そんなヤツいません！」"
+                                "\\F[sirius_angry]\\FF[inu_smile]\\AA[1]Akane: \"Grrr... There's no such person!\""
                             ]
                         },
                         {
@@ -4928,28 +4452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yurisu_smile]\\FF[inu_smile]\\AA[1]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「では、私も。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のコードネームは、アンタレス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エージェントアンタレスだ」"
+                                "\\F[yurisu_smile]\\FF[inu_smile]\\AA[1]Yurika: \"Then, let me also introduce mine. My code name is\nAntares. Agent Antares.\""
                             ]
                         },
                         {
@@ -4967,21 +4470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yurisu_smile]\\FF[iruka_smile]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さすが、会長。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "赤い星のイメージがぴったりです」"
+                                "\\F[yurisu_smile]\\FF[iruka_smile]\\AA[2]Iruka: \"As expected of the president. The image of a red\nstar suits you perfectly.\""
                             ]
                         },
                         {
@@ -4999,21 +4488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yurisu_smile]\\FF[inu_smile]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ！私もアルデバランか、そっちだと思っていたのよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって強そうといえば・・・でしょ」"
+                                "\\F[yurisu_smile]\\FF[inu_smile]\\AA[2]Maple: \"Yes! I thought it would be Aldebaran or something\nlike that for you! Because if we're talking about\nstrength... right?\""
                             ]
                         },
                         {
@@ -5031,28 +4506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yurisu_smile]\\FF[inu_smile]\\AA[1]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私に赤いイメージがあるとは初耳だが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも強いと言われるのは嬉しいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅は・・・どう思う？」"
+                                "\\F[yurisu_smile]\\FF[inu_smile]\\AA[1]Yurika: \"I've never heard of having a red image before...\nbut I'm happy to be called strong. What do you think,\nAkane?\""
                             ]
                         },
                         {
@@ -5070,21 +4524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yurisu_smile]\\FF[sirius_smile]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「似合ってると思いますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆ、百合花に・・・」"
+                                "\\F[yurisu_smile]\\FF[sirius_smile]\\AA[2]Akane: \"I think it suits you. Yu, Yurika...\""
                             ]
                         },
                         {
@@ -5102,21 +4542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yurisu_smile]\\FF[sirius_smile]\\AA[1]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう！名前で呼ばれるのは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かに気恥ずかしいなっ・・・」"
+                                "\\F[yurisu_smile]\\FF[sirius_smile]\\AA[1]Yurika: \"Thank you! Being called by my name is... certainly\nembarrassing...\""
                             ]
                         },
                         {
@@ -5134,21 +4560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yurisu_smile]\\FF[iruka_smile]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ私は何にしようかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり・・・朱雀さんに合わせてベテルギウスとか？」"
+                                "\\F[yurisu_smile]\\FF[iruka_smile]\\AA[2]Iruka: \"Then what should I choose for myself? Maybe...\nBetelgeuse to match Suzaku-san?\""
                             ]
                         },
                         {
@@ -5166,21 +4578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yurisu_smile]\\FF[inu_smile]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいわね。じゃあ私はプロキオン。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうしたら、シリウスと冬の大三角形で仲良しね」"
+                                "\\F[yurisu_smile]\\FF[inu_smile]\\AA[2]Maple: \"That's a good idea. Then I'll be Procyon. That way,\nwe'll be friends with Sirius in the Winter Triangle.\""
                             ]
                         },
                         {
@@ -5198,21 +4596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふ、二人まで、危ない目に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あうことないですよ！もう・・・」"
+                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[1]Akane: \"Fuh, I hope neither of you will come to any danger!\nGeez...\""
                             ]
                         },
                         {
@@ -5230,28 +4614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[nakosu_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それに・・・仲良しは聞き捨てなりません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ス、スピカは南半球でしか見れないから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シリウスの側にいないのに！」"
+                                "\\F[sirius_trouble]\\FF[nakosu_angry]\\AA[2]Nadeshiko: \"So, that being said... I can't just ignore the\n'friends' comment! Spica can only be seen from the Southern\nHemisphere, so it's not beside Sirius!\""
                             ]
                         },
                         {
@@ -5269,14 +4632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[nakosu_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「意外と・・・気にしてくれてるんだ・・・」"
+                                "\\F[sirius_smile]\\FF[nakosu_angry]\\AA[1]Akane: \"You're surprisingly... concerned about it...\""
                             ]
                         },
                         {
@@ -5294,14 +4650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[nakosu_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う、うん・・・」"
+                                "\\F[sirius_smile]\\FF[nakosu_smile]\\AA[2]Nadeshiko: \"Yeah...\""
                             ]
                         },
                         {
@@ -5319,21 +4668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[yurisu_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アンタレスも同じく南半球なんだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅の側にいないのは、たしかに心苦しいな・・・」"
+                                "\\F[sirius_smile]\\FF[yurisu_smile]\\AA[2]Yurika: \"Antares is also in the Southern Hemisphere... It's\ntruly regrettable not to be by Akane's side...\""
                             ]
                         },
                         {
@@ -5351,14 +4686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[yurisu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「百合花はまだ私のこと・・・を・・・？」"
+                                "\\F[sirius_trouble]\\FF[yurisu_smile]\\AA[1]Akane: \"Yurika still cares about... me...?\""
                             ]
                         },
                         {
@@ -5376,28 +4704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[yurisu_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「当然だ。撫子と好きあっていても何も問題はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のことを好きになってくれるように努力するのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の義務だからな」"
+                                "\\F[sirius_trouble]\\FF[yurisu_smile]\\AA[2]Yurika: \"Of course. There's no problem even if Nadeshiko and\nI are in love. It's my duty to make an effort to be liked by\nyou.\""
                             ]
                         },
                         {
@@ -5415,14 +4722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[nakosu_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あきらめないって・・・事ですか？」"
+                                "\\F[sirius_trouble]\\FF[nakosu_smile]\\AA[2]Nadeshiko: \"So you're saying... you won't give up?\""
                             ]
                         },
                         {
@@ -5440,28 +4740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[yurisu_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「取り合わない・・・争わないってことさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅が両手に花を受け入れてくれるように、努力する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は紅の事が一番大切だから、惑わせたくない」"
+                                "\\F[sirius_trouble]\\FF[yurisu_smile]\\AA[2]Yurika: \"It means we won't compete... won't fight over it.\nI'll make an effort so that Akane can accept both of us.\nBecause Akane is the most important to me, I don't want to\nconfuse her.\""
                             ]
                         },
                         {
@@ -5479,14 +4758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[nakosu_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱり・・・愛が重いですね・・・」"
+                                "\\F[sirius_trouble]\\FF[nakosu_smile]\\AA[2]Nadeshiko: \"As expected... your love is heavy...\""
                             ]
                         },
                         {
@@ -5504,14 +4776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[nakosu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "\\F[sirius_trouble]\\FF[nakosu_smile]\\AA[1]Akane: \"...\""
                             ]
                         },
                         {
@@ -5529,21 +4794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[iruka_smile]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それで何だけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの仮面の怪人の情報ってあったの？」"
+                                "\\F[sirius_trouble]\\FF[iruka_smile]\\AA[2]Iruka: \"By the way, was there any information on that masked\nvillain?\""
                             ]
                         },
                         {
@@ -5561,21 +4812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気になるわ。まだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この学園にいるかも知れないんでしょ？」"
+                                "\\F[sirius_trouble]\\FF[inu_smile]\\AA[2]Maple: \"I'm curious too. He might still be at this school,\nright?\""
                             ]
                         },
                         {
@@ -5593,21 +4830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yurisu_angry]\\FF[inu_smile]\\AA[1]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「秘密結社リヴィルド・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ何も分かってはいないが・・・」"
+                                "\\F[yurisu_angry]\\FF[inu_smile]\\AA[1]Yurika: \"The secret society Revildo... we still don't know\nanything yet...\""
                             ]
                         },
                         {
@@ -5625,21 +4848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yurisu_angry]\\FF[inu_smile]\\AA[1]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この一連の事件の首謀者でもある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なぜなら・・・私も出会っていたからだ」"
+                                "\\F[yurisu_angry]\\FF[inu_smile]\\AA[1]Yurika: \"They are the masterminds behind this series of\nincidents. Because... I've also encountered them.\""
                             ]
                         },
                         {
@@ -5657,14 +4866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[yurisu_angry]\\FF[nakosu_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱり！百合花を怪人にしたのも・・・あの男！」"
+                                "\\F[yurisu_angry]\\FF[nakosu_angry]\\AA[2]Nadeshiko: \"I knew it! That man turned Yurika into a\nmonster!\""
                             ]
                         },
                         {
@@ -5682,21 +4884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[nakosu_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「曽我井や綿、亜麻も同様にか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何が目的なんだ？」"
+                                "\\F[sirius_angry2]\\FF[nakosu_angry]\\AA[1]Akane: \"So Soga, Wata, and Ama as well... What's their\npurpose?\""
                             ]
                         },
                         {
@@ -5714,28 +4902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yurisu_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この学園を使って何かを企んでいるのは確かだな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強力な怪人を作ることで、世界征服を本気で・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とか絵空事でない気がする」"
+                                "\\F[sirius_angry2]\\FF[yurisu_angry]\\AA[2]Yurika: \"It's certain they're using this school for\nsomething. Creating powerful monsters for world domination\ndoesn't seem like a far-fetched idea.\""
                             ]
                         },
                         {
@@ -5753,14 +4920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[nakosu_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「野放しには・・・出来ないから・・・」"
+                                "\\F[sirius_angry2]\\FF[nakosu_angry]\\AA[2]Nadeshiko: \"We can't let them run loose...\""
                             ]
                         },
                         {
@@ -5778,14 +4938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[nakosu_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「分かってる。今度はこっちから捕まえてやろう」"
+                                "\\F[sirius_angry2]\\FF[nakosu_angry]\\AA[1]Akane: \"I know. This time we'll catch them ourselves.\""
                             ]
                         },
                         {
@@ -5803,14 +4956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\\\FF[yurisu_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ。紅と私達なら出来る」"
+                                "\\F[sirius_angry2]\\\\FF[yurisu_smile]\\AA[2]Yurika: \"Yes. With Akane and us, we can do it.\""
                             ]
                         },
                         {
@@ -5828,14 +4974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[yurisu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私もそう思う。みんな、よろしく！」"
+                                "\\F[sirius_smile]\\FF[yurisu_smile]\\AA[1]Akane: \"I think so too. Everyone, let's do our best!\""
                             ]
                         },
                         {
@@ -5853,14 +4992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[nakosu_smile]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん！」"
+                                "\\F[sirius_smile]\\FF[nakosu_smile]\\AA[2]Nadeshiko: \"Yeah!\""
                             ]
                         },
                         {
@@ -5878,14 +5010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[yurisu_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろんだ」"
+                                "\\F[sirius_smile]\\FF[yurisu_smile]\\AA[2]Yurika: \"Of course.\""
                             ]
                         },
                         {
@@ -5903,14 +5028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[iruka_smile]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「及ばずながら」"
+                                "\\F[sirius_smile]\\FF[iruka_smile]\\AA[2]Iruka: \"Though I may fall short...\""
                             ]
                         },
                         {
@@ -5928,14 +5046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[inu_smile]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頑張りましょう」"
+                                "\\F[sirius_smile]\\FF[inu_smile]\\AA[2]Maple: \"Let's work hard.\""
                             ]
                         },
                         {
@@ -6016,14 +5127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "            ★イラスト・システム・演出"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                     さなつき\\|\\^"
+                                "            ★Illustration. System. Direction\nSanatsuki"
                             ]
                         },
                         {
@@ -6040,21 +5144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "                    ★シナリオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                    日高　久志"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                   水無月　卯月\\|\\^"
+                                "                    ★Scenario                    Hidaka\nHisashi                   Minazuki Uzuki"
                             ]
                         },
                         {

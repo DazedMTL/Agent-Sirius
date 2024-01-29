@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "東１階",
+    "displayName": "East 1st Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -3464,21 +3464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sion_smile]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら？朱雀さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "廊下を走ったら危ないよ～」"
+                                "\\FF[sion_smile]Shion: \"Oh my? Suzaku-san, running in the hallway is\ndangerous~\""
                             ]
                         },
                         {
@@ -3496,21 +3482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[sion_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわっ！先生・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや・・・ビッチ先生！！」"
+                                "\\F[beni_trouble]\\FF[sion_smile]\\AA[1]Akane: \"Whoa! Teacher... no... Bitch Teacher!!\""
                             ]
                         },
                         {
@@ -3627,21 +3599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sion_reverse]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いひっ♪不意打ち出来ねーじゃん！知ってんのかよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭悪いメスガキのくせによ～！」"
+                                "\\FF[sion_reverse]Shion: \"Eheh♪ Gotcha off guard, didn't I! You knew about it,\nhuh! Pretty smart for a dumb little brat~!\""
                             ]
                         },
                         {
@@ -3659,21 +3617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[sion_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ビッチって言われたぐらいで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早々に正体を明かすような人に言われたくないですけどね」"
+                                "\\F[beni_angry2]\\FF[sion_reverse]\\AA[1]Akane: \"I'd rather not be lectured by someone who reveals\ntheir true nature so quickly after being called a bitch.\""
                             ]
                         },
                         {
@@ -3691,28 +3635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[sion_reverse]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「低脳がイキガッてんじゃね～よ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、いいわ♪てめーもハッパキメてこっちに来いよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たのしーぜぇ～♪」"
+                                "\\F[beni_angry2]\\FF[sion_reverse]\\AA[2]Shion: \"Don't get cocky, you dimwit! Well, whatever♪ Come\nover here and get high with me! It'll be fun~♪\""
                             ]
                         },
                         {
@@ -3730,14 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[sion_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「遠慮しときます！先を急ぐんで！」"
+                                "\\F[beni_angry2]\\FF[sion_reverse]\\AA[1]Akane: \"I'll pass! I'm in a hurry!\""
                             ]
                         },
                         {
@@ -3755,28 +3671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[sion_reverse]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オナニーしに行くからぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寂しーじゃん。あーしと男子生徒に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "馬乗りになって犯そうぜぇ～！」"
+                                "\\F[beni_angry2]\\FF[sion_reverse]\\AA[2]Shion: \"Going to masturbate, are you? How lonely. Come on,\nlet's get on top of the male students and fuck them~!\""
                             ]
                         },
                         {
@@ -3794,14 +3689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[sion_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な・・・」"
+                                "\\F[beni_angry2]\\FF[sion_reverse]\\AA[1]Akane: \"Wha...\""
                             ]
                         },
                         {
@@ -3819,28 +3707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[sion_reverse]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃはははっ！アイツラ襲われても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっ勃てやがるからよ～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めっちゃ盛り上がるぜぇっ～！！」"
+                                "\\F[beni_angry2]\\FF[sion_reverse]\\AA[2]Shion: \"Kyahaha! Even when they're attacked, they get hard-\nons, you know~!! It's super exciting!!\""
                             ]
                         },
                         {
@@ -3858,14 +3725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[sion_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「教師の風上にも置けない・・・！」"
+                                "\\F[beni_angry2]\\FF[sion_reverse]\\AA[1]Akane: \"You're beneath the dignity of a teacher...!\""
                             ]
                         },
                         {
@@ -3921,14 +3781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_damage]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「と、とにかく、離れないと！！」"
+                                "\\F[beni_damage]Akane: \"Anyway, I need to get away!!\""
                             ]
                         },
                         {

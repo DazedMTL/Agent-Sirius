@@ -3490,7 +3490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "キングダムポイゾン戦前までスキップしますか？"
+                                "Would you like to skip to the battle with Kingdom Poison?"
                             ]
                         },
                         {
@@ -3498,8 +3498,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3970,14 +3970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_smile]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が・・・？何を言い出すかと思えば・・・」"
+                                "\\FF[yuri_smile]Yurika: \"Me...? What are you trying to say...?\""
                             ]
                         },
                         {
@@ -4081,21 +4074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そうよ。紅。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "会長は私達にずっと協力して・・・」"
+                                "\\F[nako_trouble]Nadeshiko: \"That's right, Akane. The president has always\nbeen helping us...\""
                             ]
                         },
                         {
@@ -4112,21 +4091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「協力すると見せかけて近くで観察していたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって気付いていたんだろうから」"
+                                "\\F[sirius_angry2]Akane: \"Pretending to help while actually observing us\nclosely. You must have realized that.\""
                             ]
                         },
                         {
@@ -4143,28 +4108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が犯人を追っている・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エージェントだってことに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう！つまりは貴方を追っていることに、ね」"
+                                "\\F[sirius_angry2]Akane: \"That I'm chasing the culprit... an agent. Yes! In\nother words, I've been chasing you.\""
                             ]
                         },
                         {
@@ -4181,14 +4125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・」"
+                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[2]Yurika: \"...\""
                             ]
                         },
                         {
@@ -4205,28 +4142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[yuri_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、おかしいよ・・・紅。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学園の為に奔走してきた会長が、怪人だなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなの・・・」"
+                                "\\F[nako_trouble]\\FF[yuri_smile]\\AA[1]Nadeshiko: \"No, that's not right... Akane. The president who\nhas been working hard for the school, a monster? That's\njust...\""
                             ]
                         },
                         {
@@ -4244,14 +4160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[yuri_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大体、今回だって・・・こんなに協力してくれたのに！」"
+                                "\\F[nako_trouble]\\FF[yuri_smile]\\AA[1]Nadeshiko: \"Besides, this time too... she helped us so\nmuch!\""
                             ]
                         },
                         {
@@ -4268,21 +4177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「亜麻さんの怪人が、会長にも脅威になっていたからだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達と・・・利害が一致しただけってことさ」"
+                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[1]Akane: \"It's because Amasan's monster was also a threat to\nthe president. Our interests just happened to align, that's\nall.\""
                             ]
                         },
                         {
@@ -4300,14 +4195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[yuri_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな言い方・・・」"
+                                "\\F[nako_trouble]\\FF[yuri_smile]\\AA[1]Nadeshiko: \"To say it like that...\""
                             ]
                         },
                         {
@@ -4324,28 +4212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子。怪人にも色んなタイプがいる。私の推測だけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生徒会長の性癖はきっと亜麻さんに近い感じなんだと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "表と裏を使い分けるような・・・」"
+                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[1]Akane: \"Nadeshiko. There are various types of monsters. My\nguess is that the student council president's preferences\nare probably similar to Amasan's. The kind that uses both a\nfacade and what's behind it...\""
                             ]
                         },
                         {
@@ -4362,21 +4229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私に裏表があると？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは心外だな。私は正直に生きているよ」"
+                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[2]Yurika: \"Are you saying I have a double face? That's quite\nan insult. I live my life honestly.\""
                             ]
                         },
                         {
@@ -4393,28 +4246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「分かってる。貴方は何の躊躇もなく世界を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分色に染めたがってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一番厄介なタイプの怪人だ」"
+                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[1]Akane: \"I know. You're the type of monster who doesn't\nhesitate to dye the world in your own colors. The most\ntroublesome kind.\""
                             ]
                         },
                         {
@@ -4431,28 +4263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[nako_angry]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「証拠は・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探偵が犯人を名指しする時は・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言い逃れできない証拠を掴んだ時のはず・・・！」"
+                                "\\F[sirius_angry2]\\FF[nako_angry]\\AA[2]Nadeshiko: \"Evidence...!? When a detective names a culprit,\nit should be when they have irrefutable evidence...!\""
                             ]
                         },
                         {
@@ -4469,14 +4280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[nako_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、そのとおりだ」"
+                                "\\F[sirius_angry2]\\FF[nako_angry]\\AA[1]Akane: \"Yes, exactly.\""
                             ]
                         },
                         {
@@ -4493,28 +4297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私も興味がある。それだけの自信があって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を名指しした以上はきっと確固たるものがあるのだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "是非、見せてほしい」"
+                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[2]Yurika: \"I'm curious too. You must have something solid to\nname me with such confidence, right? I'd like to see it.\""
                             ]
                         },
                         {
@@ -4531,21 +4314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあこう言えば分かるかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は・・・綿の居場所を知っているって」"
+                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[1]Akane: \"Then how about this? I know... where Wata is\nhiding.\""
                             ]
                         },
                         {
@@ -4562,14 +4331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・！？」"
+                                "\\F[sirius_angry2]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"Eh...!?\""
                             ]
                         },
                         {
@@ -4586,14 +4348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・なるほど」"
+                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[2]Yurika: \"...I see.\""
                             ]
                         },
                         {
@@ -4610,28 +4365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「貴方は手強い相手だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "慎重に観察して見極めている・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてその評価は的確だし、隙がない」"
+                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[1]Akane: \"You were a tough opponent. Observing carefully and\nmaking accurate assessments... and you left no openings.\""
                             ]
                         },
                         {
@@ -4648,28 +4382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウチの新人たち・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番照のエージェント達はお間抜けで使い物にならないって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思っていたに違いない」"
+                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[1]Akane: \"Our newbies... the agents of Banterou must have\nseemed like fools to you, no doubt.\""
                             ]
                         },
                         {
@@ -4686,28 +4399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「確かにアイツラはポンコツだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どう考えても現場に出ていいような仕上がりじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも・・・」"
+                                "\\F[sirius_angry2]\\FF[yuri_smile]\\AA[1]Akane: \"Indeed, they are clowns. They're nowhere near ready\nto be out in the field. But...\""
                             ]
                         },
                         {
@@ -4724,28 +4416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[yuri_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一応、アイツラもプロなんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一線級の技術を持ったエージェントなのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一癖も二癖もあって扱いづらいけど・・・やる時はやる！」"
+                                "\\F[sirius_smile]\\FF[yuri_smile]\\AA[1]Akane: \"They are professionals after all. Agents with top-\ntier skills. They may be quirky and hard to handle, but...\nwhen it's time to act, they do!\""
                             ]
                         },
                         {
@@ -4762,28 +4433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[yuri_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学園内での変化をモニターしていたのか・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々に気付かれずに？」"
+                                "\\F[sirius_smile]\\FF[yuri_angry]\\AA[2]Yurika: \"...! You were monitoring changes within the school\nwithout us noticing?\""
                             ]
                         },
                         {
@@ -4800,28 +4450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[yuri_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頭の回転が早くて、助かるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "校門の監視装置には気付いていたろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからそれを逆手に取らせてもらった！」"
+                                "\\F[sirius_smile]\\FF[yuri_angry]\\AA[1]Akane: \"Quick thinking saves the day. You noticed the\nsurveillance system at the school gate, right? So I took\nadvantage of that!\""
                             ]
                         },
                         {
@@ -4838,28 +4467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[yuri_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「校内のセンサーは、カメラを付けていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから貴方も気付かなかった。校門と同じものを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探してた貴方は気付けるはずがなかったってこと」"
+                                "\\F[sirius_smile]\\FF[yuri_angry]\\AA[1]Akane: \"The sensors inside the school don't have cameras\nattached. That's why you didn't notice them. You were\nlooking for something like the one at the school gate, so\nyou couldn't have noticed.\""
                             ]
                         },
                         {
@@ -4876,21 +4484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[yuri_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「貴方が開く異空間の痕跡は、もう調べがついている！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからそれを追っていけば・・・トレースできるって訳さ」"
+                                "\\F[sirius_smile]\\FF[yuri_angry]\\AA[1]Akane: \"I've already investigated the traces of the\ndifferent space you open! So if we follow that... we can\ntrace it.\""
                             ]
                         },
                         {
@@ -4907,28 +4501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[yuri_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この数時間、君の後輩達が学園を走り回っていたのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "亜麻君対策ではなく・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を炙り出すためだった・・・」"
+                                "\\F[sirius_smile]\\FF[yuri_angry]\\AA[2]Yurika: \"So for these past few hours, your juniors running\naround the school weren't dealing with Amakun... they were\nflushing me out...\""
                             ]
                         },
                         {
@@ -4945,21 +4518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[yuri_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「案外、狡猾なんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朱雀紅。もっと考えなしに突っ走るタイプだと思っていたよ」"
+                                "\\F[sirius_smile]\\FF[yuri_angry]\\AA[2]Yurika: \"You're more cunning than I thought, Akane Suzaku. I\nthought you were the type to rush in without thinking.\""
                             ]
                         },
                         {
@@ -4976,28 +4535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それにリバースポイゾンの攻撃も、ある程度は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モニターしてましたから。攻撃が始まる前から廊下を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "走り回る３人を生徒会は無視した。苦情もあがっていたのに」"
+                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[1]Akane: \"Also, I've been monitoring Reverse Poison's attacks\nto some extent. The student council ignored the three people\nrunning around the corridors before the attack started.\nDespite complaints being raised.\""
                             ]
                         },
                         {
@@ -5014,21 +4552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「廊下を走るなんて生徒を止めない生徒会は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪しいと思うでしょ？」"
+                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[1]Akane: \"Don't you think a student council that doesn't stop\nstudents from running in the hallways is suspicious?\""
                             ]
                         },
                         {
@@ -5045,14 +4569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_trouble]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・！」"
+                                "\\F[sirius_angry2]\\FF[yuri_trouble]\\AA[2]Yurika: \"...\""
                             ]
                         },
                         {
@@ -5069,28 +4586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_smile]\\FF[yuri_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「貴方が綿と異世界を通じて、接触したのを確認してる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "撫子のお手柄だよ。異世界って発想がなかったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "センサーの情報だけじゃ追えなかった」"
+                                "\\F[sirius_smile]\\FF[yuri_trouble]\\AA[1]Akane: \"I've confirmed that you made contact with Wata\nthrough a different world. It's thanks to Nadeshiko's great\nwork. Without the idea of a different world, we couldn't\nhave followed just with sensor information.\""
                             ]
                         },
                         {
@@ -5107,28 +4603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[yuri_trouble]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に・・・？会長が怪人・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも綿を拐った犯人・・・？」"
+                                "\\F[nako_trouble]\\FF[yuri_trouble]\\AA[1]Nadeshiko: \"Is that... really true...? The president is a\nmonster...? And also the culprit who kidnapped Wata...?\""
                             ]
                         },
                         {
@@ -5145,14 +4620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[yuri_trouble]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私達を騙して・・・た・・・？」"
+                                "\\F[nako_trouble]\\FF[yuri_trouble]\\AA[1]Nadeshiko: \"She deceived us...?\""
                             ]
                         },
                         {
@@ -5170,21 +4638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[yuri_trouble]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すまない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君にはちゃんと打ち明けるつもりだったよ」"
+                                "\\F[nako_trouble]\\FF[yuri_trouble]\\AA[2]Yurika: \"I'm sorry. I was planning to tell you properly.\""
                             ]
                         },
                         {
@@ -5201,21 +4655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「同じ怪人に誘うために・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことはさせない」"
+                                "\\F[sirius_angry2]\\FF[yuri_trouble]\\AA[1]Akane: \"To invite her to become the same kind of monster...?\nI won't let that happen.\""
                             ]
                         },
                         {
@@ -5232,14 +4672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怪人、怪人と・・・全てが悪のような・・・」"
+                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[2]Yurika: \"Monster, monster... as if everything is evil...\""
                             ]
                         },
                         {
@@ -5256,21 +4689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「隠れてやっていることに、良いことなんてありはしない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方だって分かってるはずだ」"
+                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[1]Akane: \"There's nothing good about things done in hiding!\nYou know that too.\""
                             ]
                         },
                         {
@@ -5287,14 +4706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私は・・・」"
+                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[2]Yurika: \"I am...\""
                             ]
                         },
                         {
@@ -5311,21 +4723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・大人しくポイゾンバーストを受けてほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうこれで・・・終わりにしようっ！」"
+                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[1]Akane: \"...Please quietly accept the Poison Burst. Let's end\nthis... now!\""
                             ]
                         },
                         {
@@ -5343,14 +4741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[yuri_angry]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「会長・・・」"
+                                "\\F[nako_trouble]\\FF[yuri_angry]\\AA[1]Nadeshiko: \"President...\""
                             ]
                         },
                         {
@@ -5367,21 +4758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはお断りする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のやっている事が分かったなら、君たちも賛同してほしい」"
+                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[2]Yurika: \"I must refuse. If you understand what I am doing, I\nwould like you to agree with me.\""
                             ]
                         },
                         {
@@ -5398,14 +4775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「心に秘めた劣情が君たちにも・・・あるだろう？」　"
+                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[2]Yurika: \"You must have hidden desires in your hearts too,\nright?\""
                             ]
                         },
                         {
@@ -5422,28 +4792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「”王国”なら、それを発散して、尚且つこの平和な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "日常を守ることが出来る。コウモリやウナギ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ビッチギャルにはなし得ない、心の平穏を手に入れられる」"
+                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[2]Yurika: \"In the 'Kingdom', you can release those desires and\nstill protect this peaceful everyday life. It offers a peace\nof mind that bats, eels, or bitchy gals can't achieve.\""
                             ]
                         },
                         {
@@ -5460,28 +4809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君はふさわしくない。普段から廊下を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "走り回るような・・・規範のない君にはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”日常”と”王国”を引っ掻き回す、まさにイレギュラーだ」"
+                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[2]Yurika: \"You are not suitable. Someone who runs around the\nhallways without any norms... You are the very irregularity\nthat disrupts both 'everyday life' and the 'Kingdom'.\""
                             ]
                         },
                         {
@@ -5498,14 +4826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・じゃあ戦うしかなさそう・・・だな！」"
+                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[1]Akane: \"...Then it seems we have no choice but to fight!\""
                             ]
                         },
                         {
@@ -5522,14 +4843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・受けて立とう」"
+                                "\\F[sirius_angry2]\\FF[yuri_angry]\\AA[2]Yurika: \"...I shall accept your challenge.\""
                             ]
                         },
                         {
@@ -5630,21 +4944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[king_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの時の怪人が会長・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "会長が皆を・・・」"
+                                "\\F[nako_trouble]\\FF[king_smile]\\AA[1]Nadeshiko: \"That monster from before was the president...\nThe president kidnapped everyone...\""
                             ]
                         },
                         {
@@ -5661,14 +4961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「瞬間移動はさせないっ！ここで決着をつけるっ！！」"
+                                "\\F[sirius_angry2]\\FF[king_smile]\\AA[1]Akane: \"I won't let you teleport away! We'll settle this\nhere and now!!\""
                             ]
                         },
                         {
@@ -5685,21 +4978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が逃げると？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "圧倒的に私が有利だというのに・・・？」"
+                                "\\F[sirius_angry2]\\FF[king_smile]\\AA[2]Yurika: \"You think I would run away? When I have an\noverwhelming advantage...?\""
                             ]
                         },
                         {
@@ -5716,14 +4995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っ！？」"
+                                "\\F[sirius_angry2]\\FF[king_smile]\\AA[1]Akane: \"What!? \""
                             ]
                         },
                         {
@@ -6602,21 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_king2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふっ・・・♪ごめんなさい、朱雀さん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様を倒させたりしないわ♪」"
+                                "\\FF[sumire_king2]Sumire: \"Hehehe...♪ Sorry, Akane-san♪ I won't let you defeat\nour master♪\""
                             ]
                         },
                         {
@@ -6634,21 +5892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_king]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私達がお守りする・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”王国”をご主人様を守るのは、我々の義務だっ・・！」"
+                                "\\FF[kikyou_king]Kikyo: \"We will protect her...! It is our duty to protect\nthe 'Kingdom' and our master!\""
                             ]
                         },
                         {
@@ -6666,28 +5910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sora_king]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「キヒヒヒッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私と向日葵がいたら百人力なんだから♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様に指一本触れさせないよぉ～♪」"
+                                "\\FF[sora_king]Sora: \"Kihikihi! With me and Himawari here, we're worth a\nhundred people♪ We won't let you lay a finger on our\nmaster~♪\""
                             ]
                         },
                         {
@@ -6705,14 +5928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sora_king]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ね、向日葵♪」"
+                                "\\FF[sora_king]Sora: \"Right, Himawari♪\""
                             ]
                         },
                         {
@@ -6729,21 +5945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_king]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「当たり前じゃないっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "囲まれてることにも気付かない紅なんて敵じゃないわっ！」"
+                                "\\FF[himawari_king]Himawari: \"Of course! Akane doesn't stand a chance when she\nhasn't even noticed she's surrounded!\""
                             ]
                         },
                         {
@@ -6791,14 +5993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[himawari_king]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ・・・！？」"
+                                "\\F[sirius_trouble]\\FF[himawari_king]\\AA[1]Akane: \"What...!?\""
                             ]
                         },
                         {
@@ -6815,21 +6010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[syuu_king]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私達、ご主人様と愉しくやっていきたいから、さ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅ちゃんには大人しく捕まってもらいたいなぁ～♪」"
+                                "\\F[sirius_trouble]\\FF[syuu_king]\\AA[2]Hiiragi: \"We want to have fun with our master, so♪ Akane-\nchan, you should just get caught quietly~♪\""
                             ]
                         },
                         {
@@ -6846,28 +6027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[syuu_king]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅ちゃん、むっつりスケベだから”王国”に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きたらめっちゃはっちゃけると思うんだよね～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めっちゃ愉しみ～♪」"
+                                "\\F[sirius_trouble]\\FF[syuu_king]\\AA[2]Hiiragi: \"Akane-chan, you're such a closet pervert that if\nyou came to the 'Kingdom', I bet you'd go wild! I'm really\nlooking forward to it~♪\""
                             ]
                         },
                         {
@@ -6915,21 +6075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「彼らを倒して私を止められるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポイゾンバーストとやらは、何発撃てる？」"
+                                "\\F[sirius_trouble]\\FF[king_smile]\\AA[2]Yurika: \"Can you defeat them and stop me? How many shots of\nyour Poison Burst can you fire?\""
                             ]
                         },
                         {
@@ -6946,21 +6092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もし連発できるなら・・・問答無用で撃っているだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それをしないのが応えだろう？」"
+                                "\\F[sirius_trouble]\\FF[king_smile]\\AA[2]Yurika: \"If you could fire it repeatedly... you would be\nshooting without question. Not doing so is your answer,\nisn't it?\""
                             ]
                         },
                         {
@@ -6977,14 +6109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ・・・！」"
+                                "\\F[sirius_angry2]\\FF[king_smile]\\AA[1]Akane: \"Damn...!\""
                             ]
                         },
                         {
@@ -7002,14 +6127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[sumire_king2]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逃げられませんよ、大人しく貴方も・・・」"
+                                "\\F[sirius_angry2]\\FF[sumire_king2]\\AA[2]Sumire: \"You can't escape, so just quietly...\""
                             ]
                         },
                         {
@@ -7027,14 +6145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[kikyou_king]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご主人様の救いを受け入れ、”金貨”を乞え」"
+                                "\\F[sirius_angry2]\\FF[kikyou_king]\\AA[2]Kikyo: \"Accept our master's salvation and beg for 'gold\ncoins'.\""
                             ]
                         },
                         {
@@ -7051,21 +6162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[sora_king]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怖がる必要なんてない・・・”王国”にくれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅だって・・・」"
+                                "\\F[sirius_angry2]\\FF[sora_king]\\AA[2]Sora: \"There's no need to be scared... If you come to the\n'Kingdom', even Akane...\""
                             ]
                         },
                         {
@@ -7083,21 +6180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[himawari_king]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子と遠慮なくイチャイチャ出来るわ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達みたいに・・・っ♪」"
+                                "\\F[sirius_angry2]\\FF[himawari_king]\\AA[2]Himawari: \"Can freely flirt with Nadeshiko without holding\nback♪ Just like us...♪\""
                             ]
                         },
                         {
@@ -7114,28 +6197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[syuu_king]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「イイコトばっかだよ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと堕ちたら、ありがとうございますっ！って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感謝しちゃうんだから♪」"
+                                "\\F[sirius_angry2]\\FF[syuu_king]\\AA[2]Hiiragi: \"It's all good things~♪ I'm sure once you fall,\nyou'll be thanking us saying 'Thank you so much!'♪\""
                             ]
                         },
                         {
@@ -7153,21 +6215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_angry]\\FF[syuu_king]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅っ・・・！ダメだよっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな話しに乗っちゃっ！」"
+                                "\\F[nako_angry]\\FF[syuu_king]\\AA[1]Nadeshiko: \"Akane...! No! Don't get involved in such talk!!\""
                             ]
                         },
                         {
@@ -7185,21 +6233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[syuu_king]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「分かってるっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけど・・・」"
+                                "\\F[sirius_angry2]\\FF[syuu_king]\\AA[1]Akane: \"I know! But...\""
                             ]
                         },
                         {
@@ -7279,21 +6313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一つ聞きたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君は廊下を走っているのが・・・当然と思うか？」"
+                                "\\F[sirius_angry2]\\FF[king_angry]\\AA[2]Yurika: \"I want to ask you one thing. Do you think it's...\nnatural to run in the hallways?\""
                             ]
                         },
                         {
@@ -7311,14 +6331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え・・・！？」"
+                                "\\F[sirius_trouble]\\FF[king_angry]\\AA[1]Akane: \"Eh...!?\""
                             ]
                         },
                         {
@@ -7336,14 +6349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やむを得ない気持ちがあるなら、非常識は許されると？」"
+                                "\\F[sirius_trouble]\\FF[king_angry]\\AA[2]Yurika: \"If there's an unavoidable feeling, is it\npermissible to be unreasonable?\""
                             ]
                         },
                         {
@@ -7361,21 +6367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「許される訳ない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも・・・走らないといけない時はあるっ！」"
+                                "\\F[sirius_angry2]\\FF[king_angry]\\AA[1]Akane: \"It's not permissible! But there are times when... I\nhave to run!\""
                             ]
                         },
                         {
@@ -7393,21 +6385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怒られても・・・自分で自分を責めたりしても・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも！って時はあるっ！！」"
+                                "\\F[sirius_angry2]\\FF[king_angry]\\AA[1]Akane: \"Even if I get scolded... or blame myself... there\nare times when I still have to do it!!\""
                             ]
                         },
                         {
@@ -7425,14 +6403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は・・・」"
+                                "\\F[sirius_angry2]\\FF[king_angry]\\AA[2]Yurika: \"You are...\""
                             ]
                         },
                         {
@@ -7450,14 +6421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やはり君は・・・あの時の・・・」"
+                                "\\F[sirius_angry2]\\FF[king_smile]\\AA[2]Yurika: \"Indeed, you are... that person from back then...\""
                             ]
                         },
                         {
@@ -7475,14 +6439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それがどうしたっていうんだっ！！」"
+                                "\\F[sirius_angry2]\\FF[king_smile]\\AA[1]Akane: \"So what if I am!!\""
                             ]
                         },
                         {
@@ -7500,28 +6457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これは運命だったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君を・・・私の”王国”に誘えるなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに光栄なことはないっ！」"
+                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[2]Yurika: \"This must be fate. To be able to invite you to my\n'Kingdom'... There is no greater honor!\""
                             ]
                         },
                         {
@@ -7539,14 +6475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何っ・・・！？」"
+                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[1]Akane: \"What...!?\""
                             ]
                         },
                         {
@@ -7564,28 +6493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の”想い人”がこんな近くにいたなんてっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故気付かなかったんだっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君は君こそがっ・・・！」"
+                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[2]Yurika: \"To think that my 'beloved' was so close by all this\ntime!! Why didn't I notice... You are indeed...!\""
                             ]
                         },
                         {
@@ -7603,14 +6511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の価値観を変えて、”王国”を築かせてくれたんだ・・・」"
+                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[2]Yurika: \"You changed my values and allowed me to build my\n'Kingdom'...\""
                             ]
                         },
                         {
@@ -7628,14 +6529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[king_ero]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど、どういうこと！？」"
+                                "\\F[nako_trouble]\\FF[king_ero]\\AA[1]Nadeshiko: \"What do you mean!?\""
                             ]
                         },
                         {
@@ -7653,14 +6547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な、何がなんだかっ・・・！」"
+                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[1]Akane: \"I don't understand what's going on...!\""
                             ]
                         },
                         {
@@ -7677,14 +6564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「”王国”の目的は”自由を与えること”にある」"
+                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[2]Yurika: \"The purpose of the 'Kingdom' is to grant\n'freedom'.\""
                             ]
                         },
                         {
@@ -7701,28 +6581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「理性と知性を兼ね揃えた者の抑圧を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "解き放つ場を提供することだ。現実では上手くいかない、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その兼ね合いを異世界にて実現する・・・」"
+                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[2]Yurika: \"It's to provide a place where those with both\nreason and intelligence can be freed from oppression. To\nrealize the balance that doesn't work out in reality, in\nanother world...\""
                             ]
                         },
                         {
@@ -7739,28 +6598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トイレでしょっちゅう一人Hしているような君は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敵だと思っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "理性をかなぐり捨ててお猿さんのようだと！」"
+                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[2]Yurika: \"I thought you, who frequently masturbates alone in\nthe toilet, were an enemy. Like a monkey who has thrown away\nreason!\""
                             ]
                         },
                         {
@@ -7778,14 +6616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[1]Akane: \"...\""
                             ]
                         },
                         {
@@ -7802,14 +6633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[king_ero]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅・・・」"
+                                "\\F[nako_trouble]\\FF[king_ero]\\AA[1]Nadeshiko: \"Akane...\""
                             ]
                         },
                         {
@@ -7826,28 +6650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だがそれなのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君を見ていると・・・なぜだか気持ちがモヤモヤとしたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "猿なんかに興味はないと思っていたはずなのに・・・」"
+                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[2]Yurika: \"But even so... when I look at you... why do I feel\nthis restless? I thought I had no interest in monkeys...\""
                             ]
                         },
                         {
@@ -7865,21 +6668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「猿・・・猿って・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人を何だと・・・」"
+                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[1]Akane: \"Monkey... calling me a monkey... what do you think\npeople are...\""
                             ]
                         },
                         {
@@ -7896,14 +6685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[king_ero]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トイレに何回も行くのって・・・そういうこと・・・？」"
+                                "\\F[nako_trouble]\\FF[king_ero]\\AA[1]Nadeshiko: \"Going to the toilet so often... is that what it\nmeans...?\""
                             ]
                         },
                         {
@@ -7921,28 +6703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「嫌っているのだと思っていた。だが違ったんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かつて・・・自分の生き方を変えてくれた少女がいた・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君にその面影を見ていたんだよ！」"
+                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[2]Yurika: \"I thought I hated it. But I was wrong! There was\nonce a girl who changed the way I live... I saw her likeness\nin you!\""
                             ]
                         },
                         {
@@ -7960,21 +6721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「会いたかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして・・・」"
+                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[2]Yurika: \"I wanted to meet you. And...\""
                             ]
                         },
                         {
@@ -7992,28 +6739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私は君を独占したかった・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私だけのものにしてしまいたかったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "３年の間、ずっと想い続けていたんだっ！！」"
+                                "\\F[sirius_angry2]\\FF[king_ero]\\AA[2]Yurika: \"I wanted to monopolize you... to make you mine\nalone. I've been thinking about you for 3 years!!\""
                             ]
                         },
                         {
@@ -8031,14 +6757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何を言ってっ・・・！？」"
+                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[1]Akane: \"What are you saying...!?\""
                             ]
                         },
                         {
@@ -8056,14 +6775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[king_ero]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それって・・・！？」"
+                                "\\F[nako_trouble]\\FF[king_ero]\\AA[1]Nadeshiko: \"Does that mean...!?\""
                             ]
                         },
                         {
@@ -8080,28 +6792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「キングダムの”王国”は独占を許さない。それは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "争いの元だからだ。王として矛盾しているのは分かっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからモヤモヤが止められない」"
+                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[2]Yurika: \"The 'Kingdom' of the KINGDOM does not allow\nmonopolization. It's the source of conflict. I know it's\ncontradictory as a king. That's why I can't stop feeling\nrestless.\""
                             ]
                         },
                         {
@@ -8119,21 +6810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それでも・・・知ってしまった以上。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう引き返せない。私は君がほしい」"
+                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[2]Yurika: \"But still... now that I know, there's no turning\nback. I want you.\""
                             ]
                         },
                         {
@@ -8151,21 +6828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私のパートナーとして、”王国”に来てほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう。私の”花嫁”になってほしいんだ！」"
+                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[2]Yurika: \"As my partner, I want you to come to the 'Kingdom'.\nYes, I want you to become my 'bride'!\""
                             ]
                         },
                         {
@@ -8183,14 +6846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は、花嫁っ・・！？」"
+                                "\\F[sirius_trouble]\\FF[king_ero]\\AA[1]Akane: \"B-bride...!?\""
                             ]
                         },
                         {
@@ -8208,21 +6864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[king_ero]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「花婿じゃなくて・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、いや・・・情報量が多すぎて訳わかんないっ！」"
+                                "\\F[nako_trouble]\\FF[king_ero]\\AA[1]Nadeshiko: \"Not groom but...!? No, no... there's too much\ninformation to process!\""
                             ]
                         },
                         {
@@ -8239,21 +6881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[kikyou_king]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おおっ！おめでとうっ！！朱雀紅っ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様に求婚されるなんて・・・なんて幸福なんだっ♪」"
+                                "\\F[nako_trouble]\\FF[kikyou_king]\\AA[2]??? ()"
                             ]
                         },
                         {
@@ -8270,21 +6898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[sumire_king2]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「素晴らしいことです♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "永遠に結ばれる・・・愛がここに生まれたのですね♪」"
+                                "\\F[nako_trouble]\\FF[sumire_king2]\\AA[2]??? ()"
                             ]
                         },
                         {
@@ -8301,21 +6915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[sora_king]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさかの大逆転って訳ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オナニー猿から、お姫様だもんね」"
+                                "\\F[nako_trouble]\\FF[sora_king]\\AA[2]Sora: \"So it's a major reversal. From a masturbation monkey\nto a princess.\""
                             ]
                         },
                         {
@@ -8332,28 +6932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[himawari_king]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これが本当のシンデレラストーリーって訳ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様の寵愛を独り占め出来るって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妬けちゃうけど！」"
+                                "\\F[nako_trouble]\\FF[himawari_king]\\AA[2]??? ()"
                             ]
                         },
                         {
@@ -8370,28 +6949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[syuu_king]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ”王国”に戻ったら、結婚式だね～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私がめっちゃエッチにプロデュースしちゃうよっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イキ過ぎて、忘れられない式になると思うっ♪」"
+                                "\\F[nako_trouble]\\FF[syuu_king]\\AA[2]??? ()"
                             ]
                         },
                         {
@@ -8408,28 +6966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[syuu_king]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「断るっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私には好きな人がいるっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君じゃないから、結婚なんて出来るはずがない！！」"
+                                "\\F[sirius_angry2]\\FF[syuu_king]\\AA[1]Akane: \"I refuse!! I have someone I love!! It can't be you,\nso there's no way we can get married!!\""
                             ]
                         },
                         {
@@ -8447,21 +6984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[king_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「断るなんて選択肢はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は・・・求める者全てを手に入れるのだからっ！！」"
+                                "\\F[sirius_angry2]\\FF[king_smile]\\AA[2]Yurika: \"Refusal is not an option. I am one who obtains all\nthat I desire!!\""
                             ]
                         },
                         {
@@ -8479,14 +7002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_angry]\\FF[king_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「会長っ・・・！」"
+                                "\\F[nako_angry]\\FF[king_smile]\\AA[1]Nadeshiko: \"President...!\""
                             ]
                         },
                         {
@@ -8739,21 +7255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[iruka_angry]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「駄目よっ！鬼塚さんっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなのは・・・」"
+                                "\\F[iruka_angry]Iruka: \"No good! Onizuka-san!! This is not right...\""
                             ]
                         },
                         {
@@ -8771,28 +7273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[inu_angry]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生も許しませんっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色恋沙汰に割って入るのは・・・って思うけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅ちゃんの気持ちが大切ですっ！」"
+                                "\\F[inu_angry]Maple: \"The teacher won't allow it either! I thought it was\nwrong to interfere in matters of love, but Akane-chan's\nfeelings are what matter!\""
                             ]
                         },
                         {
@@ -8809,14 +7290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[inu_angry]\\FF[king_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君たちで何が出来る・・・？」"
+                                "\\F[inu_angry]\\FF[king_angry]\\AA[2]Yurika: \"What can you all do...?\""
                             ]
                         },
                         {
@@ -9074,14 +7548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[iruka_trouble]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃあぁっ！！」"
+                                "\\F[iruka_trouble]Iruka: \"Kyaaah!!\""
                             ]
                         },
                         {
@@ -9099,14 +7566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[inu_trouble]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんて力なのっ！」"
+                                "\\F[inu_trouble]Maple: \"What kind of strength is this!\""
                             ]
                         },
                         {
@@ -9230,14 +7690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先輩っ！！先生っ！！」"
+                                "\\F[sirius_trouble]Akane: \"Senpai!! Teacher!!\""
                             ]
                         },
                         {
@@ -9694,14 +8147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]\\FF[king_smile]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「諦めて・・・私のものにっ・・・」"
+                                "\\F[sirius_trouble]\\FF[king_smile]\\AA[2]Yurika: \"Give up... and become mine...\""
                             ]
                         },
                         {
@@ -9719,14 +8165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「させませんっ・・・！！」"
+                                "???: \"I won't allow it...!!\""
                             ]
                         },
                         {
@@ -9770,14 +8209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_angry]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っ！！」"
+                                "\\FF[king_angry]Yurika: \"!!\""
                             ]
                         },
                         {
@@ -10375,21 +8807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_suangry]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「手伝いますっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "力を合わせて・・・会長を倒しましょうっ！」"
+                                "\\F[ayaka_suangry]Ayaka: \"I'll help! Let's join forces... and defeat the\npresident!\""
                             ]
                         },
                         {
@@ -10437,14 +8855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_suangry]\\FF[sirius_smile]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は・・・アイリスブレイドっ！？」"
+                                "\\F[ayaka_suangry]\\FF[sirius_smile]\\AA[2]Akane: \"You are... Iris Blade!?\""
                             ]
                         },
                         {
@@ -10462,14 +8873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_susmile]\\FF[sirius_smile]\\AA[1]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はいっ・・・！今は一人だけですけど・・・」"
+                                "\\F[ayaka_susmile]\\FF[sirius_smile]\\AA[1]Ayaka: \"Yes...! Right now, I'm alone, but...\""
                             ]
                         },
                         {
@@ -10487,14 +8891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_susmile]\\FF[king_angry]\\AA[2]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "\\F[ayaka_susmile]\\FF[king_angry]\\AA[2]Yurika: \"...\""
                             ]
                         },
                         {
@@ -10572,14 +8969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_king2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二人になっても・・・勝ち目はありませんわ♪」"
+                                "\\FF[sumire_king2]Sumire: \"Even if it becomes two against one... you have no\nchance of winning♪\""
                             ]
                         },
                         {
@@ -10597,14 +8987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_king]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう逃げ場はない・・・！」"
+                                "\\FF[kikyou_king]Kikyo: \"There's no escape now...!\""
                             ]
                         },
                         {
@@ -10622,21 +9005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_king]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いい気にならないで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "終わりなんだからっ！！」"
+                                "\\FF[himawari_king]Himawari: \"Don't get so full of yourself! It's over!!\""
                             ]
                         },
                         {
@@ -10654,21 +9023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[syuu_king]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもご主人様には近づけさせない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一発逆転はあるからね～」"
+                                "\\FF[syuu_king]Hiiragi: \"But I won't let you get close to our master.\nThere's still a chance for a comeback~\""
                             ]
                         },
                         {
@@ -10686,21 +9041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_smile]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな・・・こうなった以上・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人を同時に相手するのは・・・得策じゃない」"
+                                "\\FF[king_smile]Yurika: \"That's right... now that it's come to this...\nfacing both of them at the same time... isn't a wise\nstrategy\""
                             ]
                         },
                         {
@@ -10718,14 +9059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_smile]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「林檎っ！柳っ！！」"
+                                "\\FF[king_smile]Yurika: \"Ringo! Yanagi!!\""
                             ]
                         },
                         {
@@ -10743,14 +9077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ringo_king]林檎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はいっ！ご主人様っ・・♪」"
+                                "\\FF[ringo_king]Ringo: \"Yes! Master..♪\""
                             ]
                         },
                         {
@@ -10768,14 +9095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yanagi_king]柳"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「失態を挽回させて頂きますっ・・・♪」"
+                                "\\FF[yanagi_king]Yanagi: \"I will redeem our earlier disgrace...♪\""
                             ]
                         },
                         {
@@ -11415,14 +9735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ama_trouble]亜麻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・あっ！！」"
+                                "\\FF[ama_trouble]Ama: \"...Ah!!\""
                             ]
                         },
                         {
@@ -11585,14 +9898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「亜麻！！」"
+                                "Mei: \"Ama!!\""
                             ]
                         },
                         {
@@ -12115,14 +10421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撫子っ・・・！！」"
+                                "\\F[sirius_angry2]Akane: \"Nadeshiko...!!\""
                             ]
                         },
                         {
@@ -12140,14 +10439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[nako_trouble]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅っ・・・！！」"
+                                "\\F[sirius_angry2]\\FF[nako_trouble]\\AA[2]Nadeshiko: \"Akane...!!\""
                             ]
                         },
                         {
@@ -12477,21 +10769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[king_smile]百合花"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「取り返しにくるといい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君の”金貨”を置いていく」"
+                                "\\FF[king_smile]Yurika: \"You should come back for it. Leave your 'gold coin'\nbehind\""
                             ]
                         },
                         {
@@ -13220,21 +11498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ayaka_suangry]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「罠ですっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは一緒に戦った方がっ・・！」"
+                                "\\FF[ayaka_suangry]Ayaka: \"It's a trap! We should fight together..!\""
                             ]
                         },
                         {
@@ -13252,14 +11516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[ayaka_suangry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それでも・・・撫子を放ってはおけないっ・・！！」"
+                                "\\F[sirius_angry2]\\FF[ayaka_suangry]\\AA[1]Akane: \"Even so... I can't just leave Nadeshiko behind..!!\""
                             ]
                         },
                         {
@@ -13328,14 +11585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[ayaka_suangry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は・・・ここにいる皆を守ってくれ！」"
+                                "\\F[sirius_angry2]\\FF[ayaka_suangry]\\AA[1]Akane: \"You... protect everyone here!\""
                             ]
                         },
                         {
@@ -13353,14 +11603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[ayaka_sutrouble]\\AA[2]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは必ず。でも・・・」"
+                                "\\F[sirius_angry2]\\FF[ayaka_sutrouble]\\AA[2]Ayaka: \"I definitely will. But...\""
                             ]
                         },
                         {
@@ -13378,21 +11621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]\\FF[ayaka_sutrouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「罠だろうと何だろうと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に、撫子を救い出す！」"
+                                "\\F[sirius_angry2]\\FF[ayaka_sutrouble]\\AA[1]Akane: \"Trap or not... I will definitely rescue Nadeshiko!\""
                             ]
                         },
                         {
@@ -13757,14 +11986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "芽衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「亜麻を・・・亜麻をお願いします」"
+                                "Mei: \"Please... I need flax.\""
                             ]
                         },
                         {
@@ -13781,14 +12003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「必ず！！」"
+                                "\\F[sirius_angry2]Akane: \"Certainly!!\""
                             ]
                         },
                         {
@@ -13916,14 +12131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[iruka_angry]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無茶しちゃダメだからね！！」"
+                                "\\FF[iruka_angry]Iruka: \"You mustn't overdo it, okay?!\""
                             ]
                         },
                         {
@@ -14222,21 +12430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ♪どうしていきなり金貨を使って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "突入しないと思う？」"
+                                "Sora: \"Hehe♪ Why do you think I don't just rush in using\ngold coins right away?\""
                             ]
                         },
                         {
@@ -14254,14 +12448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？それは心の準備とか・・・？」"
+                                "\\F[sirius_trouble]Akane Suzaku: \"Eh? Is it because you need to prepare\nmentally or something...?\""
                             ]
                         },
                         {
@@ -14278,14 +12465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいえ。イベント進行だとセーブ出来なくなるからよ♪」"
+                                "Sora: \"No. It's because if we proceed with the event, we\nwon't be able to save anymore♪\""
                             ]
                         },
                         {
@@ -14303,14 +12483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「イベント！？セーブ！？」"
+                                "\\F[sirius_trouble]Akane Suzaku: \"Event!? Save!? What are you talking about?\""
                             ]
                         },
                         {
@@ -14328,14 +12501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちの話し♪ここでしておいた方がいいとは思うけど♪」"
+                                "Sora: \"Just talking about this side of things♪ I think it's\nbetter to discuss it here♪\""
                             ]
                         },
                         {
@@ -14524,21 +12690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[hanasaku_smile]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ・・・すっごいことになってるね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は馴れてるから驚かないけど・・・」"
+                                "\\F[hanasaku_smile]Sakuya: \"No way... things have gotten pretty crazy... I'm\nused to it so I'm not surprised, but...\""
                             ]
                         },
                         {
@@ -14556,21 +12708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[hanasaku_smile]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何も知らなかったら、会長が変身したトコできっと気絶してるよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私で良かったよ、本当に」"
+                                "\\F[hanasaku_smile]Sakuya: \"If someone who knew nothing about this saw the\npresident transform, they'd surely faint, right? It's really\ngood that it was me.\""
                             ]
                         },
                         {
@@ -14588,14 +12726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う、うん・・・」"
+                                "\\F[sirius_trouble]Akane: \"Y-yeah...\""
                             ]
                         },
                         {
@@ -14613,21 +12744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（今までどんな修羅場をくぐってきたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれに馴れたりするんだろ・・・）"
+                                "\\F[sirius_trouble]Akane: (What kind of hellish experiences has she been\nthrough to be unfazed by something like that...)"
                             ]
                         },
                         {
@@ -14705,21 +12822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[inu_trouble]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私に出来ることがあったら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやないなんて言えないけど・・・でも・・・」"
+                                "\\F[inu_trouble]Maple: \"If there's anything I can do... I can't say no...\nbut...\""
                             ]
                         },
                         {
@@ -14736,21 +12839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お気持ちだけで十分です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここの皆を頼みます！」"
+                                "\\F[sirius_angry2]Akane: \"Your sentiment alone is enough! I'm counting on you\nto look after everyone here!\""
                             ]
                         },
                         {
@@ -14819,21 +12908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[inu_trouble]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私に出来ることがあったら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやないなんて言えないけど・・・でも・・・」"
+                                "\\F[inu_trouble]Maple: \"If there's anything I can do... I can't say there\nisn't... but...\""
                             ]
                         },
                         {
@@ -14850,21 +12925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お気持ちだけで十分です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここの皆を頼みます！」"
+                                "\\F[sirius_angry2]Akane: \"Your sentiment alone is more than enough! I'm\ncounting on you to look after everyone here!\""
                             ]
                         },
                         {
@@ -15103,14 +13164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_suangry]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは任せてください！気を付けて！！」"
+                                "\\F[ayaka_suangry]Ayaka: \"Leave this place to me! Be careful!!\""
                             ]
                         },
                         {
@@ -15127,14 +13181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sirius_angry2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（決着をつけなきゃ・・・撫子を皆を助ける）"
+                                "\\F[sirius_angry2]Akane: (I have to settle this... to save Nadeshiko and\neveryone else.)"
                             ]
                         },
                         {
@@ -15142,8 +13189,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "金貨を使う",
-                                    "準備する"
+                                    "Use the gold coin",
+                                    "Prepare for battle"
                                 ],
                                 1,
                                 0,
@@ -15251,7 +13298,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "体力無敵モードを使用しますか？"
+                                "Would you like to use Invincible Mode?"
                             ]
                         },
                         {
@@ -15259,8 +13306,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -15347,14 +13394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "         生徒会長が変貌した怪人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "         キングダムポイゾンを見つけて倒せっ！"
+                                "Find and defeat the transformed monster, Kingdom Poison, who\nwas once the student council president!"
                             ]
                         },
                         {

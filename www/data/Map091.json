@@ -3996,21 +3996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_angry]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそっ！！ハナサクを拐った怪人は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに逃げ込んだっていうけど・・・」"
+                                "\\F[kikyou_angry]Kikyo: \"Damn it!! The monster that kidnapped Hanasaku\nescaped into here...\""
                             ]
                         },
                         {
@@ -4058,21 +4044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_angry]\\FF[himawari_angry]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こうロッカーが多かったら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隠れるところありすぎじゃないっ！？」"
+                                "\\F[kikyou_angry]\\FF[himawari_angry]\\AA[2]Himawari: \"With so many lockers... there are too many places\nto hide, aren't there!?\""
                             ]
                         },
                         {
@@ -4182,14 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_trouble]\\FF[himawari_angry]\\AA[1]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも、何の音も立てないなんて・・・変だよ」"
+                                "\\F[ayaka_trouble]\\FF[himawari_angry]\\AA[1]Ayaka: \"But it's strange... not a sound to be heard.\""
                             ]
                         },
                         {
@@ -4237,21 +4202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_trouble]\\FF[himawari_angry]\\AA[1]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに・・・正面のロッカー・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "３っつだけ置かれてるけど・・・」"
+                                "\\F[ayaka_trouble]\\FF[himawari_angry]\\AA[1]Ayaka: \"And those lockers in front... only three of them\nplaced there...\""
                             ]
                         },
                         {
@@ -4361,28 +4312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_angry]\\FF[himawari_angry]\\AA[1]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「不自然じゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "壁を背にしていないロッカーが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ見よがしに置かれているなんて・・・」"
+                                "\\F[ayaka_angry]\\FF[himawari_angry]\\AA[1]Ayaka: \"Isn't it unnatural? Lockers not placed against the\nwall but conspicuously out in the open like that...\""
                             ]
                         },
                         {
@@ -4400,14 +4330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_angry]\\FF[sumire_angry]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怪人のし掛けた罠でしょうか・・・？」"
+                                "\\F[ayaka_angry]\\FF[sumire_angry]\\AA[2]Sumire: \"Could it be a trap set by the monster...?\""
                             ]
                         },
                         {
@@ -4424,21 +4347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_smile]\\FF[sumire_angry]\\AA[1]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そーだよね。開けようとした瞬間に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中から捕まえるつもりとか？」"
+                                "\\F[syuu_smile]\\FF[sumire_angry]\\AA[1]Hiiragi: \"Right? Like they're planning to catch us the\nmoment we try to open one?\""
                             ]
                         },
                         {
@@ -4455,21 +4364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんなぁ～、よく来てくれたね～っ♪」"
+                                "????: \"Nyururu~♪ Everyone~, you've come just as expected~♪\""
                             ]
                         },
                         {
@@ -5444,14 +5339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[close_smile]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ、歓迎するよ」"
+                                "\\F[close_smile]Wata: \"Hehe, welcome.\""
                             ]
                         },
                         {
@@ -5468,21 +5356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[close_smile]\\FF[beni_close1]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君たちがアイリスブレイド・・・ご主人様を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "倒そうとする悪い人達だってことは知っているよ♪」"
+                                "\\F[close_smile]\\FF[beni_close1]\\AA[2]Akane: \"You are the Iris Blade... the bad people trying to\ndefeat our master, I know♪\""
                             ]
                         },
                         {
@@ -5500,21 +5374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[close_smile]\\FF[nako_close1]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから・・・こうして待ち伏せていたの♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方達を返り討ちにするために・・・♪」"
+                                "\\F[close_smile]\\FF[nako_close1]\\AA[2]Nadeshiko: \"That's why... we've been lying in wait♪ To turn\nthe tables on you...♪\""
                             ]
                         },
                         {
@@ -5532,21 +5392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_trouble]\\FF[nako_close1]\\AA[1]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その肌の色・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅ちゃん達も怪人に・・・？」"
+                                "\\F[ayaka_trouble]\\FF[nako_close1]\\AA[1]Ayaka: \"That skin color... Akane-chan and the others have\nbeen turned by the monster...?\""
                             ]
                         },
                         {
@@ -5563,28 +5409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_angry]\\FF[nako_close1]\\AA[1]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「安知里先生や犬飼先生も・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達が気付かない間に・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "侵略がこんなに進んでいたなんて！」"
+                                "\\F[kikyou_angry]\\FF[nako_close1]\\AA[1]Kikyo: \"Anzuri-sensei and Inukai-sensei too...! We didn't\nnotice... the invasion has progressed this far!\""
                             ]
                         },
                         {
@@ -5601,28 +5426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_angry]\\FF[ajiri_close]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「侵略？違うわ。皆で気持ちいいを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "共有して幸せになるためよ♪ニュルニュル奴隷になって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロッカーに一緒に入れば、そんな考えもすぐに改まるわ♪」"
+                                "\\F[kikyou_angry]\\FF[ajiri_close]\\AA[2]Yui: \"Invasion? No, it's different. It's about sharing\npleasure together and becoming happy♪ Become a nyurunyuru\nslave and join us in the locker, and such thoughts will soon\nchange♪\""
                             ]
                         },
                         {
@@ -5640,14 +5444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_angry]\\FF[inu_close]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうよ。先生が手取り足取り教えてあげる♪」"
+                                "\\F[kikyou_angry]\\FF[inu_close]\\AA[2]Maple: \"That's right. Sensei will teach you everything step\nby step♪\""
                             ]
                         },
                         {
@@ -5665,21 +5462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_angry]\\FF[inu_close]\\AA[1]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それが怪人の常套句じゃないっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠慮しておくわっ！！」"
+                                "\\F[himawari_angry]\\FF[inu_close]\\AA[1]Himawari: \"That's the monster's usual line isn't it!! I'll\npass!!\""
                             ]
                         },
                         {
@@ -5869,21 +5652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sora_close]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「も～っ！向日葵も意地はってないで・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私と一緒にロッカーの中でニュルニュルしようよっ♪」"
+                                "\\FF[sora_close]Sora: \"Come on! Himawari, stop being so stubborn...! Let's\nget all nyurunyuru together inside the locker♪\""
                             ]
                         },
                         {
@@ -5901,21 +5670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sora_close]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「遠慮なんてしなくていいからぁ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、こっち来てぇ♪」"
+                                "\\FF[sora_close]Sora: \"You don't need to hold back♪ Come on, over here♪\""
                             ]
                         },
                         {
@@ -5933,14 +5688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_trouble]\\FF[sora_close]\\AA[1]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな・・・宇宙まで・・・っ！」"
+                                "\\F[himawari_trouble]\\FF[sora_close]\\AA[1]Himawari: \"Not you too... Sora...!\""
                             ]
                         },
                         {
@@ -6130,21 +5878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[momoha_close]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗。まだご主人様のお手を煩わせているのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪い子・・・いいわ♪私が逮捕して・・・矯正してあげる♪」"
+                                "\\FF[momoha_close]Momoha: \"Kikyo. You're still troubling our master, you\nnaughty girl... That's fine♪ I'll arrest you... and correct\nyou myself♪\""
                             ]
                         },
                         {
@@ -6161,21 +5895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[momoha_close]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「狭～い独房で一晩中可愛がって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふっ♪分からせてあげるわ♪」"
+                                "\\FF[momoha_close]Momoha: \"In a tiny cell, I'll dote on you all night long...\nhehe♪ I'll make you understand♪\""
                             ]
                         },
                         {
@@ -6192,14 +5912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_trouble]\\FF[momoha_colse]\\AA[1]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな・・・お姉様までっ・・・！」"
+                                "\\F[kikyou_trouble]\\FF[momoha_colse]\\AA[1]Kikyo: \"Not you too... Sister...!\""
                             ]
                         },
                         {
@@ -6392,28 +6105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[hanasaku_close]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪ここでご主人様のニュルニュル奴隷に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なってないのは、３人だけなんだって♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "囲まれちゃって・・・もうゲームオーバーなの」"
+                                "\\FF[hanasaku_close]Sakuya: \"Nyururu~♪ The only ones who haven't become our\nmaster's nyurunyuru slaves are just the three of you♪\nSurrounded... it's already game over.\""
                             ]
                         },
                         {
@@ -6430,14 +6122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[hanasaku_close]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だからおとなしく・・・皆もニュルニュル仲間になろ？」"
+                                "\\FF[hanasaku_close]Sakuya: \"So be good and... join us as nyurunyuru friends,\nokay?\""
                             ]
                         },
                         {
@@ -6455,14 +6140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_trouble]\\FF[hanasaku_close]\\AA[1]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱりハナサクさんも・・・」"
+                                "\\F[ayaka_trouble]\\FF[hanasaku_close]\\AA[1]Ayaka: \"As I thought, Hanasaku-san too...\""
                             ]
                         },
                         {
@@ -7043,21 +6721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_angry]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どんな状況だって・・・諦めたりしないっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆を助けるために・・・私達は変身するんだからっ！」"
+                                "\\F[ayaka_angry]Ayaka: \"No matter the situation... we won't give up! To save\neveryone... we will transform!\""
                             ]
                         },
                         {
@@ -7075,21 +6739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_angry]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだっ！これぐらいのピンチ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今までだって何度だって経験してきたっ！！」"
+                                "\\F[kikyou_angry]Kikyo: \"That's right! A pinch like this...! We've\nexperienced it countless times before!!\""
                             ]
                         },
                         {
@@ -7107,21 +6757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_angry]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっさと変身して片付けちゃうわよっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宇宙に手を出したこと・・・後悔させてやるわっ！」"
+                                "\\F[himawari_angry]Himawari: \"Let's transform quickly and settle this! You'll\nregret laying your hands on Sora!!\""
                             ]
                         },
                         {
@@ -7203,14 +6839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_smile]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう・・・咲夜さん、迂闊ですね・・・」"
+                                "\\FF[sumire_smile]Sumire: \"Really now... Sakuya-san, how careless of you...\""
                             ]
                         },
                         {
@@ -7385,14 +7014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[syuu_smile]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうそう。”３人”なんてネタバラシするなんて・・・さ」"
+                                "\\FF[syuu_smile]Hiiragi: \"Exactly. Revealing that there are 'three' of us\nlike that...\""
                             ]
                         },
                         {
@@ -7689,21 +7311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_close]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "桔梗さんっ、私と仲良くしましょっ♪」"
+                                "\\FF[sumire_close]Sumire: \"Nyururu~♪ Kikyo-san, let's get along well♪\""
                             ]
                         },
                         {
@@ -7721,21 +7329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[syuu_close]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "向日葵も、素直になって、ハメハメしよっ♪」"
+                                "\\FF[syuu_close]Hiiragi: \"Nyururu~♪ Himawari, be honest and let's have fun\ntogether♪\""
                             ]
                         },
                         {
@@ -7753,14 +7347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_angry]\\桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ！？」"
+                                "\\F[kikyou_angry]\\Kikyo: \"What!??\""
                             ]
                         },
                         {
@@ -7778,14 +7365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_trouble]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさかっ・・・！！」"
+                                "\\F[himawari_trouble]Himawari: \"No way...!!\""
                             ]
                         },
                         {
@@ -8486,21 +8066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ・・！！菫さんっ！！やめるんだっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああっ・・・あひぃぃぃっ♪入ってくるぅぅぅっ♪」"
+                                "Kikyo: \"Gah..!! Sumire-san!! Stop it!! Ahh... ahiiee♪ It's\ngoing in♪\""
                             ]
                         },
                         {
@@ -8518,28 +8084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょ、ちょっとどこ触ってるのよっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "押し付けないでっ！おし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おしぃぃぃっ♪くふふぅぅっ♪」"
+                                "Himawari: \"Hey, hey, where are you touching?! Don't push it\nagainst me! Don't pu...pushiiiee♪ kufufu♪\""
                             ]
                         },
                         {
@@ -8557,14 +8102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_trouble]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな・・・」"
+                                "\\F[ayaka_trouble]Ayaka: \"This is...\""
                             ]
                         },
                         {
@@ -8582,21 +8120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_trouble]\\FF[beni_close1]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「仲間はずれにされちゃって寂しい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫・・・貴方の分のロッカーも用意してあるから♪」"
+                                "\\F[ayaka_trouble]\\FF[beni_close1]\\AA[2]Akane: \"Feeling left out? Don't worry... we have a locker\nprepared for you too♪\""
                             ]
                         },
                         {
@@ -8614,14 +8138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_trouble]\\FF[beni_close1]\\AA[2]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「手取り足取り、全部教えてあげる♪」"
+                                "\\F[ayaka_trouble]\\FF[beni_close1]\\AA[2]Akane: \"I'll teach you everything, step by step♪\""
                             ]
                         },
                         {
@@ -8669,14 +8186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_trouble]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、私は・・・」"
+                                "\\F[ayaka_trouble]Ayaka: \"I, I am...\""
                             ]
                         },
                         {
@@ -8694,28 +8204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_angry]\\FF[close_smile]\\AA[2]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ♪強情な綾香ちゃんは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆で囲んじゃおうっかっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分からロッカーに入りたくなるようにしないと、ね♪」"
+                                "\\F[ayaka_angry]\\FF[close_smile]\\AA[2]Sumire: \"Fufu♪ Stubborn Ayaka-chan... we should all surround\nher♪ We have to make her want to enter the locker herself,\nright♪\""
                             ]
                         },
                         {
@@ -8733,14 +8222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_angry]\\FF[nako_close1]\\AA[2]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はいっ♪私達の身体で密着しちゃいますっ♪」"
+                                "\\F[ayaka_angry]\\FF[nako_close1]\\AA[2]Nadeshiko: \"Yes♪ We'll get close with our bodies♪\""
                             ]
                         },
                         {
@@ -8758,14 +8240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_angry]\\FF[iruka_close]\\AA[2]いるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「綾香さん、楽しんでね♪」"
+                                "\\F[ayaka_angry]\\FF[iruka_close]\\AA[2]Iruka: \"Ayaka-san, enjoy yourself♪\""
                             ]
                         },
                         {
@@ -8783,14 +8258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_angry]\\FF[inu_close]\\AA[2]メープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「全身、ニュルニュルにしてあげるっ♪」"
+                                "\\F[ayaka_angry]\\FF[inu_close]\\AA[2]Maple: \"I'll make your whole body slippery and wet♪\""
                             ]
                         },
                         {
@@ -8808,14 +8276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ayaka_angry]\\FF[ajiri_close]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう・・・逃さないんだからっ♪」"
+                                "\\F[ayaka_angry]\\FF[ajiri_close]\\AA[2]Yui: \"I won't let you escape anymore♪\""
                             ]
                         },
                         {
@@ -8897,21 +8358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう無理ぃぃぃっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ニュルニュルが気持ちよすぎるぅぅっ・・・♪」"
+                                "Kikyo: \"I can't take it anymore♪ The slippery feeling is too\ngood...♪\""
                             ]
                         },
                         {
@@ -8962,21 +8409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あむぅ・・・んふぅぅっ・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうずっとぉ・・・ここにいたいぃぃ・・・♪」"
+                                "Himawari: \"Amu... Nfuu...♪ I want to stay here forever...♪\""
                             ]
                         },
                         {
@@ -9624,21 +9057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「み・・・みんなの身体から粘液が・・・っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "す、滑って・・・変身でき・・・ああっ・・♪」"
+                                "Ayaka: \"Mi... Mucus from everyone's bodies...! It's\nslippery... I can't transform... Ahh..♪\""
                             ]
                         },
                         {
@@ -9655,21 +9074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「むぎゅむぎゅって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "押し当てられてぇ・・・おぉっ❤」"
+                                "Ayaka: \"Being pressed and squeezed... Ohh❤\""
                             ]
                         },
                         {
@@ -9686,21 +9091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あふゅぅぅっ・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ニュルニュル・・・素敵ぃ♪」"
+                                "Ayaka: \"Afuyuu...♪ Slippery... Wonderful♪\""
                             ]
                         },
                         {
@@ -9717,21 +9108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ❤変わるぅ・・・♪私もぉ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{変わっひゃうぅぅっ～～❤」"
+                                "Ayaka: \"Ah❤ I'm changing...♪ I'm going to change tooo❤\""
                             ]
                         },
                         {
@@ -10425,21 +9802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さあ・・・改めてだけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "綾香用に用意した・・・あのロッカーに入りたい？」"
+                                "\\F[beni_close1]Akane: \"So... once again... do you want to enter that locker\nwe prepared for Ayaka?\""
                             ]
                         },
                         {
@@ -10456,21 +9819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[2]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪うん❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はすんごく入りたい♪」」"
+                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[2]Ayaka: \"Nyururu~♪ Yeah❤ Right now I really want to enter\nit♪\""
                             ]
                         },
                         {
@@ -10488,21 +9837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だよね。ふふっ・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これでアイリスブレイドも全員、私達の仲間♪」"
+                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[1]Akane: \"I thought so. Fufu...♪ With this, all of Iris Blade\nare our companions♪\""
                             ]
                         },
                         {
@@ -10520,14 +9855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「学園の全てはご主人様のもの♪」"
+                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[1]Akane: \"Everything at the academy belongs to our master♪\""
                             ]
                         },
                         {
@@ -11052,28 +10380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_close]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだな。もし学園を襲う不届き者が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いれば、私達の力が役に立つ」"
+                                "\\FF[kikyou_close]Kikyo: \"Nyururu~♪ That's right. If any miscreants dare to\nattack the academy, our power will come in handy.\""
                             ]
                         },
                         {
@@ -11091,21 +10398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[momoha_close]\\FF[kikyou_close]\\AA[1]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「分かってるじゃない、桔梗。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう・・・ご主人様とこの学園をお守りするのは、私達よ♪」"
+                                "\\F[momoha_close]\\FF[kikyou_close]\\AA[1]Momoha: \"You understand, don't you, Kikyo. That's right...\nit's us who will protect our master and this academy♪\""
                             ]
                         },
                         {
@@ -11123,21 +10416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_close]\\FF[kikyou_close]\\AA[1]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ、私も微力ながらご一緒させて頂きます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして・・・ニュルニュル奴隷同士、ロッカーの中で愛し合いましょうっ♪」"
+                                "\\F[sumire_close]\\FF[kikyou_close]\\AA[1]Sumire: \"Yes, I will also join with my modest efforts.\nAnd... as slippery slaves, let's love each other inside the\nlocker♪\""
                             ]
                         },
                         {
@@ -11155,28 +10434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_close]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうね。宇宙とイチャイチャ出来る最高の学園だもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "命をかけて守ってみせるわ♪」"
+                                "\\FF[himawari_close]Himawari: \"Nyururu~♪ That's right. It's the best academy\nwhere I can be lovey-dovey with Sora. I'll protect it with\nmy life♪\""
                             ]
                         },
                         {
@@ -11194,14 +10452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sora_close]\\FF[himawari_close]\\AA[1]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向日葵ちゃんも、分かってくれたんだね・・・良かった♪」"
+                                "\\F[sora_close]\\FF[himawari_close]\\AA[1]Sora: \"Himawari-chan, you understand too... I'm glad♪\""
                             ]
                         },
                         {
@@ -11219,21 +10470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_close]\\FF[himawari_close]\\AA[1]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「当然だよね。誰にも憚られることなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エッチが出来る学園なんて最高じゃん♪」"
+                                "\\F[syuu_close]\\FF[himawari_close]\\AA[1]Hiiragi: \"Of course. A school where we can have sex without\nanyone holding us back is the best, isn't it?♪\""
                             ]
                         },
                         {
@@ -11251,28 +10488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_close]\\\\FF[hanasaku_close]\\AA[2]咲夜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「当面、脅威になりそうなのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポイゾン退治のノウハウを持っている、アイリスガードかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ・・・私が中から堕落させちゃうつもりだけど♪」"
+                                "\\F[syuu_close]\\\\FF[hanasaku_close]\\AA[2]Sakuya: \"For now, the ones who seem like a threat are the\nIris Guard with their know-how of poison extermination,\nright? Well... I plan to corrupt them from the inside♪\""
                             ]
                         },
                         {
@@ -11290,28 +10506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[ajiri_close]\\FF[hanasaku_close]\\AA[1]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「警察は桃葉さんに任せるとして・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番照のエージェント達も厄介だわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一人ずつ誘い出して、仲間にしていかないと♪」"
+                                "\\F[ajiri_close]\\FF[hanasaku_close]\\AA[1]Yui: \"We'll leave the police to Momoha-san... The agents of\nBanter are also troublesome. We have to lure them out one by\none and make them our allies♪\""
                             ]
                         },
                         {
@@ -11404,21 +10599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ。ご主人様と私達を邪魔するものは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全てロッカーに押し込んでやらないと♪」"
+                                "\\F[beni_close1]Akane: \"Yes. Anyone who interferes with our master and us...\nwe'll have to push them all into the locker♪\""
                             ]
                         },
                         {
@@ -11435,21 +10616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[2]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅ちゃん❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盛り上がっているところ悪いんだけど」"
+                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[2]Ayaka: \"Akane-chan❤ Sorry to interrupt while you're getting\nexcited but\""
                             ]
                         },
                         {
@@ -11497,14 +10664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん？」"
+                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[1]Akane: \"Hmm?\""
                             ]
                         },
                         {
@@ -11522,21 +10682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[2]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さ、誘ってくれたでしょ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ニュルルッ～♪一緒に入らないかって♪」"
+                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[2]Ayaka: \"You invited me, didn't you...? Nyururu~♪ To enter\ntogether with you♪\""
                             ]
                         },
                         {
@@ -11554,21 +10700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ！ごめんごめん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手取り足取りだったっけ♪」"
+                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[1]Akane: \"Oh! Sorry sorry. It was supposed to be hand in hand,\nfoot in foot♪\""
                             ]
                         },
                         {
@@ -11586,14 +10718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[2]綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「宜しくお願いしますっ・・・先輩♪」"
+                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[2]Ayaka: \"Please take care of me... Senpai♪\""
                             ]
                         },
                         {
@@ -11611,14 +10736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ・・・一緒に」"
+                                "\\F[beni_close1]\\FF[ayaka_close]\\AA[1]Akane: \"Then... together\""
                             ]
                         },
                         {
@@ -11886,21 +11004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああんっ♪もうすぐになんてぇ・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "制服を中から脱がせて・・・あはぁんっ♪」"
+                                "Ayaka: \"Aahn♪ Soon enough... take off my uniform from\ninside... Ahhaan♪\""
                             ]
                         },
                         {
@@ -11918,21 +11022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「忘れられない体験にしてあげるから♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覚悟しててよ・・・っ♪」"
+                                "Akane: \"I'll make it an unforgettable experience for you♪ Be\nprepared...♪\""
                             ]
                         },
                         {
@@ -11950,21 +11040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綾香"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うんっ♪大好きぃぃぃっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "閉所セックス最高ぉ・・・っ♪」"
+                                "Ayaka: \"Yeah❤ I love youuu❤ Closet sex is the best...♪\""
                             ]
                         },
                         {
@@ -12092,21 +11168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[close_smile]綿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「始まったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ、皆も好きな相手と愛し合おう♪」"
+                                "\\FF[close_smile]Sumire: \"It's started. Now, everyone else love up your\nfavorite partner♪\""
                             ]
                         },
                         {

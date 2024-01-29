@@ -1635,21 +1635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]キングダム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君はきっと受け入れてくれると思っていたよ♪」"
+                                "\\F[king_smile]Kingdom: \"Hehe...♪ I knew you would accept♪\""
                             ]
                         },
                         {
@@ -1788,14 +1774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_smile]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・・」"
+                                "\\FF[sumire_smile]Sumire: \"...\""
                             ]
                         },
                         {
@@ -1813,28 +1792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[sumire_smile]\\AA[1]キングダム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「金貨を持つ者は、王国の素晴らしさを理解する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全てをかなぐり捨てて裸になりたい衝動と・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今あるものを全てをそのままにしておきたい気持ちと」"
+                                "\\F[king_smile]\\FF[sumire_smile]\\AA[1]Kingdom: \"Those who hold the gold coin understand the\nsplendor of the kingdom. The urge to cast everything aside\nand bare oneself... and the desire to keep everything as it\nis...\""
                             ]
                         },
                         {
@@ -1851,21 +1809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[sumire_smile]\\AA[1]キングダム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「両方を満たすことができるのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この王国だけなのだと」"
+                                "\\F[king_smile]\\FF[sumire_smile]\\AA[1]Kingdom: \"Only this kingdom can satisfy both.\""
                             ]
                         },
                         {
@@ -1883,14 +1827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[sumire_smile]\\AA[1]キングダム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだろう？大紫菫」"
+                                "\\F[king_smile]\\FF[sumire_smile]\\AA[1]Kingdom: \"Isn't that right, Sumire?\""
                             ]
                         },
                         {
@@ -1908,14 +1845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[sumire_king2]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・はいっ♪」"
+                                "\\F[king_smile]\\FF[sumire_king2]\\AA[2]Sumire: \"...Yes♪\""
                             ]
                         },
                         {
@@ -1933,28 +1863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[sumire_king2]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「桔梗さんや、向日葵さんが貴方に従うのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当然だったんです♪だって私達を満たしてくれるのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様だけなのですから♪」"
+                                "\\F[king_smile]\\FF[sumire_king2]\\AA[2]Sumire: \"It's only natural for Kikyo-san and Himawari-san to\nfollow you♪ After all, only Master can fulfill us♪\""
                             ]
                         },
                         {
@@ -1972,21 +1881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[sumire_king2]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どんな人間でも、怪人でも満たすことの出来ないこの想い♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王国に従えば、叶えることができる♪」"
+                                "\\F[king_smile]\\FF[sumire_king2]\\AA[2]Sumire: \"No human or monster can satisfy this feeling♪ If we\nserve the kingdom, our desires can be realized♪\""
                             ]
                         },
                         {
@@ -2004,21 +1899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[sumire_king2]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ですから・・・どうかお願い致します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を・・・ご主人様の配下にお加えくださいっ♪」"
+                                "\\F[king_smile]\\FF[sumire_king2]\\AA[2]Sumire: \"So please... I beg of you. Please include me... as\none of your subordinates, Master♪\""
                             ]
                         },
                         {
@@ -2036,14 +1917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[sumire_king2]\\AA[1]キングダム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・歓迎するよ、菫」"
+                                "\\F[king_smile]\\FF[sumire_king2]\\AA[1]Kingdom: \"...Welcome, Sumire.\""
                             ]
                         },
                         {
@@ -2061,21 +1935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[sumire_king2]\\AA[2]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございますっ、ご主人様♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様の為に・・・全てを捧げますっ♪」"
+                                "\\F[king_smile]\\FF[sumire_king2]\\AA[2]Sumire: \"Thank you so much, Master♪ For you... I will\ndedicate everything♪\""
                             ]
                         },
                         {
@@ -2092,28 +1952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[kikyou_king]\\AA[2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ♪やはり菫さんは仲間に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なってくれると思っていたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王国の素晴らしさをちゃんと理解できると、ね♪」"
+                                "\\F[king_smile]\\FF[kikyou_king]\\AA[2]Kikyo: \"Hehe♪ I knew Sumire-san would join us. You truly\nunderstand the greatness of the kingdom, don't you♪\""
                             ]
                         },
                         {
@@ -2130,28 +1969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_king2]\\FF[kikyou_king]\\AA[1]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ。抵抗していたことが馬鹿らしく感じるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様に従うこと以外の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正解なんてありはしないのに・・・」"
+                                "\\F[sumire_king2]\\FF[kikyou_king]\\AA[1]Sumire: \"Yes. It feels foolish to have resisted. There's no\nright answer other than serving Master...\""
                             ]
                         },
                         {
@@ -2168,21 +1986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_king2]\\FF[himawari_king]\\AA[2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「仕方ないんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際、こうして体験するまで嘘みたいって思うもんだし」"
+                                "\\F[sumire_king2]\\FF[himawari_king]\\AA[2]Himawari: \"Can't be helped, right? Until you actually\nexperience it, it seems like a lie.\""
                             ]
                         },
                         {
@@ -2199,28 +2003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_king2]\\FF[himawari_king]\\AA[1]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですね・・・私も最初は半信半疑でした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段の自分と王国の自分をちゃんと使い分けれるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思いもしなかった・・・」"
+                                "\\F[sumire_king2]\\FF[himawari_king]\\AA[1]Sumire: \"That's true... I was skeptical at first. I never\nimagined I could properly separate my usual self from my\nkingdom self...\""
                             ]
                         },
                         {
@@ -2238,28 +2021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_king2]\\FF[himawari_king]\\AA[1]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だってそうでしょう？ケツ穴ファックを愉しみ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何本をオチンポしゃぶったフェラ顔で・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何食わぬ顔をして、授業を受けれるなんて・・・」"
+                                "\\F[sumire_king2]\\FF[himawari_king]\\AA[1]Sumire: \"Because, isn't it so? Enjoying anal sex, with a\nface that has sucked many cocks... and then attending class\nwith an innocent expression...\""
                             ]
                         },
                         {
@@ -2277,14 +2039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_king2]\\FF[himawari_king]\\AA[1]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなことができるなんて・・・夢みたいですから♪」"
+                                "\\F[sumire_king2]\\FF[himawari_king]\\AA[1]Sumire: \"Being able to do such things... it's like a dream♪\""
                             ]
                         },
                         {
@@ -2302,14 +2057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_king2]\\FF[sora_king]\\AA[2]宇宙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも出来ちゃうんだよねっ♪王国にいれば・・・っ♪」"
+                                "\\F[sumire_king2]\\FF[sora_king]\\AA[2]Sora: \"But we can do it♪ If we're in the kingdom...♪\""
                             ]
                         },
                         {
@@ -2327,21 +2075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[kikyou_king]\\FF[sora_king]\\AA[1]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ。早く綾香も仲間に迎えねば・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうすれば邪魔をするものは誰も・・・」"
+                                "\\F[kikyou_king]\\FF[sora_king]\\AA[1]Kikyo: \"Yes. We must quickly welcome Ayaka as well... Then\nno one will be able to interfere...\""
                             ]
                         },
                         {
@@ -2359,14 +2093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひどくない？私を忘れてない～？」"
+                                "Hiiragi: \"Isn't that terrible? Haven't you forgotten about\nme~?\""
                             ]
                         },
                         {
@@ -2383,14 +2110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_king2]\\FF[kikyou_king2]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[himawari_king2]\\FF[kikyou_king2]\"！！\""
                             ]
                         },
                         {
@@ -2774,14 +2494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_king2]桔梗"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど、どうやってっ！！」"
+                                "\\FF[kikyou_king2]Kikyo: \"How did you...!!\""
                             ]
                         },
                         {
@@ -2798,21 +2511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_king2]向日葵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アンタっ・・・王国に一番ふさわしくない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "売女が何のようなのっ！！」"
+                                "\\FF[himawari_king2]Himawari: \"You... The least suitable whore for the kingdom,\nwhat do you want here!!\""
                             ]
                         },
                         {
@@ -2839,28 +2538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]キングダム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は呼んでいないはずだが？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あちらの世界でも、ハメを外している無深慮な君に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王国は必要ない」"
+                                "\\F[king_smile]Kingdom: \"I didn't call for you, did I? The kingdom has no\nneed for someone as reckless as you are in the other world.\""
                             ]
                         },
                         {
@@ -2877,28 +2555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[syuu_laugh]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え～！そんなことないっしょ。どんなエグい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セックスもし放題のパーティー会場なんて、さ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の為にあるようなもんじゃんっ♪」"
+                                "\\F[king_smile]\\FF[syuu_laugh]\\AA[2]Hiiragi: \"Eh~! That's not true. A party venue where you can\nhave all kinds of hardcore sex, that's like... made for me,\nright♪\""
                             ]
                         },
                         {
@@ -2915,21 +2572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_king1]\\FF[syuu_laugh]\\AA[1]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「柊さん。ご主人様のおっしゃっていることが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分からないのですか？」"
+                                "\\F[sumire_king1]\\FF[syuu_laugh]\\AA[1]Sumire: \"Hiiragi-san. Don't you understand what Master is\nsaying?\""
                             ]
                         },
                         {
@@ -2946,21 +2589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_king1]\\FF[syuu_laugh]\\AA[1]菫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは紳士淑女の王国なのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヤリマンビッチの来るところではないと・・・」"
+                                "\\F[sumire_king1]\\FF[syuu_laugh]\\AA[1]Sumire: \"This is a kingdom of gentlemen and ladies. It's not\na place for sluts and bitches to come...\""
                             ]
                         },
                         {
@@ -2977,28 +2606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_king1]\\FF[syuu_smile]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おお・・・菫さん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪人になったらグイグイくるよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも皆・・・忘れてない？」"
+                                "\\F[sumire_king1]\\FF[syuu_smile]\\AA[2]Hiiragi: \"Oh... Sumire-san becomes aggressive when she turns\ninto a monster. But everyone... haven't you forgotten?\""
                             ]
                         },
                         {
@@ -3015,21 +2623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[sumire_king1]\\FF[syuu_smile]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私がさ。どんな性癖をもって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんな怪人になったかってこと」"
+                                "\\F[sumire_king1]\\FF[syuu_smile]\\AA[2]Hiiragi: \"About what kind of sexual preferences I have and\nwhat kind of monster I've become\""
                             ]
                         },
                         {
@@ -3046,14 +2640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[himawari_king2]\\FF[kikyou_king2]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[himawari_king2]\\FF[kikyou_king2]\"！！\""
                             ]
                         },
                         {
@@ -3080,28 +2667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[syuu_smile]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それで・・・さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "困ったことになってると思うんだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の力が必要になるような・・・ことが」"
+                                "\\FF[syuu_smile]Hiiragi: \"And... yeah. I think we're in trouble. A time will\ncome when my power is needed...\""
                             ]
                         },
                         {
@@ -3119,21 +2685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[syuu_smile]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから・・・金貨を私にもくれないかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に私が役に立つ時がくるからさ♪」"
+                                "\\FF[syuu_smile]Hiiragi: \"So... won't you give me a gold coin too? I'm sure\nthere'll be a time when I'll be useful♪\""
                             ]
                         },
                         {
@@ -3150,14 +2702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[syuu_smile]\\AA[1]キングダム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・」"
+                                "\\F[king_smile]\\FF[syuu_smile]\\AA[1]Kingdom: \"...\""
                             ]
                         },
                         {
@@ -3174,14 +2719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[syuu_smile]\\AA[1]キングダム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その見返りは・・・王国での乱痴気騒ぎということか」"
+                                "\\F[king_smile]\\FF[syuu_smile]\\AA[1]Kingdom: \"In return... you want to indulge in debauchery in\nthe kingdom?\""
                             ]
                         },
                         {
@@ -3199,21 +2737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[syuu_laugh]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういうことっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ・・・これから、よろしくね♪」"
+                                "\\F[king_smile]\\FF[syuu_laugh]\\AA[2]Hiiragi: \"That's right♪ So... let's get along from now on♪\""
                             ]
                         },
                         {
@@ -3231,21 +2755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[syuu_laugh]\\AA[1]キングダム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ♪大胆不敵な人だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気に入った。君も歓迎するよ。亀神柊」"
+                                "\\F[king_smile]\\FF[syuu_laugh]\\AA[1]Kingdom: \"Hehe♪ Such a bold and fearless person. I like you.\nYou're also welcome. Hiiragi.\""
                             ]
                         },
                         {
@@ -3263,28 +2773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[syuu_laugh]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがと♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ、でも・・・急がないと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "向こうの世界が、染められちゃうよ」"
+                                "\\F[king_smile]\\FF[syuu_laugh]\\AA[2]Hiiragi: \"Thanks♪ But we have to hurry. The other world is\ngetting tainted.\""
                             ]
                         },
                         {
@@ -3301,21 +2790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[syuu_smile]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私がきっと”あの子”の性癖の扉を開けちゃったからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リバースが・・・ビッチギャルが溢れかえる」"
+                                "\\F[king_smile]\\FF[syuu_smile]\\AA[2]Hiiragi: \"Because I've surely opened 'that child's' door of\nsexual preferences. Reverse situations... slutty gals are\noverflowing.\""
                             ]
                         },
                         {
@@ -3333,14 +2808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[king_smile]\\FF[syuu_smile]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「学園をすぐに覆い尽くしちゃう勢いでね」"
+                                "\\F[king_smile]\\FF[syuu_smile]\\AA[2]Hiiragi: \"They'll soon take over the academy at this rate.\""
                             ]
                         },
                         {

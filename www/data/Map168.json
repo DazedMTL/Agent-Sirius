@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "玄関",
+    "displayName": "Entrance Hall",
     "encounterList": [],
     "encounterStep": 30,
     "height": 26,
@@ -4483,14 +4483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水泳部ただいま部員募集中！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "興味のある方は「２年C組　×××××」まで！！"
+                                "The Swimming Club is currently recruiting members!! If\nyou're interested, please come to \"Class 2-C ×××××\"!!"
                             ]
                         },
                         {
@@ -4820,28 +4813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「来年、卒業の学生達へ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "D保障！！警備業界最王手！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "規律と忠誠心に溢れた若い才能を歓迎しています！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "社員寮も完備。優しい先輩達が手取り足取り教えてくれます」"
+                                "\"Guaranteed D for next year's graduates!! The leading\ncompany in the security industry! We welcome young talents\nbrimming with discipline and loyalty! Employee dormitories\navailable. Kind seniors will guide you every step of the\nway.\""
                             ]
                         },
                         {
@@ -4986,21 +4958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[momoha_smile]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「捕まえた！止まりなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逮捕しちゃうわよ～♪」"
+                                "\\FF[momoha_smile]Momoha: \"Gotcha! Stop right there. I'm going to arrest\nyou~♪\""
                             ]
                         },
                         {
@@ -5018,21 +4976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「警察官が校内に入って我が物顔なんて・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに治安悪くないですよ！」"
+                                "\\F[beni_angry2]\\FF[momoha_smile]\\AA[1]Akane: \"A police officer strutting around inside the school\nlike she owns the place...! It's not that dangerous here!\""
                             ]
                         },
                         {
@@ -5049,21 +4993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[momoha_smile]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら？人を襲う怪人が闊歩してるのに～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よっぽど危ない場所じゃない？」"
+                                "\\F[beni_angry2]\\FF[momoha_smile]\\AA[2]Momoha: \"Oh? But there's a monster walking around attacking\npeople~? Must be a pretty dangerous place, huh?\""
                             ]
                         },
                         {
@@ -5081,14 +5011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_angry2]\\FF[momoha_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それを知ってるってことは・・・！」"
+                                "\\F[beni_angry2]\\FF[momoha_smile]\\AA[1]Akane: \"If you know about that then...!\""
                             ]
                         },
                         {
@@ -5217,28 +5140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[momoha_reverse]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あたりぃ～♪きゃはははっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしがその怪人でしたぁ～！！テメーみたいな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可愛い可愛い女子高生を襲うのが大好きなのよぉ～♪」"
+                                "\\FF[momoha_reverse]Momoha: \"Bingo~♪ Kyahaha!! Ah, it was me, I'm that monster!!\nI just love attacking cute, cute high school girls like\nyou~♪\""
                             ]
                         },
                         {
@@ -5256,21 +5158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[momoha_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守る側が襲ってくる・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "けっこう、追い詰められる感じがして地味に嫌だ！」"
+                                "\\F[beni_trouble]\\FF[momoha_reverse]\\AA[1]Akane: \"The one who's supposed to protect is the\nattacker...! It's quite distressing and subtly annoying!\""
                             ]
                         },
                         {
@@ -5287,21 +5175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[momoha_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもぉ～、見境いなくだと獲物を逃しちゃうかもッスよ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしはもうお姉さんと同じ怪人だったりぃ♪」"
+                                "\\F[beni_reverse1]\\FF[momoha_reverse]\\AA[1]Akane: \"But you know~, if you're not discerning, you might\nlet your prey escape~♪ Maybe I'm already a monster just like\nyou, Onee-san♪\""
                             ]
                         },
                         {
@@ -5319,28 +5193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[momoha_reverse]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！？マジで～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "声かけて損したわ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怯える子を虐めるのが、あーしの趣味なのに～！」"
+                                "\\F[beni_reverse1]\\FF[momoha_reverse]\\AA[2]Momoha: \"!? Seriously~! What a waste calling out to you~! My\nhobby is to torment scared kids, after all~!\""
                             ]
                         },
                         {
@@ -5358,14 +5211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[momoha_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃはははっ！それドン引きっすわ！お姉さん♪」"
+                                "\\F[beni_reverse1]\\FF[momoha_reverse]\\AA[1]Akane: \"Kyahaha! That's totally creepy, Onee-san♪\""
                             ]
                         },
                         {
@@ -5383,21 +5229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[momoha_reverse]\\AA[2]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「テメーもやってみ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めちゃハマるからよ～！！」"
+                                "\\F[beni_reverse1]\\FF[momoha_reverse]\\AA[2]Momoha: \"You should try it too! It's super addictive, you\nknow~!!\""
                             ]
                         },
                         {
@@ -5415,14 +5247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_reverse1]\\FF[momoha_reverse]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぃ～っす！！」"
+                                "\\F[beni_reverse1]\\FF[momoha_reverse]\\AA[1]Akane: \"Roger that!!\""
                             ]
                         },
                         {
@@ -5498,21 +5323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[momoha_reverse]桃葉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可愛い可愛い女子高生を襲うのが大好きなのよぉ～♪」"
+                                "\\FF[momoha_reverse]Momoha: \"Ahh♥ I just love attacking cute, cute high school\ngirls~♪\""
                             ]
                         },
                         {

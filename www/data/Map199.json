@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "３Ｃ教室",
+    "displayName": "Classroom 3C",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -3850,21 +3850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "尾長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そのための良い手駒が手に入った♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ次は・・・アイリスブレイド・・・」"
+                                "Onaga: \"I've acquired a good pawn for that purpose.♪ Next\nis... the Iris Blade...\""
                             ]
                         },
                         {
@@ -3913,28 +3899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "尾長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の”物語（ストーリー）”に招待するわ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エージェントを使って、ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふふふっ・・・・❤」"
+                                "Onaga: \"I'll invite them to my 'story'.♪ Using an agent, of\ncourse. Fufufufu...❤\""
                             ]
                         },
                         {

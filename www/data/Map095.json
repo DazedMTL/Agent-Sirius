@@ -1436,21 +1436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっと待ってください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ貴女・・・信心を持っていないでしょ？」"
+                                "Student: \"Wait a minute! You still don't have faith, do\nyou?\""
                             ]
                         },
                         {
@@ -1468,21 +1454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「信じてるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲間とか自分・・・とか！」"
+                                "\\F[beni_trouble]Akane Suzaku: \"I do believe! In my friends... and myself...\nand such!\""
                             ]
                         },
                         {
@@ -1500,14 +1472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その仲間・・・信じられるんですか？」"
+                                "Student: \"Can you really trust those friends?\""
                             ]
                         },
                         {
@@ -1525,14 +1490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もしかして・・・本当は・・・」"
+                                "Student: \"Maybe... actually...\""
                             ]
                         },
                         {
@@ -1641,21 +1599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃはははっ！あーしみたいにビッチになってるかも～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神様なんかよりパコハメじゃん❤常識っ～！」"
+                                "Student: \"Kyahaha! Maybe I've become a bitch just like you~♪\nScrew gods, it's all about getting laid❤ That's common\nsense~!\""
                             ]
                         },
                         {
@@ -1673,14 +1617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゆ、歪んでる・・・」"
+                                "\\F[beni_trouble]Akane Suzaku: \"You're... twisted...\""
                             ]
                         },
                         {
@@ -1758,14 +1695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_damage]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「と、とにかく、離れないと！！」"
+                                "\\F[beni_damage]Akane Suzaku: \"Anyway, I need to get away!!\""
                             ]
                         },
                         {

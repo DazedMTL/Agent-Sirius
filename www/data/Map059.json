@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "職員室",
+    "displayName": "Staff Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -5774,14 +5774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ajiri_trouble]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「朱雀さん、志倉綿さんを見かけなかったかしら？」"
+                                "\\FF[ajiri_trouble]Yui: \"Suzaku-san, have you seen Shikura Wata-san?\""
                             ]
                         },
                         {
@@ -5798,28 +5791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ajiri_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！？ちょうどよかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も探しているんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこにも姿が見当たらない・・・」"
+                                "\\F[beni_trouble]\\FF[ajiri_trouble]\\AA[1]Akane: \"?! Oh, good timing. I'm looking for her too! She's\nnowhere to be found...\""
                             ]
                         },
                         {
@@ -5836,14 +5808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ajiri_trouble]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「またどこかのロッカーで隠れているなら・・・心配だわ」"
+                                "\\F[beni_trouble]\\FF[ajiri_trouble]\\AA[2]Yui: \"If she's hiding in a locker again... I'm worried.\""
                             ]
                         },
                         {
@@ -5860,21 +5825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ajiri_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どういうこと・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれは趣味でやっているんじゃ・・・」"
+                                "\\F[beni_trouble]\\FF[ajiri_trouble]\\AA[1]Akane: \"What do you mean...? Isn't that just her hobby...?\""
                             ]
                         },
                         {
@@ -5891,21 +5842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ajiri_trouble]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私も最初はそう思っていたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、どうやら少し事情は違うようなの」"
+                                "\\F[beni_trouble]\\FF[ajiri_trouble]\\AA[2]Yui: \"I thought so at first too. But it seems there might be\na bit more to it.\""
                             ]
                         },
                         {
@@ -5922,21 +5859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ajiri_trouble]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女、水泳部に所属しているんだけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その中で色々とがあるみたいで」"
+                                "\\F[beni_trouble]\\FF[ajiri_trouble]\\AA[2]Yui: \"She's a member of the swimming club... and it seems\nlike there are various things going on there.\""
                             ]
                         },
                         {
@@ -5953,14 +5876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_true]\\FF[ajiri_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「色々って・・・？」"
+                                "\\F[beni_true]\\FF[ajiri_trouble]\\AA[1]Akane: \"Various things...?\""
                             ]
                         },
                         {
@@ -5977,21 +5893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_true]\\FF[ajiri_trouble]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「志倉さんにも悩みが？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんなに色んな事に動じなさそうな子に・・・？」"
+                                "\\F[nako_true]\\FF[ajiri_trouble]\\AA[1]Nadeshiko: \"Shikura-san has worries? For someone who seems\nso unfazed by everything...?\""
                             ]
                         },
                         {
@@ -6008,21 +5910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_true]\\FF[ajiri_angry]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あくまで噂よ。でもその反動がロッカーに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忍び込む奇行へと繋がっているなら、大問題だわ」"
+                                "\\F[nako_true]\\FF[ajiri_angry]\\AA[2]Yui: \"It's just a rumor. But if that's what's leading to her\nsneaking into lockers, it's a big problem.\""
                             ]
                         },
                         {
@@ -6039,21 +5927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_true]\\FF[ajiri_angry]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「水泳部の部長、似鳥さんが率先して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "志倉さんを罵っていたらしいから・・・」"
+                                "\\F[nako_true]\\FF[ajiri_angry]\\AA[2]Yui: \"The captain of the swimming club, Nitotori-san, seems\nto have been leading the charge in berating Shikura-san...\""
                             ]
                         },
                         {
@@ -6070,21 +5944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_true]\\FF[ajiri_angry]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逆らえないストレスから、あんな風に・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "というのはあり得ることよ。放ってはおけないわ」"
+                                "\\F[nako_true]\\FF[ajiri_angry]\\AA[2]Yui: \"It's possible that such unopposable stress could lead\nto such behavior... We can't just ignore it.\""
                             ]
                         },
                         {
@@ -6101,21 +5961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ajiri_angry]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そうですね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、いや・・・でも・・・どうしちゃったんですか？」"
+                                "\\F[beni_trouble]\\FF[ajiri_angry]\\AA[1]Akane: \"Th-that's true... b-but... what's gotten into you?\""
                             ]
                         },
                         {
@@ -6132,14 +5978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ajiri_smile]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？・・・何？」"
+                                "\\F[beni_trouble]\\FF[ajiri_smile]\\AA[2]Yui: \"Hm?... What?\""
                             ]
                         },
                         {
@@ -6156,21 +5995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ajiri_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だってそんな先生らしいことを・・・亜知理先生が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えるなんて・・・意外というか、何ていうか・・・」"
+                                "\\F[beni_trouble]\\FF[ajiri_smile]\\AA[1]Akane: \"Because you're thinking like a teacher... It's\nunexpected for you, Achiri-sensei... or should I say,\nsurprising...\""
                             ]
                         },
                         {
@@ -6187,14 +6012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[ajiri_smile]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅・・・また失礼なこと・・・考えてるよね・・・」"
+                                "\\F[nako_trouble]\\FF[ajiri_smile]\\AA[1]Nadeshiko: \"Akane... you're thinking something rude again,\naren't you...\""
                             ]
                         },
                         {
@@ -6211,28 +6029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[ajiri_smile]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ、らしくないかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段は生徒に親しい先生を目指しているから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "友達感覚なのかも」"
+                                "\\F[nako_trouble]\\FF[ajiri_smile]\\AA[2]Yui: \"Hehe, is it unlike me? I usually aim to be a teacher\nwho's close to her students, so maybe it feels more like a\nfriend.\""
                             ]
                         },
                         {
@@ -6249,14 +6046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ajiri_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「友達・・・」"
+                                "\\F[beni_trouble]\\FF[ajiri_smile]\\AA[1]Akane: \"Friends...\""
                             ]
                         },
                         {
@@ -6273,28 +6063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ajiri_smile]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その顔は傷つくわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかく私も志倉さんを捜すわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方達も見つけたら声をかけておいて」"
+                                "\\F[beni_trouble]\\FF[ajiri_smile]\\AA[2]Yui: \"That face hurts me. Anyway, I'll also look for\nShikura-san. If you find her, please call out to her.\""
                             ]
                         },
                         {
@@ -6311,21 +6080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ajiri_smile]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「似鳥さんに私から話しておくから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心して出てきていいよ・・・って」"
+                                "\\F[beni_trouble]\\FF[ajiri_smile]\\AA[2]Yui: \"I'll talk to Nitotori-san myself... so she can come\nout without worry... that's what I'll tell her.\""
                             ]
                         },
                         {
@@ -6342,14 +6097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[ajiri_smile]\\AA[2]結"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お願いできるかしら。朱雀さん」"
+                                "\\F[beni_trouble]\\FF[ajiri_smile]\\AA[2]Yui: \"Can I count on you for this, Suzaku-san?\""
                             ]
                         },
                         {
@@ -6366,14 +6114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_smile]\\FF[ajiri_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ・・・伝えておくよ」"
+                                "\\F[beni_smile]\\FF[ajiri_smile]\\AA[1]Akane: \"Yeah... I'll pass on the message.\""
                             ]
                         },
                         {
@@ -6598,21 +6339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性教諭"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やはり安星居高等学校にして正解だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先生を含めて女子のレベルが以上に高い・・・」"
+                                "Male Teacher: \"Indeed, choosing Ansei High School was the\nright decision. The level of the girls here, including the\nteachers, is exceptionally high...\""
                             ]
                         },
                         {
@@ -6629,14 +6356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性教諭"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へへ♪親父のコネに感謝だ」"
+                                "Male Teacher: \"Hehe♪ I have to thank my dad's connections.\""
                             ]
                         },
                         {
@@ -6653,21 +6373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なんでこう、変なやつばっかりなんだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この学校は・・・）"
+                                "\\F[beni_trouble]Akane Suzaku: \"(Why is it that this school is filled with\nnothing but weirdos...)\""
                             ]
                         },
                         {
@@ -7011,21 +6717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sion_trouble]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ～あ、また赤点・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "試験対策配ったのになぁ・・・」"
+                                "\\FF[sion_trouble]Shion: \"Ah, another failing grade... Even though I\ndistributed study materials...\""
                             ]
                         },
                         {
@@ -7043,21 +6735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sion_trouble]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウチのクラスの平均点・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしてこんなに低いんだろ・・・」"
+                                "\\FF[sion_trouble]Shion: \"The average score of our class... Why is it so\nlow...?\""
                             ]
                         },
                         {
@@ -7075,21 +6753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sion_trouble]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「特に男子。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来が違いすぎる・・・」"
+                                "\\FF[sion_trouble]Shion: \"Especially the boys. Their performance is just too\ndifferent...\""
                             ]
                         },
                         {
@@ -7106,28 +6770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sion_trouble]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱり担任の先生が美人の方がいいのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰国子女と妖艶なお姉さん先生・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メープル先生と安知理先生が相手じゃ・・・」"
+                                "\\FF[sion_trouble]Shion: \"I wonder if it's better to have a beautiful teacher\nin charge? With a teacher who's a returnee from abroad and a\nbewitching older sister type... Facing Ms. Maple and Ms.\nAnjuri...\""
                             ]
                         },
                         {
@@ -7144,21 +6787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sion_trouble]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「男子が憧れて元気出るのも・・・仕方ないかな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり私もメイクを派手に・・・」"
+                                "\\FF[sion_trouble]Shion: \"It's no wonder the boys get inspired and\nenergized... Maybe I should also make my makeup flashier...\""
                             ]
                         },
                         {
@@ -7229,14 +6858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "\\F[beni_trouble]Akane: \"...\""
                             ]
                         },
                         {
@@ -7253,14 +6875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "\\F[nako_trouble]Nadeshiko: \"...\""
                             ]
                         },
                         {
@@ -7278,14 +6893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[sion_trouble]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ・・・き、聞いてたの？あなた達・・・？」"
+                                "\\F[nako_trouble]\\FF[sion_trouble]\\AA[2]Shion: \"Ah... Did you hear that? You guys...?\""
                             ]
                         },
                         {
@@ -7303,14 +6911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[sion_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい・・・」"
+                                "\\F[beni_trouble]\\FF[sion_trouble]\\AA[1]Akane: \"Yes...\""
                             ]
                         },
                         {
@@ -7328,14 +6929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[sion_trouble]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっとだけ・・・」"
+                                "\\F[nako_trouble]\\FF[sion_trouble]\\AA[1]Nadeshiko: \"Just a little bit...\""
                             ]
                         },
                         {
@@ -7353,14 +6947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[sion_trouble]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・」"
+                                "\\F[nako_trouble]\\FF[sion_trouble]\\AA[2]Shion: \"...\""
                             ]
                         },
                         {
@@ -7378,14 +6965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[sion_trouble]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「内緒にしといてね」"
+                                "\\F[nako_trouble]\\FF[sion_trouble]\\AA[2]Shion: \"Keep it a secret, okay?\""
                             ]
                         },
                         {
@@ -7403,14 +6983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_trouble]\\FF[sion_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい・・・」"
+                                "\\F[beni_trouble]\\FF[sion_trouble]\\AA[1]Akane: \"Yes...\""
                             ]
                         },
                         {
@@ -7428,14 +7001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nako_trouble]\\FF[sion_trouble]\\AA[1]撫子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そのつもりです・・・」"
+                                "\\F[nako_trouble]\\FF[sion_trouble]\\AA[1]Nadeshiko: \"I intend to...\""
                             ]
                         },
                         {
@@ -7511,14 +7077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sion_trouble]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「内緒にしといてね」"
+                                "\\FF[sion_trouble]Shion: \"Keep it a secret, okay?\""
                             ]
                         },
                         {
@@ -7594,21 +7153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sion_trouble]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウチのクラスの平均点"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次こそなんとかしないと・・・」"
+                                "\\FF[sion_trouble]Shion: \"We really need to do something about our class's\naverage score next time...\""
                             ]
                         },
                         {
@@ -7677,21 +7222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sion_close]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「サンドイッチ最高だったわ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "犬飼先生を誘って、生徒を襲わなきゃいけないわね♪」"
+                                "\\FF[sion_close]Shion: \"The sandwich was the best♪ We have to invite Inukai-\nsensei and attack the students♪\""
                             ]
                         },
                         {
@@ -7709,21 +7240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sion_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「爆乳先生のおっぱいサンドイッチ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も体験してみたい♪」"
+                                "\\F[beni_close1]\\FF[sion_close]\\AA[1]Akane: \"The busty teacher's boob sandwich♪ I want to\nexperience it too♪\""
                             ]
                         },
                         {
@@ -7800,21 +7317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi4]\\FF[syuu_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この子はアイリスブレイドのメンバーで、ご主人様の敵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "職員室にはまだ堕ちていない人もいるはずだから・・・）"
+                                "\\F[beni_mizugi4]\\FF[syuu_smile]Akane: \"This girl is a member of the Iris Blade, and there\nmust still be some in the enemy staff room who haven't\nfallen yet...\")"
                             ]
                         },
                         {
@@ -7831,21 +7334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi4]\\FF[syuu_smile]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（捜すならこの子を追い払わないと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうする？）"
+                                "\\F[beni_mizugi4]\\FF[syuu_smile]Akane: \"If we're going to search, we have to drive this girl\naway... What should we do?\")"
                             ]
                         },
                         {
@@ -7862,21 +7351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi4]\\FF[syuu_smile]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紅ちゃん・・・もしかして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追い出そうとか思ってる？」"
+                                "\\F[beni_mizugi4]\\FF[syuu_smile]\\AA[2]Hiiragi: \"Akane-chan... are you thinking of driving her\nout?\")"
                             ]
                         },
                         {
@@ -7894,14 +7369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[syuu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "\\F[beni_mizugi2]\\FF[syuu_smile]\\AA[1]Akane: \"!!\")"
                             ]
                         },
                         {
@@ -7919,14 +7387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[syuu_smile]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「嘘つけないんだ～！顔に出ちゃってるよ♪」"
+                                "\\F[beni_mizugi2]\\FF[syuu_smile]\\AA[2]Hiiragi: \"You can't lie～! It's written all over your face♪\")"
                             ]
                         },
                         {
@@ -7943,14 +7404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[syuu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な・・・な・・・そんなことは」"
+                                "\\F[beni_mizugi2]\\FF[syuu_smile]\\AA[1]Akane: \"No... no... that's not it\")"
                             ]
                         },
                         {
@@ -7967,21 +7421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[syuu_smile]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大体、そんなスクール水着なんて着ちゃってたらさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪しんでくださいって言ってるようなもんじゃない？」"
+                                "\\F[beni_mizugi2]\\FF[syuu_smile]\\AA[2]Hiiragi: \"I mean, wearing a school swimsuit like that is\npractically asking to be suspected, isn't it?\")"
                             ]
                         },
                         {
@@ -7998,28 +7438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[syuu_laugh]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「普段、硬派な探偵部部長が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お尻フリフリして廊下を走ってるなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごくエロいし♪」"
+                                "\\F[beni_mizugi2]\\FF[syuu_laugh]\\AA[2]Hiiragi: \"The usually stoic detective club president running\ndown the hallway shaking her butt... It's super erotic♪\")"
                             ]
                         },
                         {
@@ -8037,21 +7456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[syuu_laugh]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ま、まさか・・・この子！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の正体に感づいてっ・・・！！）"
+                                "\\F[beni_mizugi2]\\FF[syuu_laugh]\\AA[1]Akane: \"(Could it be... this girl! She's onto my true\nidentity...!!)\")"
                             ]
                         },
                         {
@@ -8069,28 +7474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[syuu_laugh]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まずいっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦いになってしまったら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし負けたら・・・！！）"
+                                "\\F[beni_mizugi2]\\FF[syuu_laugh]\\AA[1]Akane: \"(This is bad!! If it comes to a fight... and if I\nlose...!!)\")"
                             ]
                         },
                         {
@@ -8108,28 +7492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[syuu_laugh]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ご主人様に顔向けできないっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "た、たとえ・・・ご主人様がスクール水着で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行かせたせいだとしても・・・！）"
+                                "\\F[beni_mizugi2]\\FF[syuu_laugh]\\AA[1]Akane: \"(I won't be able to face Master... even if... it's\nbecause Master made me wear this school swimsuit...!)\")"
                             ]
                         },
                         {
@@ -8146,14 +7509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[syuu_smile]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どう・・・私と一戦交えてみる？」"
+                                "\\F[beni_mizugi2]\\FF[syuu_smile]\\AA[2]Hiiragi: \"So... how about a battle with me?\")"
                             ]
                         },
                         {
@@ -8170,21 +7526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi4]\\FF[syuu_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「の、望むところ・・・だけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、私はっ・・・！！」"
+                                "\\F[beni_mizugi4]\\FF[syuu_smile]\\AA[1]Akane: \"That's what I desire... but, I am...!!\")"
                             ]
                         },
                         {
@@ -8271,28 +7613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[syuu_close]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪あはははっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう固くならないで、って♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私ももう・・・仲間だからっ♪」"
+                                "\\FF[syuu_close]Hiiragi: \"Nyururun～♪ Ahahaha...!! Don't be so stiff, okay♪\nI'm already... one of us♪\")"
                             ]
                         },
                         {
@@ -8310,21 +7631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[syuu_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ・・ええっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その肌の色・・・！！」"
+                                "\\F[beni_mizugi2]\\FF[syuu_close]\\AA[1]Akane: \"Eh.. Eh?! That skin color...!!\")"
                             ]
                         },
                         {
@@ -8341,28 +7648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[syuu_close2]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「驚かせちゃった？ふふんっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご主人様に仇なすアイリスブレイドのソログリーン。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その正体は・・・」"
+                                "\\F[beni_mizugi2]\\FF[syuu_close2]\\AA[2]Hiiragi: \"Did I surprise you? Hehe♪ The true identity of the\nIris Blade's Solo Green, who opposes our Master is...\")"
                             ]
                         },
                         {
@@ -8380,28 +7666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi2]\\FF[syuu_close]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご主人様のニュルニュル奴隷♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お腹いっぱいのクローズイール様を使って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後輩を食いまくってる淫乱ビッチなんだっ♪」"
+                                "\\F[beni_mizugi2]\\FF[syuu_close]\\AA[2]Hiiragi: \"Master's slimy slave♪ Using the fully satisfied\nClosel-sama, I've been devouring my juniors, a lewd bitch\nindeed♪\")"
                             ]
                         },
                         {
@@ -8458,28 +7723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[syuu_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪まさか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイリスブレイドの中に仲間がいるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "びっくり」"
+                                "\\F[beni_close1]\\FF[syuu_close]\\AA[1]Akane: \"Nyururun～♪ I'm surprised there's an ally within the\nIris Blade\")"
                             ]
                         },
                         {
@@ -8496,28 +7740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[syuu_close]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トイレの個室でクローズイール様で遊んでる子がいて、さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あのヌルヌル出し入れするの、私も試してみたいって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ったら居ても立ってもいられなくなっちゃって♪」"
+                                "\\F[beni_close1]\\FF[syuu_close]\\AA[2]Hiiragi: \"There was a girl playing with Closel-sama in the\ntoilet stall, and you know, I wanted to try that slippery\nin-and-out for myself so badly I couldn't stand it♪\")"
                             ]
                         },
                         {
@@ -8535,21 +7758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[syuu_close]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お願いして、貸してもらったらさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ズボズボ楽しんでたら、堕ちちゃってたんだよね♪」"
+                                "\\F[beni_close1]\\FF[syuu_close]\\AA[2]Hiiragi: \"I asked to borrow it, and while having fun\nthrusting it in and out, I ended up falling too♪\")"
                             ]
                         },
                         {
@@ -8567,21 +7776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[syuu_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ♪間抜けなヒーローさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも仕方ない。あの気持ちよさを知ってしまったら♪」"
+                                "\\F[beni_close1]\\FF[syuu_close]\\AA[1]Akane: \"Hehe♪ Silly heroes. But it can't be helped. Once you\nknow that pleasure♪\")"
                             ]
                         },
                         {
@@ -8598,28 +7793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[syuu_close2]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「堕ちちゃうよね～♪私って、アイリスブレイドを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やってるのも、次どんな変態怪人が出てくるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "期待してるってトコもあるから」"
+                                "\\F[beni_close1]\\FF[syuu_close2]\\AA[2]Hiiragi: \"You'll fall for sure～♪ Part of me enjoys being in\nthe Iris Blade because I'm looking forward to what kind of\nperverted monster will show up next\")"
                             ]
                         },
                         {
@@ -8636,14 +7810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[syuu_close2]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クローズイール様、ドンピシャだよね～♪」"
+                                "\\F[beni_close1]\\FF[syuu_close2]\\AA[2]Hiiragi: \"Closel-sama is just perfect for me～♪\")"
                             ]
                         },
                         {
@@ -8660,21 +7827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[syuu_close2]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはよかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあアイリスブレイドの残りのメンバーも・・・」"
+                                "\\F[beni_close1]\\FF[syuu_close2]\\AA[1]Akane: \"That's good then. So about the rest of the Iris\nBlade members...\")"
                             ]
                         },
                         {
@@ -8691,28 +7844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[syuu_close]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「分かってるって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "堕ちてないフリして、罠にかけるんでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅ちゃんみたいにスクール水着じゃないから、余裕だって♪」"
+                                "\\F[beni_close1]\\FF[syuu_close]\\AA[2]Hiiragi: \"I get it. Pretend not to have fallen and set a\ntrap, right? Unlike you in your school swimsuit, it'll be\neasy for me♪\")"
                             ]
                         },
                         {
@@ -8730,14 +7862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close2]\\FF[syuu_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっ・・・」"
+                                "\\F[beni_close2]\\FF[syuu_close]\\AA[1]Akane: \"Ugh...\")"
                             ]
                         },
                         {
@@ -8754,28 +7879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close2]\\FF[syuu_close]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「真面目な菫さんとか、跳ねっ返りの向日葵ちゃんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロッカーでアヘアヘ言ってるの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "想像するだけでゾクゾクするよね♪」"
+                                "\\F[beni_close2]\\FF[syuu_close]\\AA[2]Hiiragi: \"Just imagining serious Sumire-san or rebellious\nHimawari-chan moaning 'Ahe Ahe' in the locker room gives me\nshivers of excitement♪\")"
                             ]
                         },
                         {
@@ -8793,14 +7897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close2]\\FF[syuu_close]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私って、ギャップ好きだから、さ」"
+                                "\\F[beni_close2]\\FF[syuu_close]\\AA[2]Hiiragi: \"I love gaps, after all\")"
                             ]
                         },
                         {
@@ -8827,28 +7924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[syuu_close]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ、そうだ・・・ニュルルッ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あそこにいる紫苑先生が堕ちるとこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見てみたくない？」"
+                                "\\FF[syuu_close]Hiiragi: \"Oh, that reminds me... Nyururun～♪ Don't you want\nto see Shion-sensei fall over there?\")"
                             ]
                         },
                         {
@@ -8952,14 +8028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[syuu_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「彼女はまだ・・・？」"
+                                "\\F[beni_close1]\\FF[syuu_close]\\AA[1]Akane: \"She's still...?\")"
                             ]
                         },
                         {
@@ -8977,21 +8046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[syuu_close]\\AA[2]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うんうん。清楚で生真面目な先生が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうなっちゃうか・・・興味あるよね♪」"
+                                "\\F[beni_close1]\\FF[syuu_close]\\AA[2]Hiiragi: \"Yeah yeah. I'm curious about how the neat and\nserious teacher will end up... aren't you?♪\")"
                             ]
                         },
                         {
@@ -9009,14 +8064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[syuu_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪すっごくっ・・・♪」"
+                                "\\F[beni_close1]\\FF[syuu_close]\\AA[1]Akane: \"Nyururun～♪ Very much so...♪\")"
                             ]
                         },
                         {
@@ -9440,21 +8488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sion_smile]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら、どうしたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "珍しい組み合わせね」"
+                                "\\FF[sion_smile]Shion: \"Oh, what's going on? This is an unusual pairing.\")"
                             ]
                         },
                         {
@@ -9472,14 +8506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi3]\\FF[sion_smile]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生～♪少し教えて欲しくって」"
+                                "\\F[beni_mizugi3]\\FF[sion_smile]\\AA[1]Akane: \"Sensei～♪ We'd like to learn a little something from\nyou\")"
                             ]
                         },
                         {
@@ -9496,21 +8523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_laugh]\\FF[sion_smile]\\AA[1]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生って、セックスの時に声出ちゃう派？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それとも押し殺しちゃう派？」"
+                                "\\F[syuu_laugh]\\FF[sion_smile]\\AA[1]Hiiragi: \"Sensei, do you let out your voice during sex? Or\ndo you suppress it?\")"
                             ]
                         },
                         {
@@ -9527,14 +8540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_laugh]\\FF[sion_trouble]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な・・・なに？突然っ・・・！」"
+                                "\\F[syuu_laugh]\\FF[sion_trouble]\\AA[2]Shion: \"Wha... what? All of a sudden...!\")"
                             ]
                         },
                         {
@@ -9552,21 +8558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[sion_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「知りたいな・・・って・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実践してみた方が手っ取り早いですね♪」"
+                                "\\F[beni_mizugi1]\\FF[sion_trouble]\\AA[1]Akane: \"We're curious... but maybe it's quicker to practice\nand find out♪\")"
                             ]
                         },
                         {
@@ -9584,28 +8576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_smile]\\FF[sion_trouble]\\AA[1]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うんうん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私と紅ちゃんのおっぱいサンドイッチで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感じちゃってくださいっ～♪」"
+                                "\\F[syuu_smile]\\FF[sion_trouble]\\AA[1]Hiiragi: \"Yeah yeah♪ Please feel our boob sandwich and\nenjoy～♪\")"
                             ]
                         },
                         {
@@ -9623,21 +8594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_smile]\\FF[sion_trouble]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど、どういうこと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人とも・・・どうしたのっ！？」"
+                                "\\F[syuu_smile]\\FF[sion_trouble]\\AA[2]Shion: \"What do you mean? Both of you... what happened?!\")"
                             ]
                         },
                         {
@@ -9698,7 +8655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムギュギュ～♪"
+                                "Mugyugyu～♪"
                             ]
                         },
                         {
@@ -9807,7 +8764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムギュムギュっ～♪"
+                                "Squish squish～♪"
                             ]
                         },
                         {
@@ -9872,21 +8829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sion_trouble]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な、なんなのっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人とも！押さないでっ！！」"
+                                "\\FF[sion_trouble]Shion: \"Wha, what's this?! Both of you! Don't push me!!\""
                             ]
                         },
                         {
@@ -9903,21 +8846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_mizugi1]\\FF[sion_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あははっ♪これいい～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人で押し付けてたら、ロッカーの中にいるみたいっ♪」"
+                                "\\F[beni_mizugi1]\\FF[sion_trouble]\\AA[1]Akane: \"Ahaha♪ This is nice～♪ Being pressed by both of you,\nit's like I'm inside a locker♪\""
                             ]
                         },
                         {
@@ -9934,28 +8863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_smile]\\FF[sion_trouble]\\AA[1]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっと物足りないけど～ね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロッカーが空いてない時はおっぱいサンドイッチで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "慰めるのはアリかもね～♪」"
+                                "\\F[syuu_smile]\\FF[sion_trouble]\\AA[1]Hiiragi: \"It's a bit unsatisfying～ right?♪ When there's no\nlocker available, a boob sandwich might be a good\nconsolation～♪\""
                             ]
                         },
                         {
@@ -9973,28 +8881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_smile]\\FF[sion_trouble]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「す、すごい力っ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うう・・・抜け出せないっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、それに肌の色が！！」"
+                                "\\F[syuu_smile]\\FF[sion_trouble]\\AA[2]Shion: \"Such strength!? Ugh... I can't get out...!! And the\ncolor of the skin!!\""
                             ]
                         },
                         {
@@ -10133,28 +9020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニュルルッ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先生も気付いちゃった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達が人間じゃないってこと・・・♪」"
+                                "\\F[beni_close1]Akane: \"Nyururun～♪ Did you notice, Sensei? That we're not\nhuman...♪\""
                             ]
                         },
                         {
@@ -10171,14 +9037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_close]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫♪先生もすぐに仲間になっちゃうからっ♪」"
+                                "\\F[syuu_close]Hiiragi: \"It's okay♪ You'll become one of us soon enough♪\""
                             ]
                         },
                         {
@@ -10196,21 +9055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_close]\\FF[sion_trouble]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おかしなこと言わないでっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方達みたいになる訳が・・・ああっ！」"
+                                "\\F[syuu_close]\\FF[sion_trouble]\\AA[2]Shion: \"Don't say such strange things!! There's no way I'll\nbecome like you... Ahh!\""
                             ]
                         },
                         {
@@ -10228,21 +9073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_close]\\FF[sion_trouble]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お尻から何かが入って・・・！！前にもっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひぐぅぅっ・・・！！」"
+                                "\\F[syuu_close]\\FF[sion_trouble]\\AA[2]Shion: \"Something is entering from my butt...!! And from the\nfront too!! Higuuu...!!\""
                             ]
                         },
                         {
@@ -10260,14 +9091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sion_trouble]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クローズイール様の二穴責め・・・楽しんで♪」"
+                                "\\F[beni_close1]\\FF[sion_trouble]\\AA[1]Akane: \"Enjoy Lord Closir's double penetration...♪\""
                             ]
                         },
                         {
@@ -10285,21 +9109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_close]\\FF[sion_trouble]\\AA[1]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これ凄そうっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も後でやってもらおう～♪」"
+                                "\\F[syuu_close]\\FF[sion_trouble]\\AA[1]Hiiragi: \"This looks amazing♪ I want to try it later too～♪\""
                             ]
                         },
                         {
@@ -10317,21 +9127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_close]\\FF[sion_trouble]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああっ！だ、駄目っ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生徒たちの前で・・・こんなの・・っ！！」"
+                                "\\F[syuu_close]\\FF[sion_trouble]\\AA[2]Shion: \"Ahh! No, stop it♪ Not in front of the students...\nlike this..!!\""
                             ]
                         },
                         {
@@ -10366,7 +9162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムギュギュ～♪"
+                                "Squish squish～♪"
                             ]
                         },
                         {
@@ -10415,7 +9211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムギュムギュっ～♪"
+                                "Squish squish～♪"
                             ]
                         },
                         {
@@ -10432,14 +9228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「いひぃぃぃっんっ～～～❤」"
+                                "Shion: \"Ihihiinnn～～～❤\""
                             ]
                         },
                         {
@@ -10457,21 +9246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どう・・・先生？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の気分は？」"
+                                "\\F[beni_close1]Akane: \"How is it... Sensei? How do you feel now?\""
                             ]
                         },
                         {
@@ -10489,28 +9264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_close]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「質問に答えてよ～先生。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふんっ♪肌が染まってるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "堕ちてるのは分かってるんだから♪」"
+                                "\\F[syuu_close]Hiiragi: \"Answer the question～ Sensei. Fufunn♪ I can tell\nyou're falling because your skin is blushing♪\""
                             ]
                         },
                         {
@@ -10528,14 +9282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・」"
+                                "Shion: \"...\""
                             ]
                         },
                         {
@@ -10553,14 +9300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ・・・質問に答えるわ・・・」"
+                                "Shion: \"Yes... I'll answer your question...\""
                             ]
                         },
                         {
@@ -10621,28 +9361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sion_close]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「セックスの時ぃ♪私ぃ・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・声がダダ漏れちゃう派よぉっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それもぉ・・・下品なオホ声がぁっ～♪」"
+                                "\\FF[sion_close]Shion: \"When having sex♪ I... can't help but let my voice\nleak out loudly♪ And it's... a vulgar moaning voice too～♪\""
                             ]
                         },
                         {
@@ -10659,21 +9378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sion_close]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うひぃぃんっ♪オホォっ❤ほぉっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あふぅ❤❤あはぁっ♪」"
+                                "\\FF[sion_close]Shion: \"Uhihiinnn♪ Ohoo❤ Hoo♪ Ahfu❤❤ Ahhaa♪\""
                             ]
                         },
                         {
@@ -10691,21 +9396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[syuu_close]\\FF[sion_close]\\AA[1]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生の知られざる一面が開花しちゃったね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはキツいわ～♪」"
+                                "\\F[syuu_close]\\FF[sion_close]\\AA[1]Hiiragi: \"Sensei's hidden side has blossomed♪ This is\nintense～♪\""
                             ]
                         },
                         {
@@ -10722,14 +9413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sion_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ようこそ。ニュルニュル奴隷の世界へ。紫苑先生♪」"
+                                "\\F[beni_close1]\\FF[sion_close]\\AA[1]Akane: \"Welcome to the world of slippery slaves, Shion\nSensei♪\""
                             ]
                         },
                         {
@@ -10746,21 +9430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sion_close]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おほぉぉぉっ♪オホォォォ❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最高ぉ・・・最高よぉ・・・♪」"
+                                "\\F[beni_close1]\\FF[sion_close]\\AA[2]Shion: \"Ohooohh♪ Ohooo❤ It's the best... the best...♪\""
                             ]
                         },
                         {
@@ -10778,14 +9448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[sion_close]\\AA[2]紫苑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あへへぇぇぇぇっ・・・♪」"
+                                "\\F[beni_close1]\\FF[sion_close]\\AA[2]Shion: \"Aheheeeeee...♪\""
                             ]
                         },
                         {
@@ -10874,21 +9537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[syuu_close]柊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱりギャップ、いいわ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真面目な先生がビッチになるの、萌える～♪」"
+                                "\\FF[syuu_close]Hiiragi: \"Gaps really are the best~♪ A serious teacher\nturning into a bitch is just so moe~♪\""
                             ]
                         },
                         {
@@ -10906,14 +9555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[beni_close1]\\FF[syuu_close]\\AA[1]紅"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「激しく同意♪」"
+                                "\\F[beni_close1]\\FF[syuu_close]\\AA[1]Akane: \"I intensely agree♪\""
                             ]
                         },
                         {
