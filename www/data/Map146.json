@@ -3805,7 +3805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]タイトル\\C[3]\"Illustrated Knowledge\" \\C[0]Shall we open this book?"
+                                "\\C[0]Title\\C[3] \"Illustrated Knowledge\" \\C[0]Shall we open this book?"
                             ]
                         },
                         {
