@@ -3839,8 +3839,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Talk to her anyway",
-                                    "Don't speak to her"
+                                    "Talk to him anyway",
+                                    "Don't speak to him"
                                 ],
                                 1,
                                 0,
@@ -4608,7 +4608,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "インフォ表示 \\C[0]怪人　\\C[5]キスポイゾン\\C[0]を登録しました！"
+                                "Registered_the_monster_Kiss_Poison!"
                             ]
                         },
                         {

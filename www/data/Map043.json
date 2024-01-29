@@ -2967,7 +2967,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]キャラ　\\C[5]鬼塚百合花\\C[0]を登録しました！"
+                                "Registered_the_character_Onizuka_Yurika!"
                             ]
                         },
                         {
@@ -3878,7 +3878,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]キャラ　\\C[5]城ヶ峰　柳\\C[0]を登録しました！"
+                                "Registered_\\C[0]Character_\\C[5]Shiromine_Yanagi\\C[0]!"
                             ]
                         },
                         {
@@ -4430,7 +4430,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]キャラ　\\C[5]野沢　林檎\\C[0]を登録しました！"
+                                "Registered_the_character_Nozawa_Ringo!"
                             ]
                         },
                         {

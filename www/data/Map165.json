@@ -2008,7 +2008,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]用語　\\C[5]ソロポイゾン\\C[0]を登録しました！"
+                                "Registered_the_term_\"Solo_Poison\"_in_the_info_display!"
                             ]
                         },
                         {
@@ -2099,7 +2099,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]用語　\\C[5]秘密結社リヴィルド\\C[0]を登録しました！"
+                                "Registered_the_term_\\C[0]Secret_Society_Revildo\\C[5]_for_display!"
                             ]
                         },
                         {
@@ -2190,7 +2190,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]用語　\\C[5]せいりゅう彗星\\C[0]を登録しました！"
+                                "Registered_the_term_\\C[0]Seiryuu_Comet\\C[5]!"
                             ]
                         },
                         {
@@ -2281,7 +2281,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]用語　\\C[5]コイゾン\\C[0]を登録しました！"
+                                "Registered_the_term_\\C[0]Coizon\\C[5]_in_the_info_display!"
                             ]
                         },
                         {
@@ -2372,7 +2372,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]用語　\\C[5]ポイゾン\\C[0]を登録しました！"
+                                "Registered_the_term_\\C[0]Poison\\C[5]_for_display!"
                             ]
                         },
                         {
@@ -2463,7 +2463,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]キャラ　\\C[5]山角　翠\\C[0]を登録しました！"
+                                "Registered_the_character_\\C[0]Yamakado_Midori\\C[5]!"
                             ]
                         },
                         {
@@ -2554,7 +2554,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]怪人　\\C[5]フリーダムポイゾン\\C[0]を登録しました！"
+                                "Registered_the_monster_Freedom_Poison!"
                             ]
                         },
                         {
@@ -2645,7 +2645,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]怪人　\\C[5]グリードポイゾン\\C[0]を登録しました！"
+                                "Registered_the_monster_Greed_Poison!"
                             ]
                         },
                         {

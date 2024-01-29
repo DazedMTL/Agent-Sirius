@@ -4381,7 +4381,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]怪人　\\C[5]スメルポイゾン\\C[0]を登録しました！"
+                                "Registered_the_monster_Smell_Poison!"
                             ]
                         },
                         {
@@ -5302,7 +5302,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]用語　\\C[5]エージェントスーツ\\C[0]を登録しました！"
+                                "Registered_the_term_\"Agent_Suit\"_in_the_info_display!"
                             ]
                         },
                         {
@@ -6169,7 +6169,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]怪人　\\C[5]スメルポイゾン\\C[0]を登録しました！"
+                                "Registered_the_monster_Smell_Poison!"
                             ]
                         },
                         {

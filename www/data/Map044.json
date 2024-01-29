@@ -6719,7 +6719,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]用語　\\C[5]安知理　結\\C[0]を登録しました！"
+                                "Registered_the_term_\\C[0]Yui_Anzai\\C[5]!"
                             ]
                         },
                         {
@@ -7453,7 +7453,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]怪人　\\C[5]タッチポイゾン\\C[0]を登録しました！"
+                                "Registered_the_monster_Touch_Poison!"
                             ]
                         },
                         {
@@ -7962,7 +7962,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]キャラ　\\C[5]山内　紫苑\\C[0]を登録しました！"
+                                "Registered_the_character_Shion_Yamauchi!"
                             ]
                         },
                         {
@@ -8662,7 +8662,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "インフォ表示 \\C[0]キャラ　\\C[5]鷹本　椿\\C[0]を登録しました！"
+                                "Registered_the_character_\\C[0]Takamoto_Tsubaki\\C[5]!"
                             ]
                         },
                         {

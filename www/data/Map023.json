@@ -6021,7 +6021,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[beni_angry2]Akane: \"\\V[21]th person is...\""
+                                "\\F[beni_angry2]Akane: \"\\V[21]...\""
                             ]
                         },
                         {
@@ -6050,10 +6050,10 @@
                             "parameters": [
                                 [
                                     "if(s[61])Ayaka Torii",
-                                    "if(s[62])Akane: The 21st person is Seiryu Kikyo",
-                                    "if(s[63])Akane: The twenty-first person is Kamegami Shu",
-                                    "if(s[64])Akane: The twenty-first person is Soga no Umi",
-                                    "if(s[65])Akane: The twenty-first person is Wata Shikura"
+                                    "if(s[62])Seiryu Kikyo",
+                                    "if(s[63])Kamegami Shu",
+                                    "if(s[64])Soga No Umi",
+                                    "if(s[65])Shirakura Wata-san"
                                 ],
                                 -1,
                                 0,
@@ -6700,10 +6700,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "if(s[66])Akane: What if the reason for inviting someone to the bathroom is to attack them? We can't say the possibility is zero There are things about you that we just can't understand",
-                                    "if(s[67])Akane: What if the reason for inviting someone to the bathroom is to attack them? We can't say the possibility is zero There are things about Washio Kikuichi that we just can't figure out",
-                                    "if(s[68])Yurika, what if the reason for inviting someone to the bathroom is to attack them? It's not impossible There's something unpredictable about her",
-                                    "Return"
+                                    "if(s[66])Amamiya Asa",
+                                    "if(s[67])Kikuichi Washio",
+                                    "if(s[68])Onizuka Yurika",
+                                    "Go back"
                                 ],
                                 -1,
                                 0,
@@ -11347,10 +11347,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "I want to hear about Torii Ayaka",
-                                    "Seiryu Kikyo",
-                                    "Whose story would you like to hear about?",
-                                    "Iruka: So, whose story do you want to hear about?"
+                                    "Ayaka Torii",
+                                    "Seiryu Kikyo's story",
+                                    "Suzukake Iruka",
+                                    "Sora's story"
                                 ],
                                 -1,
                                 0,
