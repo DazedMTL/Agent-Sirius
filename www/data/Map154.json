@@ -15514,7 +15514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]Nadeshiko: \"As I thought... you were lying in wait...\nAkane.\""
+                                "\\F[nakosu_angry]Nadeshiko: \"As I thought... you were lying in\nwait... Akane.\""
                             ]
                         },
                         {
@@ -15547,7 +15547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[furi_smile]Akane: \"You knew and yet you came here... That takes\ncourage. You're serious, aren't you, Nadeshiko?♪\""
+                                "\\FF[furi_smile]Akane: \"You knew and yet you came here... That\ntakes courage. You're serious, aren't you,\nNadeshiko♪\""
                             ]
                         },
                         {
@@ -15565,7 +15565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]\\FF[furi_smile]\\AA[1]Nadeshiko: \"I'm always serious. I haven't lied to you even\nonce, Akane!\""
+                                "\\F[nakosu_angry]\\FF[furi_smile]\\AA[1]Nadeshiko: \"I'm always serious. I've never lied to\nyou, Akane!\""
                             ]
                         },
                         {
@@ -15583,7 +15583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]\\FF[furi_smile]\\AA[2]Akane: \"Even if I try to persuade you, you won't listen...\nnot the Nadeshiko of now.\""
+                                "\\F[nakosu_angry]\\FF[furi_smile]\\AA[2]Akane: \"Even if I try to persuade you, you won't\nlisten... not the Nadeshiko of now.\""
                             ]
                         },
                         {
@@ -15601,7 +15601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]\\FF[furi_smile]\\AA[1]Nadeshiko: \"Of course. Because... the Akane of now isn't the\nreal Akane.\""
+                                "\\F[nakosu_angry]\\FF[furi_smile]\\AA[1]Nadeshiko: \"Of course. Because... the Akane of now\nisn't the real Akane.\""
                             ]
                         },
                         {
@@ -15619,7 +15619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]\\FF[furi_smile]\\AA[2]Akane: \"Then... maybe I should have everyone convince you♪\nStubborn Nadeshiko might respond better to that approach♪\""
+                                "\\F[nakosu_angry]\\FF[furi_smile]\\AA[2]Akane: \"Then... maybe I should have everyone\nconvince you♪ Stubborn Nadeshiko might respond\nbetter to that approach♪\""
                             ]
                         },
                         {
@@ -15808,7 +15808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_free]Yurika: \"Nadeshiko... no, White Tiger. We were wrong. We\ndidn't realize the wonderfulness of becoming free like this.\nThis freedom is a reward from our master♪\""
+                                "\\FF[yuri_free]Yurika: \"Shiratora-san... no, Nadeshiko. We were\nwrong. We didn't realize the wonderfulness of\nbeing free like this. This freedom is a reward\nfrom our master♪\""
                             ]
                         },
                         {
@@ -15826,7 +15826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[yuri_free]Yurika: \"It's irresistible♪ I want to teach you this\nhappiness too♪ To become one with our master. You want to\nbecome one with our master too, don't you, Nadeshiko?\""
+                                "\\FF[yuri_free]Yurika: \"It's irresistible♪ I want to teach you\nthis happiness too♪ To become one with our master.\nYou want to become one with our master too, don't\nyou, Nadeshiko?\""
                             ]
                         },
                         {
@@ -16024,7 +16024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[iruka_free]Iruka: \"You should just say you want to if that's how you\nreally feel♪ White Tiger, you're always so tsundere. It'd be\neasier if you just admitted it♪\""
+                                "\\FF[iruka_free]Iruka: \"You should just say you want to if that's\nhow you really feel♪ Shiratora-san is always so\ntsundere. It would be easier if you just admitted\nit♪\""
                             ]
                         },
                         {
@@ -16042,7 +16042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[inu_free]Anna Maple: \"Because my education hasn't been thorough\nenough, we're causing trouble for our master～♪ My class only\nallows free students! Stiff White Tiger, you better reform\nquickly♪\""
+                                "\\FF[inu_free]Maple: \"It's all because my teaching hasn't been\nthorough enough, causing trouble for our master～♪\nMy class only admits free-spirited students! Stiff\nShiratora-san, you better reform quickly♪\""
                             ]
                         },
                         {
@@ -16059,7 +16059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]\\FF[inu_free]\\AA[1]Nadeshiko: \"Senpai... Teacher...\""
+                                "\\F[nakosu_trouble]\\FF[inu_free]\\AA[1]Nadeshiko: \"Senpai... Sensei...\""
                             ]
                         },
                         {
@@ -16191,7 +16191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ajiri_free]Sora: \"They say people are born with roles to play, but\nthat's a bunch of lies♪ If you're dyed in one single\nfeeling, nothing is difficult. Just live freely, that's all\nthere is to it♪\""
+                                "\\FF[ajiri_free]Yui: \"People say we're born with roles to play,\nbut that's nonsense♪ If you're dyed in one single\nfeeling, nothing is difficult. Just live freely,\nthat's all there is to it♪\""
                             ]
                         },
                         {
@@ -16209,7 +16209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[sumire_free]"
+                                "\\FF[sumire_free]Sumire: \"Exactly. Shiratora-san, you think too\nmuch♪ From now on, you don't have to think about\nanything... You can entrust everything to our\nmaster♪\""
                             ]
                         },
                         {
@@ -16333,7 +16333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[kikyou_free]"
+                                "\\FF[kikyou_free]Kikyo: \"Being stubborn will only wear both you and\nour master down. You know that! The answer that\nmakes everyone happiest is!! For you to join us♪\""
                             ]
                         },
                         {
@@ -16430,7 +16430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[himawari_free]"
+                                "\\FF[himawari_free]Himawari: \"We're all here trying to persuade you,\nso be a little more understanding! Having no\nallies... that's just too painful, isn't it?\""
                             ]
                         },
                         {
@@ -16541,7 +16541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[syuu_free]"
+                                "\\FF[syuu_free]Hiiragi: \"Nadeshiko-chi, come on. You know what\nthe right answer is now that it's come to this～?\nSo there's only one thing to do♪\""
                             ]
                         },
                         {
@@ -16559,7 +16559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_angry]\\FF[himawari_free]\\AA[1]Nadeshiko: \"That's because everyone has turned into\nmonsters...!\""
+                                "\\F[nakosu_angry]\\FF[himawari_free]\\AA[1]Nadeshiko: \"That's because everyone has turned\ninto monsters...!\""
                             ]
                         },
                         {
@@ -16766,7 +16766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ayaka_free]"
+                                "\\FF[ayaka_free]Ayaka: \"No, it's just that Nadeshiko hasn't become\nas free as us♪ Everyone loves being free, that's\nwhy they've become your enemies.\""
                             ]
                         },
                         {
@@ -16784,7 +16784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ayaka_free]"
+                                "\\FF[ayaka_free]Ayaka: \"You too... want to get along with our\nmaster... don't you?\""
                             ]
                         },
                         {
@@ -16802,7 +16802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[ayaka_free]"
+                                "\\FF[ayaka_free]Ayaka: \"Or do you... hate our master?\""
                             ]
                         },
                         {
@@ -16868,7 +16868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[nakosu_trouble]Nadeshiko: \"Enough... enough already! I want to talk just\nwith you! Akane!!\""
+                                "\\F[nakosu_trouble]Nadeshiko: \"Enough... enough already! I want to\ntalk just with you! Akane!!\""
                             ]
                         },
                         {
@@ -16902,7 +16902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[furi_smile]Akane: \"Make sure to listen to what everyone has to say,\nNadeshiko.\""
+                                "\\FF[furi_smile]Akane: \"Make sure you listen to what everyone has\nto say, Nadeshiko.\""
                             ]
                         },
                         {
